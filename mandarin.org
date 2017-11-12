@@ -17,8 +17,8 @@
 
 #+LATEX: \begin{CJK}{UTF8}{gbsn}
 
-* Lesson 1 - Greetings and Basics
 
+* Greetings and Basics
 ** Basics
 :PROPERTIES:
 :DRILL_HEADING: Basics
@@ -448,9 +448,7 @@ Wǎn'ān
 ***** Characters
 晚安
 
-
-* Lesson 2 - Numbers and Time
-
+* Numbers and Time
 ** Numbers
 :PROPERTIES:
 :DRILL_HEADING: Numbers
@@ -1855,9 +1853,7 @@ yǐhòu
 ***** Characters
 以后
 
-
-* Lesson 3 - Money and Buying
-
+* Money and Buying
 ** Money
 :PROPERTIES:
 :DRILL_HEADING: Money
@@ -3972,9 +3968,7 @@ yí dìng
 ***** Notes
 yi means all/every/entire, or one. ding means decisions?
 
-
-* Lesson 4 - Restaurant
-
+* Restaurant
 ** Food
 :PROPERTIES:
 :DRILL_HEADING: Food
@@ -5438,8 +5432,7 @@ tā xǐhuan tián, qǐng gěi tā táng
 ***** Notes
 (tā is he/she/it but character is different)
 
-* Lesson 5 - Family
-
+* Family
 ** Family, Parents
 :PROPERTIES:
 :DRILL_HEADING: Family and Parents
@@ -6067,8 +6060,7 @@ biǎo mèi
 ***** Notes
 (mother’s-side younger-sister)
 
-* Lesson 6 - Transport
-
+* Transport
 ** Directions
 :PROPERTIES:
 :DRILL_HEADING: Directions
@@ -6923,8 +6915,7 @@ Which platform boards the No.25 train?
 ***** Pinyin
 T25 cì zài dì jǐ zhàn tái shàng chē ?
 
-* Lesson 7 - Jobs and Age
-
+* Jobs and Age
 ** Mei and Bu
 :PROPERTIES:
 :DRILL_HEADING: Mei and Bu
@@ -7562,6 +7553,8 @@ Nín gāo shòu
 ***** Notes
 You high life
 
+* Links
+** PDF Version
+- A [[http://www.beadling.co.uk/mandarin.pdf][PDF Version]] of this website
 * The End
-
 #+LATEX: \end{CJK}
