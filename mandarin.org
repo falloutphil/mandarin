@@ -7592,7 +7592,7 @@ You high life
 | He's gone out                  |        |            | Out go (past)                      |
 | He's gone out                  |        |            | Out door (past)                    |
 | He's gone out for dinner       |        |            |                                    |
-|                                |        |            |                                    |
+
 
 ** Other grammar examples
 
