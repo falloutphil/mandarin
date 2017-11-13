@@ -17,7 +17,6 @@
 
 #+LATEX: \begin{CJK}{UTF8}{gbsn}
 
-
 * Greetings and Basics
 ** Basics
 :PROPERTIES:
@@ -7553,8 +7552,110 @@ Nín gāo shòu
 ***** Notes
 You high life
 
+* Making a Phone Call
+** Phones, e-mails and messages
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                    | Pinyin | Characters | Notes                  |
+|----------------------------+--------+------------+------------------------|
+| Mobile phone               |        |            |                        |
+| Telephone                  |        |            |                        |
+| Make a phone call          |        |            | Like da in take a taxi |
+| e-mail                     |        |            |                        |
+| Send an e-mail             |        |            |                        |
+| Text message               |        |            |                        |
+| What is your phone number? |        |            |                        |
+| What is your phone number? |        |            | Bad grammar!           |
+| Make phone call            |        |            |                        |
+| Return phone call          |        |            |                        |
+| Receive phone call         |        |            |                        |
+
+** Making a Phone Call
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                        | Pinyin | Characters | Notes                              |
+|--------------------------------+--------+------------+------------------------------------|
+| Hello on phone                 |        |            |                                    |
+| Who is this?                   |        |            |                                    |
+| I am ....                      |        |            |                                    |
+| Who are you calling for?       |        |            | Please ask you looking-for who?    |
+| Is Philip there?               |        |            | I look-for Philip, he at question? |
+| He is, please wait a moment    |        |            | At, please wait one short time     |
+| Is Philip there or not?        |        |            | Please ask Philip at not at.       |
+| He's not here.                 |        |            | He not at                          |
+| Is that Philip?                |        |            | Are you Philip?                    |
+| I'm not, you dial wrong number |        |            | You hit wrong (past tense)         |
+| He go to shop                  |        |            |                                    |
+| He go to bank                  |        |            |                                    |
+| He go eat meal                 |        |            |                                    |
+| He go sleep                    |        |            | Sleep a sleep                      |
+| He's gone out                  |        |            | Out go (past)                      |
+| He's gone out                  |        |            | Out door (past)                    |
+| He's gone out for dinner       |        |            |                                    |
+|                                |        |            |                                    |
+
+** Other grammar examples
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                   | Pinyin | Characters | Notes                                 |
+|---------------------------+--------+------------+---------------------------------------|
+| I *am* Philip             |        |            | jiu is emphasis if asked for on phone |
+| Have you been to England? |        |            |                                       |
+| I *am* English            |        |            | jiu emphasis                          |
+| You eat breakfast         |        |            |                                       |
+| Have you eaten breakfast? |        |            | Use of guo                            |
+| Have you been to China?   |        |            | Use of guo                            |
+| I have been               |        |            | Use of guo                            |
+| I haven't been            |        |            | Use of guo                            |
+| Right / Wrong             |        |            |                                       |
+| What are you doing?       |        |            | You "ing" do what?                    |
+| I eat lunch               |        |            |                                       |
+| I am eating lunch         |        |            | I "ing" eat lunch                     |
+| Give                      |        |            |                                       |
+| I bought one apple        |        |            |                                       |
+| I buy you one apple       |        |            |                                       |
+| You get out!              |        |            |                                       |
+| But                       |        |            |                                       |
+
+** Phone Conversation
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                          | Pinyin | Characters | Notes |
+|----------------------------------+--------+------------+-------|
+| Hello, Is Philip there?          |        |            |       |
+| He has gone to dinner            |        |            |       |
+| Who are you?                     |        |            |       |
+| I am his friend, Yuyu            |        |            |       |
+| Please ask him to return my call |        |            |       |
+
+** Conversation About Phone Call
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                              | Pinyin | Characters | Notes |
+|--------------------------------------+--------+------------+-------|
+| I called you, but you were not there |        |            |       |
+| Your husband took the call           |        |            |       |
+| He said you had gone out for dinner  |        |            |       |
+
+
 * Links
 ** PDF Version
 - A [[http://www.beadling.co.uk/mandarin.pdf][PDF Version]] of this website
+** Writing Chinese
+You can use ni3hao3
+M-x set-input-method <input>
+
+For pinyin - chinese-sisheng
+For characters - chinese-tonepy
+
+To toggle back to no input mode wth C-\
+[[https://llaisdy.wordpress.com/2009/02/08/chinese-input-methods-for-emacs/][Blog on input methods]]
+
+Also using cnfonts you can use
+
+cnfonts-increase-fontsize
+cnfonts-edit-profile
+cnfonts-next-profile
+
 * The End
 #+LATEX: \end{CJK}
