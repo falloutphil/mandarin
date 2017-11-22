@@ -48,18 +48,18 @@
 *** Cards                                                        :noexport:
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-03 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       c2078e32-788f-4085-b778-c43eea5da310
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.1407
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:01]
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:17]
 :END:
 Translate the following word
 
@@ -73,18 +73,18 @@ Nǐ hǎo
 你好
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       04533d7d-3cfe-4fc8-b860-ff2ecec27563
 :DRILL_LAST_INTERVAL: 4.14
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.667
 :DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:01]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:27]
 :END:
 Translate the following word
 
@@ -98,18 +98,18 @@ Zǎoshang hǎo
 早上好
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-03 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       f43b2485-0aaf-4271-817a-4567e86015e5
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.0911
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:01]
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:18]
 :END:
 Translate the following word
 
@@ -123,18 +123,18 @@ Lǎoshī hǎo
 老师好
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-03 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       f0e195b7-c958-4b43-8288-cc0ae8c4fa49
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.0911
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:01]
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:18]
 :END:
 Translate the following word
 
@@ -148,18 +148,18 @@ Wǒ jiào fēilìpǔ
 我叫菲利普
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-03 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       49cd97b8-a81e-4ee9-ac1c-b178ab4e7f84
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.7143
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_AVERAGE_QUALITY: 4.5
 :DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:01]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:19]
 :END:
 Translate the following word
 
@@ -173,18 +173,18 @@ Nǐ jiào shénme
 你叫什么
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-02 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       a123c0a8-dc59-40f7-9cbb-4fa5f5fdd6f0
-:DRILL_LAST_INTERVAL: 4.0
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.0
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 4.0
 :DRILL_EASE: 2.5
 :DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:00]
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:16]
 :END:
 Translate the following word
 
@@ -198,18 +198,18 @@ Wǒ láizì zhōngguó
 我来自中国
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-02 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       0df55862-9f5c-4c0b-9475-15b9de20ffe1
-:DRILL_LAST_INTERVAL: 4.0
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.352
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 4.0
-:DRILL_EASE: 2.5
-:DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:02]
+:DRILL_AVERAGE_QUALITY: 4.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:18]
 :END:
 Translate the following word
 
@@ -223,18 +223,18 @@ Wǒ láizì yīngguó
 我来自英国
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-02 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       ff5fc3c4-b275-4229-afeb-b2dc239cd2ce
-:DRILL_LAST_INTERVAL: 4.0
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.352
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 4.0
-:DRILL_EASE: 2.5
-:DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:02]
+:DRILL_AVERAGE_QUALITY: 4.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:17]
 :END:
 Translate the following word
 
@@ -248,18 +248,18 @@ Wǒ shì yīngguó rén
 我是英国人
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-02 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       13d18842-5918-4c22-9cf9-7c0110855b7a
-:DRILL_LAST_INTERVAL: 4.0
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.0
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 4.0
 :DRILL_EASE: 2.5
 :DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:01]
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:16]
 :END:
 Translate the following word
 
@@ -273,18 +273,18 @@ Nǐ shì nǎlǐ rén
 你是哪里人
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-02 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       26dee41b-06eb-43e3-9520-273738ca6d89
-:DRILL_LAST_INTERVAL: 4.0
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.352
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 4.0
-:DRILL_EASE: 2.5
-:DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:01]
+:DRILL_AVERAGE_QUALITY: 4.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:18]
 :END:
 Translate the following word
 
@@ -298,18 +298,18 @@ Nǐ láizì nǎlǐ
 你来自哪里
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-03 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       9fc97f0b-c74f-4ec7-ab76-6f87d8176ebf
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.0911
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:00]
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:18]
 :END:
 Translate the following word
 
@@ -323,18 +323,18 @@ Xièxiè
 谢谢
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       539665be-fcfe-448b-a9d0-2d5cd80aac92
-:DRILL_LAST_INTERVAL: 4.0
+:DRILL_LAST_INTERVAL: 4.14
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 4
-:DRILL_FAILURE_COUNT: 3
-:DRILL_AVERAGE_QUALITY: 2.25
-:DRILL_EASE: 2.5
-:DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:03]
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 2.667
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:26]
 :END:
 Translate the following word
 
@@ -348,18 +348,18 @@ Bù kèqì
 不客气
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-02 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       5b100ebd-3232-4c20-8316-9bf482a8108b
-:DRILL_LAST_INTERVAL: 4.0
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.0
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 4.0
 :DRILL_EASE: 2.5
 :DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:02]
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:19]
 :END:
 Translate the following word
 
@@ -373,18 +373,18 @@ Duìbùqǐ
 对不起
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-02 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       95fd0c40-c246-4464-a626-61ebd0552ffa
-:DRILL_LAST_INTERVAL: 4.0
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.0
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 4.0
 :DRILL_EASE: 2.5
 :DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:01]
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:16]
 :END:
 Translate the following word
 
@@ -398,18 +398,18 @@ Méiguānxì
 没关系
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       43b95ba5-fd0a-4202-ab82-5fe927492270
 :DRILL_LAST_INTERVAL: 4.14
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:03]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:27]
 :END:
 Translate the following word
 
@@ -423,18 +423,18 @@ Zàijiàn
 再见
 
 **** Basics                                                        :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-03 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       2bc2af72-5ccc-4ef8-b4c0-eed56b7af497
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.1407
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:02]
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:17]
 :END:
 Translate the following word
 
@@ -476,6 +476,7 @@ Wǎn'ān
 **** Numbers                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e6c95db4-64db-4952-930b-ae7d1b2ff5d7
 :END:
 Translate the following word
 ***** English
@@ -487,6 +488,7 @@ líng
 **** Numbers                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e2ab500d-9da2-44ea-a5e2-576ad049b5e9
 :END:
 Translate the following word
 ***** English
@@ -498,6 +500,7 @@ yī
 **** Numbers                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4c96c7b4-8d4d-4be6-b52c-d4f8d5650a26
 :END:
 Translate the following word
 ***** English
@@ -509,6 +512,7 @@ Translate the following word
 **** Numbers                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       54bb8b14-e060-4b34-a0d0-a28497154e67
 :END:
 Translate the following word
 ***** English
@@ -520,6 +524,7 @@ sān
 **** Numbers                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       cc6c8dbd-dbd1-43aa-8a08-4cf35a38e45d
 :END:
 Translate the following word
 ***** English
@@ -531,6 +536,7 @@ sì
 **** Numbers                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8e834b9a-0104-434d-831a-657330e8b2ef
 :END:
 Translate the following word
 ***** English
@@ -542,6 +548,7 @@ wǔ
 **** Numbers                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       337f9453-1aae-4c1e-abba-ea21025a4efe
 :END:
 Translate the following word
 ***** English
@@ -553,6 +560,7 @@ liù
 **** Numbers                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b7e088bd-443a-4d42-93b6-5d522b4c6c2b
 :END:
 Translate the following word
 ***** English
@@ -564,6 +572,7 @@ qī
 **** Numbers                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e189fef7-906e-484b-a37a-ae5601a91e8c
 :END:
 Translate the following word
 ***** English
@@ -575,6 +584,7 @@ bā
 **** Numbers                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       51151b9e-bdbc-43ab-867b-f1ad62546e65
 :END:
 Translate the following word
 ***** English
@@ -586,6 +596,7 @@ jiǔ
 **** Numbers                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       49b16aa0-641c-420c-bb20-c8e7c770e537
 :END:
 Translate the following word
 ***** English
@@ -597,6 +608,7 @@ shí
 **** Numbers                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       131827ca-e789-405e-93ed-1a942002becb
 :END:
 Translate the following word
 ***** English
@@ -608,6 +620,7 @@ yí wàn yì qiān yī bǎi yī shí yī
 **** Numbers                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9163ec80-d795-4c86-9610-5dc493c13a60
 :END:
 Translate the following word
 ***** English
@@ -619,6 +632,7 @@ shí yī
 **** Numbers                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8753fc02-0f4c-4cc3-b774-08f936918059
 :END:
 Translate the following word
 ***** English
@@ -649,18 +663,18 @@ Translate the following word
 | bā diǎn shí jǐ fēn     | Basically – 8:1x, where x is unknown! | 八点十几分 |             |
 *** Cards                                                        :noexport:
 **** Telling The Time                                              :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       d6665a98-37b0-4f1b-835e-c0f42f4717ef
 :DRILL_LAST_INTERVAL: 4.0
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.333
 :DRILL_EASE: 2.5
 :DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:09]
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:25]
 :END:
 Translate the following word
 ***** English
@@ -670,18 +684,18 @@ xiàn zài jǐ diǎn
 ***** Characters
 现在几点
 **** Telling The Time                                              :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-02 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       17c69a5c-a53e-423a-9046-2168ac5a38a1
-:DRILL_LAST_INTERVAL: 4.0
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.0
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 4.0
 :DRILL_EASE: 2.5
 :DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:08]
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:18]
 :END:
 Translate the following word
 ***** English
@@ -691,18 +705,18 @@ liǎng diǎn bàn
 ***** Characters
 两点半
 **** Telling The Time                                              :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-02 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       742e9806-32b7-493c-9641-8b5d0c163325
-:DRILL_LAST_INTERVAL: 4.0
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 10.0
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_AVERAGE_QUALITY: 3.333
 :DRILL_EASE: 2.5
 :DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:10]
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:17]
 :END:
 Translate the following word
 ***** English
@@ -712,18 +726,18 @@ liǎng diǎn líng wǔ
 ***** Characters
 两点零五
 **** Telling The Time                                              :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-01 Fri>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       49889659-e8e8-459f-a39b-ae11d058bab2
-:DRILL_LAST_INTERVAL: 3.86
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 8.7892
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
+:DRILL_EASE: 2.22
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:07]
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:17]
 :END:
 Translate the following word
 ***** English
@@ -733,18 +747,18 @@ liǎng diǎn wǔ fēn
 ***** Characters
 两点五分
 **** Telling The Time                                              :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-02 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       65b98549-c0dd-45f8-8c37-a171bd085328
-:DRILL_LAST_INTERVAL: 4.0
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.0
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 4.0
 :DRILL_EASE: 2.5
 :DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:08]
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:19]
 :END:
 Translate the following word
 ***** English
@@ -754,18 +768,18 @@ bā diǎn shí wǔ
 ***** Characters
 八点十五
 **** Telling The Time                                              :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-03 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       b9432361-7927-41e0-8719-5347bf34868e
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.764
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_AVERAGE_QUALITY: 4.5
 :DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:09]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:16]
 :END:
 Translate the following word
 ***** English
@@ -775,18 +789,18 @@ bā diǎn yí kè
 ***** Characters
 八点一刻
 **** Telling The Time                                              :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-03 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       72bc2e39-3ff3-4737-8b6e-682eeb74bb29
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.7143
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_AVERAGE_QUALITY: 4.5
 :DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:10]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:18]
 :END:
 Translate the following word
 ***** English
@@ -796,18 +810,18 @@ Eight Fifty Five
 ***** Characters
 八点五十五
 **** Telling The Time                                              :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       c9dd144f-3e0e-4c1c-af7e-dc9a3f256b3c
 :DRILL_LAST_INTERVAL: 4.14
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.667
 :DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:09]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:25]
 :END:
 Translate the following word
 ***** English
@@ -819,18 +833,18 @@ After Eight
 ***** Notes
 Before 8:30
 **** Telling The Time                                              :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-12-03 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       b1fc6efd-1901-4805-a22c-4a8c6f6c7551
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.7143
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_AVERAGE_QUALITY: 4.5
 :DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:07]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:19]
 :END:
 Translate the following word
 ***** English
@@ -840,18 +854,18 @@ About Eight
 ***** Characters
 八点左右
 **** Telling The Time                                              :drill:
-SCHEDULED: <2017-11-15 Wed>
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       c98323e9-5a7b-4623-83a5-ed6319244c68
 :DRILL_LAST_INTERVAL: 4.14
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.667
 :DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2017-11-11 Sat 20:10]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:25]
 :END:
 Translate the following word
 ***** English
@@ -885,6 +899,7 @@ Basically – 8:1x, where x is unknown!
 **** Times of the Day                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       d8f3739d-8354-4a34-bba3-653ff8962897
 :END:
 Translate the following word
 ***** English
@@ -896,6 +911,7 @@ líng chén
 **** Times of the Day                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       efea15c5-88d4-43c0-b355-5270acec7bf9
 :END:
 Translate the following word
 ***** English
@@ -907,6 +923,7 @@ zǎo chén
 **** Times of the Day                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       78dc1c57-68ec-4cf8-a6f2-61be6da483d7
 :END:
 Translate the following word
 ***** English
@@ -918,6 +935,7 @@ zǎo shàng
 **** Times of the Day                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3c2f4520-ed77-4e10-935b-a616806cf670
 :END:
 Translate the following word
 ***** English
@@ -929,6 +947,7 @@ shàng wǔ
 **** Times of the Day                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b3b41544-9862-4b63-97e2-af8c33ee03c7
 :END:
 Translate the following word
 ***** English
@@ -940,6 +959,7 @@ zhōng wǔ
 **** Times of the Day                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b9dd8e15-ae48-4b4b-96ab-1f4254d9ebe9
 :END:
 Translate the following word
 ***** English
@@ -951,6 +971,7 @@ xià wǔ
 **** Times of the Day                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       2b49b6e0-a9b3-4583-b4ce-1ebcffe3afa8
 :END:
 Translate the following word
 ***** English
@@ -962,6 +983,7 @@ wǎn shàng
 **** Times of the Day                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       64462425-c17e-4900-9ad1-b19b4a6dbab9
 :END:
 Translate the following word
 ***** English
@@ -973,6 +995,7 @@ bàn yè
 **** Times of the Day                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4e0b6fa2-b435-4aa0-838c-58226b403d74
 :END:
 Translate the following word
 ***** English
@@ -984,6 +1007,7 @@ zǎo shàng qī diǎn
 **** Times of the Day                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       303c899b-2b6a-427c-bc87-429d0d6e5333
 :END:
 Translate the following word
 ***** English
@@ -1023,6 +1047,7 @@ xià wǔ sān diǎn
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       39e8e6ea-cd61-4c88-b4b4-c2acf935147f
 :END:
 Translate the following word
 ***** English
@@ -1034,6 +1059,7 @@ nián
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1b01b911-85f4-4213-a9d6-3be1d196ed97
 :END:
 Translate the following word
 ***** English
@@ -1045,6 +1071,7 @@ Two Zero One Six (2016)
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6d912045-e810-4c32-97aa-066a96b06297
 :END:
 Translate the following word
 ***** English
@@ -1056,6 +1083,7 @@ yuè
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       cde99efd-0012-40c9-95a4-fea01c89a15e
 :END:
 Translate the following word
 ***** English
@@ -1067,6 +1095,7 @@ Two Month (February)
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c6b9dda1-31ae-45b8-bc1e-b9fc529d770e
 :END:
 Translate the following word
 ***** English
@@ -1078,6 +1107,7 @@ rì / hào
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       2f5ee5c5-45fd-408e-ad8a-778565db73f4
 :END:
 Translate the following word
 ***** English
@@ -1089,6 +1119,7 @@ shí bā hào
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       cc6ebf32-1ee8-406e-834a-35c8b4aaa971
 :END:
 Translate the following word
 ***** English
@@ -1100,6 +1131,7 @@ xīng qī
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4d600cd6-cb8d-4285-9b81-225547705c62
 :END:
 Translate the following word
 ***** English
@@ -1111,6 +1143,7 @@ zhōu
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       7e0ee884-0d2b-49f5-ae0e-b3308ecfbf22
 :END:
 Translate the following word
 ***** English
@@ -1122,6 +1155,7 @@ lǐ bài
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       30722ed1-70bf-4e0a-bb8d-22d624d3dfe1
 :END:
 Translate the following word
 ***** English
@@ -1133,6 +1167,7 @@ sān zhōu
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       5046e986-edb4-4099-8bc6-0a6bc5d31de4
 :END:
 Translate the following word
 ***** English
@@ -1144,6 +1179,7 @@ zhōu sān
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       5c84881b-ed63-48c7-91f6-363f4c69cd1a
 :END:
 Translate the following word
 ***** English
@@ -1155,6 +1191,7 @@ zhōu tiān
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c332aa60-54bd-4ecd-8a59-6ca83b75cb09
 :END:
 Translate the following word
 ***** English
@@ -1166,6 +1203,7 @@ zhōu rì
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       66e334a2-9997-4d99-908c-e3c341e9824f
 :END:
 Translate the following word
 ***** English
@@ -1177,6 +1215,7 @@ yī tiān
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e5c9241d-73d9-406b-b3a1-cc862fd2f8ea
 :END:
 Translate the following word
 ***** English
@@ -1188,6 +1227,7 @@ zhōu mò
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       73efa226-4f6d-4ca8-8b89-7fb7f7cbbe8d
 :END:
 Translate the following word
 ***** English
@@ -1199,6 +1239,7 @@ gōng zuō ri
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c0c8c919-6b05-4c2c-aeaa-6eb2f294762f
 :END:
 Translate the following word
 ***** English
@@ -1245,6 +1286,7 @@ Ceremony Worship Day
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       acde7639-e1c1-47ce-84ce-ed7bf9852d6a
 :END:
 Translate the following word
 ***** English
@@ -1256,6 +1298,7 @@ jín tiān
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       dcd5ef1c-f3fc-4671-afcf-893fe5a2e338
 :END:
 Translate the following word
 ***** English
@@ -1267,6 +1310,7 @@ míng tiān
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b6be4688-b35d-4937-ba83-ee8c7f09bf34
 :END:
 Translate the following word
 ***** English
@@ -1278,6 +1322,7 @@ zuó tiān
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       48747fd7-df61-433e-9b30-bfa645a66787
 :END:
 Translate the following word
 ***** English
@@ -1289,6 +1334,7 @@ qián tiān
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       491a93fa-3544-4a74-8400-e5d797475edf
 :END:
 Translate the following word
 ***** English
@@ -1300,6 +1346,7 @@ hòu tiān
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       d572f665-4021-4a50-8f50-76e4828e7ebc
 :END:
 Translate the following word
 ***** English
@@ -1311,6 +1358,7 @@ zuó tiān shì xīng qī yī
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f5eac95b-e294-499e-abe6-23f62e87ffe8
 :END:
 Translate the following word
 ***** English
@@ -1322,6 +1370,7 @@ jīn tiān shì zhou jǐ
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       18b91793-9e88-46d9-92f8-c40787e59fa5
 :END:
 Translate the following word
 ***** English
@@ -1333,6 +1382,7 @@ míng tiān shì jǐ hào
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       135fc2a1-fa3d-453a-a8c6-55a7129db333
 :END:
 Translate the following word
 ***** English
@@ -1344,6 +1394,7 @@ qù nián
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f9c1d462-5a54-4e00-9a5e-2b15afd801d4
 :END:
 Translate the following word
 ***** English
@@ -1355,6 +1406,7 @@ míng nián
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       96ac2e6c-422b-419d-81c5-e7413f268bf0
 :END:
 Translate the following word
 ***** English
@@ -1366,6 +1418,7 @@ jīn nián
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8bc2d22c-baaa-4e7f-9b07-d583120de529
 :END:
 Translate the following word
 ***** English
@@ -1377,6 +1430,7 @@ shàng ge yuè
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4b6f38bc-9e60-4b12-9bf5-b861fc380f5e
 :END:
 Translate the following word
 ***** English
@@ -1388,6 +1442,7 @@ xià ge yuè
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f7d07daf-64e6-4338-9302-d60bd54bd4e9
 :END:
 Translate the following word
 ***** English
@@ -1399,6 +1454,7 @@ zhè ge yuè
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       0934eb50-8956-440a-a4ca-ce648037a09e
 :END:
 Translate the following word
 ***** English
@@ -1410,6 +1466,7 @@ shàng xīng qī
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6321f02f-cbcb-4448-b85e-d4cf3a587c85
 :END:
 Translate the following word
 ***** English
@@ -1421,6 +1478,7 @@ shàng zhōu
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6a8ae6e6-b440-48b5-a7a8-bf1bc7b2e8e5
 :END:
 Translate the following word
 ***** English
@@ -1432,6 +1490,7 @@ shàng lǐ bài
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       aa11b657-248c-40df-a23c-a11390adc099
 :END:
 Translate the following word
 ***** English
@@ -1443,6 +1502,7 @@ zhè ge xīng qī
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       30c41179-0369-47d5-b51f-44fdaa3e5648
 :END:
 Translate the following word
 ***** English
@@ -1454,6 +1514,7 @@ bā yuè chū
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e3bafbd9-745b-46ac-b3f1-e717aec96626
 :END:
 Translate the following word
 ***** English
@@ -1465,6 +1526,7 @@ bā yuè zhōng
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       82067a5e-c397-46cd-998b-830edcdf733f
 :END:
 Translate the following word
 ***** English
@@ -1476,6 +1538,7 @@ bā yuè mò
 **** Relative Time                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       46e39ba6-99ef-4a6f-b03a-d4db5b4505dc
 :END:
 Translate the following word
 ***** English
@@ -1506,6 +1569,7 @@ bā yuè shí jǐ hào
 **** Going to Shanghai                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       fb1d54f8-fb91-4203-aca6-9d4a4dcb0ac1
 :END:
 Translate the following word
 ***** English
@@ -1517,6 +1581,7 @@ jīn tiān jǐ hào
 **** Going to Shanghai                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       d12a1092-64d2-4787-8b60-5145858fd16a
 :END:
 Translate the following word
 ***** English
@@ -1528,6 +1593,7 @@ jīn tiān bā yuè bā hào
 **** Going to Shanghai                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8d8f10c4-36a1-4f59-93ed-4a44f151225b
 :END:
 Translate the following word
 ***** English
@@ -1537,8 +1603,18 @@ nǐ jǐ hào qù shàng hǎi
 ***** Characters
 你几号去上海
 **** Going to Shanghai                                             :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       2b3af811-8a33-4dad-9447-3a5bea6b9b4a
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:22]
 :END:
 Translate the following word
 ***** English
@@ -1550,6 +1626,7 @@ wǒ shí hào qù shàng hǎi, shí sān hào huí lái
 **** Going to Shanghai                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c01203c6-da78-409a-89a7-74f6ab66c383
 :END:
 Translate the following word
 ***** English
@@ -1561,6 +1638,7 @@ shí sān hào shì xīng qī jǐ
 **** Going to Shanghai                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6e9b5c61-7491-4eb2-a400-550112d2e45d
 :END:
 Translate the following word
 ***** English
@@ -1572,6 +1650,7 @@ xīng qī wǔ
 **** Going to Shanghai                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       a89e4463-9ecd-4d48-8298-3d2ac13becd1
 :END:
 Translate the following word
 ***** English
@@ -1583,6 +1662,7 @@ nǐ xìa gè yuè qù nǎ
 **** Going to Shanghai                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       be1ba4b1-c666-42e5-aab7-a3a2141220c3
 :END:
 Translate the following word
 ***** English
@@ -1624,6 +1704,7 @@ zhè gè yuè qù shàng hǎi, xìa gè yuè qù běi jīng
 **** Daily Routine                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       867cfab9-6f30-4504-95e5-6ef242f42587
 :END:
 Translate the following word
 
@@ -1642,6 +1723,7 @@ nǐ zǎochén jǐ diān shàngban
 **** Daily Routine                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b07170e8-f898-4ed7-8a6d-a96e40f59bdf
 :END:
 Translate the following word
 
@@ -1657,6 +1739,7 @@ bā diǎn yí kè
 **** Daily Routine                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f3332dd1-6d59-4fb9-95e3-caf43fd8e945
 :END:
 Translate the following word
 
@@ -1675,6 +1758,7 @@ zhōngwǔ jǐ diǎn chī fàn
 **** Daily Routine                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       01f6803d-826c-401e-93c0-82ebc2e73182
 :END:
 Translate the following word
 
@@ -1690,6 +1774,7 @@ shí èr diǎn duō
 **** Daily Routine                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       48638cf4-5710-4fb6-970e-1fae4db10688
 :END:
 Translate the following word
 
@@ -1705,6 +1790,7 @@ wǎnshàng jǐ diǎn huí jiā
 **** Daily Routine                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f0a95940-fcfb-4090-b764-1cb9c88bc72a
 :END:
 Translate the following word
 
@@ -1720,6 +1806,7 @@ qī diǎn zuǒ yòu
 **** Daily Routine                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4535457d-3c69-4b50-b6fa-e9a7b3fc1af9
 :END:
 Translate the following word
 
@@ -1735,6 +1822,7 @@ jǐ diǎn shuìjiào
 **** Daily Routine                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e4628844-4fde-4d15-abcc-86bfaee0236a
 :END:
 Translate the following word
 
@@ -1750,6 +1838,7 @@ shí yī diǎn yǐqìán shuìjiào
 **** Daily Routine                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       5bf85822-fc69-4090-bd3d-559e0230c7c6
 :END:
 Translate the following word
 
@@ -1765,6 +1854,7 @@ chī wǔ fàn
 **** Daily Routine                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       eec3cb8e-ca5d-4333-94e7-c9d795555328
 :END:
 Translate the following word
 
@@ -1780,6 +1870,7 @@ zǎo fàn
 **** Daily Routine                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9d4ac058-7620-4bca-bb6c-30f8f15e35a4
 :END:
 Translate the following word
 
@@ -1795,6 +1886,7 @@ wǎn fàn
 **** Daily Routine                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b4e66764-66b3-4f12-a827-8cd76778da97
 :END:
 Translate the following word
 
@@ -1810,6 +1902,7 @@ shuìjiào
 **** Daily Routine                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       41b4e7d3-8289-40be-9160-da0ab63ed5d4
 :END:
 Translate the following word
 
@@ -1823,8 +1916,18 @@ Shuì wǔ jiào
 睡午觉
 
 **** Daily Routine                                                 :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       95ad9df1-a731-47fa-8744-77d84a4c9a33
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:28]
 :END:
 Translate the following word
 
@@ -1840,6 +1943,7 @@ yǐqián
 **** Daily Routine                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f70fa368-3e99-4060-a0e3-7c705ed17cfc
 :END:
 Translate the following word
 
@@ -1894,6 +1998,7 @@ yǐhòu
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       0ceccf84-308a-4d5e-99ce-3f9664454a7f
 :END:
 Translate the following word
 ***** English
@@ -1907,6 +2012,7 @@ Different character than 1000!
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       10710d74-e5c9-4413-b693-94ac7dcb4772
 :END:
 Translate the following word
 ***** English
@@ -1920,6 +2026,7 @@ kuài
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       718d4578-f962-4956-aa0f-36574f2c7946
 :END:
 Translate the following word
 ***** English
@@ -1931,6 +2038,7 @@ yī kuài
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b88607c1-bada-4000-8c58-5ff9df9e5a2d
 :END:
 Translate the following word
 ***** English
@@ -1942,6 +2050,7 @@ yī bǎi kuài
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b5ab66f4-d0ba-4592-8487-e8eb00ddc680
 :END:
 Translate the following word
 ***** English
@@ -1953,6 +2062,7 @@ yī bǎi yuán
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9b504438-6060-48e9-9477-88a698bc63a3
 :END:
 Translate the following word
 ***** English
@@ -1964,6 +2074,7 @@ liǎng kuài
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       bc5dfb71-8b36-41e9-89dc-c2c8352e4651
 :END:
 Translate the following word
 ***** English
@@ -1977,6 +2088,7 @@ máo
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       32414800-fa80-4ea2-b1ff-63c3790d5776
 :END:
 Translate the following word
 ***** English
@@ -1988,6 +2100,7 @@ yī máo
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6bdefcdb-7c35-48e8-9180-d4e5727302b1
 :END:
 Translate the following word
 ***** English
@@ -1999,6 +2112,7 @@ liǎng máo
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4c25f725-3ed0-4826-b1a4-ef882f5d2311
 :END:
 Translate the following word
 ***** English
@@ -2012,6 +2126,7 @@ Not used much because too small
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       be53dd68-c11a-4de3-bbb9-bea65baa0994
 :END:
 Translate the following word
 ***** English
@@ -2025,6 +2140,7 @@ yī kuài èr
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       43b82a48-e584-4e73-a3f5-44fcdb85b8e2
 :END:
 Translate the following word
 ***** English
@@ -2038,6 +2154,7 @@ You don’t need to say the smallest unit to 6 becomes 60 because last reference
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8d8077d9-dbb9-4643-b359-0c7b1e356cab
 :END:
 Translate the following word
 ***** English
@@ -2051,6 +2168,7 @@ The zero means this must be units not 10s
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       dcdc478c-5c64-448d-8977-fff31691f5d9
 :END:
 Translate the following word
 ***** English
@@ -2064,6 +2182,7 @@ Here the ‘bai’ is missed off because it is the smallest unit
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4b7d7f5d-5ede-44aa-9e5c-48c4529a843c
 :END:
 Translate the following word
 ***** English
@@ -2077,6 +2196,7 @@ Here the ling represents the zero hundreds!
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8b4ce400-2945-40bd-9fce-bf28a747f379
 :END:
 Translate the following word
 ***** English
@@ -2090,6 +2210,7 @@ You only need to put one zero in – so not ‘ling ling’
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       002ade56-38d8-4e5b-bcd6-453bd715e81d
 :END:
 Translate the following word
 ***** English
@@ -2103,6 +2224,7 @@ Apple fruit, more-less money 1 jin
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c2fbdaa0-752f-42d4-a54f-59a200ae22a3
 :END:
 Translate the following word
 ***** English
@@ -2116,6 +2238,7 @@ liǎng kùai èr yī jīn
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       bbb92699-d39f-4189-94fe-6fdcfdad8479
 :END:
 Translate the following word
 ***** English
@@ -2127,6 +2250,7 @@ wǒ yāo mǎi liǎng jīn
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8d4c8318-ced6-4502-bfa7-0671e417d842
 :END:
 Translate the following word
 ***** English
@@ -2138,6 +2262,7 @@ mǎi
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       13f7117a-e67d-41d2-8810-d0ecf8e1cc2f
 :END:
 Translate the following word
 ***** English
@@ -2149,6 +2274,7 @@ mài
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       de161280-8e55-470c-a8df-6159d3cf953b
 :END:
 Translate the following word
 ***** English
@@ -2162,6 +2288,7 @@ All-together (One Total), 4 Yuan 40
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f178db04-fc04-4c21-9585-82325c288569
 :END:
 Translate the following word
 ***** English
@@ -2175,6 +2302,7 @@ Cheap a little (can) do question-maker
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1808183d-f739-489b-9350-a7cbac4c85d0
 :END:
 Translate the following word
 ***** English
@@ -2186,6 +2314,7 @@ pián yi
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       bd77b77f-a01c-4cfd-a814-ff9819d91eb8
 :END:
 Translate the following word
 ***** English
@@ -2197,6 +2326,7 @@ gui
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       5c192065-967a-44ed-b462-f4760ecdb1e5
 :END:
 Translate the following word
 ***** English
@@ -2208,6 +2338,7 @@ tài gui
 **** Money                                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f50affde-0a5e-4366-9ccd-0e7556465f01
 :END:
 Translate the following word
 ***** English
@@ -2256,6 +2387,7 @@ sì kuài ba
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c23fe0f8-f3a1-45ee-84e7-6dfcd9d8a4f5
 :END:
 Translate the following word
 ***** English
@@ -2267,6 +2399,7 @@ nǐ yào mǎi shén me?
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e7c57a73-8aa6-4bd0-abab-d42918576ed9
 :END:
 Translate the following word
 ***** English
@@ -2278,6 +2411,7 @@ yaò duō shǎo
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       7288b8d3-31fb-4a34-bbaf-9cade2c456f0
 :END:
 Translate the following word
 ***** English
@@ -2289,6 +2423,7 @@ yī gòng duō shǎo qian
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       78a4a483-dc7f-48e0-b0c0-8503907611db
 :END:
 Translate the following word
 ***** English
@@ -2300,6 +2435,7 @@ hǎo jiǔ bú jiàn
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4d73d75a-541b-4a32-8885-95d5c884cb15
 :END:
 Translate the following word
 ***** English
@@ -2311,6 +2447,7 @@ pí jiǔ
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6ef225fa-e98d-404a-8a55-fab137603adf
 :END:
 Translate the following word
 ***** English
@@ -2322,6 +2459,7 @@ niú nǎi
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       27179fb3-5036-4213-ab76-4e145636e245
 :END:
 Translate the following word
 ***** English
@@ -2333,6 +2471,7 @@ kělè
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       907cc660-ada0-4bc2-a686-5afd2aea687c
 :END:
 Translate the following word
 ***** English
@@ -2344,6 +2483,7 @@ yī píng
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3b792d8d-603e-4f05-9bcc-f67b92ac45dd
 :END:
 Translate the following word
 ***** English
@@ -2355,6 +2495,7 @@ yī píng pí jiǔ
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       ec7dda11-6bf6-482a-81e2-d3d7983de156
 :END:
 Translate the following word
 ***** English
@@ -2366,6 +2507,7 @@ miàn bāo
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b77ca871-81f2-4d82-b377-410aa4f602e4
 :END:
 Translate the following word
 ***** English
@@ -2377,6 +2519,7 @@ yī gè miànbāo
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       5280eff2-6e0c-45c9-b2d4-8c85c8f3c224
 :END:
 Translate the following word
 ***** English
@@ -2388,6 +2531,7 @@ yī bāo miànbāo
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1779070d-8cc0-4415-95b9-0c6103a9c431
 :END:
 Translate the following word
 ***** English
@@ -2399,6 +2543,7 @@ huǒ tuǐ
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8c4db479-d898-4717-a4ac-8b2bbf0cafa0
 :END:
 Translate the following word
 ***** English
@@ -2410,6 +2555,7 @@ chéngzi
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       57fd79d4-f778-4ea9-aad3-ad2f0a05285b
 :END:
 Translate the following word
 ***** English
@@ -2421,6 +2567,7 @@ xī guā
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       d2dcd450-db92-4608-8009-7b7c4f07e4f0
 :END:
 Translate the following word
 ***** English
@@ -2432,6 +2579,7 @@ nán guā
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       392231fa-d631-4ec0-8845-e1a7b790b6f2
 :END:
 Translate the following word
 ***** English
@@ -2443,6 +2591,7 @@ dōng guā
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       d192ebaa-24ab-430e-a9aa-a26eaca532dd
 :END:
 Translate the following word
 ***** English
@@ -2454,6 +2603,7 @@ pú táo
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       5b82d28b-61ef-4f6f-9ec3-d5a05e01867c
 :END:
 Translate the following word
 ***** English
@@ -2465,6 +2615,7 @@ xīhóngshì yào sān jīn
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       bfb1c73e-bf6b-4a92-871d-2233ebf59019
 :END:
 Translate the following word
 ***** English
@@ -2476,6 +2627,7 @@ huáng guá yaò liǎng jīn
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c113ac40-df56-4bdc-b627-76f2b669fa5e
 :END:
 Translate the following word
 ***** English
@@ -2487,6 +2639,7 @@ mógu
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b8190cf9-87cf-4d1a-af0d-ccc8cae68c1a
 :END:
 Translate the following word
 ***** English
@@ -2498,6 +2651,7 @@ húluóbo
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       5756f362-7b3e-4acd-8ad8-e5696fcb8940
 :END:
 Translate the following word
 ***** English
@@ -2509,6 +2663,7 @@ bailuóbo
 **** Buying Food and Drink                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       d9dd12f2-2121-4ef2-93d4-82e9eb99eb14
 :END:
 Translate the following word
 ***** English
@@ -2562,6 +2717,7 @@ yáng cōng
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       44421eaa-5204-4052-9703-987e62bac920
 :END:
 Translate the following word
 ***** English
@@ -2575,6 +2731,7 @@ That (clothes measure) jumper, how (do you) sell?
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4ec3b638-68fa-4e76-8066-a6acbc136c1e
 :END:
 Translate the following word
 ***** English
@@ -2586,6 +2743,7 @@ nà
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       37045ef1-f555-410a-8111-6c5390821fa2
 :END:
 Translate the following word
 ***** English
@@ -2599,6 +2757,7 @@ mao literally means hair
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       71bb05c7-dc17-48a4-954b-2a8f5a4355ad
 :END:
 Translate the following word
 ***** English
@@ -2610,6 +2769,7 @@ zěn me
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6b5851a9-181c-4295-8eac-27204d460bcc
 :END:
 Translate the following word
 ***** English
@@ -2623,6 +2783,7 @@ How much is <thing>
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       56ef2d9d-d014-4e7d-86dc-8555c1675933
 :END:
 Translate the following word
 ***** English
@@ -2636,6 +2797,7 @@ Have [Jumper] of Red? - Note it is actually Red of [Jumper]
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c42b17b0-952f-4816-b84e-8eecd019e4e6
 :END:
 Translate the following word
 ***** English
@@ -2649,6 +2811,7 @@ You can omit the jumper as per above
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b3a48c5c-3612-41ff-bf42-f26899d11ed0
 :END:
 Translate the following word
 ***** English
@@ -2660,6 +2823,7 @@ yǒu
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       cde6b9b0-a0dc-4c74-ac0f-6f9ec426d401
 :END:
 Translate the following word
 ***** English
@@ -2671,6 +2835,7 @@ hóng
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6a81d014-5318-477d-a373-d1bdf7251b7b
 :END:
 Translate the following word
 ***** English
@@ -2684,6 +2849,7 @@ like opposite to the French!
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       bbb74318-4f81-444c-bf26-b5e334b64a15
 :END:
 Translate the following word
 ***** English
@@ -2695,6 +2861,7 @@ ma
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c235a57a-15d5-4e5d-a51d-248f13bc0a3a
 :END:
 Translate the following word
 ***** English
@@ -2708,6 +2875,7 @@ yǒu hóng sè de (máo yi) ma
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       11d71a4c-1f52-4941-86c2-76174abbf370
 :END:
 Translate the following word
 ***** English
@@ -2717,8 +2885,18 @@ wǒ
 ***** Characters
 我
 **** Buying a Jumper                                               :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       32a4528d-e91f-4254-a0f6-5d82d1495d08
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:21]
 :END:
 Translate the following word
 ***** English
@@ -2728,8 +2906,18 @@ wǒ de
 ***** Characters
 我的
 **** Buying a Jumper                                               :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f6560578-852b-4b89-9e00-1811e3ebd159
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:20]
 :END:
 Translate the following word
 ***** English
@@ -2741,6 +2929,7 @@ wǒ de píng gǔo
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1e57d47b-b529-48c7-abc6-c9aed3802cca
 :END:
 Translate the following word
 ***** English
@@ -2752,6 +2941,7 @@ wǒ yǒu píng gǔo
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       30ab33e1-629f-498e-82b0-428523432125
 :END:
 Translate the following word
 ***** English
@@ -2765,6 +2955,7 @@ Literally: (I) have. Like Hay/No Hay in Spanish!
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       de1d2344-8126-4ef9-9cb6-ac0ec778140f
 :END:
 Translate the following word
 ***** English
@@ -2778,6 +2969,7 @@ méi is particular to yǒu
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       02796d0a-28c7-4491-9eab-408d3701972a
 :END:
 Translate the following word
 ***** English
@@ -2791,6 +2983,7 @@ I try try can?
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       2af926ca-f29a-4338-aaac-1f1ce1a61fe8
 :END:
 Translate the following word
 ***** English
@@ -2802,6 +2995,7 @@ xíng
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       0a9f4994-f7fe-48d6-ad30-6451fba274b4
 :END:
 Translate the following word
 ***** English
@@ -2813,6 +3007,7 @@ bù xíng
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       49ffd62d-6f13-47bb-82c8-75a7c69f41a3
 :END:
 Translate the following word
 ***** English
@@ -2826,6 +3021,7 @@ This (clothes counter) jumper too small [than I thought]
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       87be2751-45d3-47ef-a400-9c74d645e33b
 :END:
 Translate the following word
 ***** English
@@ -2839,6 +3035,7 @@ tài zǎo le
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       77469bd1-7f0a-4ad1-bed6-117ff2d5661c
 :END:
 Translate the following word
 ***** English
@@ -2850,6 +3047,7 @@ yǒu dà de ma
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       ea7eca06-ef14-4e08-95f5-582619325ed4
 :END:
 Translate the following word
 ***** English
@@ -2861,6 +3059,7 @@ yǒu dà de máo yī ma
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       2dd763fd-aaac-4c11-a048-11199ac158fa
 :END:
 Translate the following word
 ***** English
@@ -2874,6 +3073,7 @@ Swap the words around to get:
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       50c839fb-c57d-4eea-96ed-a8e64138a96d
 :END:
 Translate the following word
 ***** English
@@ -2887,6 +3087,7 @@ The yī can be ommitted
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6bbc92a9-ac62-4de8-8ab9-e7a2c9af86c3
 :END:
 Translate the following word
 ***** English
@@ -2900,6 +3101,7 @@ You try try this (measure)?
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f899385b-5c0d-4ab7-82a0-9bebe7b5271a
 :END:
 Translate the following word
 ***** English
@@ -2913,6 +3115,7 @@ This (measure) very good
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b5b7cd14-7384-4dc2-b0b6-25c90f4c12a1
 :END:
 Translate the following word
 ***** English
@@ -2926,6 +3129,7 @@ I like this (measure)
 **** Buying a Jumper                                               :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       324cfff5-b66c-4e82-a8bc-ca28868342e5
 :END:
 Translate the following word
 ***** English
@@ -2956,6 +3160,7 @@ xǐ hūan
 **** Colours                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6cbbbd0e-67e6-4f5b-8ad9-9782e372b2c9
 :END:
 Translate the following word
 ***** English
@@ -2969,6 +3174,7 @@ hēi
 **** Colours                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       2fd8b4a9-3a1a-4f13-8f4e-5e1b6c94c697
 :END:
 Translate the following word
 ***** English
@@ -2980,6 +3186,7 @@ huáng
 **** Colours                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       961b3502-0e9a-499a-b1ba-6deaa1fa41e0
 :END:
 Translate the following word
 ***** English
@@ -2991,6 +3198,7 @@ lǜ
 **** Colours                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       79eadf5c-fce1-4be8-a603-26c41fd9b33c
 :END:
 Translate the following word
 ***** English
@@ -3002,6 +3210,7 @@ bǎi
 **** Colours                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       a577c184-9901-4f9b-adfb-c280060e0f45
 :END:
 Translate the following word
 ***** English
@@ -3013,6 +3222,7 @@ lán
 **** Colours                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f8fe8126-29b5-4b8b-8acf-b54be23ec6b7
 :END:
 Translate the following word
 ***** English
@@ -3024,6 +3234,7 @@ huī
 **** Colours                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       0cdea27d-ab60-421a-a9de-c22ae92b4fc9
 :END:
 Translate the following word
 ***** English
@@ -3035,6 +3246,7 @@ zǐ
 **** Colours                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       d6e264a0-c514-45ac-b562-b09c1f827909
 :END:
 Translate the following word
 ***** English
@@ -3075,6 +3287,7 @@ fěn
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       a61ec932-c794-4dbe-91a9-167417629b48
 :END:
 Translate the following word
 ***** English
@@ -3088,6 +3301,7 @@ Yīfu – clothes.  Yi=clothes (sometimes used for tops), fu=clothes
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       441cc674-c128-405b-be0c-58b4f8eba1fe
 :END:
 Translate the following word
 ***** English
@@ -3099,6 +3313,7 @@ yǒu báo diàn de ma
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       790fc9a9-e1af-4966-afb4-95e2c8d2ecd9
 :END:
 Translate the following word
 ***** English
@@ -3112,6 +3327,7 @@ kù=trousers, zi has no meaning. tiào is the measure for soft and long things
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8fa783e1-15a5-49aa-b65c-5fa382ae390b
 :END:
 Translate the following word
 ***** English
@@ -3123,6 +3339,7 @@ cháng duǎn
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       930b8f3f-7e4c-45f0-9b09-7654cbb90749
 :END:
 Translate the following word
 ***** English
@@ -3136,6 +3353,7 @@ wài=outside, tào=suit/cover.  Tào tào = condom!
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       ea0c55a1-f62b-4e5f-9046-ddff9fd24829
 :END:
 Translate the following word
 ***** English
@@ -3147,6 +3365,7 @@ hòu báo
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       67150758-0e4f-4d52-a725-c25ab0f9a137
 :END:
 Translate the following word
 ***** English
@@ -3160,6 +3379,7 @@ xī=western, fú=clothes
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b1ea141c-e5ea-41ee-ad26-1c8e33ffee83
 :END:
 Translate the following word
 ***** English
@@ -3171,6 +3391,7 @@ féi shòu
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9999deb3-0f8c-4b0f-adf3-ba303f62e946
 :END:
 Translate the following word
 ***** English
@@ -3182,6 +3403,7 @@ yī shuāng pí xié
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4a46f7e9-937d-4b19-8618-c70f67bbfab5
 :END:
 Translate the following word
 ***** English
@@ -3193,6 +3415,7 @@ dà xiǎo
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       41526c0e-d6e8-4da4-9dd9-0962318f7299
 :END:
 Translate the following word
 ***** English
@@ -3202,6 +3425,7 @@ shuāng
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1b6086b4-aeaf-452d-8036-b112ff3a3ca5
 :END:
 Translate the following word
 ***** English
@@ -3213,8 +3437,18 @@ yī tiáo qún zi
 ***** Notes
 qún=skirt, zi has no meaning
 **** Clothes and Sizes                                             :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       57b9a6aa-03a0-4ed2-934e-00b5eede1f1c
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.667
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:24]
 :END:
 Translate the following word
 ***** English
@@ -3228,6 +3462,7 @@ niú=cow, zǎi=baby/boy, kù=trousers
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       60b5a1a7-2725-4cc9-8845-4d5f9e12128d
 :END:
 Translate the following word
 ***** English
@@ -3237,6 +3472,7 @@ niú zǎi wài tào
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       dfd68a58-ee72-4560-8ba9-3aed26e53dda
 :END:
 Translate the following word
 ***** English
@@ -3248,6 +3484,7 @@ yī jiàn chèn shān
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       10c03c24-5f84-4780-905d-3812363f6bf3
 :END:
 Translate the following word
 ***** English
@@ -3259,6 +3496,7 @@ tì xù
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       2f319e8b-aa1f-41b7-bd64-5ea371701a34
 :END:
 Translate the following word
 ***** English
@@ -3272,6 +3510,7 @@ yùn dòng = sport, Xiè = shoes
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b3a68132-c9d7-40f5-9618-fb96029d4eb8
 :END:
 Translate the following word
 ***** English
@@ -3309,6 +3548,7 @@ zhī
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       618b9f24-040a-4d77-bb2c-4f830c66b842
 :END:
 Translate the following word
 ***** English
@@ -3318,6 +3558,7 @@ xíng ma
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       84da5b6e-a254-4751-997f-9bdb06093415
 :END:
 Translate the following word
 ***** English
@@ -3327,6 +3568,7 @@ xíng bù xíng
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b2bb5043-ee90-4ebe-a525-0962d3f201e4
 :END:
 Translate the following word
 ***** English
@@ -3336,6 +3578,7 @@ hǎo ma
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1c77e271-0179-4725-a9cf-c5b6cf13c6ce
 :END:
 Translate the following word
 ***** English
@@ -3345,6 +3588,7 @@ hǎo bù hǎo
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c8d194ef-b852-4490-b70e-f2c4d74142b3
 :END:
 Translate the following word
 ***** English
@@ -3354,6 +3598,7 @@ mǎi ma
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       d4ff9350-c1c7-4e17-a0b4-2d60a247a161
 :END:
 Translate the following word
 ***** English
@@ -3363,6 +3608,7 @@ mǎi bù mǎi
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       401b8fd6-200d-4162-aff4-e60343dfc1b6
 :END:
 Translate the following word
 ***** English
@@ -3372,6 +3618,7 @@ yào
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b7004231-6dce-403d-856e-5f58fa5d779f
 :END:
 Translate the following word
 ***** English
@@ -3381,6 +3628,7 @@ love
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       576a3e42-cf98-4f05-b63c-3af18b958b6c
 :END:
 Translate the following word
 ***** English
@@ -3392,6 +3640,7 @@ nǐ ài bù ài wǒ
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1c74e6ea-c7bc-4356-8ea4-5cc3bcebda7f
 :END:
 Translate the following word
 ***** English
@@ -3401,6 +3650,7 @@ nǐ ài wǒ ma
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       ba776e24-e9ab-4898-b89d-da110bab3d01
 :END:
 Translate the following word
 ***** English
@@ -3410,6 +3660,7 @@ nǐ hěn ài wǒ
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1ce6d2d3-bf60-4984-876c-4e3e3788692d
 :END:
 Translate the following word
 ***** English
@@ -3419,6 +3670,7 @@ nǐ bù ài wǒ
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       0f47924a-d9b6-47d1-a003-44362838ded6
 :END:
 Translate the following word
 ***** English
@@ -3428,6 +3680,7 @@ kěyǐ
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6277dae2-6ba6-49ac-9728-1ab7e2384f53
 :END:
 Translate the following word
 ***** English
@@ -3437,6 +3690,7 @@ xǐng
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1264e82b-a445-43d9-9d4d-c64662117327
 :END:
 Translate the following word
 ***** English
@@ -3446,8 +3700,18 @@ kě bù kě yǐ
 ***** Notes
 Note the first yǐ is omitted
 **** Different Ways of Asking Questions                            :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c6c4b077-348d-4178-85ea-b344f3a55060
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:22]
 :END:
 Translate the following word
 ***** English
@@ -3457,6 +3721,7 @@ xǐ hūan
 **** Different Ways of Asking Questions                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       d65a45cc-4b9e-4d00-9b97-e290c0836adb
 :END:
 Translate the following word
 ***** English
@@ -3501,6 +3766,7 @@ Again huān is omitted
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4ebea206-8dce-49e2-9ff9-318fc2ca4be5
 :END:
 Translate the following word
 ***** English
@@ -3510,6 +3776,7 @@ zhè tiáo qúnzi duō shào qiàn?
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b9536246-d77f-4520-bf47-71bce36ab984
 :END:
 Translate the following word
 ***** English
@@ -3519,6 +3786,7 @@ zhè jiàn wài tào nè?
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b67c6180-8f19-4997-a8fc-a09d21770400
 :END:
 Translate the following word
 ***** English
@@ -3528,6 +3796,7 @@ nǐ nè?
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       58269929-c54b-4098-9a2e-bae79a6ef956
 :END:
 Translate the following word
 ***** English
@@ -3537,6 +3806,7 @@ xiàn zài jǐ diǎn
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9e3e649a-ed71-4908-9466-fc1aa8e92f10
 :END:
 Translate the following word
 ***** English
@@ -3546,6 +3816,7 @@ xiàn zài dǎ bá zhé liǎng bǎi
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       57a717ae-0ee0-4927-8c02-5fa725f94e15
 :END:
 Translate the following word
 ***** English
@@ -3557,6 +3828,7 @@ dǎ
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       fb989e6c-2267-414e-b65c-9a9ca78b8afc
 :END:
 Translate the following word
 ***** English
@@ -3566,6 +3838,7 @@ bá zhé
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       317edfd7-c207-4243-af01-70212d27bb3f
 :END:
 Translate the following word
 ***** English
@@ -3575,6 +3848,7 @@ liǎng bǎi
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8460b4d8-1d58-4a33-a9b9-868f91dcccae
 :END:
 Translate the following word
 ***** English
@@ -3584,6 +3858,7 @@ Jiu wǔ zhé
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       eef7b662-e65f-4ede-876c-b3db7636b0bb
 :END:
 Translate the following word
 ***** English
@@ -3591,8 +3866,18 @@ Now on sale (no amount specified)
 ***** Pinyin
 xiàn zài dǎ zhé
 **** CLothes and Discounts                                         :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       039da628-aea9-4253-b2e9-539df756c17a
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:27]
 :END:
 Translate the following word
 ***** English
@@ -3602,6 +3887,7 @@ wǒ kěyǐ shì yíxià qúnzi hé xié ma?
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f7fe9786-e982-45af-9443-fad90ef11d92
 :END:
 Translate the following word
 ***** English
@@ -3611,6 +3897,7 @@ shì yíxià
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b6c5db6d-4685-49a5-beda-377105337a70
 :END:
 Translate the following word
 ***** English
@@ -3620,6 +3907,7 @@ hé
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       49d12c2a-d0d8-4f68-b2fd-7009c0420753
 :END:
 Translate the following word
 ***** English
@@ -3631,6 +3919,7 @@ Yang means how do the look/feel/etc.
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       d90e5e27-36e4-4abe-8210-f5060a714b0b
 :END:
 Translate the following word
 ***** English
@@ -3640,6 +3929,7 @@ shēn tǐ
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       370030f4-1560-46f0-a433-7b6bcfc8506d
 :END:
 Translate the following word
 ***** English
@@ -3649,6 +3939,7 @@ nǐ de shēn tǐ
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1b1c1295-f0e9-4a2a-b98e-ed21794decdf
 :END:
 Translate the following word
 ***** English
@@ -3658,6 +3949,7 @@ wǒ dōu yào
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       444e5ec1-6815-4857-968a-d73cbc34949f
 :END:
 Translate the following word
 ***** English
@@ -3667,6 +3959,7 @@ shì
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9cb66034-38a3-4ae5-80e3-44a50f0e0cf2
 :END:
 Translate the following word
 ***** English
@@ -3678,6 +3971,7 @@ ba is like a gentle suggestion they could do it (a little cheaper)
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       44fe3a28-bc8a-4e7a-98a0-f37f7fe08d8a
 :END:
 Translate the following word
 ***** English
@@ -3689,6 +3983,7 @@ I can do it for 550
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       a7596181-fd7a-46b4-9ef3-be41296a6ddc
 :END:
 Translate the following word
 ***** English
@@ -3700,6 +3995,7 @@ The “le” here kind of implies that you’ve made a decision
 **** CLothes and Discounts                                         :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8f62995a-2d4b-4021-b58f-0db1fb7ecc91
 :END:
 Translate the following word
 ***** English
@@ -3739,6 +4035,7 @@ The “le” here kind of implies that you’ve made a decision
 **** Buying Strawberries                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1ad93a24-bcb2-43f1-bc07-b707fd4bb29f
 :END:
 Translate the following word
 
@@ -3754,6 +4051,7 @@ píng guǒ zěn me mài
 **** Buying Strawberries                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       54bdab2a-cb3b-4884-b137-858687e26e8f
 :END:
 Translate the following word
 
@@ -3769,6 +4067,7 @@ wǔ kuài liù yì jīn
 **** Buying Strawberries                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3d2404da-6db6-4ed5-90f7-2d3a0c8dc283
 :END:
 Translate the following word
 
@@ -3787,6 +4086,7 @@ Note both strawberry characters have the same top to their character - means som
 **** Buying Strawberries                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1f212430-443b-4318-a31f-2f27162e4121
 :END:
 Translate the following word
 
@@ -3802,6 +4102,7 @@ shí sān kuài
 **** Buying Strawberries                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e300fef5-881c-4e5a-98cd-2e130921b911
 :END:
 Translate the following word
 
@@ -3820,6 +4121,7 @@ Here ‘le’ is used to suggest the thing before it is finished (yesterday’s 
 **** Buying Strawberries                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e959e7df-0279-41cc-ad12-dc1bbfed951f
 :END:
 Translate the following word
 
@@ -3838,6 +4140,7 @@ Zài means at here.
 **** Buying Strawberries                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       28c46dcc-f309-4611-aa52-e72227605e45
 :END:
 Translate the following word
 
@@ -3853,6 +4156,7 @@ zuó tiān zǎo shàng,
 **** Buying Strawberries                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       37192513-9587-48e8-8dc6-398208f29faf
 :END:
 Translate the following word
 
@@ -3866,8 +4170,18 @@ zài wǒ (de) jiā fù jìn
 在我的家附近
 
 **** Buying Strawberries                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3909d4d7-2a03-4190-b46e-add99a730213
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:24]
 :END:
 Translate the following word
 
@@ -3886,6 +4200,7 @@ The thing you want to try can go at the start or after the try try
 **** Buying Strawberries                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f30c3926-d81e-43e6-b3ef-4017f911c5d0
 :END:
 Translate the following word
 
@@ -3901,6 +4216,7 @@ yí dìng hǎo chī
 **** Buying Strawberries                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       2588ddaf-cd74-46aa-98a6-456f96175d6d
 :END:
 Translate the following word
 
@@ -3916,6 +4232,7 @@ zhēn hǎo chī, wǒ yào sān jīn
 **** Buying Strawberries                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       2a4cfa64-6619-4d26-92f9-ee602688fccd
 :END:
 Translate the following word
 
@@ -3931,6 +4248,7 @@ yí gòng sān shí jiǔ
 **** Buying Strawberries                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4846e8e7-dc28-44e6-8e3d-9958437c8009
 :END:
 Translate the following word
 
@@ -3941,8 +4259,18 @@ I ATE strawberries
 wǒ chī le cǎo méi
 
 **** Buying Strawberries                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       014b7e19-140f-4fc9-9c6b-f045a93ba034
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:20]
 :END:
 Translate the following word
 
@@ -3955,6 +4283,7 @@ wǒ chī cǎo méi
 **** Buying Strawberries                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f91915b5-0a7c-44cc-9ae3-319b97e5d2f0
 :END:
 Translate the following word
 
@@ -4011,6 +4340,7 @@ yi means all/every/entire, or one. ding means decisions?
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       13dba243-b10f-4431-8ac8-8a6c9bc67618
 :END:
 Translate the following word
 ***** English
@@ -4022,6 +4352,7 @@ fàn diàn
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       5c7a051b-a0ef-4ff7-b976-d5e92b2dfb55
 :END:
 Translate the following word
 ***** English
@@ -4035,6 +4366,7 @@ place with a specific purpose
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4ed71c0f-d4da-435c-8829-aff7d9ceb39f
 :END:
 Translate the following word
 ***** English
@@ -4046,6 +4378,7 @@ diǎn cài
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       7ace3b26-b9b7-446a-8b5c-72b5d45845c6
 :END:
 Translate the following word
 ***** English
@@ -4057,6 +4390,7 @@ chī
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       0aef7ff5-d1ae-4df8-bd56-6d7e425caf0f
 :END:
 Translate the following word
 ***** English
@@ -4068,6 +4402,7 @@ hē
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       d91148dc-b0b3-4746-ad88-567b1ee6783f
 :END:
 Translate the following word
 ***** English
@@ -4079,6 +4414,7 @@ yào
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       2321f6b7-8446-4cef-8ac8-5368283b9640
 :END:
 Translate the following word
 ***** English
@@ -4090,6 +4426,7 @@ What do (you) want to order
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c56b2d17-ca59-48b4-8821-55fe5046695c
 :END:
 Translate the following word
 ***** English
@@ -4101,6 +4438,7 @@ yī pán cài
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       ffc6f057-4608-4dcb-a884-61859b460a90
 :END:
 Translate the following word
 ***** English
@@ -4112,6 +4450,7 @@ yī bēi shuǐ
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       39cdac69-ee6f-4318-917c-53f39edc3c49
 :END:
 Translate the following word
 ***** English
@@ -4125,6 +4464,7 @@ fàn actually means “meal” literally, but here it just means rice!
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4299acd8-b503-4014-ae82-4edca7d02209
 :END:
 Translate the following word
 ***** English
@@ -4138,6 +4478,7 @@ In the north keep the mi to mean rice
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       32c60e97-7416-4c21-938e-9c77b6b4d867
 :END:
 Translate the following word
 ***** English
@@ -4151,6 +4492,7 @@ In the south this my colloquially mean I eat rice too
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3c968810-cfd0-44a8-b893-d154ad0feb4d
 :END:
 Translate the following word
 ***** English
@@ -4162,6 +4504,7 @@ wǒ chī mǐ fàn
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       fded24c5-79d4-40a6-a790-a0067b2663e8
 :END:
 Translate the following word
 ***** English
@@ -4175,6 +4518,7 @@ If the next word has a strong tone, then yi will have a light tone
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       31e377c9-fc6c-42ce-bd39-c4ea7ef22aa7
 :END:
 Translate the following word
 ***** English
@@ -4188,6 +4532,7 @@ miàn tiáo
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6a7722b0-fd99-40e6-a019-9edea35f3d23
 :END:
 Translate the following word
 ***** English
@@ -4201,6 +4546,7 @@ Like gyoza in Japanese (which is written 餃子 in Japanese)
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4642719f-4533-4e92-b566-959ee4fe389a
 :END:
 Translate the following word
 ***** English
@@ -4212,6 +4558,7 @@ jī
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e4db9318-04fc-4bf5-911d-12edb1059ad5
 :END:
 Translate the following word
 ***** English
@@ -4223,6 +4570,7 @@ yú
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       2483d999-baca-4c09-aa2b-bfa816a31c1c
 :END:
 Translate the following word
 ***** English
@@ -4234,6 +4582,7 @@ yā
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e40ea65d-03cd-4f92-8a09-9e38587a3c92
 :END:
 Translate the following word
 ***** English
@@ -4245,6 +4594,7 @@ tāng
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       fee43eaa-8fff-4115-9460-1b927e5fda86
 :END:
 Translate the following word
 ***** English
@@ -4256,6 +4606,7 @@ jī tāng
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       84699d2c-7978-4194-aea6-8caf1cbb324b
 :END:
 Translate the following word
 ***** English
@@ -4267,6 +4618,7 @@ zhōu
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8e702613-adad-4e28-b25d-90fc228621d3
 :END:
 Translate the following word
 ***** English
@@ -4280,6 +4632,7 @@ jī dīng is chicked diced.
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       396865f9-24e2-48b8-a0e6-26f4d8d07b79
 :END:
 Translate the following word
 ***** English
@@ -4291,6 +4644,7 @@ kǎo yā
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3e31824c-a266-4d58-ad2d-0373157394ab
 :END:
 Translate the following word
 ***** English
@@ -4300,8 +4654,18 @@ kǎo jī
 ***** Characters
 烤鸡
 **** Food                                                          :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c9352251-18df-4647-9a55-528f0be7a23d
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:26]
 :END:
 Translate the following word
 ***** English
@@ -4313,6 +4677,7 @@ kǎo yú
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       bc9baaa8-cb6f-4257-a85f-d721495783ff
 :END:
 Translate the following word
 ***** English
@@ -4324,6 +4689,7 @@ běijīng kǎoyā
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c5a46221-b728-4ab1-9e68-da70842f6b45
 :END:
 Translate the following word
 ***** English
@@ -4335,6 +4701,7 @@ suān là tāng
 **** Food                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f93c9d10-dc91-41a6-9724-485bc1ce045b
 :END:
 Translate the following word
 ***** English
@@ -4367,6 +4734,7 @@ huā chá
 **** Ordering Food                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6dc01cde-6ef8-4d2b-a3aa-93b4d798dae0
 :END:
 Translate the following word
 ***** English
@@ -4380,6 +4748,7 @@ qǐng is please – only at the front of an expression
 **** Ordering Food                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e96a3753-a892-40f5-8369-d676d84fe875
 :END:
 Translate the following word
 ***** English
@@ -4393,6 +4762,7 @@ one portion of
 **** Ordering Food                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c7b94657-92f9-41cd-b9c8-6fc108b0f85e
 :END:
 Translate the following word
 ***** English
@@ -4406,6 +4776,7 @@ Still want else-of (dish) question-maker
 **** Ordering Food                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9dc30b79-16eb-4dc8-8b3a-065801e16a29
 :END:
 Translate the following word
 ***** English
@@ -4419,6 +4790,7 @@ Again/Another (I) want bowl of rice
 **** Ordering Food                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b0472f6d-41c8-4a1f-a915-cc03eea8f5a1
 :END:
 Translate the following word
 ***** English
@@ -4432,6 +4804,7 @@ Same as above – hái means also/in addition/still
 **** Ordering Food                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       a1ebec3e-aa6f-489f-b1c0-2006bbfb2751
 :END:
 Translate the following word
 ***** English
@@ -4445,6 +4818,7 @@ You want drink a little (of) what?
 **** Ordering Food                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c50a2b6c-be4b-497c-887e-ce526f1c78ca
 :END:
 Translate the following word
 ***** English
@@ -4456,6 +4830,7 @@ yī hú huāchá
 **** Ordering Food                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       ff201a6f-68b6-4f16-920e-0e562c87794f
 :END:
 Translate the following word
 ***** English
@@ -4469,6 +4844,7 @@ In addition, (you) want else of dish?
 **** Ordering Food                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       0f971492-b385-466a-abc1-6fa3d3e30141
 :END:
 Translate the following word
 ***** English
@@ -4480,6 +4856,7 @@ hái nǐ yào bié de yīfú ma
 **** Ordering Food                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       a4c1a358-01d0-4ffe-ba86-bdbc23feab82
 :END:
 Translate the following word
 ***** English
@@ -4534,6 +4911,7 @@ Additionally, (you) want drink water question-maker
 **** More Food                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1b1b4f2d-ca6b-4ff8-9375-4d7f640712c5
 :END:
 Translate the following word
 ***** English
@@ -4545,6 +4923,7 @@ shí wù
 **** More Food                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       0d8c6f52-236e-45e2-b8b1-1a0ea5c5d6ad
 :END:
 Translate the following word
 ***** English
@@ -4556,6 +4935,7 @@ cài
 **** More Food                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b6524d08-849d-4716-8490-0ef9747d5970
 :END:
 Translate the following word
 ***** English
@@ -4567,6 +4947,7 @@ ròu
 **** More Food                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       ce34e56d-bd13-4858-9ddd-4bc1fd8bc65a
 :END:
 Translate the following word
 ***** English
@@ -4580,6 +4961,7 @@ noodles, rice, bread etc that come with a Chinese meal
 **** More Food                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       138b8700-55e1-4646-919f-e2232afff8cd
 :END:
 Translate the following word
 ***** English
@@ -4591,6 +4973,7 @@ tián diǎn
 **** More Food                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       a8a9950b-f2b4-4286-ac95-98c7d392e70f
 :END:
 Translate the following word
 ***** English
@@ -4604,6 +4987,7 @@ zhū ròu
 **** More Food                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f60d8377-21d8-4439-9e6a-0b4830fd3f48
 :END:
 Translate the following word
 ***** English
@@ -4617,6 +5001,7 @@ niú ròu
 **** More Food                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       030438c7-c7d5-49e4-ade8-c3480c5443ce
 :END:
 Translate the following word
 ***** English
@@ -4630,6 +5015,7 @@ yáng ròu
 **** More Food                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4a8855e6-1734-4482-b468-ceb84d1ea15a
 :END:
 Translate the following word
 ***** English
@@ -4643,6 +5029,7 @@ liáng cài
 **** More Food                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       74e3825f-16e2-4fe3-ab80-672f6fa1fc16
 :END:
 Translate the following word
 ***** English
@@ -4654,6 +5041,7 @@ rè cài
 **** More Food                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       500dffd5-4efc-4638-92a1-3fe4cf84f8ae
 :END:
 Translate the following word
 ***** English
@@ -4667,6 +5055,7 @@ jiǔ shuǐ
 **** More Food                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       19cb9eda-c795-4745-a1c9-5a902e04143a
 :END:
 Translate the following word
 ***** English
@@ -4680,6 +5069,7 @@ hóng pútáo jiǔ
 **** More Food                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8ea569ff-6997-4fe5-84b5-6c3b05ddbf2c
 :END:
 Translate the following word
 ***** English
@@ -4691,6 +5081,7 @@ bái pútáo jiǔ
 **** More Food                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f2ff7320-78d1-4ee6-86e0-8022c02518c8
 :END:
 Translate the following word
 ***** English
@@ -4744,6 +5135,7 @@ yǐn liào
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b8383e4e-038c-4e26-b493-33d2b9530bb3
 :END:
 Translate the following word
 ***** English
@@ -4757,6 +5149,7 @@ fú wù yuán
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b64cc770-7283-480b-ad5a-4cc3c1b58d52
 :END:
 Translate the following word
 ***** English
@@ -4770,6 +5163,7 @@ just a way to get attention
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       848959e8-512a-4ffd-8bed-da9aa4f5a97a
 :END:
 Translate the following word
 ***** English
@@ -4781,6 +5175,7 @@ shuài gē
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3f770d0e-2102-421f-b9d3-14142042da48
 :END:
 Translate the following word
 ***** English
@@ -4792,6 +5187,7 @@ xiǎo huǒ zi
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       45f96f4c-9ae8-4d42-bbb8-81ffd5ea0cbe
 :END:
 Translate the following word
 ***** English
@@ -4805,6 +5201,7 @@ xiǎo jiě
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       34fc28ac-9ddb-4f52-b523-766971fef62f
 :END:
 Translate the following word
 ***** English
@@ -4818,6 +5215,7 @@ qǐng gěi wǒ yī zhāng zhǐjīn
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9bc5dc3b-a43e-4f64-bb44-10d24e981c3a
 :END:
 Translate the following word
 ***** English
@@ -4831,6 +5229,7 @@ literally ‘hair towel’
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c06babf7-05bc-461c-acc2-1e34d76c917a
 :END:
 Translate the following word
 ***** English
@@ -4842,6 +5241,7 @@ bù
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4b4b5bd5-5a2e-4a6e-867b-3e4833f7b921
 :END:
 Translate the following word
 ***** English
@@ -4853,6 +5253,7 @@ méi
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       739d5d2e-4481-4338-b60d-ae99b4afd8ec
 :END:
 Translate the following word
 ***** English
@@ -4866,6 +5267,7 @@ wǒ bù chīfàn
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e85c4727-a17c-4d02-ae02-98f3c354f259
 :END:
 Translate the following word
 ***** English
@@ -4879,6 +5281,7 @@ wǒ méi chīfàn
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8b1bf97e-0bac-4604-9802-0b272f73bd00
 :END:
 Translate the following word
 ***** English
@@ -4892,6 +5295,7 @@ wǒ de cài hái méi shàng
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       70e09eae-5319-405e-ac76-24f8c99d96df
 :END:
 Translate the following word
 ***** English
@@ -4903,6 +5307,7 @@ kěyǐ kuài diǎn ma
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8eac10c8-e809-4a23-928f-db8331c1e51f
 :END:
 Translate the following word
 ***** English
@@ -4914,6 +5319,7 @@ wǒ qù kàn kàn
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       268b7cb8-c01f-4d56-9d5d-5e07ce4304c4
 :END:
 Translate the following word
 ***** English
@@ -4927,6 +5333,7 @@ The nǐhǎo is just to get their attention.
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6c2d341a-1a5d-4da7-a7d3-06e78d2a8f4a
 :END:
 Translate the following word
 ***** English
@@ -4938,6 +5345,7 @@ jié zhàng
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b46ed6de-129a-44b6-88f2-e3e8ebc0d58d
 :END:
 Translate the following word
 ***** English
@@ -4951,6 +5359,7 @@ This (measure) dish is packaged.
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8eb343eb-af25-4851-91ed-140fe58a4366
 :END:
 Translate the following word
 ***** English
@@ -4964,6 +5373,7 @@ Literally mean “bale”
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9e57dba7-6bda-446e-b6a9-4084fc77aff4
 :END:
 Translate the following word
 ***** English
@@ -4975,6 +5385,7 @@ wài mài
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9f9c4e11-c0bb-442d-b5d9-8701168ceb24
 :END:
 Translate the following word
 ***** English
@@ -4986,6 +5397,7 @@ Zài zhè lǐ chī
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       ce34900a-ad49-43b2-9ad0-145bd4e7d79c
 :END:
 Translate the following word
 ***** English
@@ -4997,6 +5409,7 @@ Would you like to eat in?
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1fe37dd9-d251-4461-a3f6-1c4f1e34100c
 :END:
 Translate the following word
 ***** English
@@ -5008,6 +5421,7 @@ Wàimài háishì zài zhèlǐ chī
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       86416aa2-4118-443f-92d1-7e921ce0f015
 :END:
 Translate the following word
 ***** English
@@ -5019,6 +5433,7 @@ qǐng gěi wǒ …
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       33592d84-38d2-40c5-941a-7895c30f667a
 :END:
 Translate the following word
 ***** English
@@ -5032,6 +5447,7 @@ yī gè pánzi
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       af6e3ed6-db67-4faf-80ea-53a5c3e3d5f8
 :END:
 Translate the following word
 ***** English
@@ -5043,6 +5459,7 @@ yī gè wǎn
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       85669611-522c-49da-a54e-d448725dbc5d
 :END:
 Translate the following word
 ***** English
@@ -5056,6 +5473,7 @@ Left hand side of symbol means something related to the hand.
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       82c0402b-36cb-4225-a5ba-f88ec3c0d215
 :END:
 Translate the following word
 ***** English
@@ -5067,6 +5485,7 @@ yī bǎ sháozi
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9a2ba7de-de7c-4b15-a6c7-e751bb857073
 :END:
 Translate the following word
 ***** English
@@ -5078,6 +5497,7 @@ yī bǎ dāozi
 **** Waiter, Takeaway, Cutlery                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       53902264-faba-4f78-8e8a-0771dd9926a5
 :END:
 Translate the following word
 ***** English
@@ -5120,8 +5540,18 @@ yī shuāng kuàizi
 *** Cards                                                        :noexport:
 
 **** Herbs, Spices and Tastes                                      :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       04e33696-e60b-4c6d-9a3b-cc296a8a55cc
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:26]
 :END:
 Translate the following word
 
@@ -5140,6 +5570,7 @@ xiāng cài
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f195c599-729c-485f-a78e-ec8b0c4df9c8
 :END:
 Translate the following word
 
@@ -5158,6 +5589,7 @@ là jiāo
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c89b7a39-906f-450d-a058-aa8896926148
 :END:
 Translate the following word
 
@@ -5173,6 +5605,7 @@ jiāng
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c65541ad-2f3b-4260-b5f5-b46a693c2dc4
 :END:
 Translate the following word
 
@@ -5188,6 +5621,7 @@ cōng
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       da6b5143-b762-4083-829a-3e54143d0155
 :END:
 Translate the following word
 
@@ -5203,6 +5637,7 @@ suàn
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9b871686-7e97-4ecc-91dd-27ed13ab600d
 :END:
 Translate the following word
 
@@ -5218,6 +5653,7 @@ yán
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       64240210-694e-4899-957a-66285d3cb376
 :END:
 Translate the following word
 
@@ -5233,6 +5669,7 @@ xián
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c3568167-f8dc-4ba8-b6fd-0a3d75e6de6b
 :END:
 Translate the following word
 
@@ -5246,8 +5683,18 @@ bù yào ….
 不要
 
 **** Herbs, Spices and Tastes                                      :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b3385508-fd6f-4f6e-8bbd-63cd7b1b5bfa
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:23]
 :END:
 Translate the following word
 
@@ -5266,6 +5713,7 @@ the “de’ is kinda “of’ - Sugar is of the sweet.
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c7752a9a-79e5-4afb-9324-ec82e242b622
 :END:
 Translate the following word
 
@@ -5281,6 +5729,7 @@ làjiāo shì là de
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       d0899d9a-0b13-4ed2-8ac0-75e73cb9b76e
 :END:
 Translate the following word
 
@@ -5296,6 +5745,7 @@ yán shì xián de
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b149fc3c-febc-4b9d-b1fc-6efb68ded09e
 :END:
 Translate the following word
 
@@ -5311,6 +5761,7 @@ níngméng shì kǔ de
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c6a3b554-9438-49c9-834d-8e14a043832d
 :END:
 Translate the following word
 
@@ -5326,6 +5777,7 @@ jīn jú shì suān de
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       5cb154fe-2efe-4eae-9837-e5f814200828
 :END:
 Translate the following word
 
@@ -5341,6 +5793,7 @@ cù shì sūan de
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3af5229d-9863-416d-8bf1-58aa51dd2491
 :END:
 Translate the following word
 
@@ -5356,6 +5809,7 @@ táng
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c01d89d4-05cb-4319-86ff-139dfcb870d0
 :END:
 Translate the following word
 
@@ -5371,6 +5825,7 @@ gěi
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8797eec8-276a-4c8e-beb3-9940fdcf2f5e
 :END:
 Translate the following word
 
@@ -5386,6 +5841,7 @@ zhè ge cài hěn xián
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6ba13fc6-9d2e-40c8-8714-b944d5c483a1
 :END:
 Translate the following word
 
@@ -5401,6 +5857,7 @@ zhè ge cài tài xián le
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e5f7feda-56f3-462f-8620-1db1060eef45
 :END:
 Translate the following word
 
@@ -5416,6 +5873,7 @@ wǒ xǐhuan tián, qǐng gěi wǒ táng
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       32dda274-2e3c-4f99-ae56-3c7a9ca2c204
 :END:
 Translate the following word
 
@@ -5470,6 +5928,7 @@ tā xǐhuan tián, qǐng gěi tā táng
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3658d62b-00e9-4ee0-a0dd-7079443d5aaf
 :END:
 Translate the following word
 ***** English
@@ -5481,6 +5940,7 @@ jiā
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3e906bd4-cec2-43ff-9d3f-c58ed278036e
 :END:
 Translate the following word
 ***** English
@@ -5492,6 +5952,7 @@ huí lái
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       560c77c2-4455-4eb2-ad80-705fb680be87
 :END:
 Translate the following word
 ***** English
@@ -5503,6 +5964,7 @@ huí jiā
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b1fae3b5-7d8f-4444-a627-4e3d56884bed
 :END:
 Translate the following word
 ***** English
@@ -5514,6 +5976,7 @@ jiā tíng
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       a5ce4d0e-bf77-4075-a30e-092d7640e6de
 :END:
 Translate the following word
 ***** English
@@ -5525,6 +5988,7 @@ jiā rén
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       fa02de30-3e2c-412a-b7c9-6ab70abeeb13
 :END:
 Translate the following word
 ***** English
@@ -5538,6 +6002,7 @@ zhàng fū
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c9202efa-d027-4070-a43c-ce59ac4e3537
 :END:
 Translate the following word
 ***** English
@@ -5551,6 +6016,7 @@ qī zi
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       50158d05-7c14-455b-a701-c05f6797166b
 :END:
 Translate the following word
 ***** English
@@ -5564,6 +6030,7 @@ fū qī
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       54a2a0c7-7d21-4076-adb6-8eb2cdd3fcc2
 :END:
 Translate the following word
 ***** English
@@ -5577,6 +6044,7 @@ lǎo gōng
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8c6ddf51-c149-4bbd-a84b-9d5dd3c4d031
 :END:
 Translate the following word
 ***** English
@@ -5590,6 +6058,7 @@ lǎo pó
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       33c9cc58-df2e-47e5-b3be-cdb5101c95ea
 :END:
 Translate the following word
 ***** English
@@ -5603,6 +6072,7 @@ wài gōng
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e12b6102-e145-4de7-9d30-0d16cb631bdc
 :END:
 Translate the following word
 ***** English
@@ -5616,6 +6086,7 @@ wài pó
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       de45075e-e265-4ca6-bfba-b4aef6235921
 :END:
 Translate the following word
 ***** English
@@ -5627,6 +6098,7 @@ xīan shēng
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       62645644-723f-470c-933d-01b45b9aebe6
 :END:
 Translate the following word
 ***** English
@@ -5638,6 +6110,7 @@ tài tài
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       898b349c-d598-4df0-858c-3cc5dc64466c
 :END:
 Translate the following word
 ***** English
@@ -5649,6 +6122,7 @@ fēilìpǔ xīan shēng
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       0f0d446e-57f5-4a60-b0e4-5ccba645afae
 :END:
 Translate the following word
 ***** English
@@ -5658,6 +6132,7 @@ Beadling xīan shēng
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       d7ff08a1-ab77-4cc9-941e-408a659e9b17
 :END:
 Translate the following word
 ***** English
@@ -5671,6 +6146,7 @@ fù qīn
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       25fee13e-ed83-47f0-8353-5865396b282a
 :END:
 Translate the following word
 ***** English
@@ -5682,6 +6158,7 @@ bà ba
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       ffcb1381-17f9-41a2-b5bb-5164792b193d
 :END:
 Translate the following word
 ***** English
@@ -5695,6 +6172,7 @@ mǔ qīn
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e9895016-f7e3-488d-b189-237d35c31c0a
 :END:
 Translate the following word
 ***** English
@@ -5706,6 +6184,7 @@ māmā
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       203d7513-9930-4ead-b67d-a3c2bae4081d
 :END:
 Translate the following word
 ***** English
@@ -5719,6 +6198,7 @@ Son
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       214b52ef-0690-4320-a7b5-b2e2f0570ceb
 :END:
 Translate the following word
 ***** English
@@ -5732,6 +6212,7 @@ nǚ ér
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       02e8cc35-8872-4617-96a6-dd9437ee5334
 :END:
 Translate the following word
 ***** English
@@ -5745,6 +6226,7 @@ fù mǔ
 **** Family and Parents                                            :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       07a4ee18-0135-4290-896b-1c4391bfee9e
 :END:
 Translate the following word
 ***** English
@@ -5789,6 +6271,7 @@ bà mā
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b90c8990-01f0-421c-a1e0-8e9cf3b7ce00
 :END:
 Translate the following word
 
@@ -5804,6 +6287,7 @@ gē gē
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       40b56118-d683-49e4-96a3-fb764fec11ea
 :END:
 Translate the following word
 
@@ -5819,6 +6303,7 @@ dì dì
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       fa7391d1-2d90-4dc7-bce9-350bd176b084
 :END:
 Translate the following word
 
@@ -5834,6 +6319,7 @@ jiě jiě
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c58920c9-0720-4f0d-b99f-1387b2bea452
 :END:
 Translate the following word
 
@@ -5849,6 +6335,7 @@ mèi mei
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       0d535106-f791-4e44-95e2-0ed82d4891e7
 :END:
 Translate the following word
 
@@ -5867,6 +6354,7 @@ yé yé
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6f616b91-0414-42d6-b4b8-d4c56fdfdd9d
 :END:
 Translate the following word
 
@@ -5885,6 +6373,7 @@ nǎi nai
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       56e763d2-ea40-4dc7-8b69-f283025c934e
 :END:
 Translate the following word
 
@@ -5900,6 +6389,7 @@ mèi fū
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3f15075d-3e2b-40ee-8744-0e7060ff69f6
 :END:
 Translate the following word
 
@@ -5918,6 +6408,7 @@ wài shēng
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       5b8f8665-f82b-4c75-ac9a-004e2b024f59
 :END:
 Translate the following word
 
@@ -5933,6 +6424,7 @@ wài shēng nǚ
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       344ff1eb-044f-40cf-b959-99baff1590e9
 :END:
 Translate the following word
 
@@ -5948,6 +6440,7 @@ Sǎo zi
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       2e7280bf-4cd1-4dbb-9d52-c1c0300f0efc
 :END:
 Translate the following word
 
@@ -5963,6 +6456,7 @@ jiù jiu
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       5bef298b-5b66-4266-9d88-d6c9147e054f
 :END:
 Translate the following word
 
@@ -5981,6 +6475,7 @@ dà jiù
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       cb12d220-4363-42c9-9e40-9e17f3ad9112
 :END:
 Translate the following word
 
@@ -5996,6 +6491,7 @@ Translate the following word
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       85a1ee11-d097-427d-bb90-e9c49eba93e3
 :END:
 Translate the following word
 
@@ -6011,6 +6507,7 @@ zhí zi
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       05422863-bda4-4fa9-9e5b-cc57dc83cf59
 :END:
 Translate the following word
 
@@ -6026,6 +6523,7 @@ zhí nǚ
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       fc325d65-a2c8-409d-8bac-645d9d3aafd6
 :END:
 Translate the following word
 
@@ -6044,6 +6542,7 @@ táng gē
 **** Sibiling and Cousins                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       6955428d-c508-4b9b-a22f-bfc60c601515
 :END:
 Translate the following word
 
@@ -6103,6 +6602,7 @@ biǎo mèi
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       39e9f9b4-7036-4932-8545-5d051e35ef92
 :END:
 Translate the following word
 ***** English
@@ -6112,8 +6612,18 @@ fāng xiàng
 ***** Characters
 方向
 **** Directions                                                    :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       27f23b3d-d925-4db8-be95-864f4d1a9147
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:22]
 :END:
 Translate the following word
 ***** English
@@ -6125,6 +6635,7 @@ nǎ gè
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8ed4185e-782d-4b57-8a5a-199686c577c9
 :END:
 Translate the following word
 ***** English
@@ -6136,6 +6647,7 @@ nǎ lǐ
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       5378b636-09f6-494d-9edc-a7a0acbc5b63
 :END:
 Translate the following word
 ***** English
@@ -6147,6 +6659,7 @@ nǎ gè fāng xiàng
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       dc8f06aa-80ed-4721-8d07-36e7935d18f3
 :END:
 Translate the following word
 ***** English
@@ -6158,6 +6671,7 @@ shén me fāng xiàng
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       608e2044-1425-42c6-8130-5a77c31cc0a7
 :END:
 Translate the following word
 ***** English
@@ -6169,6 +6683,7 @@ dōng
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       fb7d633c-ddd7-4d6b-8484-e7849719cf87
 :END:
 Translate the following word
 ***** English
@@ -6180,6 +6695,7 @@ xi
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f2f006df-22a6-42df-a3d2-107a7d33bf47
 :END:
 Translate the following word
 ***** English
@@ -6191,6 +6707,7 @@ nán
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       7c2b7abb-bc40-449a-97b8-5a31b113ef9e
 :END:
 Translate the following word
 ***** English
@@ -6202,6 +6719,7 @@ běi
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       7eaae3e8-91c0-4a6c-87a3-bc2263495c0d
 :END:
 Translate the following word
 ***** English
@@ -6213,6 +6731,7 @@ zhōng
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       81700da9-80ad-4cd2-92d1-c3bcbf5c6d43
 :END:
 Translate the following word
 ***** English
@@ -6224,6 +6743,7 @@ shàng
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       bcd89334-62d8-4e98-b8c2-0876247e6b2b
 :END:
 Translate the following word
 ***** English
@@ -6235,6 +6755,7 @@ xià
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       a8afc00c-a106-49d4-b6b5-9bb5a5b0550c
 :END:
 Translate the following word
 ***** English
@@ -6246,6 +6767,7 @@ zuǒ
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b1a16556-4b10-4bfb-aca9-062eac1be1b1
 :END:
 Translate the following word
 ***** English
@@ -6257,6 +6779,7 @@ yòu
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4fe8c7b0-7a7c-4795-bedb-47fe6427437b
 :END:
 Translate the following word
 ***** English
@@ -6268,6 +6791,7 @@ qián
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       cb57e86b-46db-4bbb-8542-31ac3e91b94b
 :END:
 Translate the following word
 ***** English
@@ -6279,6 +6803,7 @@ hòu
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       a7515eb1-acb0-4fd9-bf4b-85fefaf4c343
 :END:
 Translate the following word
 ***** English
@@ -6290,6 +6815,7 @@ zǒu
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       cac58db4-06b3-4b01-bc85-d80a725f6573
 :END:
 Translate the following word
 ***** English
@@ -6301,6 +6827,7 @@ yī zhí
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       eebfefd9-4cd4-4cbd-9221-f05c3f4cfa43
 :END:
 Translate the following word
 ***** English
@@ -6308,6 +6835,7 @@ Also means “Always”
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       fe931ac0-5af7-438f-8906-1f5e212b413c
 :END:
 Translate the following word
 ***** English
@@ -6321,6 +6849,7 @@ nà lǐ
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9acf9fa7-0027-4f99-8461-ea1f9c3dd5ff
 :END:
 Translate the following word
 ***** English
@@ -6334,6 +6863,7 @@ zhè lǐ
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       965589c6-33b6-42c5-ba48-f26a5227b890
 :END:
 Translate the following word
 ***** English
@@ -6347,6 +6877,7 @@ Please ask airport (machine flat-place) at where?
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       57702ce1-afe7-471d-b8b9-e0cee14faa10
 :END:
 Translate the following word
 ***** English
@@ -6360,6 +6891,7 @@ fēi jī
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f8721917-95da-4f72-8050-fca04cfadac3
 :END:
 Translate the following word
 ***** English
@@ -6373,6 +6905,7 @@ fēi jī chǎng
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       ff22d04b-c0b2-460f-9a2d-ea7d41834c8a
 :END:
 Translate the following word
 ***** English
@@ -6386,6 +6919,7 @@ Please ask hospital how walk/go?
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4acf8713-87af-4531-952e-789e8074dd60
 :END:
 Translate the following word
 ***** English
@@ -6397,6 +6931,7 @@ nǐ yīzhí zǒu, ránhòu zuǒ guǎi.
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9e9ee8a9-1dad-4523-8067-d6120e7ded91
 :END:
 Translate the following word
 ***** English
@@ -6410,6 +6945,7 @@ nǐ yīzhí zǒu, ránhòu zuǒ zhuǎn.
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       732d110c-177f-4b33-bb13-f6d20b6d32c1
 :END:
 Translate the following word
 ***** English
@@ -6421,6 +6957,7 @@ jīchǎng zài nánmiàn.
 **** Directions                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c2426e14-f94c-444e-80ac-15ebd2b42f79
 :END:
 Translate the following word
 ***** English
@@ -6464,6 +7001,7 @@ jīchǎng zài nánbian.
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3148ac7d-1088-4d82-9987-ef1d6f13db77
 :END:
 Translate the following word
 ***** English
@@ -6475,6 +7013,7 @@ yín háng
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       fe139c6b-47f7-41ed-be2b-edd8d2eb2f6b
 :END:
 Translate the following word
 ***** English
@@ -6486,6 +7025,7 @@ shāng diàn
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       07734706-2284-4b1f-9dcc-7fcaeda6d7a0
 :END:
 Translate the following word
 ***** English
@@ -6497,6 +7037,7 @@ fàn diàn
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9c1deb28-244a-4917-bc2d-0941857b6354
 :END:
 Translate the following word
 ***** English
@@ -6508,6 +7049,7 @@ Shāng chǎng
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       d1b81d5a-60df-4f4e-b74f-af235a317921
 :END:
 Translate the following word
 ***** English
@@ -6519,6 +7061,7 @@ Yī yuàn
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       a23d6e01-63c8-47d3-af0b-ca871e6d74fa
 :END:
 Translate the following word
 ***** English
@@ -6530,6 +7073,7 @@ Jiǔ diàn
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       652df622-2edd-4e14-8533-65f4e0de3f4c
 :END:
 Translate the following word
 ***** English
@@ -6539,8 +7083,18 @@ Huǒ chē zhàn
 ***** Characters
 火车站
 **** Places                                                        :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c9941eb1-979c-4fcd-9d9b-f077f448c549
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:22]
 :END:
 Translate the following word
 ***** English
@@ -6552,6 +7106,7 @@ Qì chē zhàn
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       75eafc1c-6e89-4ab7-9b8c-86ee24e0fea4
 :END:
 Translate the following word
 ***** English
@@ -6563,6 +7118,7 @@ Hóng lǜ dēng
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8db29a02-b591-4569-b025-7d7afb2a252d
 :END:
 Translate the following word
 ***** English
@@ -6576,6 +7132,7 @@ shí zi means shí like, as in character 10! road mouth
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3b713bb7-426a-4fd3-be96-3380a8792272
 :END:
 Translate the following word
 ***** English
@@ -6589,6 +7146,7 @@ Literally – Spotted Horse Line.
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9cf11de4-34d5-45ec-962c-618c2a043f90
 :END:
 Translate the following word
 ***** English
@@ -6602,6 +7160,7 @@ Dǎ chē
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       56e991f3-a9a0-4ccf-8fbd-bf84e6e3138e
 :END:
 Translate the following word
 ***** English
@@ -6615,6 +7174,7 @@ Chū zū chē
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8f2af954-f2cd-46ee-be40-e004581a3e58
 :END:
 Translate the following word
 ***** English
@@ -6626,6 +7186,7 @@ Nǐ qù nǎ lǐ
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       23aa8453-2ed7-4c28-951a-1d01eceb25c3
 :END:
 Translate the following word
 ***** English
@@ -6637,6 +7198,7 @@ Wǒ qù jiǔ diàn
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       c34416a1-2b89-429e-83b4-ce3ac9619b33
 :END:
 Translate the following word
 ***** English
@@ -6648,6 +7210,7 @@ duì miàn
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       ed87bc7a-5fcb-43ba-8d03-fa5264325ff1
 :END:
 Translate the following word
 ***** English
@@ -6659,6 +7222,7 @@ duì duì duì
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       7a91740e-4a87-40c0-a5e2-5d32603a3647
 :END:
 Translate the following word
 ***** English
@@ -6670,6 +7234,7 @@ wǒ de jiǔ diàn zài duì miàn
 **** Places                                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       86e20e7d-a6f2-4367-b398-9377a19eacc1
 :END:
 Translate the following word
 ***** English
@@ -6710,6 +7275,7 @@ páng biān
 **** Catching a Train                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       19262872-72db-4fd9-aa91-6adc180ecd73
 :END:
 Translate the following word
 
@@ -6725,6 +7291,7 @@ zhàn tái
 **** Catching a Train                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       37697ca1-5ce8-459c-9c76-ae6e90078f79
 :END:
 Translate the following word
 
@@ -6740,6 +7307,7 @@ nǎ gè zhàn tái
 **** Catching a Train                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8e4520d5-27d0-44d8-bb91-36370c5bba80
 :END:
 Translate the following word
 
@@ -6755,6 +7323,7 @@ wǒ qù Chóngqìng, nǎ gè zhàn tái
 **** Catching a Train                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8799541e-b1a6-4234-9583-73fe509489c4
 :END:
 Translate the following word
 
@@ -6770,6 +7339,7 @@ wǒ qù Chóngqìng, jǐ diǎn shì huǒ chē
 **** Catching a Train                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f891e518-78d5-444f-80e9-8f35339d0e56
 :END:
 Translate the following word
 
@@ -6785,6 +7355,7 @@ zài sān zhàn tái
 **** Catching a Train                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b832910d-fbac-4446-9b43-3ddd99e23f46
 :END:
 Translate the following word
 
@@ -6800,6 +7371,7 @@ huǒ chē shì zài qī diǎn èr shí bā
 **** Catching a Train                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       fc649e78-ef6f-4033-9cf6-e383c259e46a
 :END:
 Translate the following word
 
@@ -6815,6 +7387,7 @@ zài qī diǎn èrshíbā de huǒchē qù shànghǎi
 **** Catching a Train                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       0e99b7a2-1b36-4875-be51-67d5bd6add23
 :END:
 Translate the following word
 
@@ -6830,6 +7403,7 @@ jǐ diǎn de huǒ chē qù shàng hǎi
 **** Catching a Train                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       834a9aac-09a8-4968-9ac3-7304950812a9
 :END:
 Translate the following word
 
@@ -6845,6 +7419,7 @@ cóng běijīng dào shànghǎi de ruǎnwò piào duōshǎo qián
 **** Catching a Train                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3b939419-4b84-4340-ba9d-ada0f5d5f3fa
 :END:
 Translate the following word
 
@@ -6860,6 +7435,7 @@ cóng
 **** Catching a Train                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       276ef008-3d99-4d23-9431-74b3fe3e4731
 :END:
 Translate the following word
 
@@ -6875,6 +7451,7 @@ dào
 **** Catching a Train                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       fff6db6a-291c-407a-b2bf-43ab7364e71d
 :END:
 Translate the following word
 
@@ -6890,6 +7467,7 @@ ruǎnwò
 **** Catching a Train                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       30f2e1e2-c353-4f7e-9df2-a642ededbb3d
 :END:
 Translate the following word
 
@@ -6905,6 +7483,7 @@ piào
 **** Catching a Train                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       2d79ea1b-6abe-4668-864c-818cc0eb3084
 :END:
 Translate the following word
 
@@ -6933,6 +7512,7 @@ T25 cì zài dì jǐ zhàn tái shàng chē ?
 **** Mei and Bu                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e954a633-b9c3-4b65-a2b6-41c616484513
 :END:
 Translate the following word
 ***** English
@@ -6946,6 +7526,7 @@ Implies you have no interest in having lunch today/in the future
 **** Mei and Bu                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       339f589d-74ce-49cb-af99-dc5c711a3fa8
 :END:
 Translate the following word
 ***** English
@@ -6959,6 +7540,7 @@ Implies that you haven't had lunch in the past today
 **** Mei and Bu                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       196bc362-ac04-44e7-be05-37bcdbd456f5
 :END:
 Translate the following word
 ***** English
@@ -6972,6 +7554,7 @@ Here bu would make no sense
 **** Mei and Bu                                                    :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       71fa2e2e-a99a-4500-8d3e-cfada6b267be
 :END:
 Translate the following word
 ***** English
@@ -7011,6 +7594,7 @@ Here mei would make no sense
 **** Jobs                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       35065f58-ac23-4b33-a336-0beff6870477
 :END:
 Translate the following word
 ***** English
@@ -7020,8 +7604,18 @@ Gōng zuò
 ***** Characters
 工作
 **** Jobs                                                          :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f443f4bf-794e-49f0-997d-af2e5397c4c8
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:25]
 :END:
 Translate the following word
 ***** English
@@ -7033,6 +7627,7 @@ Shàng bān
 **** Jobs                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       11dd459f-b66e-42f6-98d1-bc7fa909dd4d
 :END:
 Translate the following word
 ***** English
@@ -7044,6 +7639,7 @@ Wǒ de gōngzuò shì ...
 **** Jobs                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1d5fd01b-49f2-4734-912d-fba413afb58c
 :END:
 Translate the following word
 ***** English
@@ -7057,6 +7653,7 @@ General term like Engineer or Doctor
 **** Jobs                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9d203ead-989b-4e0d-abc0-ccdde0faab64
 :END:
 Translate the following word
 ***** English
@@ -7070,6 +7667,7 @@ Medicine Student
 **** Jobs                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       0eafc4d3-8853-4983-a658-c4276150cf5e
 :END:
 Translate the following word
 ***** English
@@ -7081,6 +7679,7 @@ Kuài jì
 **** Jobs                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f95ab91a-1359-4511-abbf-8c588426012a
 :END:
 Translate the following word
 ***** English
@@ -7094,6 +7693,7 @@ Old master
 **** Jobs                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e4eba910-1119-497a-914a-00a4ff13b0d6
 :END:
 Translate the following word
 ***** English
@@ -7107,6 +7707,7 @@ Service wu General Worker
 **** Jobs                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4a4d7d17-003d-4960-8d79-1533c811e42f
 :END:
 Translate the following word
 ***** English
@@ -7120,6 +7721,7 @@ Cook master
 **** Jobs                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       2c579785-5f29-4a87-b4c6-7cfae46c4134
 :END:
 Translate the following word
 ***** English
@@ -7133,6 +7735,7 @@ Yuan is general worker
 **** Jobs                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       53802995-b14b-4bd2-ada3-ab06c311ba2a
 :END:
 Translate the following word
 ***** English
@@ -7146,6 +7749,7 @@ Public Affair worker
 **** Jobs                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       76df8c94-ffc5-4d4e-959e-c02e66ccbc44
 :END:
 Translate the following word
 ***** English
@@ -7159,6 +7763,7 @@ Deal-with Machine
 **** Jobs                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       784d40a2-3078-4eaa-9fc9-9b070514266d
 :END:
 Translate the following word
 ***** English
@@ -7170,6 +7775,7 @@ Jǐng chá
 **** Jobs                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       ed8cd45c-7898-4d32-b5d2-f8fbd20c12b6
 :END:
 Translate the following word
 ***** English
@@ -7183,6 +7789,7 @@ Law master
 **** Jobs                                                          :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       1a001f1d-6e2a-42c7-834d-3f77434c8ffe
 :END:
 Translate the following word
 ***** English
@@ -7216,6 +7823,7 @@ Learn Student
 **** Place of Work                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       8ecdd165-cf72-49f0-93b4-16a23e7c0d56
 :END:
 Translate the following word
 ***** English
@@ -7229,6 +7837,7 @@ Learn School
 **** Place of Work                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3a8b9e23-e60d-4d8f-8483-3e6c563c7d24
 :END:
 Translate the following word
 ***** English
@@ -7242,6 +7851,7 @@ Big Learn
 **** Place of Work                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       73233785-d9a7-4233-8f3e-87ba416859c1
 :END:
 Translate the following word
 ***** English
@@ -7255,6 +7865,7 @@ Small Learn
 **** Place of Work                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       31ef23ce-6996-40a0-85d1-5e07a65ca99d
 :END:
 Translate the following word
 ***** English
@@ -7268,6 +7879,7 @@ Middle Learn
 **** Place of Work                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       72a9b31d-eaa5-4878-adce-6d1049845af9
 :END:
 Translate the following word
 ***** English
@@ -7279,8 +7891,18 @@ Fàn diàn
 ***** Notes
 Meal place
 **** Place of Work                                                 :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       55dbb073-3b38-4a52-b5e4-855cb637a018
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:23]
 :END:
 Translate the following word
 ***** English
@@ -7294,6 +7916,7 @@ Medicine Building
 **** Place of Work                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       85e914ee-2c1e-408a-851d-e89c8cf33a04
 :END:
 Translate the following word
 ***** English
@@ -7305,8 +7928,18 @@ Dà shǐ guǎn
 ***** Notes
 Ambassador Building
 **** Place of Work                                                 :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       98755fed-a86f-47fb-ada1-4f5f6a855f02
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:27]
 :END:
 Translate the following word
 ***** English
@@ -7320,6 +7953,7 @@ Public Operation
 **** Place of Work                                                 :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       efdb176c-0ff3-4f59-9b89-bdcd92b69867
 :END:
 Translate the following word
 ***** English
@@ -7351,6 +7985,7 @@ Politics Place
 **** Questions on Work                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       94dfa8fc-5de9-4b04-b9ff-1c192297d979
 :END:
 Translate the following word
 ***** English
@@ -7360,8 +7995,18 @@ Nǐ zài nǎ lǐ gōng zuò
 ***** Characters
 你在哪里工作
 **** Questions on Work                                             :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       41e79a0d-7902-4476-870b-fe17803caaf2
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:27]
 :END:
 Translate the following word
 ***** English
@@ -7375,6 +8020,7 @@ zuò = do
 **** Questions on Work                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       f1b0857a-4acc-49ec-9869-008459518b31
 :END:
 Translate the following word
 ***** English
@@ -7388,6 +8034,7 @@ shì not zuò
 **** Questions on Work                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       af171208-83d7-4106-8df0-30835a91a4e6
 :END:
 Translate the following word
 ***** English
@@ -7401,6 +8048,7 @@ My wife at hospital works
 **** Questions on Work                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3a81d18b-5430-4567-93da-0b1db007cc5f
 :END:
 Translate the following word
 ***** English
@@ -7412,6 +8060,7 @@ Tā shì yīshēng
 **** Questions on Work                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       5257e953-7882-426a-8f68-f66add192d9a
 :END:
 Translate the following word
 ***** English
@@ -7423,6 +8072,7 @@ Wǒ dí gēgē zài zhèngfǔ shàngbān
 **** Questions on Work                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       3ae778d1-7253-4d67-9c1b-0150c9ec9a4e
 :END:
 Translate the following word
 ***** English
@@ -7453,6 +8103,7 @@ Tā shì gōngwùyuán
 **** Age                                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       84f26c6b-56e2-45e0-af8c-c73ba915e7e4
 :END:
 Translate the following word
 
@@ -7471,6 +8122,7 @@ How big are you
 **** Age                                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       e4a7d748-eea3-4aa6-af82-13612cc68789
 :END:
 Translate the following word
 
@@ -7486,6 +8138,7 @@ Sān shí jiǔ
 **** Age                                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b942878d-8c15-4b36-9170-7e0633a30d67
 :END:
 Translate the following word
 
@@ -7501,6 +8154,7 @@ Nǐ jǐ suì
 **** Age                                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       311f5092-6695-482b-a2f9-fb5b68695ccb
 :END:
 Translate the following word
 
@@ -7519,6 +8173,7 @@ suì is age counter
 **** Age                                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       b7a506b8-a223-4241-95a3-7386a729202d
 :END:
 Translate the following word
 
@@ -7537,6 +8192,7 @@ How big your age
 **** Age                                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       42f1d751-dcd1-40e4-8c93-f15dd7b3b2f0
 :END:
 Translate the following word
 
@@ -7556,87 +8212,84 @@ You high life
 ** Phones, e-mails and messages
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                    | Pinyin | Characters | Notes                  |
-|----------------------------+--------+------------+------------------------|
-| Mobile phone               |        |            |                        |
-| Telephone                  |        |            |                        |
-| Make a phone call          |        |            | Like da in take a taxi |
-| e-mail                     |        |            |                        |
-| Send an e-mail             |        |            |                        |
-| Text message               |        |            |                        |
-| What is your phone number? |        |            |                        |
-| What is your phone number? |        |            | Bad grammar!           |
-| Make phone call            |        |            |                        |
-| Return phone call          |        |            |                        |
-| Receive phone call         |        |            |                        |
+| English                    | Pinyin                      | Characters     | Notes                                                |
+|----------------------------+-----------------------------+----------------+------------------------------------------------------|
+| Mobile phone               | Shǒu jī                     | 手机           | Hand machine                                         |
+| Telephone                  | Diàn huà                    | 电话           | Electric Words/Speech                                |
+| Make a phone call          | Dǎ diànhuà                  | 打电话         | Like da in take a taxi                               |
+| Return phone call          | Huí diànhuà                 | 回电话         | Hui = back as in back home                           |
+| Receive phone call         | Jiē diànhuà                 | 接电话         | Answer/receive call                                  |
+| e-mail                     | Yóu jiàn                    | 邮件           | Post collection-of-letters. Originally used for mail |
+| Send an e-mail             | Fā yóujiàn                  | 发邮件         | The 'fa' means this is definitely e-mail             |
+| Text message               | Duǎn xìn                    | 短信           | Short message                                        |
+| What is your phone number? | Nín de diànhuà shì duō shǎo | 您的电话是多少 | You of phone is how much                             |
+| What is your phone number? | Diàn huà shì shén me        | 电话是什么     | Bad grammar!  Could add Nin de                       |
 
 ** Making a Phone Call
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                        | Pinyin | Characters | Notes                              |
-|--------------------------------+--------+------------+------------------------------------|
-| Hello on phone                 |        |            |                                    |
-| Who is this?                   |        |            |                                    |
-| I am ....                      |        |            |                                    |
-| Who are you calling for?       |        |            | Please ask you looking-for who?    |
-| Is Philip there?               |        |            | I look-for Philip, he at question? |
-| He is, please wait a moment    |        |            | At, please wait one short time     |
-| Is Philip there or not?        |        |            | Please ask Philip at not at.       |
-| He's not here.                 |        |            | He not at                          |
-| Is that Philip?                |        |            | Are you Philip?                    |
-| I'm not, you dial wrong number |        |            | You hit wrong (past tense)         |
-| He go to shop                  |        |            |                                    |
-| He go to bank                  |        |            |                                    |
-| He go eat meal                 |        |            |                                    |
-| He go sleep                    |        |            | Sleep a sleep                      |
-| He's gone out                  |        |            | Out go (past)                      |
-| He's gone out                  |        |            | Out door (past)                    |
-| He's gone out for dinner       |        |            |                                    |
-
+| English                        | Pinyin                     | Characters         | Notes                                           |
+|--------------------------------+----------------------------+--------------------+-------------------------------------------------|
+| Hello on phone                 | Wèi                        | 为                 | Wei, nihao!                                     |
+| Who is this?                   | Wèi, nín shì nǎ wèi        | 为, 您是哪位       | Last wei is polite human measure word (like ge) |
+| I am ....                      | Wǒ shì ...                 | 我是 ...           |                                                 |
+| Who are you calling for?       | Qǐng wèn nín zhǎo shéi     | 请问您找谁         | Please ask you looking-for who? shei=shui       |
+| Is Philip there?               | Wǒ zhǎo fēilìpǔ, tā zài ma | 我找菲利普, 他在吗 | I look-for Philip, he at question?              |
+| He is, please wait a moment    | Zài, qǐng děng yīxià       | 在, 请等一下       | At, please wait one short time                  |
+| Is Philip there or not?        | Qǐngwèn fēilìpǔ zài bù zài | 请问菲利普在不在   | Please ask Philip at-not-at.                    |
+| He's not here.                 | Tā bù zài                  | 他不在             | He not at                                       |
+| Is that Philip?                | Shì fēilìpǔ ma             | 是菲利普吗         | Are you Philip?                                 |
+| I'm not, you dial wrong number | Bùshì, nǐ dǎ cuò le        | 不是, 你打错了     | You hit wrong (past tense)                      |
+| He go to shop                  | Tā qù shāngdiàn            | 他去商店           |                                                 |
+| He go to bank                  | Tā qù yínháng              | 他去银行           |                                                 |
+| He go eat meal                 | Tā qù chīfàn               | 他去吃饭           |                                                 |
+| He go sleep                    | Tā qù shuìjiào             | 他去睡觉           | Sleep a sleep                                   |
+| He's gone out                  | Tā qù chū qù le            | 他去出去了         | Out go (past)                                   |
+| He's gone out                  | Tā qù chū mén le           | 他去出门了         | Out door (past)                                 |
+| He's gone out for dinner       | Tā qù chī fàn le           | 他去吃饭了         |                                                 |
 
 ** Other grammar examples
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                   | Pinyin | Characters | Notes                                 |
-|---------------------------+--------+------------+---------------------------------------|
-| I *am* Philip             |        |            | jiu is emphasis if asked for on phone |
-| Have you been to England? |        |            |                                       |
-| I *am* English            |        |            | jiu emphasis                          |
-| You eat breakfast         |        |            |                                       |
-| Have you eaten breakfast? |        |            | Use of guo                            |
-| Have you been to China?   |        |            | Use of guo                            |
-| I have been               |        |            | Use of guo                            |
-| I haven't been            |        |            | Use of guo                            |
-| Right / Wrong             |        |            |                                       |
-| What are you doing?       |        |            | You "ing" do what?                    |
-| I eat lunch               |        |            |                                       |
-| I am eating lunch         |        |            | I "ing" eat lunch                     |
-| Give                      |        |            |                                       |
-| I bought one apple        |        |            |                                       |
-| I buy you one apple       |        |            |                                       |
-| You get out!              |        |            |                                       |
-| But                       |        |            |                                       |
+| English                   | Pinyin                         | Characters         | Notes                                   |
+|---------------------------+--------------------------------+--------------------+-----------------------------------------|
+| I *am* Philip             | Wǒ jiù shì fēilìpǔ             | 我就是菲利普       | jiu is emphasis if asked for on phone   |
+| Have you been to England? | Nǐ qù guò yīngguó ma           | 你去过英国吗       | ever been too                           |
+| I *am* English            | Wǒ jiù shì yīngguó rén         | 我就是英国人       | jiu emphasis                            |
+| You eat breakfast         | Nǐ chī zǎofàn                  | 你吃早饭           |                                         |
+| Have you eaten breakfast? | Nǐ chī guò zǎofàn ma           | 你吃过早饭吗       | Use of guo                              |
+| Have you been to China?   | Nǐ qù guò zhōngguó ma          | 你去过中国吗       | Use of guo                              |
+| I have been               | Wǒ qù guò                      | 我去过             | Use of guo                              |
+| I haven't been            | Wǒ méi qùguò                   | 我没去过           | Use of guo                              |
+| Right / Wrong             | Duì / Cuò                      | 对 / 错            |                                         |
+| What are you doing?       | Nǐ zài zuò shén me             | 你在做什么         | You "ing" do what?                      |
+| I eat lunch               | Wǒ chī wǔfàn                   | 我吃午饭           | Have lunch                              |
+| I am eating lunch         | Wǒ zài chī wǔfàn               | 我在吃午饭         | I "ing" eat lunch                       |
+| Give                      | Gěi                            | 给                 |                                         |
+| I bought one apple        | Wǒ mǎi le yī gè píngguǒ        | 我买了一个苹果     | le makes past tense                     |
+| I bought you one apple    | Wǒ gěi nǐ mǎi le yī gè píngguǒ | 我给你买了一个苹果 | Use of gei - I give you bought 1 apple  |
+| You get out!              | Nǐ gěi wǒ chū qù!              | 你给我出去         | Use of gei - here "give me" is emphasis |
+| But                       | Dànshì                         | 但是               |                                         |
 
 ** Phone Conversation
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                          | Pinyin | Characters | Notes |
-|----------------------------------+--------+------------+-------|
-| Hello, Is Philip there?          |        |            |       |
-| He has gone to dinner            |        |            |       |
-| Who are you?                     |        |            |       |
-| I am his friend, Yuyu            |        |            |       |
-| Please ask him to return my call |        |            |       |
+| English                          | Pinyin                             | Characters               | Notes                       |
+|----------------------------------+------------------------------------+--------------------------+-----------------------------|
+| Hello, Is Philip there?          | Wèi, nǐhǎo, qǐngwèn fēilìpǔ zài ma | 为, 你好, 请问菲利普在吗 |                             |
+| He has gone to dinner            | Tā qù chī fàn le                   | 他去吃饭了               |                             |
+| Who are you?                     | Nín nǎ wèi                         | 您哪位                   |                             |
+| I am his friend, Yuyu            | Wǒ shì tā de péngyǒu, yúyú         | 我是他的朋友, 鱼鱼       | he of friend                |
+| Please ask him to return my call | Qǐng tā gěi wǒ huí diànhuà         | 请他给我回电话           | Please he give me back call |
 
 ** Conversation About Phone Call
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                              | Pinyin | Characters | Notes |
-|--------------------------------------+--------+------------+-------|
-| I called you, but you were not there |        |            |       |
-| Your husband took the call           |        |            |       |
-| He said you had gone out for dinner  |        |            |       |
-
+| English                              | Pinyin                               | Characters             | Notes |
+|--------------------------------------+--------------------------------------+------------------------+-------|
+| I called you, but you were not there | Wǒ gěi nǐ dǎ diànhuà dànshì nǐ bùzài | 我给你打电话但是你不在 |       |
+| Your husband took the call           | Nǐ lǎogōng jiē le diànhuà            | 你老公接了电话         |       |
+| He said you had gone out for dinner  | Tā shuō nǐ qù chī fàn le             | 他说你去吃饭了         |       |
 
 * Links
 ** PDF Version
