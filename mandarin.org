@@ -909,9 +909,18 @@ líng chén
 ***** Characters
 凌晨
 **** Times of the Day                                              :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       efea15c5-88d4-43c0-b355-5270acec7bf9
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:07]
 :END:
 Translate the following word
 ***** English
@@ -1105,9 +1114,18 @@ rì / hào
 ***** Characters
 日／号
 **** Days, Weeks, Months                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       2f5ee5c5-45fd-408e-ad8a-778565db73f4
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:06]
 :END:
 Translate the following word
 ***** English
@@ -1129,9 +1147,18 @@ xīng qī
 ***** Characters
 星期
 **** Days, Weeks, Months                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       4d600cd6-cb8d-4285-9b81-225547705c62
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:04]
 :END:
 Translate the following word
 ***** English
@@ -1344,9 +1371,18 @@ hòu tiān
 ***** Characters
 后天
 **** Relative Time                                                 :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       d572f665-4021-4a50-8f50-76e4828e7ebc
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:10]
 :END:
 Translate the following word
 ***** English
@@ -1579,9 +1615,18 @@ jīn tiān jǐ hào
 ***** Characters
 今天几号
 **** Going to Shanghai                                             :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       d12a1092-64d2-4787-8b60-5145858fd16a
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:02]
 :END:
 Translate the following word
 ***** English
@@ -1591,9 +1636,18 @@ jīn tiān bā yuè bā hào
 ***** Characters
 今天八月八号
 **** Going to Shanghai                                             :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       8d8f10c4-36a1-4f59-93ed-4a44f151225b
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:56]
 :END:
 Translate the following word
 ***** English
@@ -1756,9 +1810,18 @@ zhōngwǔ jǐ diǎn chī fàn
 吃 means eat, and 饭 means meal
 
 **** Daily Routine                                                 :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       01f6803d-826c-401e-93c0-82ebc2e73182
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:57]
 :END:
 Translate the following word
 
@@ -2248,9 +2311,18 @@ wǒ yāo mǎi liǎng jīn
 ***** Characters
 我要买两斤
 **** Money                                                         :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       8d4c8318-ced6-4502-bfa7-0671e417d842
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:56]
 :END:
 Translate the following word
 ***** English
@@ -2409,9 +2481,18 @@ yaò duō shǎo
 ***** Characters
 要多少
 **** Buying Food and Drink                                         :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       7288b8d3-31fb-4a34-bbaf-9cade2c456f0
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:05]
 :END:
 Translate the following word
 ***** English
@@ -2589,9 +2670,18 @@ dōng guā
 ***** Characters
 冬瓜
 **** Buying Food and Drink                                         :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       d192ebaa-24ab-430e-a9aa-a26eaca532dd
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:04]
 :END:
 Translate the following word
 ***** English
@@ -2767,9 +2857,18 @@ zěn me
 ***** Characters
 怎么
 **** Buying a Jumper                                               :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       6b5851a9-181c-4295-8eac-27204d460bcc
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:59]
 :END:
 Translate the following word
 ***** English
@@ -2781,9 +2880,18 @@ How much is <thing>
 ***** Notes
 <thing> how (you) sell?
 **** Buying a Jumper                                               :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       56ef2d9d-d014-4e7d-86dc-8555c1675933
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:03]
 :END:
 Translate the following word
 ***** English
@@ -3196,9 +3304,18 @@ lǜ
 ***** Characters
 绿色
 **** Colours                                                       :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       79eadf5c-fce1-4be8-a603-26c41fd9b33c
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:04]
 :END:
 Translate the following word
 ***** English
@@ -3208,9 +3325,18 @@ bǎi
 ***** Characters
 白色
 **** Colours                                                       :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       a577c184-9901-4f9b-adfb-c280060e0f45
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.667
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:10]
 :END:
 Translate the following word
 ***** English
@@ -3389,9 +3515,18 @@ féi shòu
 ***** Characters
 肥瘦
 **** Clothes and Sizes                                             :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       9999deb3-0f8c-4b0f-adf3-ba303f62e946
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:09]
 :END:
 Translate the following word
 ***** English
@@ -3470,9 +3605,18 @@ Denim Jackets
 ***** Pinyin
 niú zǎi wài tào
 **** Clothes and Sizes                                             :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       dfd68a58-ee72-4560-8ba9-3aed26e53dda
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:10]
 :END:
 Translate the following word
 ***** English
@@ -3616,9 +3760,18 @@ want
 ***** Pinyin
 yào
 **** Different Ways of Asking Questions                            :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       b7004231-6dce-403d-856e-5f58fa5d779f
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:02]
 :END:
 Translate the following word
 ***** English
@@ -3774,9 +3927,18 @@ How much is this dress?
 ***** Pinyin
 zhè tiáo qúnzi duō shào qiàn?
 **** CLothes and Discounts                                         :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       b9536246-d77f-4520-bf47-71bce36ab984
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:08]
 :END:
 Translate the following word
 ***** English
@@ -3814,9 +3976,18 @@ Now there is 20% off (80% of the original 200)
 ***** Pinyin
 xiàn zài dǎ bá zhé liǎng bǎi
 **** CLothes and Discounts                                         :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       57a717ae-0ee0-4927-8c02-5fa725f94e15
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:58]
 :END:
 Translate the following word
 ***** English
@@ -3826,9 +3997,18 @@ dǎ
 ***** Notes
 (also means heat, phone call, take a taxi!)
 **** CLothes and Discounts                                         :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       fb989e6c-2267-414e-b65c-9a9ca78b8afc
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:09]
 :END:
 Translate the following word
 ***** English
@@ -3895,9 +4075,18 @@ Just like shì shì (try try). Yíxià means a short time
 ***** Pinyin
 shì yíxià
 **** CLothes and Discounts                                         :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       b6c5db6d-4685-49a5-beda-377105337a70
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:11]
 :END:
 Translate the following word
 ***** English
@@ -3917,9 +4106,18 @@ Zhè shuāng xiè zěn me yàng?
 ***** Notes
 Yang means how do the look/feel/etc.
 **** CLothes and Discounts                                         :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       d90e5e27-36e4-4abe-8210-f5060a714b0b
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:08]
 :END:
 Translate the following word
 ***** English
@@ -4033,9 +4231,18 @@ The “le” here kind of implies that you’ve made a decision
 *** Cards                                                        :noexport:
 
 **** Buying Strawberries                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       1ad93a24-bcb2-43f1-bc07-b707fd4bb29f
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:04]
 :END:
 Translate the following word
 
@@ -4049,9 +4256,18 @@ píng guǒ zěn me mài
 苹果怎么卖
 
 **** Buying Strawberries                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       54bdab2a-cb3b-4884-b137-858687e26e8f
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:11]
 :END:
 Translate the following word
 
@@ -4154,9 +4370,18 @@ zuó tiān zǎo shàng,
 昨天早上
 
 **** Buying Strawberries                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       37192513-9587-48e8-8dc6-398208f29faf
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:01]
 :END:
 Translate the following word
 
@@ -4388,9 +4613,18 @@ chī
 ***** Characters
 吃
 **** Food                                                          :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       0aef7ff5-d1ae-4df8-bd56-6d7e425caf0f
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:11]
 :END:
 Translate the following word
 ***** English
@@ -4436,9 +4670,18 @@ yī pán cài
 ***** Characters
 一盘菜
 **** Food                                                          :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       ffc6f057-4608-4dcb-a884-61859b460a90
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:04]
 :END:
 Translate the following word
 ***** English
@@ -4476,9 +4719,18 @@ mǐ fàn
 ***** Notes
 In the north keep the mi to mean rice
 **** Food                                                          :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       32c60e97-7416-4c21-938e-9c77b6b4d867
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:03]
 :END:
 Translate the following word
 ***** English
@@ -4687,9 +4939,18 @@ běijīng kǎoyā
 ***** Characters
 北京烤鸭
 **** Food                                                          :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       c5a46221-b728-4ab1-9e68-da70842f6b45
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:57]
 :END:
 Translate the following word
 ***** English
@@ -5147,9 +5408,18 @@ fú wù yuán
 ***** Notes
 (literally ‘Serve Business Person’?)
 **** Waiter, Takeaway, Cutlery                                     :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       b64cc770-7283-480b-ad5a-4cc3c1b58d52
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:59]
 :END:
 Translate the following word
 ***** English
@@ -5213,9 +5483,18 @@ qǐng gěi wǒ yī zhāng zhǐjīn
 ***** Notes
 [zhāng = measure word for small flat things]
 **** Waiter, Takeaway, Cutlery                                     :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       9bc5dc3b-a43e-4f64-bb44-10d24e981c3a
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.25
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:11]
 :END:
 Translate the following word
 ***** English
@@ -5305,9 +5584,18 @@ kěyǐ kuài diǎn ma
 ***** Characters
 可以快点吗
 **** Waiter, Takeaway, Cutlery                                     :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       8eac10c8-e809-4a23-928f-db8331c1e51f
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:55]
 :END:
 Translate the following word
 ***** English
@@ -5711,9 +5999,18 @@ Táng shì tián de
 the “de’ is kinda “of’ - Sugar is of the sweet.
 
 **** Herbs, Spices and Tastes                                      :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       c7752a9a-79e5-4afb-9324-ec82e242b622
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:07]
 :END:
 Translate the following word
 
@@ -6000,9 +6297,18 @@ zhàng fū
 ***** Notes
 (fū means man)
 **** Family and Parents                                            :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       c9202efa-d027-4070-a43c-ce59ac4e3537
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:09]
 :END:
 Translate the following word
 ***** English
@@ -6269,9 +6575,18 @@ bà mā
 *** Cards                                                        :noexport:
 
 **** Sibiling and Cousins                                          :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       b90c8990-01f0-421c-a1e0-8e9cf3b7ce00
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:03]
 :END:
 Translate the following word
 
@@ -6422,9 +6737,18 @@ wài shēng nǚ
 外甥女
 
 **** Sibiling and Cousins                                          :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       344ff1eb-044f-40cf-b959-99baff1590e9
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:00]
 :END:
 Translate the following word
 
@@ -6454,9 +6778,18 @@ jiù jiu
 舅舅
 
 **** Sibiling and Cousins                                          :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       5bef298b-5b66-4266-9d88-d6c9147e054f
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:10]
 :END:
 Translate the following word
 
@@ -6521,9 +6854,18 @@ zhí nǚ
 侄女
 
 **** Sibiling and Cousins                                          :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       fc325d65-a2c8-409d-8bac-645d9d3aafd6
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:12]
 :END:
 Translate the following word
 
@@ -6540,9 +6882,18 @@ táng gē
 (Father’s-side older-brother)
 
 **** Sibiling and Cousins                                          :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       6955428d-c508-4b9b-a22f-bfc60c601515
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.667
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:08]
 :END:
 Translate the following word
 
@@ -6765,9 +7116,18 @@ zuǒ
 ***** Characters
 左
 **** Directions                                                    :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       b1a16556-4b10-4bfb-aca9-062eac1be1b1
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:07]
 :END:
 Translate the following word
 ***** English
@@ -7011,9 +7371,18 @@ yín háng
 ***** Characters
 银行
 **** Places                                                        :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       fe139c6b-47f7-41ed-be2b-edd8d2eb2f6b
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:56]
 :END:
 Translate the following word
 ***** English
@@ -7047,9 +7416,18 @@ Shāng chǎng
 ***** Characters
 商场
 **** Places                                                        :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       d1b81d5a-60df-4f4e-b74f-af235a317921
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:58]
 :END:
 Translate the following word
 ***** English
@@ -7104,9 +7482,18 @@ Qì chē zhàn
 ***** Characters
 汽车站
 **** Places                                                        :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       75eafc1c-6e89-4ab7-9b8c-86ee24e0fea4
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:08]
 :END:
 Translate the following word
 ***** English
@@ -7289,9 +7676,18 @@ zhàn tái
 站台
 
 **** Catching a Train                                              :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       37697ca1-5ce8-459c-9c76-ae6e90078f79
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:10]
 :END:
 Translate the following word
 
@@ -7849,9 +8245,18 @@ Dà xué
 ***** Notes
 Big Learn
 **** Place of Work                                                 :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       73233785-d9a7-4233-8f3e-87ba416859c1
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.667
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:12]
 :END:
 Translate the following word
 ***** English
@@ -8152,9 +8557,18 @@ Nǐ jǐ suì
 你几岁
 
 **** Age                                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       311f5092-6695-482b-a2f9-fb5b68695ccb
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:09]
 :END:
 Translate the following word
 
@@ -8210,6 +8624,11 @@ You high life
 
 * Making a Phone Call
 ** Phones, e-mails and messages
+:PROPERTIES:
+:DRILL_HEADING: Phones, e-mails and messages
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word
+:END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                    | Pinyin                      | Characters     | Notes                                                |
@@ -8224,8 +8643,243 @@ You high life
 | Text message               | Duǎn xìn                    | 短信           | Short message                                        |
 | What is your phone number? | Nín de diànhuà shì duō shǎo | 您的电话是多少 | You of phone is how much                             |
 | What is your phone number? | Diàn huà shì shén me        | 电话是什么     | Bad grammar!  Could add Nin de                       |
-
+*** Cards                                                        :noexport:
+**** Phones, e-mails and messages                                  :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       906dc5e5-4b30-42af-a86a-841bff50b3e4
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:16]
+:END:
+Translate the following word
+***** English
+Mobile phone
+***** Pinyin
+Shǒu jī
+***** Characters
+手机
+***** Notes
+Hand machine
+**** Phones, e-mails and messages                                  :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       774cba81-cf08-4a34-9f0b-2a81f0dcd593
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:18]
+:END:
+Translate the following word
+***** English
+Telephone
+***** Pinyin
+Diàn huà
+***** Characters
+电话
+***** Notes
+Electric Words/Speech
+**** Phones, e-mails and messages                                  :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       6a9f429b-4129-4c60-bd22-b483ed707693
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:15]
+:END:
+Translate the following word
+***** English
+Make a phone call
+***** Pinyin
+Dǎ diànhuà
+***** Characters
+打电话
+***** Notes
+Like da in take a taxi
+**** Phones, e-mails and messages                                  :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       026c4c72-db4f-49c7-a4b4-b3c0b76f653b
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:20]
+:END:
+Translate the following word
+***** English
+Return phone call
+***** Pinyin
+Huí diànhuà
+***** Characters
+回电话
+***** Notes
+Hui = back as in back home
+**** Phones, e-mails and messages                                  :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       23c67e72-0840-4e1d-ac39-80ea573840f5
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:19]
+:END:
+Translate the following word
+***** English
+Receive phone call
+***** Pinyin
+Jiē diànhuà
+***** Characters
+接电话
+***** Notes
+Answer/receive call
+**** Phones, e-mails and messages                                  :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       e410a0c1-aa00-4e62-83c1-f165df69d649
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:16]
+:END:
+Translate the following word
+***** English
+e-mail
+***** Pinyin
+Yóu jiàn
+***** Characters
+邮件
+***** Notes
+Post collection-of-letters. Originally used for mail
+**** Phones, e-mails and messages                                  :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       b5b1ab7a-29be-43b3-b0c3-04b5a5d89e3f
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:21]
+:END:
+Translate the following word
+***** English
+Send an e-mail
+***** Pinyin
+Fā yóujiàn
+***** Characters
+发邮件
+***** Notes
+The 'fa' means this is definitely e-mail
+**** Phones, e-mails and messages                                  :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       eb6571d5-9885-43b4-9b3d-833bd88fd09b
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:16]
+:END:
+Translate the following word
+***** English
+Text message
+***** Pinyin
+Duǎn xìn
+***** Characters
+短信
+***** Notes
+Short message
+**** Phones, e-mails and messages                                  :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       8fb3bf5f-0216-480d-8ee0-11213e6511ad
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:40]
+:END:
+Translate the following word
+***** English
+What is your phone number?
+***** Pinyin
+Nín de diànhuà shì duō shǎo
+***** Characters
+您的电话是多少
+***** Notes
+You of phone is how much
+**** Phones, e-mails and messages                                  :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       9695d9cb-19ab-45a5-8a7c-9963bab42a4f
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:39]
+:END:
+Translate the following word
+***** English
+What is your phone number?
+***** Pinyin
+Diàn huà shì shén me
+***** Characters
+电话是什么
+***** Notes
+Bad grammar!  Could add Nin de
 ** Making a Phone Call
+:PROPERTIES:
+:DRILL_HEADING: Making a Phone Call
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word
+:END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                        | Pinyin                     | Characters         | Notes                                           |
@@ -8247,8 +8901,394 @@ You high life
 | He's gone out                  | Tā qù chū qù le            | 他去出去了         | Out go (past)                                   |
 | He's gone out                  | Tā qù chū mén le           | 他去出门了         | Out door (past)                                 |
 | He's gone out for dinner       | Tā qù chī fàn le           | 他去吃饭了         |                                                 |
-
-** Other grammar examples
+*** Cards                                                        :noexport:
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       9b8864ff-6e06-43d1-9fec-e0c3ebd3ccb5
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:18]
+:END:
+Translate the following word
+***** English
+Hello on phone
+***** Pinyin
+Wèi
+***** Characters
+为
+***** Notes
+Wei, nihao!
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       50ede92f-8da9-4a63-8fa3-053a6bc87e86
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:18]
+:END:
+Translate the following word
+***** English
+Who is this?
+***** Pinyin
+Wèi, nín shì nǎ wèi
+***** Characters
+为, 您是哪位
+***** Notes
+Last wei is polite human measure word (like ge)
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       c61ae587-e2fc-4d8e-85c2-c601d580991d
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:16]
+:END:
+Translate the following word
+***** English
+I am ....
+***** Pinyin
+Wǒ shì ...
+***** Characters
+我是 ...
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       7f9ade69-30b2-470d-b42d-50261030fb61
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:20]
+:END:
+Translate the following word
+***** English
+Who are you calling for?
+***** Pinyin
+Qǐng wèn nín zhǎo shéi
+***** Characters
+请问您找谁
+***** Notes
+Please ask you looking-for who? shei=shui
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       f44dc168-71a8-4800-a238-d788381f1393
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:16]
+:END:
+Translate the following word
+***** English
+Is Philip there?
+***** Pinyin
+Wǒ zhǎo fēilìpǔ, tā zài ma
+***** Characters
+我找菲利普, 他在吗
+***** Notes
+I look-for Philip, he at question?
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       e58d860d-b8bd-40b2-b68c-f6c6c27721c0
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:16]
+:END:
+Translate the following word
+***** English
+He is, please wait a moment
+***** Pinyin
+Zài, qǐng děng yīxià
+***** Characters
+在, 请等一下
+***** Notes
+At, please wait one short time
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       e920f52e-79e3-44c4-b84f-43dcb18a9c72
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:15]
+:END:
+Translate the following word
+***** English
+Is Philip there or not?
+***** Pinyin
+Qǐngwèn fēilìpǔ zài bù zài
+***** Characters
+请问菲利普在不在
+***** Notes
+Please ask Philip at-not-at.
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       055cb302-9e7e-47fc-80da-5a87eb6e67b3
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:16]
+:END:
+Translate the following word
+***** English
+He's not here.
+***** Pinyin
+Tā bù zài
+***** Characters
+他不在
+***** Notes
+He not at
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       5b8ab07a-4172-41a5-936a-10d1a1e801ed
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:18]
+:END:
+Translate the following word
+***** English
+Is that Philip?
+***** Pinyin
+Shì fēilìpǔ ma
+***** Characters
+是菲利普吗
+***** Notes
+Are you Philip?
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       39257cb4-728c-4a6e-900d-189a69603f1c
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:19]
+:END:
+Translate the following word
+***** English
+I'm not, you dial wrong number
+***** Pinyin
+Bùshì, nǐ dǎ cuò le
+***** Characters
+不是, 你打错了
+***** Notes
+You hit wrong (past tense)
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       344e854d-9a19-4073-bed7-8d2a6d63fc7a
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:39]
+:END:
+Translate the following word
+***** English
+He go to shop
+***** Pinyin
+Tā qù shāngdiàn
+***** Characters
+他去商店
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       a254b27e-3b01-47c6-bee5-8bbad4d043f7
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:18]
+:END:
+Translate the following word
+***** English
+He go to bank
+***** Pinyin
+Tā qù yínháng
+***** Characters
+他去银行
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       31a18f10-c717-4682-b3ef-dd702341a1bc
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:05]
+:END:
+Translate the following word
+***** English
+He go eat meal
+***** Pinyin
+Tā qù chīfàn
+***** Characters
+他去吃饭
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       804ee777-48eb-4cad-8db0-a14b0e1c39e6
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:39]
+:END:
+Translate the following word
+***** English
+He go sleep
+***** Pinyin
+Tā qù shuìjiào
+***** Characters
+他去睡觉
+***** Notes
+Sleep a sleep
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       527df7d6-77a7-4ac1-968d-60138887954d
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:59]
+:END:
+Translate the following word
+***** English
+He's gone out
+***** Pinyin
+Tā qù chū qù le
+***** Characters
+他去出去了
+***** Notes
+Out go (past)
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       421b9424-44a8-40e7-a6f1-3525c86f5408
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:40]
+:END:
+Translate the following word
+***** English
+He's gone out
+***** Pinyin
+Tā qù chū mén le
+***** Characters
+他去出门了
+***** Notes
+Out door (past)
+**** Making a Phone Call                                           :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       884812e8-225c-47b2-93d9-9e2cf6bde397
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:14]
+:END:
+Translate the following word
+***** English
+He's gone out for dinner
+***** Pinyin
+Tā qù chī fàn le
+***** Characters
+他去吃饭了
+** Other grammar examples (jiù, guò and zài)
+:PROPERTIES:
+:DRILL_HEADING: Other grammar examples (jiù, guò, and zài)
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word
+:END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                   | Pinyin                         | Characters         | Notes                                   |
@@ -8270,8 +9310,396 @@ You high life
 | I bought you one apple    | Wǒ gěi nǐ mǎi le yī gè píngguǒ | 我给你买了一个苹果 | Use of gei - I give you bought 1 apple  |
 | You get out!              | Nǐ gěi wǒ chū qù!              | 你给我出去         | Use of gei - here "give me" is emphasis |
 | But                       | Dànshì                         | 但是               |                                         |
-
+*** Cards                                                        :noexport:
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       0c1a63be-ac7b-4d44-aa36-ecdf552df14f
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:15]
+:END:
+Translate the following word
+***** English
+I *am* Philip
+***** Pinyin
+Wǒ jiù shì fēilìpǔ
+***** Characters
+我就是菲利普
+***** Notes
+jiu is emphasis if asked for on phone
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       27b102ae-9c58-4803-a4b0-bd68e4a8519c
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:41]
+:END:
+Translate the following word
+***** English
+Have you been to England?
+***** Pinyin
+Nǐ qù guò yīngguó ma
+***** Characters
+你去过英国吗
+***** Notes
+ever been too
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       50b02490-5ce5-4886-bff6-fc14ca887a7d
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:39]
+:END:
+Translate the following word
+***** English
+I *am* English
+***** Pinyin
+Wǒ jiù shì yīngguó rén
+***** Characters
+我就是英国人
+***** Notes
+jiu emphasis
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       31339c89-0ea8-4b1c-a296-d9a4c3af7d02
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:41]
+:END:
+Translate the following word
+***** English
+You eat breakfast
+***** Pinyin
+Nǐ chī zǎofàn
+***** Characters
+你吃早饭
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       e755afbe-9433-4a46-ad0e-07c564a58972
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:15]
+:END:
+Translate the following word
+***** English
+Have you eaten breakfast?
+***** Pinyin
+Nǐ chī guò zǎofàn ma
+***** Characters
+你吃过早饭吗
+***** Notes
+Use of guo
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       8496e000-2452-4c3a-8ea0-3e123c772199
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:40]
+:END:
+Translate the following word
+***** English
+Have you been to China?
+***** Pinyin
+Nǐ qù guò zhōngguó ma
+***** Characters
+你去过中国吗
+***** Notes
+Use of guo
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       43af8722-1986-42cd-8050-32ce75b2b044
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:01]
+:END:
+Translate the following word
+***** English
+I have been
+***** Pinyin
+Wǒ qù guò
+***** Characters
+我去过
+***** Notes
+Use of guo
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       1470bca7-22c3-4864-8d37-15f6f13c5873
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:41]
+:END:
+Translate the following word
+***** English
+I haven't been
+***** Pinyin
+Wǒ méi qùguò
+***** Characters
+我没去过
+***** Notes
+Use of guo
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       5d0aa55a-5af3-418c-afa4-cb6253b1a971
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:15]
+:END:
+Translate the following word
+***** English
+Right / Wrong
+***** Pinyin
+Duì / Cuò
+***** Characters
+对 / 错
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       e7bd47c8-5092-4686-819f-55db04406f16
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:03]
+:END:
+Translate the following word
+***** English
+What are you doing?
+***** Pinyin
+Nǐ zài zuò shén me
+***** Characters
+你在做什么
+***** Notes
+You "ing" do what?
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       97d77372-c6ca-417b-8577-1790b35d896e
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 22:57]
+:END:
+Translate the following word
+***** English
+I eat lunch
+***** Pinyin
+Wǒ chī wǔfàn
+***** Characters
+我吃午饭
+***** Notes
+Have lunch
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       eff17383-2680-472d-b414-7cfc841c1d35
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:39]
+:END:
+Translate the following word
+***** English
+I am eating lunch
+***** Pinyin
+Wǒ zài chī wǔfàn
+***** Characters
+我在吃午饭
+***** Notes
+I "ing" eat lunch
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       7d26fb82-b37c-40d0-bd9a-0d8257ada823
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:07]
+:END:
+Translate the following word
+***** English
+Give
+***** Pinyin
+Gěi
+***** Characters
+给
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       a32a32be-9743-4516-b835-794f6e036a19
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:41]
+:END:
+Translate the following word
+***** English
+I bought one apple
+***** Pinyin
+Wǒ mǎi le yī gè píngguǒ
+***** Characters
+我买了一个苹果
+***** Notes
+le makes past tense
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       77d4fde9-1555-4259-9d26-a28145ad0d76
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:18]
+:END:
+Translate the following word
+***** English
+I bought you one apple
+***** Pinyin
+Wǒ gěi nǐ mǎi le yī gè píngguǒ
+***** Characters
+我给你买了一个苹果
+***** Notes
+Use of gei - I give you bought 1 apple
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       7f521e65-7dfd-4052-bf5f-abfd2057797b
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:41]
+:END:
+Translate the following word
+***** English
+You get out!
+***** Pinyin
+Nǐ gěi wǒ chū qù!
+***** Characters
+你给我出去
+***** Notes
+Use of gei - here "give me" is emphasis
+**** Other grammar examples (jiù, guò, and zài)                    :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       7d8b48ab-874a-415e-a841-5f44de371a71
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:15]
+:END:
+Translate the following word
+***** English
+But
+***** Pinyin
+Dànshì
+***** Characters
+但是
 ** Phone Conversation
+:PROPERTIES:
+:DRILL_HEADING: Phone Conversation
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word
+:END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                          | Pinyin                             | Characters               | Notes                       |
@@ -8281,8 +9709,122 @@ You high life
 | Who are you?                     | Nín nǎ wèi                         | 您哪位                   |                             |
 | I am his friend, Yuyu            | Wǒ shì tā de péngyǒu, yúyú         | 我是他的朋友, 鱼鱼       | he of friend                |
 | Please ask him to return my call | Qǐng tā gěi wǒ huí diànhuà         | 请他给我回电话           | Please he give me back call |
-
+*** Cards                                                        :noexport:
+**** Phone Conversation                                            :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       a68d975c-6318-4f8f-b564-ab808f427db9
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:14]
+:END:
+Translate the following word
+***** English
+Hello, Is Philip there?
+***** Pinyin
+Wèi, nǐhǎo, qǐngwèn fēilìpǔ zài ma
+***** Characters
+为, 你好, 请问菲利普在吗
+**** Phone Conversation                                            :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       686ec161-9a10-446a-8687-8bcca51fe092
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:40]
+:END:
+Translate the following word
+***** English
+He has gone to dinner
+***** Pinyin
+Tā qù chī fàn le
+***** Characters
+他去吃饭了
+**** Phone Conversation                                            :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       2ddca0b3-f6f1-41b4-a5ad-dd594cc95cd8
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:21]
+:END:
+Translate the following word
+***** English
+Who are you?
+***** Pinyin
+Nín nǎ wèi
+***** Characters
+您哪位
+**** Phone Conversation                                            :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       191b5f38-29a1-488d-9cf5-106815b1276a
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:14]
+:END:
+Translate the following word
+***** English
+I am his friend, Yuyu
+***** Pinyin
+Wǒ shì tā de péngyǒu, yúyú
+***** Characters
+我是他的朋友, 鱼鱼
+***** Notes
+he of friend
+**** Phone Conversation                                            :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       79c1ee11-cbc7-447c-983a-19ef9cc663cd
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:17]
+:END:
+Translate the following word
+***** English
+Please ask him to return my call
+***** Pinyin
+Qǐng tā gěi wǒ huí diànhuà
+***** Characters
+请他给我回电话
+***** Notes
+Please he give me back call
 ** Conversation About Phone Call
+:PROPERTIES:
+:DRILL_HEADING: Conversation About Phone Call
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word
+:END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                              | Pinyin                               | Characters             | Notes |
@@ -8290,25 +9832,91 @@ You high life
 | I called you, but you were not there | Wǒ gěi nǐ dǎ diànhuà dànshì nǐ bùzài | 我给你打电话但是你不在 |       |
 | Your husband took the call           | Nǐ lǎogōng jiē le diànhuà            | 你老公接了电话         |       |
 | He said you had gone out for dinner  | Tā shuō nǐ qù chī fàn le             | 他说你去吃饭了         |       |
-
-* Links
+*** Cards                                                        :noexport:
+**** Conversation About Phone Call                                 :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       aa8080a5-d717-408d-9a8e-1c60c2c82215
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:16]
+:END:
+Translate the following word
+***** English
+I called you, but you were not there
+***** Pinyin
+Wǒ gěi nǐ dǎ diànhuà dànshì nǐ bùzài
+***** Characters
+我给你打电话但是你不在
+**** Conversation About Phone Call                                 :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       8e887aa4-83b1-41db-91e3-411220bac28b
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:16]
+:END:
+Translate the following word
+***** English
+Your husband took the call
+***** Pinyin
+Nǐ lǎogōng jiē le diànhuà
+***** Characters
+你老公接了电话
+**** Conversation About Phone Call                                 :drill:
+SCHEDULED: <2017-11-26 Sun>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       2cf2da65-32ad-4252-a01b-cf2f2498d42c
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2017-11-22 Wed 23:42]
+:END:
+Translate the following word
+***** English
+He said you had gone out for dinner
+***** Pinyin
+Tā shuō nǐ qù chī fàn le
+***** Characters
+他说你去吃饭了
+* Links and Misc
 ** PDF Version
 - A [[http://www.beadling.co.uk/mandarin.pdf][PDF Version]] of this website
 ** Writing Chinese
-You can use ni3hao3
-M-x set-input-method <input>
+- You can use ni3hao3
+  - M-x set-input-method <input>
+  - For pinyin - chinese-sisheng
+  - For characters - chinese-tonepy
+  - To toggle back to no input mode wth C-\
+  - [[https://llaisdy.wordpress.com/2009/02/08/chinese-input-methods-for-emacs/][Blog on input methods]]
 
-For pinyin - chinese-sisheng
-For characters - chinese-tonepy
+- Also using cnfonts you can use
+  - cnfonts-increase-fontsize
+  - cnfonts-edit-profile
+  - cnfonts-next-profile
 
-To toggle back to no input mode wth C-\
-[[https://llaisdy.wordpress.com/2009/02/08/chinese-input-methods-for-emacs/][Blog on input methods]]
-
-Also using cnfonts you can use
-
-cnfonts-increase-fontsize
-cnfonts-edit-profile
-cnfonts-next-profile
-
+** Drills
+- To create a drill from a table, place the cursor on the table and M-x org-drill-table-generate
+- To drill everything use M-x org-drill
+- To drill a section put your cursor over the top level and M-x org-drill-tree
+** Publishing
+- To publish to the web C-c C-e P p
 * The End
 #+LATEX: \end{CJK}
