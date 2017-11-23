@@ -10330,6 +10330,8 @@ Tā shuō nǐ qù chī fàn le
 - To create a drill from a table, place the cursor on the table and M-x org-drill-table-generate
 - To drill everything use M-x org-drill
 - To drill a section put your cursor over the top level and M-x org-drill-tree
+- Or change the variable org-drill-scope (C-h v) using the customize tool to tree level
+  - This allows you to use org-drill-cram, etc at tree level
 ** Publishing
 - To publish to the web C-c C-e P p
 * The End
