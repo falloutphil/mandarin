@@ -5683,7 +5683,7 @@ yǐn liào
 | Would you like to eat in?                                  | (nǐ yào) zài zhèlǐ chī ma   | 你要在这里吃吗   |                                                                                                            |
 | Takeaway or eat in – háishì is or.                         | Wàimài háishì zài zhèlǐ chī | 外卖还是在这里吃 |                                                                                                            |
 | Please give me …                                           | qǐng gěi wǒ …               | 请给我           |                                                                                                            |
-| A plate                                                    | yī gè pánzi                 | 一个盘子         | (zi has no meaning)                                                                                                           |
+| A plate                                                    | yī gè pánzi                 | 一个盘子         | (zi has no meaning)                                                                                        |
 | A bowl                                                     | yī gè wǎn                   | 一个碗           |                                                                                                            |
 | A fork (bǎ is measure for something you hold in your hand) | yī bǎ chāzi                 | 一把叉子         | Left hand side of symbol means something related to the hand.                                              |
 | A spoon                                                    | yī bǎ sháozi                | 一把勺子         |                                                                                                            |
@@ -7269,37 +7269,53 @@ biǎo mèi
 :END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                | Pinyin                          | Characters          | Notes                                                          |
-|----------------------------------------+---------------------------------+---------------------+----------------------------------------------------------------|
-| Direction                              | fāng xiàng                      | 方向                |                                                                |
-| Which                                  | nǎ gè                           | 哪个                |                                                                |
-| Where                                  | nǎ lǐ                           | 哪里                |                                                                |
-| Which direction?                       | nǎ gè fāng xiàng                | 哪个方向            |                                                                |
-| What direction?                        | shén me fāng xiàng              | 什么方向            |                                                                |
-| East                                   | dōng                            | 东                  |                                                                |
-| West                                   | xi                              | 西                  |                                                                |
-| South                                  | nán                             | 南                  |                                                                |
-| North                                  | běi                             | 北                  |                                                                |
-| Middle                                 | zhōng                           | 中                  |                                                                |
-| Above                                  | shàng                           | 上                  |                                                                |
-| Below                                  | xià                             | 下                  |                                                                |
-| Left                                   | zuǒ                             | 左                  |                                                                |
-| Right                                  | yòu                             | 右                  |                                                                |
-| Front                                  | qián                            | 前                  |                                                                |
-| Back                                   | hòu                             | 后                  |                                                                |
-| to walk / to go                        | zǒu                             | 走                  |                                                                |
-| Keep Going (Entire Straight)           | yī zhí                          | 一直                |                                                                |
-| Also means “Always”                    |                                 |                     |                                                                |
-| There                                  | nà lǐ                           | 那里                | (tone is different to where)                                   |
-| Here                                   | zhè lǐ                          | 这里                | (Zhè implies close to you)                                     |
-| Excuse me, where is the airport?       | qǐng wèn jī chǎng zài nǎlǐ      | 请问机场在哪里      | Please ask airport (machine flat-place) at where?              |
-| Airplane                               | fēi jī                          | 飞机                | (Flying Machine)                                               |
-| Airport – Flying Machine Flat Place.   | fēi jī chǎng                    | 飞机场              | (fēi is normally omitted)                                      |
-| How do I get to the hospital?          | Qǐng wèn yī yuàn zěn me zǒu     | 请问医院怎么走      | Please ask hospital how walk/go?                               |
-| You keep walking, after than turn left | nǐ yīzhí zǒu, ránhòu zuǒ guǎi.  | 你一直走, 然后左拐. |                                                                |
-| You keep walking, after than turn left | nǐ yīzhí zǒu, ránhòu zuǒ zhuǎn. | 你一直走, 然后左转. | (Same meaning, different word for turn!)                       |
-| (The) airport at south side            | jīchǎng zài nánmiàn.            | 机场在南面          |                                                                |
-| (The) airport at south side            | jīchǎng zài nánbian.            | 机场在南边          | (miàn and bian mean side, miàn tends to be for larger things?) |
+| English                                       | Pinyin                             | Characters           | Notes                                                            |
+|-----------------------------------------------+------------------------------------+----------------------+------------------------------------------------------------------|
+| Direction                                     | fāng xiàng                         | 方向                 |                                                                  |
+| Which                                         | nǎ gè                              | 哪个                 |                                                                  |
+| Where                                         | nǎ lǐ                              | 哪里                 |                                                                  |
+| Which direction?                              | nǎ gè fāng xiàng                   | 哪个方向             |                                                                  |
+| What direction?                               | shén me fāng xiàng                 | 什么方向             |                                                                  |
+| East                                          | dōng                               | 东                   |                                                                  |
+| West                                          | xi                                 | 西                   |                                                                  |
+| South                                         | nán                                | 南                   |                                                                  |
+| North                                         | běi                                | 北                   |                                                                  |
+| Middle                                        | zhōng                              | 中                   |                                                                  |
+| Above                                         | shàng                              | 上                   |                                                                  |
+| Below                                         | xià                                | 下                   |                                                                  |
+| Left                                          | zuǒ                                | 左                   |                                                                  |
+| Right                                         | yòu                                | 右                   |                                                                  |
+| Front                                         | qián                               | 前                   |                                                                  |
+| Back                                          | hòu                                | 后                   |                                                                  |
+| to walk / to go                               | zǒu                                | 走                   |                                                                  |
+| Keep Going (Entire Straight)                  | yī zhí                             | 一直                 | Also means “Always”                                              |
+| There                                         | nà lǐ                              | 那里                 | (tone is different to where)                                     |
+| Here                                          | zhè lǐ                             | 这里                 | (Zhè implies close to you)                                       |
+| Excuse me, where is the airport?              | qǐng wèn jī chǎng zài nǎlǐ         | 请问机场在哪里       | Please ask airport (machine flat-place) at where?                |
+| Airplane                                      | fēi jī                             | 飞机                 | (Flying Machine)                                                 |
+| Airport – Flying Machine Flat Place.          | fēi jī chǎng                       | 飞机场               | (fēi is normally omitted)                                        |
+| How do I get to the hospital?                 | Qǐng wèn yī yuàn zěn me zǒu        | 请问医院怎么走       | Please ask hospital how walk/go? (Píngguǒ zěnme mài)             |
+| You keep walking, after than turn left        | nǐ yīzhí zǒu, ránhòu zuǒ guǎi.     | 你一直走, 然后左拐.  | You always straight walk. guǎi means bend                        |
+| You keep walking, after than turn left        | nǐ yīzhí zǒu, ránhòu zuǒ zhuǎn.    | 你一直走, 然后左转.  | YOu always straight walk. zuǎn means turn                        |
+| Then / after that                             | ránhòu                             | 然后                 |                                                                  |
+| Turn                                          | zhuǎn                              | 转                   |                                                                  |
+| Turn (bend)                                   | guǎi                               | 拐                   |                                                                  |
+| (The) airport at south side                   | jīchǎng zài nánmiàn.               | 机场在南面           |                                                                  |
+| (The) airport at south side                   | jīchǎng zài nánbian.               | 机场在南边           | (miàn and bian mean side, miàn tends to be for larger things?)   |
+| Go forwards / straight                        | Xiàng qián zǒu                     | 向前走               |                                                                  |
+| Go forwards / straight                        | Wǎng qián zǒu                      | 往前走               |                                                                  |
+| Go forwards, just after you arrive            | Xiàng qián zǒu jiù dào le          | 向前走就到了         | The jiù adds emphasis like I *am* Philip in the phone calls      |
+| Arrived                                       | Dào le                             | 到了                 |                                                                  |
+| Turn left, just after you arrive              | Wǎng zuǒ guǎi jiù dào le           | 往左拐就到了         |                                                                  |
+| ... on the left                               | ... zài zuǒ biān                   | 在左边               | Thing at left side                                               |
+| Past the crossroads you're almost there       | Guò le shízìlùkǒu jiù dào le       | 过了十字路口就到了   | Pass Crossroads Almost Arrived                                   |
+| Turn left at the the bridge                   | Zài tiānqiáo yòu guǎi              | 在天桥右拐           |                                                                  |
+| The restaurant is on the left-hand side       | Fàndiàn zài zuǒshǒu biān           | 饭店在左手边         | zuǒ-shǒu is literally left-hand.  Use biān not miàn.             |
+| (I) Know                                      | Zhīdào                             | 知道                 |                                                                  |
+| (I) don't know                                | Bù zhīdào                          | 不知道               |                                                                  |
+| How do (I) get to the train station?          | Huǒ chē zhàn zěnme zǒu?            | 火车站怎么走         |                                                                  |
+| Do you know how (I) get to the train station? | Nǐ zhīdào huǒchē zhàn zěnme zuò ma | 你知道火车站怎么做吗 | The ma is required because it is 2 questions "You know" needs ma |
+| (Tell taxi driver to stop/pullover)           | Dào le tíng zài zhèlǐ              | 到了停在这里         | Arrived, stop at here.                                           |
 *** Cards                                                        :noexport:
 **** Directions                                                    :drill:
 :PROPERTIES:
@@ -7723,29 +7739,37 @@ jīchǎng zài nánbian.
 :END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                   | Pinyin                      | Characters     | Notes                                                 |
-|---------------------------+-----------------------------+----------------+-------------------------------------------------------|
-| Bank                      | yín háng                    | 银行           | (Silver Industry)                                     |
-| General Store             | shāng diàn                  | 商店           | (Business Store)                                      |
-| Restaurant                | fàn diàn                    | 饭店           | (Meal Store)                                          |
-| Shopping Centre           | Shāng chǎng                 | 商场           | (Business big-place)                                  |
-| Hospital                  | Yī yuàn                     | 医院           | (Medical ground-with-wall-around-it)                  |
-| Hotel                     | Jiǔ diàn                    | 酒店           | (Alcohol Store!)                                      |
-| Train Station             | Huǒ chē zhàn                | 火车站         | (Fire Vehicle Station)                                |
-| Coach Station             | Qì chē zhàn                 | 汽车站         | (Steam Vehicle Station)                               |
-| Bus Station               |                             |                |                                                       |
-| Airport                   | Jīchǎng                     | 机场           |                                                       |
-| Traffic Light             | Hóng lǜ dēng                | 红绿灯         | (Red Green Light)                                     |
-| Crossroads                | Shí zi lù kǒu               | 十字路口       | shí zi means shí like, as in character 10! road mouth |
-| Zebra Crossing            | Bān mǎ xiàn                 | 斑马线         | Literally – Spotted Horse (Zebra) Line.               |
-| Take a taxi               | Dǎ chē                      | 打车           | (Hit a vehicle!)                                      |
-| Taxi                      | Chū zū chē                  | 出租车         | (To Let Car) – but it’s not a rental car!             |
-| You go where?             | Nǐ qù nǎ lǐ                 | 你去哪里       |                                                       |
-| I go to (the) hotel       | Wǒ qù jiǔ diàn              | 我去酒店       |                                                       |
-| Opposite (Opposite Side)  | duì miàn                    | 对面           |                                                       |
-| Yeah, yeah / You got it   | duì duì duì                 | 对对对         |                                                       |
-| My hotel is (at) opposite | wǒ de jiǔ diàn zài duì miàn | 我的酒店在对面 |                                                       |
-| Next to / Beside          | páng biān                   | 旁边           | (Close-to-me side)                                    |
+| English                   | Pinyin                      | Characters     | Notes                                                              |
+|---------------------------+-----------------------------+----------------+--------------------------------------------------------------------|
+| Bank                      | yín háng                    | 银行           | (Silver Industry)                                                  |
+| (Small) River             | hé                          | 河             |                                                                    |
+| One River                 | Yī tiáo hé                  | 一条河         | tiáo is measure for river                                          |
+| (Big) River               | jiāng                       | 江             | As in Sānjiāngxiàn                                                 |
+| General Store             | shāng diàn                  | 商店           | (Business Store)                                                   |
+| Restaurant                | fàn diàn                    | 饭店           | (Meal Store)                                                       |
+| Shopping Centre           | Shāng chǎng                 | 商场           | (Business big-place)                                               |
+| Hospital                  | Yī yuàn                     | 医院           | (Medical ground-with-wall-around-it)                               |
+| Hotel                     | Jiǔ diàn                    | 酒店           | Alcohol Store!  Means Brothel in Taiwan!                           |
+| Train Station             | Huǒ chē zhàn                | 火车站         | (Fire Vehicle Station)                                             |
+| Coach Station             | Qì chē zhàn                 | 汽车站         | (Steam Vehicle Station)                                            |
+| Bus Station               | Gōng chē zhàn               | 公车站         | Public Vehicle Station - local services                            |
+| Generic Station           | Chē zhàn                    | 车站           | Usually a bus station unless context set previously                |
+| Airport                   | Jīchǎng                     | 机场           | Machine large flat place (eg field)                                |
+| Traffic Light             | Hóng lǜ dēng                | 红绿灯         | (Red Green Light)                                                  |
+| Crossroads                | Shí zi lù kǒu               | 十字路口       | shí zi means shí like, as in character 10! road mouth              |
+| Zebra Crossing            | Bān mǎ xiàn                 | 斑马线         | Literally – Spotted Horse (Zebra) Lines                            |
+| (Pedestrian) Bridge       | Tiān qiáo                   | 天桥           | Sky Bridge                                                         |
+| (Car) Bridge              | Lì jiāo qiáo                | 立交桥         | Flyover(s). Stand-Traffic/Two non-parallel lines-Bridge            |
+| Take a taxi               | Dǎ chē                      | 打车           | (Hit a vehicle!)                                                   |
+| Taxi                      | Chū zū chē                  | 出租车         | (To Let Car) – but it’s not a rental car (apart from Taiwan)!      |
+| You go where?             | Nǐ qù nǎ lǐ                 | 你去哪里       |                                                                    |
+| I go to (the) hotel       | Wǒ qù jiǔ diàn              | 我去酒店       |                                                                    |
+| Opposite (Opposite Side)  | duì miàn                    | 对面           | Do not use biān. Opposite doesn't imply there's a road or anything |
+| Near By                   | Páng biān                   | 旁边           | Near Side. Here we use biān because it is more specific            |
+| Yeah, yeah / You got it   | duì duì duì                 | 对对对         |                                                                    |
+| My hotel is (at) opposite | wǒ de jiǔ diàn zài duì miàn | 我的酒店在对面 |                                                                    |
+| Next to / Beside          | páng biān                   | 旁边           | (Close-to-me side)                                                 |
+| You are opposite me       | Nǐ zài wǒ (de) duì miàn     | 你在我的对面   |                                                                    |
 *** Cards                                                        :noexport:
 **** Places                                                        :drill:
 :PROPERTIES:
@@ -8038,22 +8062,25 @@ páng biān
 :END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                                     | Pinyin                                                | Characters                 | Notes |
-|-------------------------------------------------------------+-------------------------------------------------------+----------------------------+-------|
-| Platform (Station Platform)                                 | zhàn tái                                              | 站台                       |       |
-| Which Platform                                              | nǎ gè zhàn tái                                        | 哪个站台                   |       |
-| I go to Chongqing, which platform?                          | wǒ qù Chóngqìng, nǎ gè zhàn tái                       | 我去重庆, 哪个站台         |       |
-| I go to Chongqing, what time is the train?                  | wǒ qù Chóngqìng, jǐ diǎn shì huǒ chē                  | 我去重庆, 几点是火车       |       |
-| At platform 3                                               | zài sān zhàn tái                                      | 在三站台                   |       |
-| The train is 7:28                                           | huǒ chē shì zài qī diǎn èr shí bā                     | 火车是在七点二十八         |       |
-| At 7:28 the train goes to Shanghai                          | zài qī diǎn èrshíbā de huǒchē qù shànghǎi             | 在七点二十八的火车去上海   |       |
-| What time of train to Shanghai?                             | jǐ diǎn de huǒ chē qù shàng hǎi                       | 几点的火车去上海           |       |
-| How much is a soft-sleeper ticket from Beijing to Shanghai? | cóng běijīng dào shànghǎi de ruǎnwò piào duōshǎo qián | 从北京到上海的软卧票多少钱 |       |
-| From                                                        | cóng                                                  | 从                         |       |
-| To                                                          | dào                                                   | 到                         |       |
-| Soft-sleeper                                                | ruǎnwò                                                | 软卧                       |       |
-| Ticket                                                      | piào                                                  | 票                         |       |
-| Which platform boards the No.25 train?                      | T25 cì zài dì jǐ zhàn tái shàng chē ?                 |                            |       |
+| English                                                     | Pinyin                                                | Characters                 | Notes       |
+|-------------------------------------------------------------+-------------------------------------------------------+----------------------------+-------------|
+| Platform (Station Platform)                                 | zhàn tái                                              | 站台                       |             |
+| Balcony (Sun Platform)                                      | Yáng tái                                              | 阳台                       |             |
+| Which Platform                                              | nǎ gè zhàn tái                                        | 哪个站台                   |             |
+| I go to Chongqing, which platform?                          | wǒ qù Chóngqìng, nǎ gè zhàn tái                       | 我去重庆, 哪个站台         |             |
+| I go to Chongqing, what time is the train?                  | wǒ qù Chóngqìng, jǐ diǎn shì huǒ chē                  | 我去重庆, 几点是火车       |             |
+| At platform 3                                               | zài sān zhàn tái                                      | 在三站台                   |             |
+| The train is 7:28                                           | huǒ chē shì zài qī diǎn èr shí bā                     | 火车是在七点二十八         |             |
+| At 7:28 the train goes to Shanghai                          | zài qī diǎn èrshíbā de huǒchē qù shànghǎi             | 在七点二十八的火车去上海   |             |
+| What time of train to Shanghai?                             | jǐ diǎn de huǒ chē qù shàng hǎi                       | 几点的火车去上海           |             |
+| How much is a soft-sleeper ticket from Beijing to Shanghai? | cóng běijīng dào shànghǎi de ruǎnwò piào duōshǎo qián | 从北京到上海的软卧票多少钱 |             |
+| From                                                        | cóng                                                  | 从                         |             |
+| To                                                          | dào                                                   | 到                         |             |
+| Soft-sleeper                                                | ruǎnwò                                                | 软卧                       |             |
+| Ticket                                                      | piào                                                  | 票                         |             |
+| Which platform boards the No.25 train?                      | T25 cì zài dì jǐ zhàn tái shàng chē ?                 |                            |             |
+| Subway / Tube                                               | Dì tiě                                                | 地铁                       | Ground Iron |
+| Subway Station                                              | Dìtiě zhàn                                            | 地铁站                     |             |
 
 *** Cards                                                        :noexport:
 
@@ -9050,6 +9077,7 @@ You high life
 | English                    | Pinyin                      | Characters     | Notes                                                |
 |----------------------------+-----------------------------+----------------+------------------------------------------------------|
 | Mobile phone               | Shǒu jī                     | 手机           | Hand machine                                         |
+| Mobile charging cable      | Shǒujī xiàn                 | 手机线         | The xian is the same as lines in zebra crossing      |
 | Telephone                  | Diàn huà                    | 电话           | Electric Words/Speech                                |
 | Make a phone call          | Dǎ diànhuà                  | 打电话         | Like da in take a taxi                               |
 | Return phone call          | Huí diànhuà                 | 回电话         | Hui = back as in back home                           |
