@@ -10340,6 +10340,159 @@ He said you had gone out for dinner
 Tā shuō nǐ qù chī fàn le
 ***** Characters
 他说你去吃饭了
+* Daily Routine Practice
+:PROPERTIES:
+:DRILL_HEADING: Daily Routine Practice
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate these word(s)
+:END:
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                | Pinyin                                 | Characters           | Notes             |
+|----------------------------------------+----------------------------------------+----------------------+-------------------|
+| I get up at 8am                        | wǒ zǎochén bā diǎn qǐchuáng            | 我早晨八点起床       | Use zài?          |
+| I take a shower at 8:30am              | wǒ zǎoshang bā diǎn bàn xǐ línyù       | 我早上八点半洗淋浴   | xǐ zǎo is better? |
+| I have breakfast at 9am                | wǒ zǎoshang jiǔ diǎn chī zǎofàn        | 我早上九点吃早饭     |                   |
+| I eat sausage and egg                  | wǒ chī xiāngcháng hé jiān jīdàn        | 我吃香肠和煎鸡蛋     |                   |
+| I study Chinese at 11am                | wǒ shàngwǔ shíyī diǎn xué zhōngwén     | 我上午十一点学中文   |                   |
+| I go to the gym at 12pm                | wǒ zhōngwǔ shí èr diǎn qù jiànshēnfáng | 我中午十二点去健身房 |                   |
+| I have lunch at 2pm                    | wǒ xiàwǔ èr diǎn chī wǔfàn             | 我下午二点吃午饭     |                   |
+| I go to the cinema at 3pm              | wǒ xiàwǔ sān diǎn qù kàn diànyǐng      | 我下午三点去看电影   | I go to see movie |
+| I eat dinner at 8pm                    | wǒ wǎnshàng bā diǎn chī wǎnfàn         | 我晚上八点吃晚饭     |                   |
+| I read book at 9pm                     | wǒ wǎnshàng jiǔ diǎn zài dúshū         | 我晚上九点在读书     | zài = reading     |
+| I go to sleep at quarter past midnight | wǒ bànyè shí èr diǎn yī kè shuìjiào    | 我半夜十二点一刻睡觉 |                   |
+
+[[https://quizlet.com/subject/easy-chinese-daily-routine-mandarin/][Daily Routine]]
+** Cards                                                          :noexport:
+*** Daily Routine Practice                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate these word(s)
+**** English
+I get up at 8am
+**** Pinyin
+wǒ zǎochén bā diǎn qǐchuáng
+**** Characters
+我早晨八点起床
+**** Notes
+Use zài?
+*** Daily Routine Practice                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate these word(s)
+**** English
+I take a shower at 8:30am
+**** Pinyin
+wǒ zǎoshang bā diǎn bàn xǐ línyù
+**** Characters
+我早上八点半洗淋浴
+**** Notes
+xǐ zǎo is better?
+*** Daily Routine Practice                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate these word(s)
+**** English
+I have breakfast at 9am
+**** Pinyin
+wǒ zǎoshang jiǔ diǎn chī zǎofàn
+**** Characters
+我早上九点吃早饭
+*** Daily Routine Practice                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate these word(s)
+**** English
+I eat sausage and egg
+**** Pinyin
+wǒ chī xiāngcháng hé jiān jīdàn
+**** Characters
+我吃香肠和煎鸡蛋
+*** Daily Routine Practice                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate these word(s)
+**** English
+I study Chinese at 11am
+**** Pinyin
+wǒ shàngwǔ shíyī diǎn xué zhōngwén
+**** Characters
+我上午十一点学中文
+*** Daily Routine Practice                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate these word(s)
+**** English
+I go to the gym at 12pm
+**** Pinyin
+wǒ zhōngwǔ shí èr diǎn qù jiànshēnfáng
+**** Characters
+我中午十二点去健身房
+*** Daily Routine Practice                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate these word(s)
+**** English
+I have lunch at 2pm
+**** Pinyin
+wǒ xiàwǔ èr diǎn chī wǔfàn
+**** Characters
+我下午二点吃午饭
+*** Daily Routine Practice                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate these word(s)
+**** English
+I go to the cinema at 3pm
+**** Pinyin
+wǒ xiàwǔ sān diǎn qù kàn diànyǐng
+**** Characters
+我下午三点去看电影
+**** Notes
+I go to see movie
+*** Daily Routine Practice                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate these word(s)
+**** English
+I eat dinner at 8pm
+**** Pinyin
+wǒ wǎnshàng bā diǎn chī wǎnfàn
+**** Characters
+我晚上八点吃晚饭
+*** Daily Routine Practice                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate these word(s)
+**** English
+I read book at 9pm
+**** Pinyin
+wǒ wǎnshàng jiǔ diǎn zài dúshū
+**** Characters
+我晚上九点在读书
+**** Notes
+zài = reading
+*** Daily Routine Practice                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate these word(s)
+**** English
+I go to sleep at quarter past midnight
+**** Pinyin
+wǒ bànyè shí èr diǎn yī kè shuìjiào
+**** Characters
+我半夜十二点一刻睡觉
 * Links and Misc
 ** PDF Version
 - A [[http://www.beadling.co.uk/mandarin.pdf][PDF Version]] of this website
