@@ -8314,6 +8314,47 @@ Which platform boards the No.25 train?
 ***** Pinyin
 T25 cì zài dì jǐ zhàn tái shàng chē ?
 
+** How, why and for how long?
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                    | Pinyin                           | Characters         | Notes                                |
+|--------------------------------------------+----------------------------------+--------------------+--------------------------------------|
+| Every day                                  | měi tiān                         | 每天               |                                      |
+| I eat breakfast every morning at 8         | wǒ měitiān bā diǎn chī zǎofàn    | 我每天八点吃早饭   |                                      |
+| Distance                                   | jù lí                            | 距离               |                                      |
+| To Walk                                    | zǒulù                            | 走路               | Walk Road                            |
+| I am walking                               | wǒ zài zǒulù                     | 我在走路           |                                      |
+| Running                                    | pǎo bù                           | 跑步               | Run Step                             |
+| Driving a car                              | kāi chē                          | 开车               | Open Vehicle                         |
+| I am driving                               | wǒ zài kāi chē                   | 我在开车           |                                      |
+| I drive                                    | wǒ kāi chē                       | 我开车             | I (can) drive or I drove here        |
+| I sit (I take)                             | wǒ zuò                           | 我坐               |                                      |
+| I take the subway                          | wǒ zuò dìtiě                     | 我坐地铁           |                                      |
+| Far / close                                | yuǎn / jìn                       | 远 / 近            |                                      |
+| How long (time)                            | duō jiǔ                          | 多久               |                                      |
+| Very long (time)                           | hěn jiǔ                          | 很久               |                                      |
+| Not long (time)                            | bù jiǔ                           | 不久               |                                      |
+| One hour                                   | yī xiǎo shí                      | 一小时             |                                      |
+| Half Hour                                  | bàn xiǎo shí                     | 半小时             |                                      |
+| One Minute                                 | yī fēn zhōng                     | 一分钟             | Time period not point                |
+| Why (for what)                             | wèi shén me                      | 为什么             |                                      |
+| How do you go to work each day?            | nǐ měitiān zěnme qù shàngbān     | 你每天怎么去上班   |                                      |
+| Walk to                                    | zǒu lù qù                        | 走路去             |                                      |
+| Drive to                                   | kāi chē qù                       | 开车去             |                                      |
+| Is your house far from your company?       | nǐ jiā jùlí gōngsī yuǎn ma       | 你家距离公司远吗   |                                      |
+| Not far, half an hour by car               | bù yuǎn, kāichē bàn xiǎoshí      | 不远, 开车半小时   |                                      |
+| Not close, 50 minutes walk.                | bù jìn, Zǒulù wǔshí fēnzhōng     | 不近, 走路五十分钟 |                                      |
+| Why not take the subway?                   | wèishéme bù zuò dìtiě            | 为什么不坐地铁     | Why not sit subway                   |
+| Is it far from the airport from the hotel? | jīchǎng jùlí jiǔdiàn yuǎn ma     | 机场距离酒店远吗   |                                      |
+| Not far                                    | bù yuǎn                          | 不远               |                                      |
+| How long (time) by subway?                 | zuò dìtiě yǒu duōjiǔ             | 坐地铁有多久       | Sit Subway have how long             |
+| How far is school from the company?        | xuéxiào jùlí gōngsī yǒu duō yuǎn | 学校距离公司有多远 | School distance company have how far |
+| By car, 20 minutes                         | Kāichē, èrshí fēnzhōng           | 开车, 二十分钟     |                                      |
+| How long (time) to walk to work?           | zǒulù qù shàngbān yǒu duō        | 走路去上班有多     | Walk to work, have how much          |
+| Long time                                  | cháng shíjiān                    | 长时间             |                                      |
+| More than 20 minutes                       | èrshí duō fēnzhōng               | 二十多分钟         |                                      |
+| 10-20 minutes                              | shí jǐ fēnzhōng                  | 十几分钟           |                                      |
+
 * Jobs and Age
 ** Mei and Bu
 :PROPERTIES:
@@ -10347,24 +10388,30 @@ Tā shuō nǐ qù chī fàn le
 :DRILL_INSTRUCTIONS: Translate these word(s)
 :END:
 
+** Weekend Routine
+
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                | Pinyin                                 | Characters           | Notes             |
-|----------------------------------------+----------------------------------------+----------------------+-------------------|
-| I get up at 8am                        | wǒ zǎochén bā diǎn qǐchuáng            | 我早晨八点起床       | Use zài?          |
-| I take a shower at 8:30am              | wǒ zǎoshang bā diǎn bàn xǐ línyù       | 我早上八点半洗淋浴   | xǐ zǎo is better? |
-| I have breakfast at 9am                | wǒ zǎoshang jiǔ diǎn chī zǎofàn        | 我早上九点吃早饭     |                   |
-| I eat sausage and egg                  | wǒ chī xiāngcháng hé jiān jīdàn        | 我吃香肠和煎鸡蛋     |                   |
-| I study Chinese at 11am                | wǒ shàngwǔ shíyī diǎn xué zhōngwén     | 我上午十一点学中文   |                   |
-| I go to the gym at 12pm                | wǒ zhōngwǔ shí èr diǎn qù jiànshēnfáng | 我中午十二点去健身房 |                   |
-| I have lunch at 2pm                    | wǒ xiàwǔ èr diǎn chī wǔfàn             | 我下午二点吃午饭     |                   |
-| I go to the cinema at 3pm              | wǒ xiàwǔ sān diǎn qù kàn diànyǐng      | 我下午三点去看电影   | I go to see movie |
-| I eat dinner at 8pm                    | wǒ wǎnshàng bā diǎn chī wǎnfàn         | 我晚上八点吃晚饭     |                   |
-| I read book at 9pm                     | wǒ wǎnshàng jiǔ diǎn zài dúshū         | 我晚上九点在读书     | zài = reading     |
-| I go to sleep at quarter past midnight | wǒ bànyè shí èr diǎn yī kè shuìjiào    | 我半夜十二点一刻睡觉 |                   |
+| English                                | Pinyin                                 | Characters           | Notes                                 |
+|----------------------------------------+----------------------------------------+----------------------+---------------------------------------|
+| I get up at 8am                        | wǒ zǎochén bā diǎn qǐchuáng            | 我早晨八点起床       | Use zài?                              |
+| I take a shower at 8:30am              | wǒ zǎoshang bā diǎn bàn xǐ zǎo         | 我早上八点半洗澡     | xǐzǎo means to wash [fn:1]            |
+| I have breakfast at 9am                | wǒ zǎoshang jiǔ diǎn chī zǎofàn        | 我早上九点吃早饭     |                                       |
+| I eat sausage and egg                  | wǒ chī xiāngcháng hé jiān jīdàn        | 我吃香肠和煎鸡蛋     |                                       |
+| I study Chinese at 11am                | wǒ shàngwǔ shíyī diǎn xué zhōngwén     | 我上午十一点学中文   |                                       |
+| I go to the gym at 12pm                | wǒ zhōngwǔ shí èr diǎn qù jiànshēnfáng | 我中午十二点去健身房 |                                       |
+| I have lunch at 2pm                    | wǒ xiàwǔ liǎng diǎn chī wǔfàn          | 我下午两点吃午饭     |                                       |
+| I go to the cinema at 3pm              | wǒ xiàwǔ sān diǎn qù kàn diànyǐng      | 我下午三点去看电影   | I go to see movie                     |
+| I eat dinner at 8pm                    | wǒ wǎnshàng bā diǎn chī wǎnfàn         | 我晚上八点吃晚饭     |                                       |
+| I read book at 9pm                     | wǒ wǎnshàng jiǔ diǎn zài dúshū         | 我晚上九点在读书     | zài=read*ing*, past or present [fn:2] |
+| I go to sleep at quarter past midnight | wǒ bànyè shí èr diǎn yī kè shuìjiào    | 我半夜十二点一刻睡觉 |                                       |
+
+[fn:1] The noun for shower is línyù/淋浴 - but it is not used as a verb.  línyù huài le / The shower is broken (huài opposite of hǎo, bad)
+[fn:2] zài is used to change "I read" to "I am reading".  It does not specify the tense tho.  So "I was reading" is the same.
 
 [[https://quizlet.com/subject/easy-chinese-daily-routine-mandarin/][Daily Routine]]
-** Cards                                                          :noexport:
-*** Daily Routine Practice                                          :drill:
+
+*** Cards                                                        :noexport:
+**** Daily Routine Practice                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -10377,7 +10424,7 @@ wǒ zǎochén bā diǎn qǐchuáng
 我早晨八点起床
 **** Notes
 Use zài?
-*** Daily Routine Practice                                          :drill:
+**** Daily Routine Practice                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -10390,7 +10437,7 @@ wǒ zǎoshang bā diǎn bàn xǐ línyù
 我早上八点半洗淋浴
 **** Notes
 xǐ zǎo is better?
-*** Daily Routine Practice                                          :drill:
+**** Daily Routine Practice                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -10401,7 +10448,7 @@ I have breakfast at 9am
 wǒ zǎoshang jiǔ diǎn chī zǎofàn
 **** Characters
 我早上九点吃早饭
-*** Daily Routine Practice                                          :drill:
+**** Daily Routine Practice                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -10412,7 +10459,7 @@ I eat sausage and egg
 wǒ chī xiāngcháng hé jiān jīdàn
 **** Characters
 我吃香肠和煎鸡蛋
-*** Daily Routine Practice                                          :drill:
+**** Daily Routine Practice                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -10423,7 +10470,7 @@ I study Chinese at 11am
 wǒ shàngwǔ shíyī diǎn xué zhōngwén
 **** Characters
 我上午十一点学中文
-*** Daily Routine Practice                                          :drill:
+**** Daily Routine Practice                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -10434,7 +10481,7 @@ I go to the gym at 12pm
 wǒ zhōngwǔ shí èr diǎn qù jiànshēnfáng
 **** Characters
 我中午十二点去健身房
-*** Daily Routine Practice                                          :drill:
+**** Daily Routine Practice                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -10445,7 +10492,7 @@ I have lunch at 2pm
 wǒ xiàwǔ èr diǎn chī wǔfàn
 **** Characters
 我下午二点吃午饭
-*** Daily Routine Practice                                          :drill:
+**** Daily Routine Practice                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -10458,7 +10505,7 @@ wǒ xiàwǔ sān diǎn qù kàn diànyǐng
 我下午三点去看电影
 **** Notes
 I go to see movie
-*** Daily Routine Practice                                          :drill:
+**** Daily Routine Practice                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -10469,7 +10516,7 @@ I eat dinner at 8pm
 wǒ wǎnshàng bā diǎn chī wǎnfàn
 **** Characters
 我晚上八点吃晚饭
-*** Daily Routine Practice                                          :drill:
+**** Daily Routine Practice                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -10482,7 +10529,7 @@ wǒ wǎnshàng jiǔ diǎn zài dúshū
 我晚上九点在读书
 **** Notes
 zài = reading
-*** Daily Routine Practice                                          :drill:
+**** Daily Routine Practice                                        :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -10493,6 +10540,35 @@ I go to sleep at quarter past midnight
 wǒ bànyè shí èr diǎn yī kè shuìjiào
 **** Characters
 我半夜十二点一刻睡觉
+
+
+** Work Routine
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                      | Pinyin                                                    | Characters                            | Notes |
+|----------------------------------------------+-----------------------------------------------------------+---------------------------------------+-------|
+| I get up at 7am                              | wǒ zǎoshang qī diǎn qǐchuáng                              | 我早上七点起床                        |       |
+| I take a shower a 7:30                       | wǒ qī diǎn bàn xǐzǎo                                      | 我七点半洗澡                          |       |
+| Every day I take the subway to work at 8am   | wǒ měitiān bā diǎn zuò dìtiě                              | 我每天八点坐地铁                      |       |
+| I have a cup of tea at 10am                  | wǒ shí diǎn hē bēi chá                                    | 我十点喝杯茶                          |       |
+| I have salad or a sandwich for lunch at 12am | Wǒ shí'èr diǎn chī wǔfàn. Wǒ chī shālā háishì sānmíngzhì. | 我十二点吃午饭。 我吃沙拉还是三明治。 |       |
+| I leave work at 6pm                          | wǒ wǎnshàng liù diǎn líkāi gōngzuò                        | 我六点离开工作                        |       |
+| I play squash at 7pm                         | wǒ qī diǎn dǎ bìqiú                                       | 我七点打壁球                          |       |
+| I have dinner at 8:30pm                      | wǒ bā diǎn bàn chī wǎnfàn                                 | 我八点半吃晚饭                        |       |
+| I watch television at 9pm                    | wǒ jiǔ diǎn kàn diànshì                                   | 我九点看电视                          |       |
+| I go to sleep at 11pm                        | wǒ shí yī diǎn shuìjiào                                   | 我十一点睡觉                          |       |
+
+我早上七点起床。
+我七点半洗澡。
+我每天八点坐地铁。
+我十点喝杯茶。
+我十二点吃午饭。 我吃沙拉还是三明治。
+我六点离开工作。
+我七点打壁球。
+我八点半吃晚饭。
+我九点看电视。
+我十一点睡觉。
+
 * Links and Misc
 ** PDF Version
 - A [[http://www.beadling.co.uk/mandarin.pdf][PDF Version]] of this website
@@ -10517,5 +10593,9 @@ wǒ bànyè shí èr diǎn yī kè shuìjiào
   - This allows you to use org-drill-cram, etc at tree level
 ** Publishing
 - To publish to the web C-c C-e P p
+** Misc Org
+Footnotes can be written using fn:<name> wrapped in square brackets.
+C-c C-c or C-c C-x f - jumps from footnote to reference
+
 * The End
 #+LATEX: \end{CJK}
