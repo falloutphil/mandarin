@@ -8892,6 +8892,69 @@ wǒ shí yī diǎn shuìjiào
 ***** Characters
 我十一点睡觉
 * Where is my Book?
+** Household and general items
+:PROPERTIES:
+:DRILL_HEADING: Household and general items
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word(s)
+:END:
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English         | Pinyin | Characters | Notes |
+|-----------------+--------+------------+-------|
+| Book            |        |            |       |
+| Table           |        |            |       |
+| Pen/Pencil      |        |            |       |
+| Bookshelf       |        |            |       |
+| Wardrobe        |        |            |       |
+| General Shelves |        |            |       |
+| Small Shelves   |        |            |       |
+| TV Table        |        |            |       |
+| Newspaper       |        |            |       |
+| Magazine        |        |            |       |
+** Position of general items
+:PROPERTIES:
+:DRILL_HEADING: Position of general items
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word(s)
+:END:
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                 | Pinyin | Characters | Notes         |
+|-----------------------------------------+--------+------------+---------------|
+| On top                                  |        |            |               |
+| Below                                   |        |            |               |
+| Left                                    |        |            |               |
+| Right                                   |        |            |               |
+| Front                                   |        |            |               |
+| Behind                                  |        |            |               |
+| Middle                                  |        |            |               |
+| Close/Next to                           |        |            |               |
+| Opposite                                |        |            |               |
+| Inside                                  |        |            |               |
+| Outside                                 |        |            |               |
+| Outisde (the) door                      |        |            |               |
+| You are inside the door                 |        |            |               |
+| How about my book?                      |        |            |               |
+| Where is my book?                       |        |            |               |
+| What book?                              |        |            |               |
+| One red Chinese book                    |        |            |               |
+| Is it on the table?                     |        |            |               |
+| On the train (inside)                   |        |            |               |
+| It's not (at)                           |        |            |               |
+| Is the book in the cupboard?            |        |            |               |
+| I found it                              |        |            | I did find it |
+| Found it                                |        |            |               |
+| Saw it                                  |        |            |               |
+| Heard it                                |        |            |               |
+| Ate it                                  |        |            |               |
+| Underneath the newspaper                |        |            |               |
+| The telephone is next to the television |        |            |               |
+| The book (is) on the ground             |        |            |               |
+| The milk is under the table             |        |            |               |
+
+
+
 * Links and Misc
 ** PDF Version
 - A [[http://www.beadling.co.uk/mandarin.pdf][PDF Version]] of this website
