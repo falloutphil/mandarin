@@ -8614,10 +8614,10 @@ Tā shuō nǐ qù chī fàn le
 | I read book at 9pm                     | wǒ wǎnshàng jiǔ diǎn zài dúshū         | 我晚上九点在读书     | zài=read*ing*, past or present [fn:2] |
 | I go to sleep at quarter past midnight | wǒ bànyè shí èr diǎn yī kè shuìjiào    | 我半夜十二点一刻睡觉 |                                       |
 
+Some examples on the web: [[https://quizlet.com/subject/easy-chinese-daily-routine-mandarin/][Daily Routine]]
+
 [fn:1] The noun for shower is línyù/淋浴 - but it is not used as a verb.  línyù huài le / The shower is broken (huài opposite of hǎo, bad)
 [fn:2] zài is used to change "I read" to "I am reading".  It does not specify the tense tho.  So "I was reading" is the same.
-
-[[https://quizlet.com/subject/easy-chinese-daily-routine-mandarin/][Daily Routine]]
 *** Cards                                                        :noexport:
 **** Weekend Routine                                               :drill:
 :PROPERTIES:
@@ -8900,18 +8900,137 @@ wǒ shí yī diǎn shuìjiào
 :END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English         | Pinyin | Characters | Notes |
-|-----------------+--------+------------+-------|
-| Book            |        |            |       |
-| Table           |        |            |       |
-| Pen/Pencil      |        |            |       |
-| Bookshelf       |        |            |       |
-| Wardrobe        |        |            |       |
-| General Shelves |        |            |       |
-| Small Shelves   |        |            |       |
-| TV Table        |        |            |       |
-| Newspaper       |        |            |       |
-| Magazine        |        |            |       |
+| English         | Pinyin      | Characters | Notes                                  |
+|-----------------+-------------+------------+----------------------------------------|
+| Book            | shū         | 书         |                                        |
+| Table           | zhuōzi      | 桌子       |                                        |
+| Pen/Pencil      | bǐ          | 笔         |                                        |
+| Bookshelf       | shū guì     | 书柜       | Or bookcase. guì means shelf/furniture |
+| Wardrobe        | yī guì      | 衣柜       | Wardrobe                               |
+| General Shelves | guì zi      | 柜子       | Or Cabinet                             |
+| Small Shelves   | xiǎo guìzi  | 小柜子     |                                        |
+| TV Cabinet      | diànshì guì | 电视柜     |                                        |
+| Newspaper       | bào zhǐ     | 报纸       | Report Paper                           |
+| Magazine        | zá zhì      | 杂志       |                                        |
+*** Cards                                                        :noexport:
+**** Household and general items                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Book
+***** Pinyin
+shū
+***** Characters
+书
+**** Household and general items                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Table
+***** Pinyin
+zhuōzi
+***** Characters
+桌子
+**** Household and general items                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Pen/Pencil
+***** Pinyin
+bǐ
+***** Characters
+笔
+**** Household and general items                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Bookshelf
+***** Pinyin
+shū guì
+***** Characters
+书柜
+***** Notes
+Or bookcase. guì means shelf/furniture
+**** Household and general items                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Wardrobe
+***** Pinyin
+yī guì
+***** Characters
+衣柜
+***** Notes
+Wardrobe
+**** Household and general items                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+General Shelves
+***** Pinyin
+guì zi
+***** Characters
+柜子
+***** Notes
+Or Cabinet
+**** Household and general items                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Small Shelves
+***** Pinyin
+xiǎo guìzi
+***** Characters
+小柜子
+**** Household and general items                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+TV Cabinet
+***** Pinyin
+diànshì guì
+***** Characters
+电视柜
+**** Household and general items                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Newspaper
+***** Pinyin
+bào zhǐ
+***** Characters
+报纸
+***** Notes
+Report Paper
+**** Household and general items                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Magazine
+***** Pinyin
+zá zhì
+***** Characters
+杂志
 ** Position of general items
 :PROPERTIES:
 :DRILL_HEADING: Position of general items
@@ -8920,41 +9039,381 @@ wǒ shí yī diǎn shuìjiào
 :END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                 | Pinyin | Characters | Notes         |
-|-----------------------------------------+--------+------------+---------------|
-| On top                                  |        |            |               |
-| Below                                   |        |            |               |
-| Left                                    |        |            |               |
-| Right                                   |        |            |               |
-| Front                                   |        |            |               |
-| Behind                                  |        |            |               |
-| Middle                                  |        |            |               |
-| Close/Next to                           |        |            |               |
-| Opposite                                |        |            |               |
-| Inside                                  |        |            |               |
-| Outside                                 |        |            |               |
-| Outisde (the) door                      |        |            |               |
-| You are inside the door                 |        |            |               |
-| How about my book?                      |        |            |               |
-| Where is my book?                       |        |            |               |
-| What book?                              |        |            |               |
-| One red Chinese book                    |        |            |               |
-| Is it on the table?                     |        |            |               |
-| On the train (inside)                   |        |            |               |
-| It's not (at)                           |        |            |               |
-| Is the book in the cupboard?            |        |            |               |
-| I found it                              |        |            | I did find it |
-| Found it                                |        |            |               |
-| Saw it                                  |        |            |               |
-| Heard it                                |        |            |               |
-| Ate it                                  |        |            |               |
-| Underneath the newspaper                |        |            |               |
-| The telephone is next to the television |        |            |               |
-| The book (is) on the ground             |        |            |               |
-| The milk is under the table             |        |            |               |
+| English                                 | Pinyin                        | Characters       | Notes                                   |
+|-----------------------------------------+-------------------------------+------------------+-----------------------------------------|
+| On top                                  | shàng                         | 上               |                                         |
+| Below                                   | xià                           | 下               |                                         |
+| Left                                    | zuǒ                           | 左               |                                         |
+| Right                                   | yòu                           | 右               |                                         |
+| Front                                   | qián                          | 前               |                                         |
+| Behind                                  | hòu                           | 后               |                                         |
+| Middle                                  | zhōngjiān                     | 中间             |                                         |
+| Close/Next to                           | páng biān                     | 旁边             |                                         |
+| Opposite                                | duì miàn                      | 对面             |                                         |
+| Inside                                  | lǐ                            | 里               |                                         |
+| Outside                                 | wài                           | 外               |                                         |
+| Outisde (the) door                      | mén wài                       | 门外             |                                         |
+| You are inside the door                 | nǐ zài mén lǐ                 | 你在门里         |                                         |
+| How about my book?                      | wǒ de shǔ ne                  | 我的书呢         |                                         |
+| Where is my book?                       | wǒ de shū zài nǎlǐ            | 我的书在哪里     |                                         |
+| What book?                              | shén me shū                   | 什么书           |                                         |
+| One red Chinese book                    | yī běn hóngsè de zhōngwén shū | 一本红色的中文书 |                                         |
+| Is it on the table?                     | zài zhōuzi shàng (miàn) ma    | 在桌子上（面）吗 | At <place> <relative location> question |
+| On the train (inside)                   | zài huǒchē shàng              | 在火车上         | Use of "on" just like English           |
+| It's not (at)                           | bù zài                        | 不在             |                                         |
+| Is it in the bookcase?                  | zài shūguì lǐ ma              | 在书柜里吗       | bookcase or shelf                       |
+| I found it                              | wǒ zhǎo dào le                | 我找到了         | I find did-succeed past-tense [fn:3]    |
+| I saw it                                | wǒ kàn dào le                 | 我看到了         | kàn = look, kàndào = see                |
+| I heard it                              | wǒ tīng dào le                | 我听到了         | tīng = listen, tīngdào = hear           |
+| I ate it                                | wǒ chī dào le                 | 我吃到了         | chī = eat, chīdào = eaten               |
+| Underneath the newspaper                | zài bàozhǐ xiàmiàn            | 在报纸下面       | At newspaper under                      |
+| The telephone is next to the television | diànhuà zài diànshì pángbiān  | 电话在电视旁边   | Telephone at TV next-to                 |
+| The book (is) on the ground             | shū zài dì shàng              | 书在地上         | Book at ground on                       |
+| The milk is under the table             | niúnǎi zài zhuōzi xià         | 牛奶在桌子下     | Milk at table under                     |
 
-
-
+[fn:3] dào suggests completion of an action.  So you zhǎo (as in search) for something, when it turns-up this is zhǎodào.  Likewise kàn means to look for something, but kàndào means you've looked and see it!
+*** Cards                                                        :noexport:
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+On top
+***** Pinyin
+shàng
+***** Characters
+上
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Below
+***** Pinyin
+xià
+***** Characters
+下
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Left
+***** Pinyin
+zuǒ
+***** Characters
+左
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Right
+***** Pinyin
+yòu
+***** Characters
+右
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Front
+***** Pinyin
+qián
+***** Characters
+前
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Behind
+***** Pinyin
+hòu
+***** Characters
+后
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Middle
+***** Pinyin
+zhōngjiān
+***** Characters
+中间
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Close/Next to
+***** Pinyin
+páng biān
+***** Characters
+旁边
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Opposite
+***** Pinyin
+duì miàn
+***** Characters
+对面
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Inside
+***** Pinyin
+lǐ
+***** Characters
+里
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Outside
+***** Pinyin
+wài
+***** Characters
+外
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Outisde (the) door
+***** Pinyin
+mén wài
+***** Characters
+门外
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+You are inside the door
+***** Pinyin
+nǐ zài mén lǐ
+***** Characters
+你在门里
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+How about my book?
+***** Pinyin
+wǒ de shǔ ne
+***** Characters
+我的书呢
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Where is my book?
+***** Pinyin
+wǒ de shū zài nǎlǐ
+***** Characters
+我的书在哪里
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+What book?
+***** Pinyin
+shén me shū
+***** Characters
+什么书
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+One red Chinese book
+***** Pinyin
+yī běn hóngsè de zhōngwén shū
+***** Characters
+一本红色的中文书
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Is it on the table?
+***** Pinyin
+zài zhōuzi shàng (miàn) ma
+***** Characters
+在桌子上（面）吗
+***** Notes
+At <place> <relative location> question
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+On the train (inside)
+***** Pinyin
+zài huǒchē shàng
+***** Characters
+在火车上
+***** Notes
+Use of "on" just like English
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+It's not (at)
+***** Pinyin
+bù zài
+***** Characters
+不在
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Is it in the bookcase?
+***** Pinyin
+zài shūguì lǐ ma
+***** Characters
+在书柜里吗
+***** Notes
+bookcase or shelf
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I found it
+***** Pinyin
+wǒ zhǎo dào le
+***** Characters
+我找到了
+***** Notes
+I find did-succeed past-tense [fn:3]
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I saw it
+***** Pinyin
+wǒ kàn dào le
+***** Characters
+我看到了
+***** Notes
+kàn = look, kàndào = see
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I heard it
+***** Pinyin
+wǒ tīng dào le
+***** Characters
+我听到了
+***** Notes
+tīng = listen, tīngdào = hear
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I ate it
+***** Pinyin
+wǒ chī dào le
+***** Characters
+我吃到了
+***** Notes
+chī = eat, chīdào = eaten
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Underneath the newspaper
+***** Pinyin
+zài bàozhǐ xiàmiàn
+***** Characters
+在报纸下面
+***** Notes
+At newspaper under
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+The telephone is next to the television
+***** Pinyin
+diànhuà zài diànshì pángbiān
+***** Characters
+电话在电视旁边
+***** Notes
+Telephone at TV next-to
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+The book (is) on the ground
+***** Pinyin
+shū zài dì shàng
+***** Characters
+书在地上
+***** Notes
+Book at ground on
+**** Position of general items                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+The milk is under the table
+***** Pinyin
+niúnǎi zài zhuōzi xià
+***** Characters
+牛奶在桌子下
+***** Notes
+Milk at table under
 * Links and Misc
 ** PDF Version
 - A [[http://www.beadling.co.uk/mandarin.pdf][PDF Version]] of this website
