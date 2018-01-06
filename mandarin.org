@@ -9414,6 +9414,341 @@ niúnǎi zài zhuōzi xià
 牛奶在桌子下
 ***** Notes
 Milk at table under
+
+** My Lounge
+:PROPERTIES:
+:DRILL_HEADING: My Lounge
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word(s)
+:END:
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                              | Pinyin                                | Characters           | Notes                                |
+|------------------------------------------------------+---------------------------------------+----------------------+--------------------------------------|
+| Lounge                                               | kètīng                                | 客厅                 |                                      |
+| Sofa                                                 | shāfā                                 | 沙发                 |                                      |
+| Armchair                                             | fúshǒu yǐ                             | 扶手椅               |                                      |
+| Rug                                                  | dìtǎn                                 | 地毯                 |                                      |
+| Table                                                | zhuōzi                                | 桌子                 |                                      |
+| Plant                                                | zhíwù                                 | 植物                 |                                      |
+| Staircase                                            | lóutī                                 | 楼梯                 |                                      |
+| Painting                                             | huìhuà                                | 绘画                 |                                      |
+| Wall                                                 | qiángbì                               | 墙壁                 |                                      |
+| In my lounge, I have one sofa                        | zài wǒ de kètīng, yǒu yī zhāng shāfā  | 在我的客厅有一张沙发 |                                      |
+| The TV cabinet is opposite the sofa                  | diànshì guì zài shāfā duì miàn        | 电视柜在沙发对面     |                                      |
+| The TV is on top of the TV cabinet                   | diànshì zài diànshì guì shàng         | 电视在电视柜上       |                                      |
+| In front of the TV cabinet is a red rug              | hòng de dìtǎn zài diànshì guì qián    | 红的地毯在电视柜前   |                                      |
+| To the left of the rug is an armchair                | fúshǒu yǐ zài dìtǎn de zuǒ miàn       | 扶手椅在地毯的左面   |                                      |
+| There is a newspaper on the armchair                 | bǎo zhì zài fúshǒu yǐ shàng           | 报纸在扶手椅上       |                                      |
+| Behind the armchair is a table                       | zhuōzi zài fúshǒu yǐ hòu              | 桌子在扶手椅后       |                                      |
+| There is a plant on the table                        | zhíwù zài zhuōzi shàng                | 植物在桌子上         |                                      |
+| Next to the table is a staircase                     | lóutī zài zhuōzi páng biān            | 楼梯在桌子旁边       |                                      |
+| Under the staircase there are purple shelves         | zǐsè de guìzi zài lóutī xià           | 紫色的柜子在楼梯下   |                                      |
+| There is a painting on the wall opposite the shelves | huà zài qiáng shàng zài guìzi duìmiàn | 画在墙上在柜子对面   | huà zài qiáng shàng guìzi de duìmiàn |
+*** Cards                                                        :noexport:
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Lounge
+
+***** Pinyin
+kètīng
+
+***** Characters
+客厅
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Sofa
+
+***** Pinyin
+shāfā
+
+***** Characters
+沙发
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Armchair
+
+***** Pinyin
+fúshǒu yǐ
+
+***** Characters
+扶手椅
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Rug
+
+***** Pinyin
+dìtǎn
+
+***** Characters
+地毯
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Table
+
+***** Pinyin
+zhuōzi
+
+***** Characters
+桌子
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Plant
+
+***** Pinyin
+zhíwù
+
+***** Characters
+植物
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Staircase
+
+***** Pinyin
+lóutī
+
+***** Characters
+楼梯
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Painting
+
+***** Pinyin
+huìhuà
+
+***** Characters
+绘画
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Wall
+
+***** Pinyin
+qiángbì
+
+***** Characters
+墙壁
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+In my lounge, I have one sofa
+
+***** Pinyin
+zài wǒ de kètīng, yǒu yī zhāng shāfā
+
+***** Characters
+在我的客厅有一张沙发
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+The TV cabinet is opposite the sofa
+
+***** Pinyin
+diànshì guì zài shāfā duì miàn
+
+***** Characters
+电视柜在沙发对面
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+The TV is on top of the TV cabinet
+
+***** Pinyin
+diànshì zài diànshì guì shàng
+
+***** Characters
+电视在电视柜上
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+In front of the TV cabinet is a red rug
+
+***** Pinyin
+hòng de dìtǎn zài diànshì guì qián
+
+***** Characters
+红的地毯在电视柜前
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+To the left of the rug is an armchair
+
+***** Pinyin
+fúshǒu yǐ zài dìtǎn de zuǒ miàn
+
+***** Characters
+扶手椅在地毯的左面
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+There is a newspaper on the armchair
+
+***** Pinyin
+bǎo zhì zài fúshǒu yǐ shàng
+
+***** Characters
+报纸在扶手椅上
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Behind the armchair is a table
+
+***** Pinyin
+zhuōzi zài fúshǒu yǐ hòu
+
+***** Characters
+桌子在扶手椅后
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+There is a plant on the table
+
+***** Pinyin
+zhíwù zài zhuōzi shàng
+
+***** Characters
+植物在桌子上
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Next to the table is a staircase
+
+***** Pinyin
+lóutī zài zhuōzi páng biān
+
+***** Characters
+楼梯在桌子旁边
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Under the staircase there are purple shelves
+
+***** Pinyin
+zǐsè de guìzi zài lóutī xià
+
+***** Characters
+紫色的柜子在楼梯下
+
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+There is a painting on the wall opposite the shelves
+
+***** Pinyin
+huà zài qiáng shàng zài guìzi duìmiàn
+
+***** Characters
+画在墙上在柜子对面
+
+***** Notes
+huà zài qiáng shàng guìzi de duìmiàn
 * Links and Misc
 ** PDF Version
 - A [[http://www.beadling.co.uk/mandarin.pdf][PDF Version]] of this website
