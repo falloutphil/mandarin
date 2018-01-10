@@ -403,26 +403,26 @@ Translate the following word(s)
 二十一
 ** Telling the Time
 :PROPERTIES:
-:DRILL_HEADING: Telling The Time
+:DRILL_HEADING: Telling the Time
 :DRILL_CARD_TYPE: twosided
 :DRILL_INSTRUCTIONS: Translate the following word(s)
 :END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                | Pinyin                                | Characters | Notes       |
-|------------------------+---------------------------------------+------------+-------------|
-| What time is it (now)? | xiàn zài jǐ diǎn                      | [[https://translate.google.com/#zh-cn/en/现在几点][现在几点]]   |             |
-| Half Two               | liǎng diǎn bàn                        | [[https://translate.google.com/#zh-cn/en/两点半][两点半]]     |             |
-| Five past Two          | liǎng diǎn líng wǔ                    | [[https://translate.google.com/#zh-cn/en/两点零五][两点零五]]   |             |
-| Five Past Two          | liǎng diǎn wǔ fēn                     | [[https://translate.google.com/#zh-cn/en/两点五分][两点五分]]   |             |
-| Eight Fifteen          | bā diǎn shí wǔ                        | [[https://translate.google.com/#zh-cn/en/八点十五][八点十五]]   |             |
-| Quarter (past) Eight   | bā diǎn yí kè                         | [[https://translate.google.com/#zh-cn/en/八点一刻][八点一刻]]   |             |
-| bā diǎn wǔ shí wǔ      | Eight Fifty Five                      | [[https://translate.google.com/#zh-cn/en/八点五十五][八点五十五]] |             |
-| bā diǎn duō            | After Eight                           | [[https://translate.google.com/#zh-cn/en/八点多][八点多]]     | Before 8:30 |
-| bā diǎn zuǒ yòu        | About Eight                           | [[https://translate.google.com/#zh-cn/en/八点左右][八点左右]]   |             |
-| bā diǎn shí jǐ fēn     | Basically – 8:1x, where x is unknown! | [[https://translate.google.com/#zh-cn/en/八点十几分][八点十几分]] |             |
+| English                               | Pinyin             | Characters | Notes       |
+|---------------------------------------+--------------------+------------+-------------|
+| What time is it (now)?                | xiàn zài jǐ diǎn   | [[https://translate.google.com/#zh-cn/en/现在几点][现在几点]]   |             |
+| Half Two                              | liǎng diǎn bàn     | [[https://translate.google.com/#zh-cn/en/两点半][两点半]]     |             |
+| Five past Two                         | liǎng diǎn líng wǔ | [[https://translate.google.com/#zh-cn/en/两点零五][两点零五]]   |             |
+| Five Past Two                         | liǎng diǎn wǔ fēn  | [[https://translate.google.com/#zh-cn/en/两点五分][两点五分]]   |             |
+| Eight Fifteen                         | bā diǎn shí wǔ     | [[https://translate.google.com/#zh-cn/en/八点十五][八点十五]]   |             |
+| Quarter (past) Eight                  | bā diǎn yí kè      | [[https://translate.google.com/#zh-cn/en/八点一刻][八点一刻]]   |             |
+| Eight Fifty Five                      | bā diǎn wǔ shí wǔ  | [[https://translate.google.com/#zh-cn/en/八点五十五][八点五十五]] |             |
+| After Eight                           | bā diǎn duō        | [[https://translate.google.com/#zh-cn/en/八点多][八点多]]     | Before 8:30 |
+| About Eight                           | bā diǎn zuǒ yòu    | [[https://translate.google.com/#zh-cn/en/八点左右][八点左右]]   |             |
+| Basically – 8:1x, where x is unknown! | bā diǎn shí jǐ fēn | [[https://translate.google.com/#zh-cn/en/八点十几分][八点十几分]] |             |
 *** Cards                                                        :noexport:
-**** Telling The Time                                              :drill:
+**** Telling the Time                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -432,8 +432,8 @@ What time is it (now)?
 ***** Pinyin
 xiàn zài jǐ diǎn
 ***** Characters
-现在几点
-**** Telling The Time                                              :drill:
+[[https://translate.google.com/#zh-cn/en/现在几点][现在几点]]
+**** Telling the Time                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -443,8 +443,8 @@ Half Two
 ***** Pinyin
 liǎng diǎn bàn
 ***** Characters
-两点半
-**** Telling The Time                                              :drill:
+[[https://translate.google.com/#zh-cn/en/两点半][两点半]]
+**** Telling the Time                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -454,8 +454,8 @@ Five past Two
 ***** Pinyin
 liǎng diǎn líng wǔ
 ***** Characters
-两点零五
-**** Telling The Time                                              :drill:
+[[https://translate.google.com/#zh-cn/en/两点零五][两点零五]]
+**** Telling the Time                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -465,8 +465,8 @@ Five Past Two
 ***** Pinyin
 liǎng diǎn wǔ fēn
 ***** Characters
-两点五分
-**** Telling The Time                                              :drill:
+[[https://translate.google.com/#zh-cn/en/两点五分][两点五分]]
+**** Telling the Time                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -476,8 +476,8 @@ Eight Fifteen
 ***** Pinyin
 bā diǎn shí wǔ
 ***** Characters
-八点十五
-**** Telling The Time                                              :drill:
+[[https://translate.google.com/#zh-cn/en/八点十五][八点十五]]
+**** Telling the Time                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
@@ -487,53 +487,53 @@ Quarter (past) Eight
 ***** Pinyin
 bā diǎn yí kè
 ***** Characters
-八点一刻
-**** Telling The Time                                              :drill:
+[[https://translate.google.com/#zh-cn/en/八点一刻][八点一刻]]
+**** Telling the Time                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
 ***** English
-bā diǎn wǔ shí wǔ
-***** Pinyin
 Eight Fifty Five
+***** Pinyin
+bā diǎn wǔ shí wǔ
 ***** Characters
-八点五十五
-**** Telling The Time                                              :drill:
+[[https://translate.google.com/#zh-cn/en/八点五十五][八点五十五]]
+**** Telling the Time                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
 ***** English
-bā diǎn duō
-***** Pinyin
 After Eight
+***** Pinyin
+bā diǎn duō
 ***** Characters
-八点多
+[[https://translate.google.com/#zh-cn/en/八点多][八点多]]
 ***** Notes
 Before 8:30
-**** Telling The Time                                              :drill:
+**** Telling the Time                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
 ***** English
-bā diǎn zuǒ yòu
-***** Pinyin
 About Eight
+***** Pinyin
+bā diǎn zuǒ yòu
 ***** Characters
-八点左右
-**** Telling The Time                                              :drill:
+[[https://translate.google.com/#zh-cn/en/八点左右][八点左右]]
+**** Telling the Time                                              :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
 ***** English
-bā diǎn shí jǐ fēn
-***** Pinyin
 Basically – 8:1x, where x is unknown!
+***** Pinyin
+bā diǎn shí jǐ fēn
 ***** Characters
-八点十几分
+[[https://translate.google.com/#zh-cn/en/八点十几分][八点十几分]]
 ** Times of the Day
 :PROPERTIES:
 :DRILL_HEADING: Times of the Day
