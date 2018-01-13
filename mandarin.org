@@ -234,7 +234,7 @@ Wǎn'ān
 |---------+---------------------------------+--------------------+-------|
 |       0 | líng                            | [[https://translate.google.com/#zh-cn/en/零][零]]                 |       |
 |       1 | yī                              | [[https://translate.google.com/#zh-cn/en/一][一]]                 |       |
-|       2 | èr / liǎng                      | [[https://translate.google.com/#zh-cn/en/二 ／ 两][二 ／ 两]]           |       |
+|       2 | èr or liǎng                     | [[https://translate.google.com/#zh-cn/en/二.两][二 or 两]]           |       |
 |       3 | sān                             | [[https://translate.google.com/#zh-cn/en/三][三]]                 |       |
 |       4 | sì                              | [[https://translate.google.com/#zh-cn/en/四][四]]                 |       |
 |       5 | wǔ                              | [[https://translate.google.com/#zh-cn/en/五][五]]                 |       |
@@ -279,7 +279,7 @@ Translate the following word(s)
 ***** Pinyin
 èr / liǎng
 ***** Characters
-二 ／ 两
+二 or 两
 **** Numbers                                                       :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
@@ -680,7 +680,7 @@ xià wǔ sān diǎn
 | Two Zero One Six (2016)             | èr līng yī liù nián | [[https://translate.google.com/#zh-cn/en/二零一六年][二零一六年]] |                      |
 | Month                               | yuè                 | [[https://translate.google.com/#zh-cn/en/月][月]]         |                      |
 | Two Month (February)                | èr yuè              | [[https://translate.google.com/#zh-cn/en/二月][二月]]       |                      |
-| Day                                 | rì / hào            | [[https://translate.google.com/#zh-cn/en/日／号][日／号]]     |                      |
+| Day                                 | rì or hào           | [[https://translate.google.com/#zh-cn/en/日.号][日 or 号]]   |                      |
 | 18th                                | shí bā hào          | [[https://translate.google.com/#zh-cn/en/十八号][十八号]]     |                      |
 | Week (Star Period)                  | xīng qī             | [[https://translate.google.com/#zh-cn/en/星期][星期]]       |                      |
 | Week (One revolution of a circle)   | zhōu                | [[https://translate.google.com/#zh-cn/en/周][周]]         |                      |
@@ -746,9 +746,9 @@ Translate the following word(s)
 ***** English
 Day
 ***** Pinyin
-rì / hào
+rì or hào
 ***** Characters
-日／号
+日 or 号
 **** Days, Weeks, Months                                           :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
@@ -1171,11 +1171,11 @@ bā yuè shí jǐ hào
 | What’s the day (of the month) today?                     | jīn tiān jǐ hào                                 | [[https://translate.google.com/#zh-cn/en/今天几号][今天几号]]                   |       |
 | Today is 8th August.                                     | jīn tiān bā yuè bā hào                          | [[https://translate.google.com/#zh-cn/en/今天八月八号][今天八月八号]]               |       |
 | On what day do you go to Shanghai?                       | nǐ jǐ hào qù shàng hǎi                          | [[https://translate.google.com/#zh-cn/en/你几号去上海][你几号去上海]]               |       |
-| On the 10th I go to Shanghi, returning on the 13th       | wǒ shí hào qù shàng hǎi, shí sān hào huí lái    | [[https://translate.google.com/#zh-cn/en/我十号去上海，十三号回来][我十号去上海，十三号回来]]   |       |
+| On the 10th I go to Shanghi, returning on the 13th       | wǒ shí hào qù shàng hǎi, shí sān hào huí lái    | [[https://translate.google.com/#zh-cn/en/我十号去上海,十三号回来][我十号去上海,十三号回来]]   |       |
 | What day of the week is the 13th?                        | shí sān hào shì xīng qī jǐ                      | [[https://translate.google.com/#zh-cn/en/十三号是星期几][十三号是星期几]]             |       |
 | Friday                                                   | xīng qī wǔ                                      | [[https://translate.google.com/#zh-cn/en/星期五][星期五]]                     |       |
 | Next month, where are you going?                         | nǐ xìa gè yuè qù nǎ                             | [[https://translate.google.com/#zh-cn/en/你下个月去哪][你下个月去哪]]               |       |
-| This month I go to Shanghai, next month I go to Beijing. | zhè gè yuè qù shàng hǎi, xìa gè yuè qù běi jīng | [[https://translate.google.com/#zh-cn/en/这个月去上海，下个月去北京][这个月去上海，下个月去北京]] |       |
+| This month I go to Shanghai, next month I go to Beijing. | zhè gè yuè qù shàng hǎi, xìa gè yuè qù běi jīng | [[https://translate.google.com/#zh-cn/en/这个月去上海,下个月去北京][这个月去上海,下个月去北京]] |       |
 *** Cards                                                        :noexport:
 **** Going to Shanghai                                             :drill:
 :PROPERTIES:
@@ -1220,7 +1220,7 @@ On the 10th I go to Shanghi, returning on the 13th
 ***** Pinyin
 wǒ shí hào qù shàng hǎi, shí sān hào huí lái
 ***** Characters
-我十号去上海，十三号回来
+我十号去上海,十三号回来
 **** Going to Shanghai                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
@@ -1264,7 +1264,7 @@ This month I go to Shanghai, next month I go to Beijing.
 ***** Pinyin
 zhè gè yuè qù shàng hǎi, xìa gè yuè qù běi jīng
 ***** Characters
-这个月去上海，下个月去北京
+这个月去上海,下个月去北京
 ** Conversation - Daily Routine
 :PROPERTIES:
 :DRILL_HEADING: Daily Routine
@@ -2149,7 +2149,7 @@ yáng cōng
 | Question maker                               | ma                          | [[https://translate.google.com/#zh-cn/en/吗][吗]]             |                                                                                    |
 | Do you have a red one?                       | yǒu hóng sè de (máo yi) ma  | [[https://translate.google.com/#zh-cn/en/有红色的毛衣吗][有红色的毛衣吗]] | “se” is the colour particle – add to be clearer                                    |
 | I                                            | wǒ                          | [[https://translate.google.com/#zh-cn/en/我][我]]             |                                                                                    |
-| My ／ Mine                                   | wǒ de                       | [[https://translate.google.com/#zh-cn/en/我的][我的]]           |                                                                                    |
+| My or Mine                                   | wǒ de                       | [[https://translate.google.com/#zh-cn/en/我的][我的]]           |                                                                                    |
 | Apple of I – i.e. My Apple                   | wǒ de píng gǔo              | [[https://translate.google.com/#zh-cn/en/我的苹果][我的苹果]]       |                                                                                    |
 | I have apple                                 | wǒ yǒu píng gǔo             | [[https://translate.google.com/#zh-cn/en/我有苹果][我有苹果]]       |                                                                                    |
 | Is the response to “yǒu ______ ma” question. | yǒu                         | [[https://translate.google.com/#zh-cn/en/有][有]]             | Literally: (I) have. Like Hay/No Hay in Spanish!                                   |
@@ -2331,7 +2331,7 @@ wǒ
 :END:
 Translate the following word(s)
 ***** English
-My ／ Mine
+My or Mine
 ***** Pinyin
 wǒ de
 ***** Characters
@@ -4666,7 +4666,7 @@ yī shuāng kuàizi
 | This (measure) dish (is) very salty.  Note there is no “is” | zhè ge cài hěn xián              | [[https://translate.google.com/#zh-cn/en/这道菜很咸][这道菜很咸]]         |                                                 |
 | This dish (is) too salty.  More salty than I expected.      | zhè ge cài tài xián le           | [[https://translate.google.com/#zh-cn/en/这个菜太咸了][这个菜太咸了]]       |                                                 |
 | I like sweet, please give me sugar                          | wǒ xǐhuan tián, qǐng gěi wǒ táng | [[https://translate.google.com/#zh-cn/en/我喜欢甜, 请给我糖][我喜欢甜, 请给我糖]] |                                                 |
-| She likes sweet, please give her sugar                      | tā xǐhuan tián, qǐng gěi tā táng | [[https://translate.google.com/#zh-cn/en/她喜欢甜，请给她糖][她喜欢甜，请给她糖]] | (tā is he/she/it but character is different)    |
+| She likes sweet, please give her sugar                      | tā xǐhuan tián, qǐng gěi tā táng | [[https://translate.google.com/#zh-cn/en/她喜欢甜,请给她糖][她喜欢甜,请给她糖]] | (tā is he/she/it but character is different)    |
 *** Cards                                                        :noexport:
 **** Herbs, Spices and Tastes                                      :drill:
 :PROPERTIES:
@@ -4893,9 +4893,10 @@ She likes sweet, please give her sugar
 ***** Pinyin
 tā xǐhuan tián, qǐng gěi tā táng
 ***** Characters
-她喜欢甜，请给她糖
+她喜欢甜,请给她糖
 ***** Notes
 (tā is he/she/it but character is different)
+
 * Family
 ** Family, Parents
 :PROPERTIES:
@@ -7829,6 +7830,7 @@ Nín gāo shòu
 您高寿
 ***** Notes
 You high life
+
 * Making a Phone Call
 ** Phones, e-mails and messages
 :PROPERTIES:
@@ -8764,18 +8766,18 @@ wǒ bànyè shí èr diǎn yī kè shuìjiào
 :END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                      | Pinyin                                                    | Characters                            | Notes |
-|----------------------------------------------+-----------------------------------------------------------+---------------------------------------+-------|
-| I get up at 7am                              | wǒ zǎoshang qī diǎn qǐchuáng                              | [[https://translate.google.com/#zh-cn/en/我早上七点起床][我早上七点起床]]                        |       |
-| I take a shower a 7:30                       | wǒ qī diǎn bàn xǐzǎo                                      | [[https://translate.google.com/#zh-cn/en/我七点半洗澡][我七点半洗澡]]                          |       |
-| Every day I take the subway to work at 8am   | wǒ měitiān bā diǎn zuò dìtiě                              | [[https://translate.google.com/#zh-cn/en/我每天八点坐地铁][我每天八点坐地铁]]                      |       |
-| I have a cup of tea at 10am                  | wǒ shí diǎn hē bēi chá                                    | [[https://translate.google.com/#zh-cn/en/我十点喝杯茶][我十点喝杯茶]]                          |       |
-| I have salad or a sandwich for lunch at 12am | Wǒ shí'èr diǎn chī wǔfàn. Wǒ chī shālā háishì sānmíngzhì. | [[https://translate.google.com/#zh-cn/en/我十二点吃午饭。 我吃沙拉还是三明治。][我十二点吃午饭。 我吃沙拉还是三明治。]] |       |
-| I leave work at 6pm                          | wǒ wǎnshàng liù diǎn líkāi gōngzuò                        | [[https://translate.google.com/#zh-cn/en/我六点离开工作][我六点离开工作]]                        |       |
-| I play squash at 7pm                         | wǒ qī diǎn dǎ bìqiú                                       | [[https://translate.google.com/#zh-cn/en/我七点打壁球][我七点打壁球]]                          |       |
-| I have dinner at 8:30pm                      | wǒ bā diǎn bàn chī wǎnfàn                                 | [[https://translate.google.com/#zh-cn/en/我八点半吃晚饭][我八点半吃晚饭]]                        |       |
-| I watch television at 9pm                    | wǒ jiǔ diǎn kàn diànshì                                   | [[https://translate.google.com/#zh-cn/en/我九点看电视][我九点看电视]]                          |       |
-| I go to sleep at 11pm                        | wǒ shí yī diǎn shuìjiào                                   | [[https://translate.google.com/#zh-cn/en/我十一点睡觉][我十一点睡觉]]                          |       |
+| English                                      | Pinyin                                                    | Characters                         | Notes |
+|----------------------------------------------+-----------------------------------------------------------+------------------------------------+-------|
+| I get up at 7am                              | wǒ zǎoshang qī diǎn qǐchuáng                              | [[https://translate.google.com/#zh-cn/en/我早上七点起床][我早上七点起床]]                     |       |
+| I take a shower a 7:30                       | wǒ qī diǎn bàn xǐzǎo                                      | [[https://translate.google.com/#zh-cn/en/我七点半洗澡][我七点半洗澡]]                       |       |
+| Every day I take the subway to work at 8am   | wǒ měitiān bā diǎn zuò dìtiě                              | [[https://translate.google.com/#zh-cn/en/我每天八点坐地铁][我每天八点坐地铁]]                   |       |
+| I have a cup of tea at 10am                  | wǒ shí diǎn hē bēi chá                                    | [[https://translate.google.com/#zh-cn/en/我十点喝杯茶][我十点喝杯茶]]                       |       |
+| I have salad or a sandwich for lunch at 12am | Wǒ shí'èr diǎn chī wǔfàn. Wǒ chī shālā háishì sānmíngzhì. | [[https://translate.google.com/#zh-cn/en/我十二点吃午饭. 我吃沙拉还是三明治][我十二点吃午饭. 我吃沙拉还是三明治]] |       |
+| I leave work at 6pm                          | wǒ wǎnshàng liù diǎn líkāi gōngzuò                        | [[https://translate.google.com/#zh-cn/en/我六点离开工作][我六点离开工作]]                     |       |
+| I play squash at 7pm                         | wǒ qī diǎn dǎ bìqiú                                       | [[https://translate.google.com/#zh-cn/en/我七点打壁球][我七点打壁球]]                       |       |
+| I have dinner at 8:30pm                      | wǒ bā diǎn bàn chī wǎnfàn                                 | [[https://translate.google.com/#zh-cn/en/我八点半吃晚饭][我八点半吃晚饭]]                     |       |
+| I watch television at 9pm                    | wǒ jiǔ diǎn kàn diànshì                                   | [[https://translate.google.com/#zh-cn/en/我九点看电视][我九点看电视]]                       |       |
+| I go to sleep at 11pm                        | wǒ shí yī diǎn shuìjiào                                   | [[https://translate.google.com/#zh-cn/en/我十一点睡觉][我十一点睡觉]]                       |       |
 
 我七点半洗澡。
 我每天八点坐地铁。
@@ -9064,7 +9066,7 @@ zá zhì
 | Where is my book?                       | wǒ de shū zài nǎlǐ            | [[https://translate.google.com/#zh-cn/en/我的书在哪里][我的书在哪里]]     |                                         |
 | What book?                              | shén me shū                   | [[https://translate.google.com/#zh-cn/en/什么书][什么书]]           |                                         |
 | One red Chinese book                    | yī běn hóngsè de zhōngwén shū | [[https://translate.google.com/#zh-cn/en/一本红色的中文书][一本红色的中文书]] |                                         |
-| Is it on the table?                     | zài zhōuzi shàng (miàn) ma    | [[https://translate.google.com/#zh-cn/en/在桌子上（面）吗][在桌子上（面）吗]] | At <place> <relative location> question |
+| Is it on the table?                     | zài zhōuzi shàng (miàn) ma    | [[https://translate.google.com/#zh-cn/en/在桌子上面吗][在桌子上面吗]]     | At <place> <relative location> question |
 | On the train (inside)                   | zài huǒchē shàng              | [[https://translate.google.com/#zh-cn/en/在火车上][在火车上]]         | Use of "on" just like English           |
 | It's not (at)                           | bù zài                        | [[https://translate.google.com/#zh-cn/en/不在][不在]]             |                                         |
 | Is it in the bookcase?                  | zài shūguì lǐ ma              | [[https://translate.google.com/#zh-cn/en/在书柜里吗][在书柜里吗]]       | bookcase or shelf                       |
