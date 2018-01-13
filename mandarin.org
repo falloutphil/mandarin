@@ -2678,8 +2678,8 @@ fěn
 | Denim Jackets                                                         | niú zǎi wài tào          | [[https://translate.google.com/#zh-cn/en/牛仔外套][牛仔外套]]       |                                                                              |
 | A shirt                                                               | yī jiàn chèn shān        | [[https://translate.google.com/#zh-cn/en/一件衬衫][一件衬衫]]       |                                                                              |
 | A t-shirt                                                             | tì xù                    | [[https://translate.google.com/#zh-cn/en/一件体恤][一件体恤]]       |                                                                              |
-| Sports shoes (trainers?)                                              | yī zhī yùn dòng xié      | [[https://translate.google.com/#zh-cn/en/一只运动鞋][一只运动鞋]]     | yùn dòng = sport, Xiè = shoes                                                |
-| Measure word (used for animals) and weirdly for one shoe, not pair    | zhī                      | [[https://translate.google.com/#zh-cn/en/只][只]]             |                                                                              |
+| (One measure) Sports shoes / Sneakers                                 | yī zhǐ yùn dòng xié      | [[https://translate.google.com/#zh-cn/en/一只运动鞋][一只运动鞋]]     | yùn dòng = sport, Xiè = shoes                                                |
+| Measure word (used for animals) and weirdly for one shoe, not pair    | zhǐ                      | [[https://translate.google.com/#zh-cn/en/只][只]]             |                                                                              |
 *** Cards                                                        :noexport:
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
@@ -2691,7 +2691,7 @@ This (item of) clothes is too thick
 ***** Pinyin
 zhè jiàn yīfu tài hòu le
 ***** Characters
-这件衣服太厚了
+[[https://translate.google.com/#zh-cn/en/这件衣服太厚了][这件衣服太厚了]]
 ***** Notes
 Yīfu – clothes.  Yi=clothes (sometimes used for tops), fu=clothes
 **** Clothes and Sizes                                             :drill:
@@ -2704,7 +2704,7 @@ Is there a thin one?
 ***** Pinyin
 yǒu báo diàn de ma
 ***** Characters
-有薄的吗
+[[https://translate.google.com/#zh-cn/en/有薄的吗][有薄的吗]]
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
@@ -2715,7 +2715,7 @@ A pair of pants
 ***** Pinyin
 yī tiáo kù zi
 ***** Characters
-一条裤子
+[[https://translate.google.com/#zh-cn/en/一条裤子][一条裤子]]
 ***** Notes
 kù=trousers, zi has no meaning. tiào is the measure for soft and long things
 **** Clothes and Sizes                                             :drill:
@@ -2728,7 +2728,7 @@ The length long/short
 ***** Pinyin
 cháng duǎn
 ***** Characters
-长短
+[[https://translate.google.com/#zh-cn/en/长短][长短]]
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
@@ -2739,7 +2739,7 @@ A coat
 ***** Pinyin
 yī jiàn wài tào
 ***** Characters
-一件外套
+[[https://translate.google.com/#zh-cn/en/一件外套][一件外套]]
 ***** Notes
 wài=outside, tào=suit/cover.  Tào tào = condom!
 **** Clothes and Sizes                                             :drill:
@@ -2752,7 +2752,7 @@ Thickness Thick/Thin
 ***** Pinyin
 hòu báo
 ***** Characters
-厚 薄
+[[https://translate.google.com/#zh-cn/en/厚 薄][厚 薄]]
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
@@ -2763,7 +2763,7 @@ A suit
 ***** Pinyin
 yī tào xī fú
 ***** Characters
-一套西服
+[[https://translate.google.com/#zh-cn/en/一套西服][一套西服]]
 ***** Notes
 xī=western, fú=clothes
 **** Clothes and Sizes                                             :drill:
@@ -2776,7 +2776,7 @@ Fit or bagginess fat/Thin (also in people) loose/tight. Pàng - chubby
 ***** Pinyin
 féi shòu
 ***** Characters
-肥瘦
+[[https://translate.google.com/#zh-cn/en/肥瘦][肥瘦]]
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
@@ -2787,7 +2787,7 @@ A pair of leather shoes
 ***** Pinyin
 yī shuāng pí xié
 ***** Characters
-一双皮鞋
+[[https://translate.google.com/#zh-cn/en/一双皮鞋][一双皮鞋]]
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
@@ -2798,7 +2798,7 @@ Size big/small
 ***** Pinyin
 dà xiǎo
 ***** Characters
-大小
+[[https://translate.google.com/#zh-cn/en/大小][大小]]
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
@@ -2808,6 +2808,8 @@ Translate the following word(s)
 Pair
 ***** Pinyin
 shuāng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/双][双]]
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
@@ -2818,7 +2820,7 @@ A skirt
 ***** Pinyin
 yī tiáo qún zi
 ***** Characters
-一条裙子
+[[https://translate.google.com/#zh-cn/en/一条裙子][一条裙子]]
 ***** Notes
 qún=skirt, zi has no meaning
 **** Clothes and Sizes                                             :drill:
@@ -2831,7 +2833,7 @@ A pair of jeans
 ***** Pinyin
 yī tiáo niú zǎi kù
 ***** Characters
-一条牛仔裤
+[[https://translate.google.com/#zh-cn/en/一条牛仔裤][一条牛仔裤]]
 ***** Notes
 niú=cow, zǎi=baby/boy, kù=trousers
 **** Clothes and Sizes                                             :drill:
@@ -2843,6 +2845,8 @@ Translate the following word(s)
 Denim Jackets
 ***** Pinyin
 niú zǎi wài tào
+***** Characters
+[[https://translate.google.com/#zh-cn/en/牛仔外套][牛仔外套]]
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
@@ -2853,7 +2857,7 @@ A shirt
 ***** Pinyin
 yī jiàn chèn shān
 ***** Characters
-一件衬衫
+[[https://translate.google.com/#zh-cn/en/一件衬衫][一件衬衫]]
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
@@ -2864,18 +2868,18 @@ A t-shirt
 ***** Pinyin
 tì xù
 ***** Characters
-一件体恤
+[[https://translate.google.com/#zh-cn/en/一件体恤][一件体恤]]
 **** Clothes and Sizes                                             :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
 ***** English
-Sports shoes (trainers?)
+(One measure) Sports shoes / Sneakers
 ***** Pinyin
-yī zhī yùn dòng xié
+yī zhǐ yùn dòng xié
 ***** Characters
-一只运动鞋
+[[https://translate.google.com/#zh-cn/en/一只运动鞋][一只运动鞋]]
 ***** Notes
 yùn dòng = sport, Xiè = shoes
 **** Clothes and Sizes                                             :drill:
@@ -2886,7 +2890,9 @@ Translate the following word(s)
 ***** English
 Measure word (used for animals) and weirdly for one shoe, not pair
 ***** Pinyin
-zhī
+zhǐ
+***** Characters
+[[https://translate.google.com/#zh-cn/en/只][只]]
 ** Different Way of Asking Questions
 :PROPERTIES:
 :DRILL_HEADING: Different Ways of Asking Questions
@@ -9424,332 +9430,645 @@ Milk at table under
 :END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                              | Pinyin                                | Characters           | Notes                                |
-|------------------------------------------------------+---------------------------------------+----------------------+--------------------------------------|
-| Lounge                                               | kètīng                                | [[https://translate.google.com/#zh-cn/en/客厅][客厅]]                 |                                      |
-| Sofa                                                 | shāfā                                 | [[https://translate.google.com/#zh-cn/en/沙发][沙发]]                 |                                      |
-| Armchair                                             | fúshǒu yǐ                             | [[https://translate.google.com/#zh-cn/en/扶手椅][扶手椅]]               |                                      |
-| Rug                                                  | dìtǎn                                 | [[https://translate.google.com/#zh-cn/en/地毯][地毯]]                 |                                      |
-| Table                                                | zhuōzi                                | [[https://translate.google.com/#zh-cn/en/桌子][桌子]]                 |                                      |
-| Plant                                                | zhíwù                                 | [[https://translate.google.com/#zh-cn/en/植物][植物]]                 |                                      |
-| Staircase                                            | lóutī                                 | [[https://translate.google.com/#zh-cn/en/楼梯][楼梯]]                 |                                      |
-| Painting                                             | huìhuà                                | [[https://translate.google.com/#zh-cn/en/绘画][绘画]]                 |                                      |
-| Wall                                                 | qiángbì                               | [[https://translate.google.com/#zh-cn/en/墙壁][墙壁]]                 |                                      |
-| In my lounge, I have one sofa                        | zài wǒ de kètīng, yǒu yī zhāng shāfā  | [[https://translate.google.com/#zh-cn/en/在我的客厅有一张沙发][在我的客厅有一张沙发]] |                                      |
-| The TV cabinet is opposite the sofa                  | diànshì guì zài shāfā duì miàn        | [[https://translate.google.com/#zh-cn/en/电视柜在沙发对面][电视柜在沙发对面]]     |                                      |
-| The TV is on top of the TV cabinet                   | diànshì zài diànshì guì shàng         | [[https://translate.google.com/#zh-cn/en/电视在电视柜上][电视在电视柜上]]       |                                      |
-| In front of the TV cabinet is a red rug              | hòng de dìtǎn zài diànshì guì qián    | [[https://translate.google.com/#zh-cn/en/红的地毯在电视柜前][红的地毯在电视柜前]]   |                                      |
-| To the left of the rug is an armchair                | fúshǒu yǐ zài dìtǎn de zuǒ miàn       | [[https://translate.google.com/#zh-cn/en/扶手椅在地毯的左面][扶手椅在地毯的左面]]   |                                      |
-| There is a newspaper on the armchair                 | bǎo zhì zài fúshǒu yǐ shàng           | [[https://translate.google.com/#zh-cn/en/报纸在扶手椅上][报纸在扶手椅上]]       |                                      |
-| Behind the armchair is a table                       | zhuōzi zài fúshǒu yǐ hòu              | [[https://translate.google.com/#zh-cn/en/桌子在扶手椅后][桌子在扶手椅后]]       |                                      |
-| There is a plant on the table                        | zhíwù zài zhuōzi shàng                | [[https://translate.google.com/#zh-cn/en/植物在桌子上][植物在桌子上]]         |                                      |
-| Next to the table is a staircase                     | lóutī zài zhuōzi páng biān            | [[https://translate.google.com/#zh-cn/en/楼梯在桌子旁边][楼梯在桌子旁边]]       |                                      |
-| Under the staircase there are purple shelves         | zǐsè de guìzi zài lóutī xià           | [[https://translate.google.com/#zh-cn/en/紫色的柜子在楼梯下][紫色的柜子在楼梯下]]   |                                      |
-| There is a painting on the wall opposite the shelves | huà zài qiáng shàng zài guìzi duìmiàn | [[https://translate.google.com/#zh-cn/en/画在墙上在柜子对面][画在墙上在柜子对面]]   | huà zài qiáng shàng guìzi de duìmiàn |
+| English                                              | Pinyin                               | Characters           | Notes                                       |
+|------------------------------------------------------+--------------------------------------+----------------------+---------------------------------------------|
+| Lounge                                               | kètīng                               | [[https://translate.google.com/#zh-cn/en/客厅][客厅]]                 |                                             |
+| Sofa                                                 | shāfā                                | [[https://translate.google.com/#zh-cn/en/沙发][沙发]]                 |                                             |
+| Chair                                                | yǐzi                                 | [[https://translate.google.com/#zh-CN/en/椅子][椅子]]                 |                                             |
+| Armchair                                             | fúshǒu yǐ                            | [[https://translate.google.com/#zh-cn/en/扶手椅][扶手椅]]               | Just use chair - yǐzi                       |
+| Table                                                | zhuōzi                               | [[https://translate.google.com/#zh-cn/en/桌子][桌子]]                 |                                             |
+| Rug                                                  | dìtǎn                                | [[https://translate.google.com/#zh-cn/en/地毯][地毯]]                 |                                             |
+| Plant                                                | zhíwù                                | [[https://translate.google.com/#zh-cn/en/植物][植物]]                 | General term for flowers, hedges, etc       |
+| Houseplant or potted plant                           | pénzāi                               | [[https://translate.google.com/#zh-CN/en/%E7%9B%86%E6%A0%BD][盆栽]]                 |                                             |
+| Staircase                                            | lóutī                                | [[https://translate.google.com/#zh-cn/en/楼梯][楼梯]]                 |                                             |
+| Painting                                             | huìhuà                               | [[https://translate.google.com/#zh-cn/en/绘画][绘画]]                 |                                             |
+| Wall                                                 | qiángbì                              | [[https://translate.google.com/#zh-cn/en/墙壁][墙壁]]                 |                                             |
+| Garden                                               | huāyuán                              | 花园                 | Flower Place                                |
+| In my lounge, I have one sofa                        | zài wǒ de kètīng, yǒu yī zhāng shāfā | [[https://translate.google.com/#zh-cn/en/在我的客厅有一张沙发][在我的客厅有一张沙发]] |                                             |
+| The TV cabinet is opposite the sofa                  | diànshì guì zài shāfā duì miàn       | [[https://translate.google.com/#zh-cn/en/电视柜在沙发对面][电视柜在沙发对面]]     |                                             |
+| The TV is on top of the TV cabinet                   | diànshì zài diànshì guì shàng        | [[https://translate.google.com/#zh-cn/en/电视在电视柜上][电视在电视柜上]]       |                                             |
+| In front of the TV cabinet is a red rug              | hòng de dìtǎn zài diànshì guì qián   | [[https://translate.google.com/#zh-cn/en/红的地毯在电视柜前][红的地毯在电视柜前]]   | Add miàn at the end makes it more clear     |
+| To the left of the rug is an armchair                | fúshǒu yǐ zài dìtǎn de zuǒ miàn      | [[https://translate.google.com/#zh-cn/en/扶手椅在地毯的左面][扶手椅在地毯的左面]]   |                                             |
+| There is a newspaper on the armchair                 | bào zhǐ zài fúshǒu yǐ shàng          | [[https://translate.google.com/#zh-cn/en/报纸在扶手椅上][报纸在扶手椅上]]       |                                             |
+| Behind the armchair is a table                       | zhuōzi zài fúshǒu yǐ hòu             | [[https://translate.google.com/#zh-cn/en/桌子在扶手椅后][桌子在扶手椅后]]       | Add miàn at the end makes it more clear     |
+| There is a plant on the table                        | zhíwù zài zhuōzi shàng               | [[https://translate.google.com/#zh-cn/en/植物在桌子上][植物在桌子上]]         |                                             |
+| Next to the table is a staircase                     | lóutī zài zhuōzi páng biān           | [[https://translate.google.com/#zh-cn/en/楼梯在桌子旁边][楼梯在桌子旁边]]       |                                             |
+| Under the staircase there are purple shelves         | zǐsè de guìzi zài lóutī xià          | [[https://translate.google.com/#zh-cn/en/紫色的柜子在楼梯下][紫色的柜子在楼梯下]]   |                                             |
+| There is a painting on the wall opposite the shelves | huà zài qiáng shàng guìzi de duìmiàn | [[https://translate.google.com/#zh-cn/en/画在墙上柜子的对面][画在墙上柜子的对面]]   | Don't use zài twice. 2 sentences also works |
 *** Cards                                                        :noexport:
-
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
 ***** English
 Lounge
-
 ***** Pinyin
 kètīng
-
 ***** Characters
-客厅
-
+[[https://translate.google.com/#zh-cn/en/客厅][客厅]]
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
 ***** English
 Sofa
-
 ***** Pinyin
 shāfā
-
 ***** Characters
-沙发
-
+[[https://translate.google.com/#zh-cn/en/沙发][沙发]]
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
+***** English
+Chair
+***** Pinyin
+yǐzi
+***** Characters
+[[https://translate.google.com/#zh-CN/en/椅子][椅子]]
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
 ***** English
 Armchair
-
 ***** Pinyin
 fúshǒu yǐ
-
 ***** Characters
-扶手椅
-
+[[https://translate.google.com/#zh-cn/en/扶手椅][扶手椅]]
+***** Notes
+Just use chair - yǐzi
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
-***** English
-Rug
-
-***** Pinyin
-dìtǎn
-
-***** Characters
-地毯
-
-**** My Lounge                                                     :drill:
-:PROPERTIES:
-:DRILL_CARD_TYPE: twosided
-:END:
-Translate the following word(s)
-
 ***** English
 Table
-
 ***** Pinyin
 zhuōzi
-
 ***** Characters
-桌子
-
+[[https://translate.google.com/#zh-cn/en/桌子][桌子]]
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
+***** English
+Rug
+***** Pinyin
+dìtǎn
+***** Characters
+[[https://translate.google.com/#zh-cn/en/地毯][地毯]]
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
 ***** English
 Plant
-
 ***** Pinyin
 zhíwù
-
 ***** Characters
-植物
-
+[[https://translate.google.com/#zh-cn/en/植物][植物]]
+***** Notes
+General term for flowers, hedges, etc
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
+***** English
+Houseplant or potted plant
+***** Pinyin
+pénzāi
+***** Characters
+[[https://translate.google.com/#zh-CN/en/%E7%9B%86%E6%A0%BD][盆栽]]
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
 ***** English
 Staircase
-
 ***** Pinyin
 lóutī
-
 ***** Characters
-楼梯
-
+[[https://translate.google.com/#zh-cn/en/楼梯][楼梯]]
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
 ***** English
 Painting
-
 ***** Pinyin
 huìhuà
-
 ***** Characters
-绘画
-
+[[https://translate.google.com/#zh-cn/en/绘画][绘画]]
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
 ***** English
 Wall
-
 ***** Pinyin
 qiángbì
-
 ***** Characters
-墙壁
-
+[[https://translate.google.com/#zh-cn/en/墙壁][墙壁]]
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
+***** English
+Garden
+***** Pinyin
+huāyuán
+***** Characters
+花园
+***** Notes
+Flower Place
+**** My Lounge                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
 ***** English
 In my lounge, I have one sofa
-
 ***** Pinyin
 zài wǒ de kètīng, yǒu yī zhāng shāfā
-
 ***** Characters
-在我的客厅有一张沙发
-
+[[https://translate.google.com/#zh-cn/en/在我的客厅有一张沙发][在我的客厅有一张沙发]]
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
 ***** English
 The TV cabinet is opposite the sofa
-
 ***** Pinyin
 diànshì guì zài shāfā duì miàn
-
 ***** Characters
-电视柜在沙发对面
-
+[[https://translate.google.com/#zh-cn/en/电视柜在沙发对面][电视柜在沙发对面]]
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
 ***** English
 The TV is on top of the TV cabinet
-
 ***** Pinyin
 diànshì zài diànshì guì shàng
-
 ***** Characters
-电视在电视柜上
-
+[[https://translate.google.com/#zh-cn/en/电视在电视柜上][电视在电视柜上]]
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
 ***** English
 In front of the TV cabinet is a red rug
-
 ***** Pinyin
 hòng de dìtǎn zài diànshì guì qián
-
 ***** Characters
-红的地毯在电视柜前
-
+[[https://translate.google.com/#zh-cn/en/红的地毯在电视柜前][红的地毯在电视柜前]]
+***** Notes
+Add miàn at the end makes it more clear
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
 ***** English
 To the left of the rug is an armchair
-
 ***** Pinyin
 fúshǒu yǐ zài dìtǎn de zuǒ miàn
-
 ***** Characters
-扶手椅在地毯的左面
-
+[[https://translate.google.com/#zh-cn/en/扶手椅在地毯的左面][扶手椅在地毯的左面]]
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
 ***** English
 There is a newspaper on the armchair
-
 ***** Pinyin
-bǎo zhì zài fúshǒu yǐ shàng
-
+bào zhǐ zài fúshǒu yǐ shàng
 ***** Characters
-报纸在扶手椅上
-
+[[https://translate.google.com/#zh-cn/en/报纸在扶手椅上][报纸在扶手椅上]]
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
 ***** English
 Behind the armchair is a table
-
 ***** Pinyin
 zhuōzi zài fúshǒu yǐ hòu
-
 ***** Characters
-桌子在扶手椅后
-
+[[https://translate.google.com/#zh-cn/en/桌子在扶手椅后][桌子在扶手椅后]]
+***** Notes
+Add miàn at the end makes it more clear
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
 ***** English
 There is a plant on the table
-
 ***** Pinyin
 zhíwù zài zhuōzi shàng
-
 ***** Characters
-植物在桌子上
-
+[[https://translate.google.com/#zh-cn/en/植物在桌子上][植物在桌子上]]
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
 ***** English
 Next to the table is a staircase
-
 ***** Pinyin
 lóutī zài zhuōzi páng biān
-
 ***** Characters
-楼梯在桌子旁边
-
+[[https://translate.google.com/#zh-cn/en/楼梯在桌子旁边][楼梯在桌子旁边]]
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
 ***** English
 Under the staircase there are purple shelves
-
 ***** Pinyin
 zǐsè de guìzi zài lóutī xià
-
 ***** Characters
-紫色的柜子在楼梯下
-
+[[https://translate.google.com/#zh-cn/en/紫色的柜子在楼梯下][紫色的柜子在楼梯下]]
 **** My Lounge                                                     :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
-
 ***** English
 There is a painting on the wall opposite the shelves
-
 ***** Pinyin
-huà zài qiáng shàng zài guìzi duìmiàn
-
-***** Characters
-画在墙上在柜子对面
-
-***** Notes
 huà zài qiáng shàng guìzi de duìmiàn
+***** Characters
+[[https://translate.google.com/#zh-cn/en/画在墙上柜子的对面][画在墙上柜子的对面]]
+***** Notes
+Don't use zài twice. 2 sentences also works
+* The Body
+** Body Parts
+:PROPERTIES:
+:DRILL_HEADING: Body Parts
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word(s)
+:END:
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                          | Pinyin                   | Characters     | Notes                                             |
+|----------------------------------+--------------------------+----------------+---------------------------------------------------|
+| What do you think of this hotel? | zhège jiǔdiàn zěnme yàng | [[https://translate.google.com/#zh-cn/en/这个酒店怎么样][这个酒店怎么样]] | How about this hotel?                             |
+| What do you think of this dish?  | zhège cài zěnme yàng     | [[https://translate.google.com/#zh-cn/en/这个菜怎么样][这个菜怎么样]]   | Ask a waiter this                                 |
+| How are you / How do you feel?   | nǐ de shēntǐ zěnme yàng  | [[https://translate.google.com/#zh-cn/en/你的身体怎么样][你的身体怎么样]] | How about your body?                              |
+| Body                             | shēntǐ                   | [[https://translate.google.com/#zh-cn/en/身体][身体]]           |                                                   |
+| Head                             | tóu                      | [[https://translate.google.com/#zh-cn/en/头][头]]             |                                                   |
+| Hair (Head)                      | tóufǎ                    | [[https://translate.google.com/#zh-cn/en/头发][头发]]           | Only for head hair!                               |
+| Hair (short, not on head)        | máo                      | [[https://translate.google.com/#zh-cn/en/毛][毛]]             | Used for arms, sheep, etc!                        |
+| Face                             | liǎn                     | [[https://translate.google.com/#zh-cn/en/脸][脸]]             | Left part of char is 月 indicates the body        |
+| Eye / Eyes                       | yǎnjīng                  | [[https://translate.google.com/#zh-cn/en/眼睛][眼睛]]           | Ancient symbol for eye is 目                      |
+| Mouth                            | zuǐ                      | [[https://translate.google.com/#zh-cn/en/嘴][嘴]]             | Left part of char is 口 indicates mouth eg eat 吃 |
+| Tooth / teeth                    | yáchǐ                    | [[https://translate.google.com/#zh-cn/en/牙齿][牙齿]]           |                                                   |
+| Arm                              | gēbó                     | [[https://translate.google.com/#zh-cn/en/胳膊][胳膊]]           | Left part of char is 月 indicates the body        |
+| Chest                            | xiōng                    | [[https://translate.google.com/#zh-cn/en/胸][胸]]             | Left part of char is 月 indicates the body        |
+| Back                             | bèi                      | [[https://translate.google.com/#zh-cn/en/背][背]]             | Notice 北 for pronounce and 月 for meaning        |
+| Belly / stomach / midrift        | dùzi                     | [[https://translate.google.com/#zh-cn/en/肚子][肚子]]           | Left part of char is 月 indicates the body        |
+| Hand                             | shǒu                     | [[https://translate.google.com/#zh-cn/en/手][手]]             |                                                   |
+| Leg                              | tuǐ                      | [[https://translate.google.com/#zh-cn/en/腿][腿]]             | Left part of char is 月 indicates the body        |
+| Bottom                           | pìgu                     | [[https://translate.google.com/#zh-cn/en/屁股][屁股]]           | pì is to fart                                     |
+| Foot                             | jiǎo                     | [[https://translate.google.com/#zh-cn/en/脚][脚]]             | Left part of char is 月 indicates the body        |
+| Waist                            | yāo                      | [[https://translate.google.com/#zh-cn/en/腰][腰]]             | Left part of char is 月 indicates the body        |
+| Ear                              | ěrduǒ                    | [[https://translate.google.com/#zh-cn/en/耳朵][耳朵]]           | duǒ is a pointless character like zi              |
+| Neck                             | bózi                     | [[https://translate.google.com/#zh-cn/en/脖子][脖子]]           | Left part of char is 月 indicates the body        |
+| Spicy Duck Neck                  | là yā bó                 | [[https://translate.google.com/#zh-cn/en/辣鸭脖][辣鸭脖]]         |                                                   |
+| Shoulder                         | jiān bǎng                | [[https://translate.google.com/#zh-cn/en/肩膀][肩膀]]           |                                                   |
+| Nose                             | bízi                     | [[https://translate.google.com/#zh-cn/en/鼻子][鼻子]]           |                                                   |
+*** Cards                                                        :noexport:
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+What do you think of this hotel?
+***** Pinyin
+zhège jiǔdiàn zěnme yàng
+***** Characters
+这个酒店怎么样
+***** Notes
+How about this hotel?
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+What do you think of this dish?
+***** Pinyin
+zhège cài zěnme yàng
+***** Characters
+这个菜怎么样
+***** Notes
+Ask a waiter this
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+How are you / How do you feel?
+***** Pinyin
+nǐ de shēntǐ zěnme yàng
+***** Characters
+你的身体怎么样
+***** Notes
+How about your body?
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Body
+***** Pinyin
+shēntǐ
+***** Characters
+身体
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Head
+***** Pinyin
+tóu
+***** Characters
+头
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Hair (Head)
+***** Pinyin
+tóufǎ
+***** Characters
+头发
+***** Notes
+Only for head hair!
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Hair (short, not on head)
+***** Pinyin
+máo
+***** Characters
+毛
+***** Notes
+Used for arms, sheep, etc!
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Face
+***** Pinyin
+liǎn
+***** Characters
+脸
+***** Notes
+Left part of char is 月 indicates the body
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Eye / Eyes
+***** Pinyin
+yǎnjīng
+***** Characters
+眼睛
+***** Notes
+Ancient symbol for eye is 目
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Mouth
+***** Pinyin
+zuǐ
+***** Characters
+嘴
+***** Notes
+Left part of char is 口 indicates mouth eg eat 吃
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Tooth / teeth
+***** Pinyin
+yáchǐ
+***** Characters
+牙齿
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Arm
+***** Pinyin
+gēbó
+***** Characters
+胳膊
+***** Notes
+Left part of char is 月 indicates the body
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Chest
+***** Pinyin
+xiōng
+***** Characters
+胸
+***** Notes
+Left part of char is 月 indicates the body
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Back
+***** Pinyin
+bèi
+***** Characters
+背
+***** Notes
+Notice 北 for pronounce and 月 for meaning
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Belly / stomach / midrift
+***** Pinyin
+dùzi
+***** Characters
+肚子
+***** Notes
+Left part of char is 月 indicates the body
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Hand
+***** Pinyin
+shǒu
+***** Characters
+手
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Leg
+***** Pinyin
+tuǐ
+***** Characters
+腿
+***** Notes
+Left part of char is 月 indicates the body
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Bottom
+***** Pinyin
+pìgu
+***** Characters
+屁股
+***** Notes
+pì is to fart
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Foot
+***** Pinyin
+jiǎo
+***** Characters
+脚
+***** Notes
+Left part of char is 月 indicates the body
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Waist
+***** Pinyin
+yāo
+***** Characters
+腰
+***** Notes
+Left part of char is 月 indicates the body
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Ear
+***** Pinyin
+ěrduǒ
+***** Characters
+耳朵
+***** Notes
+duǒ is a pointless character like zi
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Neck
+***** Pinyin
+bózi
+***** Characters
+脖子
+***** Notes
+Left part of char is 月 indicates the body
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Spicy Duck Neck
+***** Pinyin
+là yā bó
+***** Characters
+辣鸭脖
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Shoulder
+***** Pinyin
+jiān bǎng
+***** Characters
+肩膀
+**** Body Parts                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Nose
+***** Pinyin
+bízi
+***** Characters
+鼻子
 * Links and Misc
 ** PDF Version
 - A [[http://www.beadling.co.uk/mandarin.pdf][PDF Version]] of this website
