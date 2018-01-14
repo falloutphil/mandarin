@@ -9723,6 +9723,312 @@ huà zài qiáng shàng guìzi de duìmiàn
 [[https://translate.google.com/#zh-cn/en/画在墙上柜子的对面][画在墙上柜子的对面]]
 ***** Notes
 Don't use zài twice. 2 sentences also works
+** Where I Work
+:PROPERTIES:
+:DRILL_HEADING: Where I Work
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word(s)
+:END:
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                     | Pinyin                                 | Characters           | Notes                                                      |
+|---------------------------------------------+----------------------------------------+----------------------+------------------------------------------------------------|
+| Office                                      | bànggōngshì                            | [[https://translate.google.com/#zh-cn/en/办公室][办公室]]               |                                                            |
+| Subway Station                              | dìtiě zhàn                             | [[https://translate.google.com/#zh-cn/en/地铁站][地铁站]]               |                                                            |
+| Bus                                         | gōngchē                                | [[https://translate.google.com/#zh-cn/en/公车][公车]]                 |                                                            |
+| 5th Floor                                   | wǔ lóu                                 | [[https://translate.google.com/#zh-cn/en/五楼][五楼]]                 |                                                            |
+| Old Building                                | lǎo jiànzhú                            | [[https://translate.google.com/#zh-cn/en/老建筑][老建筑]]               |                                                            |
+| Desk                                        | bànggōng zhuōzi                        | [[https://translate.google.com/#zh-cn/en/办公桌][办公桌]]               | Office table                                               |
+| Messy                                       | luàn                                   | [[https://translate.google.com/#zh-cn/en/乱][乱]]                   |                                                            |
+| Window                                      | chuāng kǒu                             | [[https://translate.google.com/#zh-cn/en/窗口][窗口]]                 |                                                            |
+| Monitor                                     | diàn nǎo xiǎn shì qì                   | [[https://translate.google.com/#zh-cn/en/电脑显示器][电脑显示器]]           | Computer (Electric Brian) monitor (Signficant Show Device) |
+| Uncomfortable                               | bú shū fú                              | [[https://translate.google.com/#zh-cn/en/不舒服][不舒服]]               | Not Comfortable                                            |
+| Chair                                       | yǐzi                                   | [[https://translate.google.com/#zh-cn/en/椅子][椅子]]                 |                                                            |
+| Everyday I go to work at 8am                | měitiān wǒ zǎoshàng bā diǎn shàngban   | [[https://translate.google.com/#zh-cn/en/每天我早上八点上班][每天我早上八点上班]]   |                                                            |
+| I take the bus and the subway               | wǒ zuò gōngchē hé dìtiě                | [[https://translate.google.com/#zh-cn/en/我坐公车和地铁][我坐公车和地铁]]       |                                                            |
+| In total it takes about 1 hour              | yīgòng yī xiǎoshí zuǒyòu               | [[https://translate.google.com/#zh-cn/en/一共一小时左右][一共一小时左右]]       |                                                            |
+| The subway is very busy                     | dìtiě shì hěn máng                     | [[https://translate.google.com/#zh-cn/en/地铁是很忙][地铁是很忙]]           |                                                            |
+| On the train I read my book                 | wǒ zài huǒchē shàng dúshū              | [[https://translate.google.com/#zh-cn/en/我在火车上读书][我在火车上读书]]       |                                                            |
+| My office is opposite to the subway station | wǒ de bànggōng zài huǒchē zhàn duìmiàn | [[https://translate.google.com/#zh-cn/en/我的办公在火车站对面][我的办公在火车站对面]] |                                                            |
+| It is a 2 minute walk                       | liǎng fēnzhōng zǒulù                   | [[https://translate.google.com/#zh-cn/en/两分钟走路][两分钟走路]]           |                                                            |
+| My desk is on the 5 th floor                | wǒ de bànggōng zhuōzi zài wǔ lóu       | [[https://translate.google.com/#zh-cn/en/我的办公桌子在五楼][我的办公桌子在五楼]]   |                                                            |
+| On my desk are 3 monitors                   | sān diànnǎo xiǎnshìqì zài zhuōzi shàng | [[https://translate.google.com/#zh-cn/en/三电脑显示器在桌子上][三电脑显示器在桌子上]] |                                                            |
+| My desk is messy                            | zhuōzi shì luàn                        | [[https://translate.google.com/#zh-cn/en/桌子是乱][桌子是乱]]             |                                                            |
+| My desk is next to the window               | zhuōzi zài chuāngkǒu pángbiān          | [[https://translate.google.com/#zh-cn/en/桌子在窗口旁边][桌子在窗口旁边]]       |                                                            |
+| I have a black chair                        | wǒ yǒu yī bǎ hēisè de yǐzi             | [[https://translate.google.com/#zh-cn/en/我有一把黑色的椅子][我有一把黑色的椅子]]   |                                                            |
+| The chair is uncomfortable                  | yǐzi bú shūfú                          | [[https://translate.google.com/#zh-cn/en/椅子不舒服][椅子不舒服]]           |                                                            |
+*** Cards                                                        :noexport:
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Office
+***** Pinyin
+bànggōngshì
+***** Characters
+[[https://translate.google.com/#zh-cn/en/办公室][办公室]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Subway Station
+***** Pinyin
+dìtiě zhàn
+***** Characters
+[[https://translate.google.com/#zh-cn/en/地铁站][地铁站]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Bus
+***** Pinyin
+gōngchē
+***** Characters
+[[https://translate.google.com/#zh-cn/en/公车][公车]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+5th Floor
+***** Pinyin
+wǔ lóu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/五楼][五楼]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Old Building
+***** Pinyin
+lǎo jiànzhú
+***** Characters
+[[https://translate.google.com/#zh-cn/en/老建筑][老建筑]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Desk
+***** Pinyin
+bànggōng zhuōzi
+***** Characters
+[[https://translate.google.com/#zh-cn/en/办公桌][办公桌]]
+***** Notes
+Office table
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Messy
+***** Pinyin
+luàn
+***** Characters
+[[https://translate.google.com/#zh-cn/en/乱][乱]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Window
+***** Pinyin
+chuāng kǒu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/窗口][窗口]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Monitor
+***** Pinyin
+diàn nǎo xiǎn shì qì
+***** Characters
+[[https://translate.google.com/#zh-cn/en/电脑显示器][电脑显示器]]
+***** Notes
+Computer (Electric Brian) monitor (Signficant Show Device)
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Uncomfortable
+***** Pinyin
+bú shū fú
+***** Characters
+[[https://translate.google.com/#zh-cn/en/不舒服][不舒服]]
+***** Notes
+Not Comfortable
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Chair
+***** Pinyin
+yǐzi
+***** Characters
+[[https://translate.google.com/#zh-cn/en/椅子][椅子]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Everyday I go to work at 8am
+***** Pinyin
+měitiān wǒ zǎoshàng bā diān shàngban
+***** Characters
+[[https://translate.google.com/#zh-cn/en/每天我早上八点上班][每天我早上八点上班]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I take the bus and the subway
+***** Pinyin
+wǒ zuò gōngchē hé dìtiě
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我坐公车和地铁][我坐公车和地铁]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+It takes 1 hour
+***** Pinyin
+yīgòng yī xiǎoshí zuǒyòu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/一共一小时左右][一共一小时左右]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+The subway is very busy
+***** Pinyin
+dìtiě shì hěn máng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/地铁是很忙][地铁是很忙]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+On the train I read my book
+***** Pinyin
+wǒ zài huǒchē shàng dúshū
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我在火车上读书][我在火车上读书]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+My office is opposite to the subway station
+***** Pinyin
+wǒ de bànggōng zài huǒchē zhàn duìmiàn
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我的办公在火车站对面][我的办公在火车站对面]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+It is a 2 minute walk
+***** Pinyin
+liǎng fēnzhōng zǒulù
+***** Characters
+[[https://translate.google.com/#zh-cn/en/两分钟走路][两分钟走路]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+My desk is on the 5 th floor
+***** Pinyin
+wǒ de bànggōng zhuōzi zài wǔ lóu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我的办公桌子在五楼][我的办公桌子在五楼]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+On my desk are 3 monitors
+***** Pinyin
+sān diànnǎo xiǎnshìqì zài zhuōzi shàng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/三电脑显示器在桌子上][三电脑显示器在桌子上]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+My desk is messy
+***** Pinyin
+zhuōzi shì luàn
+***** Characters
+[[https://translate.google.com/#zh-cn/en/桌子是乱][桌子是乱]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+My desk is next to the window
+***** Pinyin
+zhuōzi zài chuāngkǒu pángbiān
+***** Characters
+[[https://translate.google.com/#zh-cn/en/桌子在窗口旁边][桌子在窗口旁边]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I have a black chair
+***** Pinyin
+wǒ yǒu yī bǎ hēisè de yǐzi
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我有一把黑色的椅子][我有一把黑色的椅子]]
+**** Where I Work                                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+The chair is uncomfortable
+***** Pinyin
+yǐzi bú shūfú
+***** Characters
+[[https://translate.google.com/#zh-cn/en/椅子不舒服][椅子不舒服]]
+
 * The Body
 ** Body Parts
 :PROPERTIES:
