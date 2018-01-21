@@ -9731,32 +9731,33 @@ Don't use zài twice. 2 sentences also works
 :END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                     | Pinyin                                 | Characters           | Notes                                                      |
-|---------------------------------------------+----------------------------------------+----------------------+------------------------------------------------------------|
-| Office                                      | bànggōngshì                            | [[https://translate.google.com/#zh-cn/en/办公室][办公室]]               |                                                            |
-| Subway Station                              | dìtiě zhàn                             | [[https://translate.google.com/#zh-cn/en/地铁站][地铁站]]               |                                                            |
-| Bus                                         | gōngchē                                | [[https://translate.google.com/#zh-cn/en/公车][公车]]                 |                                                            |
-| 5th Floor                                   | wǔ lóu                                 | [[https://translate.google.com/#zh-cn/en/五楼][五楼]]                 |                                                            |
-| Old Building                                | lǎo jiànzhú                            | [[https://translate.google.com/#zh-cn/en/老建筑][老建筑]]               |                                                            |
-| Desk                                        | bànggōng zhuōzi                        | [[https://translate.google.com/#zh-cn/en/办公桌][办公桌]]               | Office table                                               |
-| Messy                                       | luàn                                   | [[https://translate.google.com/#zh-cn/en/乱][乱]]                   |                                                            |
-| Window                                      | chuāng kǒu                             | [[https://translate.google.com/#zh-cn/en/窗口][窗口]]                 |                                                            |
-| Monitor                                     | diàn nǎo xiǎn shì qì                   | [[https://translate.google.com/#zh-cn/en/电脑显示器][电脑显示器]]           | Computer (Electric Brian) monitor (Signficant Show Device) |
-| Uncomfortable                               | bú shū fú                              | [[https://translate.google.com/#zh-cn/en/不舒服][不舒服]]               | Not Comfortable                                            |
-| Chair                                       | yǐzi                                   | [[https://translate.google.com/#zh-cn/en/椅子][椅子]]                 |                                                            |
-| Everyday I go to work at 8am                | měitiān wǒ zǎoshàng bā diǎn shàngban   | [[https://translate.google.com/#zh-cn/en/每天我早上八点上班][每天我早上八点上班]]   |                                                            |
-| I take the bus and the subway               | wǒ zuò gōngchē hé dìtiě                | [[https://translate.google.com/#zh-cn/en/我坐公车和地铁][我坐公车和地铁]]       |                                                            |
-| In total it takes about 1 hour              | yīgòng yī xiǎoshí zuǒyòu               | [[https://translate.google.com/#zh-cn/en/一共一小时左右][一共一小时左右]]       |                                                            |
-| The subway is very busy                     | dìtiě shì hěn máng                     | [[https://translate.google.com/#zh-cn/en/地铁是很忙][地铁是很忙]]           |                                                            |
-| On the train I read my book                 | wǒ zài huǒchē shàng dúshū              | [[https://translate.google.com/#zh-cn/en/我在火车上读书][我在火车上读书]]       |                                                            |
-| My office is opposite to the subway station | wǒ de bànggōng zài huǒchē zhàn duìmiàn | [[https://translate.google.com/#zh-cn/en/我的办公在火车站对面][我的办公在火车站对面]] |                                                            |
-| It is a 2 minute walk                       | liǎng fēnzhōng zǒulù                   | [[https://translate.google.com/#zh-cn/en/两分钟走路][两分钟走路]]           |                                                            |
-| My desk is on the 5 th floor                | wǒ de bànggōng zhuōzi zài wǔ lóu       | [[https://translate.google.com/#zh-cn/en/我的办公桌子在五楼][我的办公桌子在五楼]]   |                                                            |
-| On my desk are 3 monitors                   | sān diànnǎo xiǎnshìqì zài zhuōzi shàng | [[https://translate.google.com/#zh-cn/en/三电脑显示器在桌子上][三电脑显示器在桌子上]] |                                                            |
-| My desk is messy                            | zhuōzi shì luàn                        | [[https://translate.google.com/#zh-cn/en/桌子是乱][桌子是乱]]             |                                                            |
-| My desk is next to the window               | zhuōzi zài chuāngkǒu pángbiān          | [[https://translate.google.com/#zh-cn/en/桌子在窗口旁边][桌子在窗口旁边]]       |                                                            |
-| I have a black chair                        | wǒ yǒu yī bǎ hēisè de yǐzi             | [[https://translate.google.com/#zh-cn/en/我有一把黑色的椅子][我有一把黑色的椅子]]   |                                                            |
-| The chair is uncomfortable                  | yǐzi bú shūfú                          | [[https://translate.google.com/#zh-cn/en/椅子不舒服][椅子不舒服]]           |                                                            |
+| English                                     | Pinyin                                    | Characters             | Notes                                                      |
+|---------------------------------------------+-------------------------------------------+------------------------+------------------------------------------------------------|
+| Office                                      | bànggōngshì                               | [[https://translate.google.com/#zh-cn/en/办公室][办公室]]                 | shì makes it a place                                       |
+| To work                                     | bànggōng                                  | [[https://translate.google.com/#zh-cn/en/办公][办公]]                   | do public place - deal with issues place.                  |
+| Subway Station                              | dìtiě zhàn                                | [[https://translate.google.com/#zh-cn/en/地铁站][地铁站]]                 |                                                            |
+| Bus                                         | gōngchē                                   | [[https://translate.google.com/#zh-cn/en/公车][公车]]                   |                                                            |
+| 5th Floor                                   | wǔ lóu                                    | [[https://translate.google.com/#zh-cn/en/五楼][五楼]]                   |                                                            |
+| Old Building                                | lǎo jiànzhú                               | [[https://translate.google.com/#zh-cn/en/老建筑][老建筑]]                 |                                                            |
+| Desk                                        | bànggōng zhuō                             | [[https://translate.google.com/#zh-cn/en/办公桌][办公桌]]                 | Office table                                               |
+| Messy                                       | luàn                                      | [[https://translate.google.com/#zh-cn/en/乱][乱]]                     |                                                            |
+| Window                                      | chuāng kǒu                                | [[https://translate.google.com/#zh-cn/en/窗口][窗口]]                   |                                                            |
+| Monitor                                     | diàn nǎo xiǎn shì qì                      | [[https://translate.google.com/#zh-cn/en/电脑显示器][电脑显示器]]             | Computer (Electric Brian) monitor (Signficant Show Device) |
+| Uncomfortable                               | bú shū fú                                 | [[https://translate.google.com/#zh-cn/en/不舒服][不舒服]]                 | Not Comfortable                                            |
+| Chair                                       | yǐzi                                      | [[https://translate.google.com/#zh-cn/en/椅子][椅子]]                   |                                                            |
+| Everyday I go to work at 8am                | měitiān wǒ zǎoshàng bā diǎn shàngban      | [[https://translate.google.com/#zh-cn/en/每天我早上八点上班][每天我早上八点上班]]     |                                                            |
+| I take the bus and the subway               | wǒ zuò gōngchē hé dìtiě                   | [[https://translate.google.com/#zh-cn/en/我坐公车和地铁][我坐公车和地铁]]         |                                                            |
+| In total it takes about 1 hour              | yīgòng yī xiǎoshí zuǒyòu                  | [[https://translate.google.com/#zh-cn/en/一共一小时左右][一共一小时左右]]         |                                                            |
+| The subway is very busy                     | dìtiě hěn máng                            | [[https://translate.google.com/#zh-cn/en/地铁是很忙][地铁很忙]]               | No shì when describing things.  The hěn is required!       |
+| On the train I read my book                 | wǒ zài huǒchē shàng dúshū                 | [[https://translate.google.com/#zh-cn/en/我在火车上读书][我在火车上读书]]         |                                                            |
+| My office is opposite to the subway station | wǒ de bànggōngshì zài huǒchē zhàn duìmiàn | [[https://translate.google.com/#zh-cn/en/我的办公室在火车站对面][我的办公室在火车站对面]] |                                                            |
+| It is a 2 minute walk                       | zǒulù liǎng fēnzhōng                      | [[https://translate.google.com/#zh-cn/en/走路两分钟][走路两分钟]]             |                                                            |
+| My desk is on the 5 th floor                | wǒ de bànggōngzhuō zài wǔ lóu             | [[https://translate.google.com/#zh-cn/en/我的办公桌在五楼][我的办公桌在五楼]]       |                                                            |
+| On my desk are 3 monitors                   | sān gè diànnǎo xiǎnshìqì zài zhuōzi shàng | [[https://translate.google.com/#zh-cn/en/三个电脑显示器在桌子上][三个电脑显示器在桌子上]] |                                                            |
+| My desk is messy                            | zhuōzi yǒudiǎn luàn                       | [[https://translate.google.com/#zh-cn/en/桌子有点乱][桌子有点乱]]             | No shì when describing things.  The yǒudiǎn is required!   |
+| My desk is next to the window               | zhuōzi zài chuāngkǒu pángbiān             | [[https://translate.google.com/#zh-cn/en/桌子在窗口旁边][桌子在窗口旁边]]         |                                                            |
+| I have a black chair                        | wǒ yǒu yī bǎ hēisè de yǐzi                | [[https://translate.google.com/#zh-cn/en/我有一把黑色的椅子][我有一把黑色的椅子]]     |                                                            |
+| The chair is uncomfortable                  | yǐzi bú shūfú                             | [[https://translate.google.com/#zh-cn/en/椅子不舒服][椅子不舒服]]             |                                                            |
 *** Cards                                                        :noexport:
 **** Where I Work                                                  :drill:
 :PROPERTIES:
@@ -10377,6 +10378,569 @@ Nose
 bízi
 ***** Characters
 鼻子
+** Describing Illness and Problems
+:PROPERTIES:
+:DRILL_HEADING: Describing Illness and Problems
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word(s)
+:END:
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                             | Pinyin                                       | Characters                  | Notes                                               |
+|-----------------------------------------------------+----------------------------------------------+-----------------------------+-----------------------------------------------------|
+| Pain                                                | téng                                         | [[https://translate.google.com/#zh-cn/en/疼][疼]]                          |                                                     |
+| Headache                                            | tóu téng                                     | [[https://translate.google.com/#zh-cn/en/头疼][头疼]]                        |                                                     |
+| Toothache                                           | yá téng                                      | [[https://translate.google.com/#zh-cn/en/牙疼][牙疼]]                        |                                                     |
+| Discomfort (not pain)                               | nán shòu                                     | [[https://translate.google.com/#zh-cn/en/难受][难受]]                        |                                                     |
+| Bit off                                             | tóu nánshòu                                  | [[https://translate.google.com/#zh-cn/en/头难受][头难受]]                      | Lit. head uncomfortable                             |
+| Upset stomach                                       | dùzi nánshòu                                 | [[https://translate.google.com/#zh-cn/en/肚子难受][肚子难受]]                    |                                                     |
+| Sick                                                | shēng bìng                                   | [[https://translate.google.com/#zh-cn/en/生病][生病]]                        | Lit. Start-To-Have Sick                             |
+| Birthday                                            | shēng rì                                     | [[https://translate.google.com/#zh-cn/en/生日][生日]]                        | Shēng also means birth                              |
+| Healthy / Health                                    | jiàn kāng                                    | [[https://translate.google.com/#zh-cn/en/健康][健康]]                        |                                                     |
+| Rest (verb/noun)                                    | xiū xí                                       | [[https://translate.google.com/#zh-cn/en/休息][休息]]                        |                                                     |
+| I am taking rest                                    | wǒ zài xiūxí                                 | [[https://translate.google.com/#zh-cn/en/我在休息][我在休息]]                    | zài means doing the verb                            |
+| I want to rest                                      | wǒ yaò xiūxí                                 | [[https://translate.google.com/#zh-cn/en/我要休息][我要休息]]                    |                                                     |
+| Hot water                                           | rè shuǐ                                      | [[https://translate.google.com/#zh-cn/en/热水][热水]]                        |                                                     |
+| Cold water                                          | lěng shuǐ                                    | [[https://translate.google.com/#zh-cn/en/冷水][冷水]]                        |                                                     |
+| (You) should                                        | děi                                          | [[https://translate.google.com/#zh-cn/en/得][得]]                          | could do with                                       |
+| You should drink hot water                          | nǐ děi hē rè shuǐ                            | [[https://translate.google.com/#zh-cn/en/我得喝热水][我得喝热水]]                  | You could do with a...                              |
+| I should take the subway                            | wǒ děi zuò dìditě                            | [[https://translate.google.com/#zh-cn/en/我得坐地铁][我得坐地铁]]                  |                                                     |
+| (You) should/could                                  | yīnggāi                                      | [[https://translate.google.com/#zh-cn/en/应该][应该]]                        |                                                     |
+| How are you (health not greating)                   | nǐ zěn me le                                 | [[https://translate.google.com/#zh-cn/en/你怎么了][你怎么了]]                    |                                                     |
+| I (have) headache (and) also a cough                | wǒ tóuténg hái késòu                         | [[https://translate.google.com/#zh-cn/en/我头疼还咳嗽][我头疼还咳嗽]]                |                                                     |
+| Is it fever/flu?                                    | fā shāo ma                                   | [[https://translate.google.com/#zh-cn/en/发烧吗][发烧吗]]                      | fā=appear shōu=apply high temperature, shāofàn=cook |
+| Not fever                                           | bù fā shāo                                   | [[https://translate.google.com/#zh-cn/en/不发烧][不发烧]]                      |                                                     |
+| You got a cold (already)                            | nǐ gǎn mào le                                | [[https://translate.google.com/#zh-cn/en/你感冒了][你感冒了]]                    | gǎn mào = get a cold                                |
+| You caught a cold, take some medicine to get better | nǐ gǎn mào le, chī diǎn yào jiù hǎo          | [[https://translate.google.com/#zh-cn/en/你感冒了, 吃点药就好][你感冒了, 吃点药就好]]    | eat a-little medicine (emphasis) good               |
+| I don't like to take medicine                       | wǒ bù xǐhuān chī yào                         | [[https://translate.google.com/#zh-cn/en/我不喜欢吃药][我不喜欢吃药]]                |                                                     |
+| Today I can't go to work                            | wǒ jīntiān bù néng shàngbān le               | [[https://translate.google.com/#zh-cn/en/我今天不能上班了][我今天不能上班了]]            | le draws attention to the immediate situation       |
+| Can                                                 | néng                                         | [[https://translate.google.com/#zh-cn/en/能][能]]                          | Like kěyǐ xíng                                      |
+| What's wrong with you?                              | nǐ zěn me le                                 | [[https://translate.google.com/#zh-cn/en/你怎么了][你怎么了]]                    | Also how are you feeling                            |
+| I have a little fever                               | wǒ yǒu diǎn fā shāo                          | [[https://translate.google.com/#zh-cn/en/我有点发烧][我有点发烧]]                  |                                                     |
+| You show go and see the doctor (to hospital)        | nǐ děi qù yīyuàn kàn kàn                     | [[https://translate.google.com/#zh-cn/en/你得去医院看看][你得去医院看看]]              | You should go to hospital see see                   |
+| I went, doctor said I should drink much hot water   | wǒ qù le, yīshēng shuō wǒ děi duō hē rè shuǐ | [[https://translate.google.com/#zh-cn/en/我去了, 医生说我得多喝热水][我去了, 医生说我得多喝热水]] |                                                     |
+| <person> said <sentence>                            | <person> shuō <sentence>                     |                             |                                                     |
+| I should <more/less> <verb> <thing>                 | wǒ děi <duō/shǎo> <verb> <thing>             |                             |                                                     |
+| I should (have) more fun                            | wǒ děi duō wán                               | [[https://translate.google.com/#zh-cn/en/我得多玩][我得多玩]]                    | wán lit play, but more general                      |
+| I travel to China (for fun)                         | wǒ qù zhōngguó wán                           | [[https://translate.google.com/#zh-cn/en/我去中国玩][我去中国玩]]                  |                                                     |
+| Was it good fun in China?                           | zhōngguó hǎo wán ma                          | [[https://translate.google.com/#zh-cn/en/中国好玩吗][中国好玩吗]]                  |                                                     |
+| I come to China for fun                             | wǒ lái zhōngguó wán                          | [[https://translate.google.com/#zh-cn/en/我来中国玩][我来中国玩]]                  |                                                     |
+| You should rest at home                             | nǐ zài jiā xiūxí ba                          | [[https://translate.google.com/#zh-cn/en/你在家休息吧][你在家休息吧]]                |                                                     |
+| Situation has changed, and now can't <verb>         | bù néng <verb> le                            |                             |                                                     |
+| I can't go to work                                  | wǒ bù néng shàngbān le                       | [[https://translate.google.com/#zh-cn/en/我不上班了][我不上班了]]                  |                                                     |
+| I don't think I to go to work                       | wǒ bù xiǎng shàngbān                         | [[https://translate.google.com/#zh-cn/en/我不想上班][我不想上班]]                  | I do not feel like working                          |
+| I don't want go to work                             | wǒ bù yào shàngbān                           | [[https://translate.google.com/#zh-cn/en/我不要上班][我不要上班]]                  |                                                     |
+| I can't see now                                     | wǒ kàn bù dào le                             | [[https://translate.google.com/#zh-cn/en/我看不到了][我看不到了]]                  |                                                     |
+| I am sick now                                       | wǒ gǎn mào le                                | [[https://translate.google.com/#zh-cn/en/我感冒了][我感冒了]]                    |                                                     |
+*** Cards                                                        :noexport:
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Pain
+***** Pinyin
+téng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/疼][疼]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Headache
+***** Pinyin
+tóu téng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/头疼][头疼]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Toothache
+***** Pinyin
+yá téng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/牙疼][牙疼]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Discomfort (not pain)
+***** Pinyin
+nán shòu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/难受][难受]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Bit off
+***** Pinyin
+tóu nánshòu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/头难受][头难受]]
+***** Notes
+Lit. head uncomfortable
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Upset stomach
+***** Pinyin
+dùzi nánshòu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/肚子难受][肚子难受]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Sick
+***** Pinyin
+shēng bìng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/生病][生病]]
+***** Notes
+Lit. Start-To-Have Sick
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Birthday
+***** Pinyin
+shēng rì
+***** Characters
+[[https://translate.google.com/#zh-cn/en/生日][生日]]
+***** Notes
+Shēng also means birth
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Healthy / Health
+***** Pinyin
+jiàn kāng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/健康][健康]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Rest (verb/noun)
+***** Pinyin
+xiū xí
+***** Characters
+[[https://translate.google.com/#zh-cn/en/休息][休息]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I am taking rest
+***** Pinyin
+wǒ zài xiūxí
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我在休息][我在休息]]
+***** Notes
+zài means doing the verb
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I want to rest
+***** Pinyin
+wǒ yaò xiūxí
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我要休息][我要休息]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Hot water
+***** Pinyin
+rè shuǐ
+***** Characters
+[[https://translate.google.com/#zh-cn/en/热水][热水]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Cold water
+***** Pinyin
+lěng shuǐ
+***** Characters
+[[https://translate.google.com/#zh-cn/en/冷水][冷水]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+(You) should
+***** Pinyin
+děi
+***** Characters
+[[https://translate.google.com/#zh-cn/en/得][得]]
+***** Notes
+could do with
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+You should drink hot water
+***** Pinyin
+nǐ děi hē rè shuǐ
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我得喝热水][我得喝热水]]
+***** Notes
+You could do with a...
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I should take the subway
+***** Pinyin
+wǒ děi zuò dìditě
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我得坐地铁][我得坐地铁]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+(You) should/could
+***** Pinyin
+yīnggāi
+***** Characters
+[[https://translate.google.com/#zh-cn/en/应该][应该]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+How are you (health not greating)
+***** Pinyin
+nǐ zěn me le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你怎么了][你怎么了]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I (have) headache (and) also a cough
+***** Pinyin
+wǒ tóuténg hái késòu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我头疼还咳嗽][我头疼还咳嗽]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Is it fever/flu?
+***** Pinyin
+fā shāo ma
+***** Characters
+[[https://translate.google.com/#zh-cn/en/发烧吗][发烧吗]]
+***** Notes
+fā=appear shōu=apply high temperature, shāofàn=cook
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Not fever
+***** Pinyin
+bù fā shāo
+***** Characters
+[[https://translate.google.com/#zh-cn/en/不发烧][不发烧]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+You got a cold (already)
+***** Pinyin
+nǐ gǎn mào le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你感冒了][你感冒了]]
+***** Notes
+gǎn mào = get a cold
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+You caught a cold, take some medicine to get better
+***** Pinyin
+nǐ gǎn mào le, chī diǎn yào jiù hǎo
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你感冒了, 吃点药就好][你感冒了, 吃点药就好]]
+***** Notes
+eat a-little medicine (emphasis) good
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I don't like to take medicine
+***** Pinyin
+wǒ bù xǐhuān chī yào
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我不喜欢吃药][我不喜欢吃药]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Today I can't go to work
+***** Pinyin
+wǒ jīntiān bù néng shàngbān le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我今天不能上班了][我今天不能上班了]]
+***** Notes
+le draws attention to the immediate situation
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Can
+***** Pinyin
+néng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/能][能]]
+***** Notes
+Like kěyǐ xíng
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+What's wrong with you?
+***** Pinyin
+nǐ zěn me le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你怎么了][你怎么了]]
+***** Notes
+Also how are you feeling
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I have a little fever
+***** Pinyin
+wǒ yǒu diǎn fā shāo
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我有点发烧][我有点发烧]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+You show go and see the doctor (to hospital)
+***** Pinyin
+nǐ děi qù yīyuàn kàn kàn
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你得去医院看看][你得去医院看看]]
+***** Notes
+You should go to hospital see see
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I went, doctor said I should drink much hot water
+***** Pinyin
+wǒ qù le, yīshēng shuō wǒ děi duō hē rè shuǐ
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我去了, 医生说我得多喝热水][我去了, 医生说我得多喝热水]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+<person> said <sentence>
+***** Pinyin
+<person> shuō <sentence>
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I should <more/less> <verb> <thing>
+***** Pinyin
+wǒ děi <duō/shǎo> <verb> <thing>
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I should (have) more fun
+***** Pinyin
+wǒ děi duō wán
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我得多玩][我得多玩]]
+***** Notes
+wán lit play, but more general
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I travel to China (for fun)
+***** Pinyin
+wǒ qù zhōngguó wán
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我去中国玩][我去中国玩]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Was it good fun in China?
+***** Pinyin
+zhōngguó hǎo wán ma
+***** Characters
+[[https://translate.google.com/#zh-cn/en/中国好玩吗][中国好玩吗]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I come to China for fun
+***** Pinyin
+wǒ lái zhōngguó wán
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我来中国玩][我来中国玩]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+You should rest at home
+***** Pinyin
+nǐ zài jiā xiūxí ba
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你在家休息吧][你在家休息吧]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Situation has changed, and now can't <verb>
+***** Pinyin
+bù néng <verb> le
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I can't go to work
+***** Pinyin
+wǒ bù néng shàngbān le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我不上班了][我不上班了]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I don't think I to go to work
+***** Pinyin
+wǒ bù xiǎng shàngbān
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我不想上班][我不想上班]]
+***** Notes
+I do not feel like working
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I don't want go to work
+***** Pinyin
+wǒ bù yào shàngbān
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我不要上班][我不要上班]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I can't see now
+***** Pinyin
+wǒ kàn bù dào le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我看不到了][我看不到了]]
+**** Describing Illness and Problems                               :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I am sick now
+***** Pinyin
+wǒ gǎn mào le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我感冒了][我感冒了]]
 * Links and Misc
 ** PDF Version
 - A [[http://www.beadling.co.uk/mandarin.pdf][PDF Version]] of this website
