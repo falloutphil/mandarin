@@ -1145,9 +1145,18 @@ zhōu rì
 ***** Characters
 周日
 **** Days, Weeks, Months                                           :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       7e7b8692-49f4-4406-b150-3c1d391d69ca
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:42]
 :END:
 Translate the following word(s)
 ***** English
@@ -1157,9 +1166,18 @@ yī tiān
 ***** Characters
 一天
 **** Days, Weeks, Months                                           :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       8564d660-0e64-4c50-aad4-42d057307a2f
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:33]
 :END:
 Translate the following word(s)
 ***** English
@@ -2335,9 +2353,18 @@ píng guǒ duō shǎo qián yī jīn
 ***** Notes
 Apple fruit, more-less money 1 jin
 **** Money                                                         :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       ecde359a-83bb-44ce-aca2-a2909e93ca1c
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:35]
 :END:
 Translate the following word(s)
 ***** English
@@ -2452,9 +2479,18 @@ pián yi
 ***** Characters
 便宜
 **** Money                                                         :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       86c749f8-51dd-41ec-986c-8a8868654ef1
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:49]
 :END:
 Translate the following word(s)
 ***** English
@@ -2567,9 +2603,18 @@ yaò duō shǎo
 ***** Characters
 要多少
 **** Buying Food and Drink                                         :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       103d6f55-a5bc-4241-b944-5a2942cd36b3
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:35]
 :END:
 Translate the following word(s)
 ***** English
@@ -2789,9 +2834,18 @@ xīhóngshì yào sān jīn
 ***** Characters
 西红柿要三斤
 **** Buying Food and Drink                                         :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       8c34b0e1-a3d6-4c1c-9b04-c1a26f1d3e4d
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:37]
 :END:
 Translate the following word(s)
 ***** English
@@ -2989,9 +3043,18 @@ yǒu hóng de ma
 ***** Notes
 Have [Jumper] of Red? - Note it is actually Red of [Jumper]
 **** Buying a Jumper                                               :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       2c986084-7e2e-4ec5-b2aa-e6ce59268684
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:33]
 :END:
 Translate the following word(s)
 ***** English
@@ -3283,9 +3346,18 @@ dà de máo yī
 ***** Notes
 Swap the words around to get:
 **** Buying a Jumper                                               :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       f9d3aca8-42f5-4127-8093-5d37d5cc1ce5
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:32]
 :END:
 Translate the following word(s)
 ***** English
@@ -3325,9 +3397,18 @@ Zhè jiàn hěn hǎo
 ***** Notes
 This (measure) very good
 **** Buying a Jumper                                               :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       9285e1bf-a31d-44b8-856d-574710d8e79c
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:43]
 :END:
 Translate the following word(s)
 ***** English
@@ -3541,9 +3622,18 @@ yǒu báo diàn de ma
 ***** Characters
 [[https://translate.google.com/#zh-cn/en/有薄的吗][有薄的吗]]
 **** Clothes and Sizes                                             :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       ac075f0b-1f7f-4a2f-ade4-0c8ed61f618c
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:43]
 :END:
 Translate the following word(s)
 ***** English
@@ -3802,9 +3892,18 @@ Can Can’t?
 ***** Pinyin
 xíng bù xíng
 **** Different Ways of Asking Questions                            :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       c750935a-c478-4c8c-b42f-8bf10c100062
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:44]
 :END:
 Translate the following word(s)
 ***** English
@@ -4227,9 +4326,18 @@ Literally: How about your body – how do you feel? (health)
 ***** Pinyin
 nǐ de shēn tǐ
 **** CLothes and Discounts                                         :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       7be41c83-6f90-43a9-8b32-79f4555de45f
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:50]
 :END:
 Translate the following word(s)
 ***** English
@@ -4530,9 +4638,18 @@ I eat strawberries (either now or in general)
 ***** Pinyin
 wǒ chī cǎo méi
 **** Buying Strawberries                                           :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       d2e11a54-ffa4-4c43-9e8f-a9ccf0391e74
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:34]
 :END:
 Translate the following word(s)
 ***** English
@@ -5022,9 +5139,18 @@ huā chá
 | You want more water to drink?                 | hái yào hē shuǐ ma                                    | [[https://translate.google.com/#zh-cn/en/还要喝水吗][还要喝水吗]]                      | Additionally, (you) want drink water question-maker |
 *** Cards                                                        :noexport:
 **** Ordering Food                                                 :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       1921ebf3-6b77-4bf5-bbeb-4a3ddc775873
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:34]
 :END:
 Translate the following word(s)
 ***** English
@@ -5064,9 +5190,18 @@ Hái yào bié de ma
 ***** Notes
 Still want else-of (dish) question-maker
 **** Ordering Food                                                 :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       ebbca6ab-f18f-4b46-8360-46db8021580a
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:43]
 :END:
 Translate the following word(s)
 ***** English
@@ -5118,9 +5253,18 @@ yī hú huāchá
 ***** Characters
 一壶花茶
 **** Ordering Food                                                 :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       b3ec16dc-0432-4304-940e-92e9cfa620f4
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:47]
 :END:
 Translate the following word(s)
 ***** English
@@ -5489,9 +5633,18 @@ shuài gē
 ***** Characters
 帅哥
 **** Waiter, Takeaway, Cutlery                                     :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       67c04390-729e-4bf2-be3e-30869662279c
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:49]
 :END:
 Translate the following word(s)
 ***** English
@@ -6514,9 +6667,18 @@ Mr Beadling
 ***** Pinyin
 Beadling xīan shēng
 **** Family and Parents                                            :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       af19dca0-3053-42ff-b87e-7e8bd53a7e78
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:36]
 :END:
 Translate the following word(s)
 ***** English
@@ -6528,9 +6690,18 @@ fù qīn
 ***** Notes
 (Father Close-Relative-Or-Friend)
 **** Family and Parents                                            :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       d27d4947-0271-4650-b468-ae4f094a7d07
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:33]
 :END:
 Translate the following word(s)
 ***** English
@@ -6680,9 +6851,18 @@ gē gē
 ***** Characters
 哥哥
 **** Sibiling and Cousins                                          :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       a137f089-90c0-40e9-94c0-30c1ff74bd36
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:45]
 :END:
 Translate the following word(s)
 ***** English
@@ -6725,9 +6905,18 @@ mèi mei
 ***** Characters
 妹妹
 **** Sibiling and Cousins                                          :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       6918acd4-a9ae-40f9-9327-db20821f1622
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:50]
 :END:
 Translate the following word(s)
 ***** English
@@ -6753,9 +6942,18 @@ nǎi nai
 ***** Notes
 (milk milk)
 **** Sibiling and Cousins                                          :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       84ed9ead-26d7-4dbe-b6d1-fbea49490267
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:47]
 :END:
 Translate the following word(s)
 ***** English
@@ -6833,9 +7031,18 @@ jiù jiu
 ***** Characters
 舅舅
 **** Sibiling and Cousins                                          :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       000d2958-744f-4c29-a5a0-df871be10082
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:36]
 :END:
 Translate the following word(s)
 ***** English
@@ -7010,9 +7217,18 @@ nǎ gè
 ***** Characters
 哪个
 **** Directions                                                    :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       552947bb-4b26-46f6-9f03-8ba141795e23
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:37]
 :END:
 Translate the following word(s)
 ***** English
@@ -7382,9 +7598,18 @@ ránhòu
 ***** Characters
 然后
 **** Directions                                                    :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       c82e0efd-2231-43b5-9af3-3f328f0f05e7
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:32]
 :END:
 Translate the following word(s)
 ***** English
@@ -7783,9 +8008,18 @@ shāng diàn
 ***** Notes
 (Business Store)
 **** Places                                                        :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       b337b741-1463-4bed-b744-de40e1c21ff8
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:43]
 :END:
 Translate the following word(s)
 ***** English
@@ -8287,9 +8521,18 @@ wǒ qù Chóngqìng, jǐ diǎn shì huǒ chē
 ***** Characters
 我去重庆, 几点是火车
 **** Catching a Train                                              :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       c20dd7e2-c735-4062-a3af-1c09617ff2a9
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:47]
 :END:
 Translate the following word(s)
 ***** English
@@ -8414,9 +8657,18 @@ Which platform boards the No.25 train?
 ***** Pinyin
 T25 cì zài dì jǐ zhàn tái shàng chē ?
 **** Catching a Train                                              :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       14d8ea0d-e4b4-4542-aa13-d16a39db87e1
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:33]
 :END:
 Translate the following word(s)
 ***** English
@@ -9296,9 +9548,18 @@ Wǒ de gōngzuò shì ...
 ***** Characters
 我的工作是
 **** Jobs                                                          :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       78570f91-7d9a-46b7-b6fa-c148387c2a7f
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:49]
 :END:
 Translate the following word(s)
 ***** English
@@ -9669,9 +9930,18 @@ Politics Place
 | He is a civil servant               | Tā shì gōngwùyuán               | [[https://translate.google.com/#zh-cn/en/他是公务员][他是公务员]]         |                           |
 *** Cards                                                        :noexport:
 **** Questions on Work                                             :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       180822ae-61fb-46db-99f3-947d8727b13b
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:36]
 :END:
 Translate the following word(s)
 ***** English
@@ -10231,9 +10501,18 @@ Shì fēilìpǔ ma
 ***** Notes
 Are you Philip?
 **** Making a Phone Call                                           :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       3fff5548-f21f-46ea-b9fa-4f8b24b22e57
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:47]
 :END:
 Translate the following word(s)
 ***** English
@@ -10892,9 +11171,18 @@ wǒ zǎochén bā diǎn qǐchuáng
 ***** Notes
 Use zài?
 **** Weekend Routine                                               :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       f5388193-f940-4307-ae19-63e3ab4b0c77
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.667
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:46]
 :END:
 Translate the following word(s)
 ***** English
@@ -10998,9 +11286,18 @@ wǒ xiàwǔ sān diǎn qù kàn diànyǐng
 ***** Notes
 I go to see movie
 **** Weekend Routine                                               :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       d3690f09-ab5f-4006-9f42-7e933a1683a8
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:44]
 :END:
 Translate the following word(s)
 ***** English
@@ -11101,9 +11398,18 @@ wǒ qī diǎn bàn xǐzǎo
 ***** Characters
 我七点半洗澡
 **** Work Routine                                                  :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       880b9f88-53d8-4303-a375-5bb709849dd2
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:33]
 :END:
 Translate the following word(s)
 ***** English
@@ -11483,9 +11789,18 @@ shàng
 ***** Characters
 上
 **** Position of general items                                     :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       fe73dafe-93e1-4352-b3df-290f88178ae1
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:45]
 :END:
 Translate the following word(s)
 ***** English
@@ -11778,9 +12093,18 @@ bù zài
 ***** Characters
 不在
 **** Position of general items                                     :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       7efb2ada-2511-47fe-a67b-2d4440aac3bb
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:49]
 :END:
 Translate the following word(s)
 ***** English
@@ -12069,9 +12393,18 @@ lóutī
 ***** Characters
 [[https://translate.google.com/#zh-cn/en/楼梯][楼梯]]
 **** My Lounge                                                     :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       4c8e6236-acdb-4a5e-a781-60ee1807b245
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.667
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:46]
 :END:
 Translate the following word(s)
 ***** English
@@ -12338,9 +12671,18 @@ bànggōngshì
 ***** Characters
 [[https://translate.google.com/#zh-cn/en/办公室][办公室]]
 **** Where I Work                                                  :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       2f6664b2-812b-4745-801c-7970660f3450
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:48]
 :END:
 Translate the following word(s)
 ***** English
@@ -12721,9 +13063,18 @@ yǐzi bú shūfú
 | Nose                             | bízi                     | [[https://translate.google.com/#zh-cn/en/鼻子][鼻子]]           |                                                   |
 *** Cards                                                        :noexport:
 **** Body Parts                                                    :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       a30da221-d37f-4e7c-8da9-ee88a3618e9c
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:34]
 :END:
 Translate the following word(s)
 ***** English
@@ -12735,9 +13086,18 @@ zhège jiǔdiàn zěnme yàng
 ***** Notes
 How about this hotel?
 **** Body Parts                                                    :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       9b8849c1-eaf8-4a09-807d-526e9bd3db50
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:42]
 :END:
 Translate the following word(s)
 ***** English
@@ -12887,9 +13247,18 @@ yáchǐ
 ***** Characters
 牙齿
 **** Body Parts                                                    :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       29efc892-0c22-4cf4-8c82-0fb7ae39d874
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:46]
 :END:
 Translate the following word(s)
 ***** English
@@ -12952,9 +13321,18 @@ dùzi
 ***** Notes
 Left part of char is 月 indicates the body
 **** Body Parts                                                    :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       5ce63eb4-103e-4e40-93e7-87cab486fddd
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:44]
 :END:
 Translate the following word(s)
 ***** English
@@ -13421,9 +13799,18 @@ yīnggāi
 ***** Characters
 [[https://translate.google.com/#zh-cn/en/应该][应该]]
 **** Describing Illness and Problems                               :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       4fde1e99-87be-49bf-b6d9-2c5cd2a43eac
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:33]
 :END:
 Translate the following word(s)
 ***** English
@@ -13445,9 +13832,18 @@ wǒ tóuténg hái késòu
 ***** Characters
 [[https://translate.google.com/#zh-cn/en/我头疼还咳嗽][我头疼还咳嗽]]
 **** Describing Illness and Problems                               :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       0b3d3243-cab1-45ef-86dd-6689caf7d61c
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:47]
 :END:
 Translate the following word(s)
 ***** English
@@ -13508,9 +13904,18 @@ nǐ gǎn mào le, chī diǎn yào jiù hǎo
 ***** Notes
 eat a-little medicine (emphasis) good
 **** Describing Illness and Problems                               :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       dab84f40-460f-4c37-806d-f69305d41d53
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:36]
 :END:
 Translate the following word(s)
 ***** English
@@ -13638,9 +14043,18 @@ I should <more/less> <verb> <thing>
 ***** Pinyin
 wǒ děi <duō/shǎo> <verb> <thing>
 **** Describing Illness and Problems                               :drill:
+SCHEDULED: <2018-04-14 Sat>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :ID:       7465eeb2-c279-4ee7-a8d9-02f4469a6836
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2018-04-10 Tue 12:45]
 :END:
 Translate the following word(s)
 ***** English
