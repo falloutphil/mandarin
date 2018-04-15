@@ -15006,8 +15006,177 @@ Twice
 liǎng cì
 ***** Characters
 [[https://translate.google.com/#zh-cn/en/两次][两次]]
-* PDF Version
-- A [[http://www.beadling.co.uk/mandarin.pdf][PDF Version]] of this website
+** After work
+:PROPERTIES:
+:DRILL_HEADING: After work
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word(s)
+:END:
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                           | Pinyin                                                | Characters                     | Notes |
+|---------------------------------------------------+-------------------------------------------------------+--------------------------------+-------|
+| Before work I'm too tired to go to the gym.       | wǒ shàngbān qián bù qù jiànshēnfáng, yīnwèi tài lèile | [[https://translate.google.com/#zh-cn/en/我上班前不去健身房 因为太累了][我上班前不去健身房 因为太累了]]  |       |
+| But, After work I often go to the gym.            | bùguò xiàbān hòu tōngcháng yīzhōu liǎng cì qù.        | [[https://translate.google.com/#zh-cn/en/不过下班后通常一周两次去][不过下班后通常一周两次去]]       |       |
+| I play squash and I swim                          | wǒ dǎ bìqiú hé yóuyǒng                                | [[https://translate.google.com/#zh-cn/en/我打壁球和游泳][我打壁球和游泳]]                 |       |
+| Instead, every Friday, I go (out) to dinner       | xiāngfǎn, wǒ měi zhōu wǔ wǎnshàng qù chī wǎnfàn       | [[https://translate.google.com/#zh-cn/en/相反 我每周五晚上去吃晚饭][相反 我每周五晚上去吃晚饭]]      |       |
+| I like to go to Italian restaurants               | wǒ xǐhuān qù yìdàlì fàndiàn                           | [[https://translate.google.com/#zh-cn/en/我喜欢去意大利饭店][我喜欢去意大利饭店]]             |       |
+| I love pizza                                      | wǒ xǐhuān pīsà                                        | [[https://translate.google.com/#zh-cn/en/我喜欢披萨][我喜欢披萨]]                     |       |
+| At the weekend, I often drive to my sisters house | wǒ zhōumò de shíhòu jīngcháng kāichē qù mèimei de jiā | [[https://translate.google.com/#zh-cn/en/我周末的时候经常开车去妹妹的家][我周末的时候经常开车去妹妹的家]] |       |
+| We go to the cinema together with my nephew       | wǒmen hé wǒ de wàishēngnǚ yīqǐ qù kàn diànyǐng        | [[https://translate.google.com/#zh-cn/en/我们和我的外甥女一起去看电影][我们和我的外甥女一起去看电影]]   |       |
+| In the evening I like to read books               | wǎnshàng wǒ xǐhuān dúshū                              | [[https://translate.google.com/#zh-cn/en/晚上我喜欢读书][晚上我喜欢读书]]                 |       |
+| Sometimes I meet friends for drinks               | wǒ yǒu shíhòu huìjiàn péngyǒu hējiǔ                   | [[https://translate.google.com/#zh-cn/en/我有时候会见朋友喝酒][我有时候会见朋友喝酒]]           |       |
+*** Cards                                                        :noexport:
+
+**** After work                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Before work I'm too tired to go to the gym.
+
+***** Pinyin
+wǒ shàngbān qián bù qù jiànshēnfáng, yīnwèi tài lèile
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我上班前不去健身房 因为太累了][我上班前不去健身房 因为太累了]]
+
+**** After work                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+But, After work I often go to the gym.
+
+***** Pinyin
+bùguò xiàbān hòu tōngcháng yīzhōu liǎng cì qù.
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/不过下班后通常一周两次去][不过下班后通常一周两次去]]
+
+**** After work                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+I play squash and I swim
+
+***** Pinyin
+wǒ dǎ bìqiú hé yóuyǒng
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我打壁球和游泳][我打壁球和游泳]]
+
+**** After work                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Instead, every Friday, I go (out) to dinner
+
+***** Pinyin
+xiāngfǎn, wǒ měi zhōu wǔ wǎnshàng qù chī wǎnfàn
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/相反 我每周五晚上去吃晚饭][相反 我每周五晚上去吃晚饭]]
+
+**** After work                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+I like to go to Italian restaurants
+
+***** Pinyin
+wǒ xǐhuān qù yìdàlì fàndiàn
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我喜欢去意大利饭店][我喜欢去意大利饭店]]
+
+**** After work                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+I love pizza
+
+***** Pinyin
+wǒ xǐhuān pīsà
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我喜欢披萨][我喜欢披萨]]
+
+**** After work                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+At the weekend, I often drive to my sisters house
+
+***** Pinyin
+wǒ zhōumò de shíhòu jīngcháng kāichē qù mèimei de jiā
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我周末的时候经常开车去妹妹的家][我周末的时候经常开车去妹妹的家]]
+
+**** After work                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+We go to the cinema together with my nephew
+
+***** Pinyin
+wǒmen hé wǒ de wàishēngnǚ yīqǐ qù kàn diànyǐng
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我们和我的外甥女一起去看电影][我们和我的外甥女一起去看电影]]
+
+**** After work                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+In the evening I like to read books
+
+***** Pinyin
+wǎnshàng wǒ xǐhuān dúshū
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/晚上我喜欢读书][晚上我喜欢读书]]
+
+**** After work                                                    :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Sometimes I meet friends for drinks
+
+***** Pinyin
+wǒ yǒu shíhòu huìjiàn péngyǒu hējiǔ
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我有时候会见朋友喝酒][我有时候会见朋友喝酒]]
 * Writing Chinese
 - You can use ni3hao3
   - M-x set-input-method <input>
