@@ -14212,10 +14212,803 @@ I am sick now
 wǒ gǎn mào le
 ***** Characters
 [[https://translate.google.com/#zh-cn/en/我感冒了][我感冒了]]
-* Links and Misc
-** PDF Version
+* Can you fix Computers?
+** Use of dào and le
+:PROPERTIES:
+:DRILL_HEADING: Use of dào and le
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word(s)
+:END:
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                | Pinyin              | Characters   | Notes                        |
+|------------------------+---------------------+--------------+------------------------------|
+| I can see you          | wǒ kěyǐ kàn dào nǐ  | [[https://translate.google.com/#zh-cn/en/我可以看到你][我可以看到你]] |                              |
+| I can't see you (now)  | wǒ kàn bù dào nǐ le | [[https://translate.google.com/#zh-cn/en/我看不到你了][我看不到你了]] | The bù and le imply a change |
+| I ate                  | wǒ chī le           | [[https://translate.google.com/#zh-cn/en/我吃了][我吃了]]       | le implies change to eating  |
+| I'm not eating anymore | wǒ bù chī le        | [[https://translate.google.com/#zh-cn/en/我不吃了][我不吃了]]     | State has changed            |
+*** Cards                                                        :noexport:
+**** Use of dào and le                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I can see you
+***** Pinyin
+wǒ kěyǐ kàn dào nǐ
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我可以看到你][我可以看到你]]
+**** Use of dào and le                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I can't see you (now)
+***** Pinyin
+wǒ kàn bù dào nǐ le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我看不到你了][我看不到你了]]
+***** Notes
+The bù and le imply a change
+**** Use of dào and le                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I ate
+***** Pinyin
+wǒ chī le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我吃了][我吃了]]
+***** Notes
+le implies change to eating
+**** Use of dào and le                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I'm not eating anymore
+***** Pinyin
+wǒ bù chī le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我不吃了][我不吃了]]
+***** Notes
+State has changed
+** Are you able?
+:PROPERTIES:
+:DRILL_HEADING: Are you able?
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word(s)
+:END:
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                | Pinyin                  | Characters            | Notes                                            |
+|------------------------+-------------------------+-----------------------+--------------------------------------------------|
+| Can you fix comptuers? | nǐ huì xiū diànnǎo ma   | [[https://translate.google.com/#zh-cn/en/你会修电脑吗][你会修电脑吗]]          |                                                  |
+| Can you <verb> <noun>? | nǐ huì <verb> <noun> ma | [[https://translate.google.com/#zh-cn/en/你会 <verb> <noun> 吗][你会 <verb> <noun> 吗]] | Can as in your ability                           |
+| Can you drive (car)?   | nǐ huì kái chē ma       | [[https://translate.google.com/#zh-cn/en/你会开车吗][你会开车吗]]            | kái=operate - train, airplane, boat, not bicycle |
+| Can you cook (meal)?   | nǐ huì zuò fàn ma       | [[https://translate.google.com/#zh-cn/en/你会做饭吗][你会做饭吗]]            | zuò = do                                         |
+| (I) can (do it) a bit  | huì yī diǎn             | [[https://translate.google.com/#zh-cn/en/会一点][会一点]]                |                                                  |
+| Speak Chinese          | shuō zhōngwén           | [[https://translate.google.com/#zh-cn/en/说中文][说中文]]                |                                                  |
+| Paint (a painting)     | huà huà                 | [[https://translate.google.com/#zh-cn/en/画画][画画]]                  | Also drawing                                     |
+| Swim (a swim)          | yóu yǒng                | [[https://translate.google.com/#zh-cn/en/游泳][游泳]]                  | yóu=wandering                                    |
+| (Ice) skating          | huá bīng                | [[https://translate.google.com/#zh-cn/en/滑冰][滑冰]]                  | Slippery Skating                                 |
+| Rollerskating          | huá hàn bīng            | [[https://translate.google.com/#zh-cn/en/滑旱冰][滑旱冰]]                | Slippery Land Skating                            |
+*** Cards                                                        :noexport:
+**** Are you able?                                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Can you fix comptuers?
+***** Pinyin
+nǐ huì xiū diànnǎo ma
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你会修电脑吗][你会修电脑吗]]
+**** Are you able?                                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Can you <verb> <noun>?
+***** Pinyin
+nǐ huì <verb> <noun> ma
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你会 <verb> <noun> 吗][你会 <verb> <noun> 吗]]
+***** Notes
+Can as in your ability
+**** Are you able?                                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Can you drive (car)?
+***** Pinyin
+nǐ huì kái chē ma
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你会开车吗][你会开车吗]]
+***** Notes
+kái=operate - train, airplane, boat, not bicycle
+**** Are you able?                                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Can you cook (meal)?
+***** Pinyin
+nǐ huì zuò fàn ma
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你会做饭吗][你会做饭吗]]
+***** Notes
+zuò = do
+**** Are you able?                                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+(I) can (do it) a bit
+***** Pinyin
+huì yī diǎn
+***** Characters
+[[https://translate.google.com/#zh-cn/en/会一点][会一点]]
+**** Are you able?                                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Speak Chinese
+***** Pinyin
+shuō zhōngwén
+***** Characters
+[[https://translate.google.com/#zh-cn/en/说中文][说中文]]
+**** Are you able?                                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Paint (a painting)
+***** Pinyin
+huà huà
+***** Characters
+[[https://translate.google.com/#zh-cn/en/画画][画画]]
+***** Notes
+Also drawing
+**** Are you able?                                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Swim (a swim)
+***** Pinyin
+yóu yǒng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/游泳][游泳]]
+***** Notes
+yóu=wandering
+**** Are you able?                                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+(Ice) skating
+***** Pinyin
+huá bīng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/滑冰][滑冰]]
+***** Notes
+Slippery Skating
+**** Are you able?                                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Rollerskating
+***** Pinyin
+huá hàn bīng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/滑旱冰][滑旱冰]]
+***** Notes
+Slippery Land Skating
+** Are you able - conversation
+:PROPERTIES:
+:DRILL_HEADING: Are you able - conversation
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word(s)
+:END:
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                        | Pinyin                         | Characters        | Notes                   |
+|--------------------------------+--------------------------------+-------------------+-------------------------|
+| Can you fix computers?         | nǐ huì xiū diànnǎo ma          | [[https://translate.google.com/#zh-cn/en/你会修电脑吗][你会修电脑吗]]      |                         |
+| I can't, she can.              | wǒ bù huì, tā huì              | [[https://translate.google.com/#zh-cn/en/我不会 她会][我不会 她会]]       |                         |
+| She can fix them very well     | tā xiū de hěn hǎo              | [[https://translate.google.com/#zh-cn/en/她修的很好][她修的很好]]        | No need to specify noun |
+| I drive very fast              | wǒ kāi dé hěn kuài             | [[https://translate.google.com/#zh-cn/en/我开得很快][我开得很快]]        |                         |
+| I eat a lot                    | wǒ chī dé hěn duō              | [[https://translate.google.com/#zh-cn/en/我吃得很多][我吃得很多]]        |                         |
+| I heard                        | tīng shuō                      | [[https://translate.google.com/#zh-cn/en/听说][听说]]              |                         |
+| I heard you can fix computers  | tīng shuō nǐ huì xiū diànnǎo   | [[https://translate.google.com/#zh-cn/en/听说你会修电脑][听说你会修电脑]]    |                         |
+| I can a bit                    | wǒ huì yīdiǎn                  | [[https://translate.google.com/#zh-cn/en/我会一点][我会一点]]          |                         |
+| Not working / broken / bad     | huài                           | [[https://translate.google.com/#zh-cn/en/坏][坏]]                |                         |
+| TV broken, can't see (picture) | diànshì huài le bù néng kàn le | [[https://translate.google.com/#zh-cn/en/电视坏了 不能看了][电视坏了 不能看了]] |                         |
+*** Cards                                                        :noexport:
+**** Are you able - conversation                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Can you fix computers?
+***** Pinyin
+nǐ huì xiū diànnǎo ma
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你会修电脑吗][你会修电脑吗]]
+**** Are you able - conversation                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I can't, she can.
+***** Pinyin
+wǒ bù huì, tā huì
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我不会 她会][我不会 她会]]
+**** Are you able - conversation                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+She can fix them very well
+***** Pinyin
+tā xiū de hěn hǎo
+***** Characters
+[[https://translate.google.com/#zh-cn/en/她修的很好][她修的很好]]
+***** Notes
+No need to specify noun
+**** Are you able - conversation                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I drive very fast
+***** Pinyin
+wǒ kāi dé hěn kuài
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我开得很快][我开得很快]]
+**** Are you able - conversation                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I eat a lot
+***** Pinyin
+wǒ chī dé hěn duō
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我吃得很多][我吃得很多]]
+**** Are you able - conversation                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I heard
+***** Pinyin
+tīng shuō
+***** Characters
+[[https://translate.google.com/#zh-cn/en/听说][听说]]
+**** Are you able - conversation                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I heard you can fix computers
+***** Pinyin
+tīng shuō nǐ huì xiū diànnǎo
+***** Characters
+[[https://translate.google.com/#zh-cn/en/听说你会修电脑][听说你会修电脑]]
+**** Are you able - conversation                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I can a bit
+***** Pinyin
+wǒ huì yīdiǎn
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我会一点][我会一点]]
+**** Are you able - conversation                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Not working / broken / bad
+***** Pinyin
+huài
+***** Characters
+[[https://translate.google.com/#zh-cn/en/坏][坏]]
+**** Are you able - conversation                                   :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+TV broken, can't see (picture)
+***** Pinyin
+diànshì huài le bù néng kàn le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/电视坏了 不能看了][电视坏了 不能看了]]
+** Things you can do
+:PROPERTIES:
+:DRILL_HEADING: Things you can do
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word(s)
+:END:
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                       | Pinyin                   | Characters             | Notes                                      |
+|-----------------------------------------------+--------------------------+------------------------+--------------------------------------------|
+| You good (able) at <verb> <thing>?            | nǐ huì <verb> <thing> ma | [[https://translate.google.com/#zh-cn/en/你会 <verb> <thing> 吗][你会 <verb> <thing> 吗]] |                                            |
+| Squash                                        | bìqiú                    | [[https://translate.google.com/#zh-cn/en/壁球][壁球]]                   | Wall ball                                  |
+| Tennis                                        | wǎng qiú                 | [[https://translate.google.com/#zh-cn/en/网球][网球]]                   | Net ball                                   |
+| Football                                      | zú qiú                   | [[https://translate.google.com/#zh-cn/en/足球][足球]]                   | Foot Ball                                  |
+| You good at playing (hand hit) squash?        | nǐ huì dǎ bìqiú ma       | [[https://translate.google.com/#zh-cn/en/你会打壁球吗][你会打壁球吗]]           |                                            |
+| I play (hit) well                             | wǒ dǎ dé hěn hǎo         | [[https://translate.google.com/#zh-cn/en/我打得很好][我打得很好]]             |                                            |
+| You can (good at) playing (kicking) football? | nǐ huì tī zúqiú ma       | [[https://translate.google.com/#zh-cn/en/你会踢足球吗][你会踢足球吗]]           |                                            |
+| I bake bread well                             | wǒ kǎo miànbāo hěn hǎo   | [[https://translate.google.com/#zh-cn/en/我烤面包很好][我烤面包很好]]           |                                            |
+| I drive car well                              | wǒ kāi chē hěn hǎo       | [[https://translate.google.com/#zh-cn/en/我开车很好][我开车很好]]             |                                            |
+| I drive car quickly                           | wǒ kāi chē hěn kuài      | [[https://translate.google.com/#zh-cn/en/我开车很快][我开车很快]]             |                                            |
+| I drive well (Car is already subject)         | wǒ kāi dé hěn hǎo        | [[https://translate.google.com/#zh-cn/en/我开得很好][我开得很好]]             | The dé because no noun operated on by verb |
+| I run quickly                                 | wǒ pǎo dé kuài           | [[https://translate.google.com/#zh-cn/en/我跑得快][我跑得快]]               | The dé because no noun operated on by verb |
+*** Cards                                                        :noexport:
+**** Things you can do                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+You good (able) at <verb> <thing>?
+***** Pinyin
+nǐ huì <verb> <thing> ma
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你会 <verb> <thing> 吗][你会 <verb> <thing> 吗]]
+**** Things you can do                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Squash
+***** Pinyin
+bìqiú
+***** Characters
+[[https://translate.google.com/#zh-cn/en/壁球][壁球]]
+***** Notes
+Wall ball
+**** Things you can do                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Tennis
+***** Pinyin
+wǎng qiú
+***** Characters
+[[https://translate.google.com/#zh-cn/en/网球][网球]]
+***** Notes
+Net ball
+**** Things you can do                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Football
+***** Pinyin
+zú qiú
+***** Characters
+[[https://translate.google.com/#zh-cn/en/足球][足球]]
+***** Notes
+Foot Ball
+**** Things you can do                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+You good at playing (hand hit) squash?
+***** Pinyin
+nǐ huì dǎ bìqiú ma
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你会打壁球吗][你会打壁球吗]]
+**** Things you can do                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I play (hit) well
+***** Pinyin
+wǒ dǎ dé hěn hǎo
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我打得很好][我打得很好]]
+**** Things you can do                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+You can (good at) playing (kicking) football?
+***** Pinyin
+nǐ huì tī zúqiú ma
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你会踢足球吗][你会踢足球吗]]
+**** Things you can do                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I bake bread well
+***** Pinyin
+wǒ kǎo miànbāo hěn hǎo
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我烤面包很好][我烤面包很好]]
+**** Things you can do                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I drive car well
+***** Pinyin
+wǒ kāi chē hěn hǎo
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我开车很好][我开车很好]]
+**** Things you can do                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I drive car quickly
+***** Pinyin
+wǒ kāi chē hěn kuài
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我开车很快][我开车很快]]
+**** Things you can do                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I drive well (Car is already subject)
+***** Pinyin
+wǒ kāi dé hěn hǎo
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我开得很好][我开得很好]]
+***** Notes
+The dé because no noun operated on by verb
+**** Things you can do                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I run quickly
+***** Pinyin
+wǒ pǎo dé kuài
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我跑得快][我跑得快]]
+***** Notes
+The dé because no noun operated on by verb
+** What happens at a given time
+:PROPERTIES:
+:DRILL_HEADING: What happens at a given time
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word(s)
+:END:
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                   | Pinyin                                 | Characters             | Notes                    |
+|-------------------------------------------+----------------------------------------+------------------------+--------------------------|
+| Go to school                              | shàng xué                              | [[https://translate.google.com/#zh-cn/en/上学][上学]]                   |                          |
+| Finish school                             | xià xué                                | [[https://translate.google.com/#zh-cn/en/下学][下学]]                   | Finished for the day     |
+| After finishing work                      | xiàbān yǐ hòu                          | [[https://translate.google.com/#zh-cn/en/下班以后][下班以后]]               | yǐ is structure particle |
+| Before finishing work                     | xiàbān yǐ qián                         | [[https://translate.google.com/#zh-cn/en/下班以前][下班以前]]               |                          |
+| Often                                     | cháng cháng                            | [[https://translate.google.com/#zh-cn/en/常常][常常]]                   |                          |
+| Frequently                                | jīng cháng                             | [[https://translate.google.com/#zh-cn/en/经常][经常]]                   | More than often          |
+| Generally / Usually                       | tōng cháng                             | [[https://translate.google.com/#zh-cn/en/通常][通常]]                   | Use this one!            |
+| What do you generally do after work?      | xiàbān yǐhòu nǐ tōngcháng zuò shénme   | [[https://translate.google.com/#zh-cn/en/下班以后你通常做什么][下班以后你通常做什么]]   |                          |
+| I go to the gym.  What about you?         | qù jiànshēnfáng. nǐ ne?                | [[https://translate.google.com/#zh-cn/en/去健身房. 你呢][去健身房. 你呢]]         |                          |
+| What time is it?                          | xiànzài shè me shíjiān                 | [[https://translate.google.com/#zh-cn/en/现在社么时间][现在社么时间]]           |                          |
+| Exact time point                          | shíjiān                                | [[https://translate.google.com/#zh-cn/en/时间][时间]]                   |                          |
+| Broader time point                        | shíhòu                                 | [[https://translate.google.com/#zh-cn/en/时候][时候]]                   |                          |
+| (Precisely) when?                         | shénme shíjiān                         | [[https://translate.google.com/#zh-cn/en/什么时间][什么时间]]               |                          |
+| (Broadly) when?                           | shénme shíhòu                          | [[https://translate.google.com/#zh-cn/en/什么时候][什么时候]]               |                          |
+| I sometimes play tennis                   | wǒ yǒu shíhòu dǎ wǎngqiú               | [[https://translate.google.com/#zh-cn/en/我有时候打网球][我有时候打网球]]         |                          |
+| Of the time                               | de shíhòu                              | [[https://translate.google.com/#zh-cn/en/的时候][的时候]]                 |                          |
+| The time I was in China                   | wǒ zài zhōngguó de shíhòu              | [[https://translate.google.com/#zh-cn/en/我在中国的时候][我在中国的时候]]         | I at China of the time   |
+| (At) the time I ate dinner                | wǒ chī wǎnfàn de shíhòu                | [[https://translate.google.com/#zh-cn/en/我吃晚饭的时候][我吃晚饭的时候]]         |                          |
+| When I ate dinner I watched TV            | wǒ chī wǎnfàn de shíhòu wǒ kàn diànshì | [[https://translate.google.com/#zh-cn/en/我吃晚饭的时候我看电视][我吃晚饭的时候我看电视]] |                          |
+| When I was 7 years old, I played football | wǒ qī suì de shíhòu wǒ tī zúqiú        | [[https://translate.google.com/#zh-cn/en/我七岁的时候我踢足球][我七岁的时候我踢足球]]   |                          |
+| How many times a week?                    | yī xīngqí jǐ cì                        | [[https://translate.google.com/#zh-cn/en/一星期几次][一星期几次]]             |                          |
+| Twice                                     | liǎng cì                               | [[https://translate.google.com/#zh-cn/en/两次][两次]]                   |                          |
+*** Cards                                                        :noexport:
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Go to school
+***** Pinyin
+shàng xué
+***** Characters
+[[https://translate.google.com/#zh-cn/en/上学][上学]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Finish school
+***** Pinyin
+xià xué
+***** Characters
+[[https://translate.google.com/#zh-cn/en/下学][下学]]
+***** Notes
+Finished for the day
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+After finishing work
+***** Pinyin
+xiàbān yǐ hòu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/下班以后][下班以后]]
+***** Notes
+yǐ is structure particle
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Before finishing work
+***** Pinyin
+xiàbān yǐ qián
+***** Characters
+[[https://translate.google.com/#zh-cn/en/下班以前][下班以前]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Often
+***** Pinyin
+cháng cháng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/常常][常常]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Frequently
+***** Pinyin
+jīng cháng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/经常][经常]]
+***** Notes
+More than often
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Generally / Usually
+***** Pinyin
+tōng cháng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/通常][通常]]
+***** Notes
+Use this one!
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+What do you generally do after work?
+***** Pinyin
+xiàbān yǐhòu nǐ tōngcháng zuò shénme
+***** Characters
+[[https://translate.google.com/#zh-cn/en/下班以后你通常做什么][下班以后你通常做什么]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I go to the gym.  What about you?
+***** Pinyin
+qù jiànshēnfáng. nǐ ne?
+***** Characters
+[[https://translate.google.com/#zh-cn/en/去健身房. 你呢][去健身房. 你呢]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+What time is it?
+***** Pinyin
+xiànzài shè me shíjiān
+***** Characters
+[[https://translate.google.com/#zh-cn/en/现在社么时间][现在社么时间]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Exact time point
+***** Pinyin
+shíjiān
+***** Characters
+[[https://translate.google.com/#zh-cn/en/时间][时间]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Broader time point
+***** Pinyin
+shíhòu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/时候][时候]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+(Precisely) when?
+***** Pinyin
+shénme shíjiān
+***** Characters
+[[https://translate.google.com/#zh-cn/en/什么时间][什么时间]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+(Broadly) when?
+***** Pinyin
+shénme shíhòu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/什么时候][什么时候]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I sometimes play tennis
+***** Pinyin
+wǒ yǒu shíhòu dǎ wǎngqiú
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我有时候打网球][我有时候打网球]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Of the time
+***** Pinyin
+de shíhòu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/的时候][的时候]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+The time I was in China
+***** Pinyin
+wǒ zài zhōngguó de shíhòu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我在中国的时候][我在中国的时候]]
+***** Notes
+I at China of the time
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+(At) the time I ate dinner
+***** Pinyin
+wǒ chī wǎnfàn de shíhòu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我吃晚饭的时候][我吃晚饭的时候]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+When I ate dinner I watched TV
+***** Pinyin
+wǒ chī wǎnfàn de shíhòu wǒ kàn diànshì
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我吃晚饭的时候我看电视][我吃晚饭的时候我看电视]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+When I was 7 years old, I played football
+***** Pinyin
+wǒ qī suì de shíhòu wǒ tī zúqiú
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我七岁的时候我踢足球][我七岁的时候我踢足球]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+How many times a week?
+***** Pinyin
+yī xīngqí jǐ cì
+***** Characters
+[[https://translate.google.com/#zh-cn/en/一星期几次][一星期几次]]
+**** What happens at a given time                                  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Twice
+***** Pinyin
+liǎng cì
+***** Characters
+[[https://translate.google.com/#zh-cn/en/两次][两次]]
+* PDF Version
 - A [[http://www.beadling.co.uk/mandarin.pdf][PDF Version]] of this website
-** Writing Chinese
+* Writing Chinese
 - You can use ni3hao3
   - M-x set-input-method <input>
   - For pinyin - chinese-sisheng
@@ -14228,15 +15021,15 @@ wǒ gǎn mào le
   - cnfonts-edit-profile
   - cnfonts-next-profile
 
-** Drills
+* Drills
 - To create a drill from a table, place the cursor on the table and M-x org-drill-table-generate
 - To drill everything use M-x org-drill
 - To drill a section put your cursor over the top level and M-x org-drill-tree
 - Or change the variable org-drill-scope (C-h v) using the customize tool to tree level
   - This allows you to use org-drill-cram, etc at tree level
-** Publishing
+* Publishing
 - To publish to the web C-c C-e P p
-** Misc Org
+* Misc Org
 Footnotes can be written using fn:<name> wrapped in square brackets.
 C-c C-c or C-c C-x f - jumps from footnote to reference
 
