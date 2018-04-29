@@ -15245,67 +15245,725 @@ wǒ yǒu shíhòu huìjiàn péngyǒu hējiǔ
 
 ***** Characters
 [[https://translate.google.com/#zh-cn/en/我有时候会见朋友喝酒][我有时候会见朋友喝酒]]
-** Stuff
+** Things and Opinions
+:PROPERTIES:
+:DRILL_HEADING: Things and Opinions
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word(s)
+:END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                        | Pinyin | Characters   | Notes           |
-|------------------------------------------------+--------+--------------+-----------------|
-| Opposite                                       |        |              |                 |
-| But                                            |        |              |                 |
-| However                                        |        |              |                 |
-| I'm opposite you                               |        |              |                 |
-| Will meet                                      |        |              |                 |
-| Will go                                        |        |              |                 |
-| I will meet friends for a drink                |        |              |                 |
-| Will (Can/Generally/In Future)                 |        |              |                 |
-| Hot and Spicy                                  |        |              |                 |
-| Can I have it a little spicy?                  |        | 一点辣可以吗 |                 |
-| Can I have it less spicy?                      |        | 少辣可以吗   |                 |
-| Less spicy thanks                              |        | 少辣谢谢     |                 |
-| This Saturday, are you free?                   |        |              | kong=empty/free |
-| Together we play tennis?                       |        |              |                 |
-| Let's do it / Brilliant!                       |        |              |                 |
-| Very true                                      |        |              |                 |
-| What time do you want to meet?                 |        |              |                 |
-| Sometimes                                      |        |              |                 |
-| Always                                         |        |              |                 |
-| I always drink with friends on Fridays         |        |              |                 |
-| Sometimes I play computer games at home        |        |              |                 |
-| Play                                           |        |              |                 |
-| I play football                                |        |              |                 |
-| I hang out with my friends                     |        |              |                 |
-| Go and have fun in America                     |        |              |                 |
-| I don't (want) to go to America                |        |              |                 |
-| I don't go to America                          |        |              |                 |
-| Is America good fun?                           |        |              |                 |
-| Very good fun!                                 |        |              |                 |
-| Very tasty!                                    |        |              |                 |
-| Not tasty!                                     |        |              |                 |
-| I generally go to the shop to buy stuff/things |        |              |                 |
-| What stuff are you eating                      |        |              |                 |
-| In my bag there are things/stuff               |        |              |                 |
-| You have anything to eat?                      |        |              |                 |
-| You want to eat something?                     |        |              |                 |
-| I am always running in the gym                 |        |              |                 |
-| I'm always running in the gym on weekends      |        |              |                 |
-| I sometimes read in the park in mornings       |        |              |                 |
-| Read book (studiyng)                           |        |              |                 |
-| Read book (looking)                            |        |              |                 |
-| Every year I go skiing in France               |        |              |                 |
+| English                                        | Pinyin                                     | Characters             | Notes                                             |
+|------------------------------------------------+--------------------------------------------+------------------------+---------------------------------------------------|
+| Opposite                                       | xiāngfǎn                                   | [[https://translate.google.com/#zh-cn/en/相反][相反]]                   | In contrast                                       |
+| But                                            | diànshì                                    | [[https://translate.google.com/#zh-cn/en/但是][但是]]                   |                                                   |
+| However                                        | bùguò                                      | [[https://translate.google.com/#zh-cn/en/不过][不过]]                   |                                                   |
+| I'm opposite you                               | wǒ he nǐ xiāngfǎn                          | [[https://translate.google.com/#zh-cn/en/我和你相反][我和你相反]]             |                                                   |
+| Will meet                                      | huì jiàn                                   | [[https://translate.google.com/#zh-cn/en/会见][会见]]                   |                                                   |
+| Will go                                        | huì qù                                     | [[https://translate.google.com/#zh-cn/en/会去][会去]]                   |                                                   |
+| I will meet friends for a drink                | wǒ huì hé péngyǒu hējiǔ                    | [[https://translate.google.com/#zh-cn/en/我会和朋友喝酒][我会和朋友喝酒]]         |                                                   |
+| Will (Can/Generally/In Future)                 | huì                                        | [[https://translate.google.com/#zh-cn/en/会][会]]                     |                                                   |
+| Hot and Spicy                                  | hěn là                                     | [[https://translate.google.com/#zh-cn/en/狠辣][狠辣]]                   |                                                   |
+| Can I have it a little spicy?                  | yīdiǎn là kěyǐ ma                          | [[https://translate.google.com/#zh-cn/en/一点辣可以吗][一点辣可以吗]]           |                                                   |
+| Can I have it less spicy?                      | shǎo là kěyǐ ma                            | [[https://translate.google.com/#zh-cn/en/少辣可以吗][少辣可以吗]]             |                                                   |
+| Less spicy thanks                              | shǎo là xièxiè                             | [[https://translate.google.com/#zh-cn/en/少辣谢谢][少辣谢谢]]               |                                                   |
+| This Saturday, are you free?                   | zhè zhōu liù nǐ yǒu kòng ma                | [[https://translate.google.com/#zh-cn/en/这周六你有空吗][这周六你有空吗]]         | kong=empty/free                                   |
+| Together let's play tennis?                    | (wǒmen) yīqǐ dǎ wǎngqiú ba                 | [[https://translate.google.com/#zh-cn/en/我们一起打网球吧][我们一起打网球吧]]       | We together play tennis suggestion                |
+| Let's do it / Brilliant!                       | tài hǎo le                                 | [[https://translate.google.com/#zh-cn/en/太好了][太好了]]                 | Can sometimes be used sarcastically               |
+| Very true / Exactly                            | tài duì le                                 | [[https://translate.google.com/#zh-cn/en/太对了][太对了]]                 |                                                   |
+| What time do you want to meet?                 | shénme shíhòu jiànmiàn                     | [[https://translate.google.com/#zh-cn/en/什么时候见面][什么时候见面]]           | Can be used to specify exact or very general time |
+| Sometimes                                      | yǒu shíhòu                                 | [[https://translate.google.com/#zh-cn/en/有时候][有时候]]                 |                                                   |
+| Always                                         | zǒng shì                                   | [[https://translate.google.com/#zh-cn/en/总是][总是]]                   |                                                   |
+| I always drink with friends on Fridays         | wǒ zhōu wǔ zǒng shì qù hējiǔ               | [[https://translate.google.com/#zh-cn/en/我周五总是去喝酒][我周五总是去喝酒]]       |                                                   |
+| Sometimes I play computer games at home        | wǒ yǒu shíhòu zàijiā dǎ diànnǎo yóuxì      | [[https://translate.google.com/#zh-cn/en/我有时候在家打电脑游戏][我有时候在家打电脑游戏]] | Can use wán instead of dǎ                         |
+| Play                                           | wán                                        | [[https://translate.google.com/#zh-cn/en/玩][玩]]                     |                                                   |
+| I play football                                | wǒ wán zúqiú                               | [[https://translate.google.com/#zh-cn/en/我玩足球][我玩足球]]               | For now just us dǎ                                |
+| I hang out with my friends                     | wǒ hé péngyǒu chū qù wán                   | [[https://translate.google.com/#zh-cn/en/我和朋友出去玩][我和朋友出去玩]]         | Go Out Play                                       |
+| Go and have fun in America                     | nǐ qù měiguó wán                           | [[https://translate.google.com/#zh-cn/en/你去美国玩][你去美国玩]]             |                                                   |
+| I don't (want) to go to America                | wǒ bù qù měiguó                            | [[https://translate.google.com/#zh-cn/en/我不去美国][我不去美国]]             |                                                   |
+| I don't go to America                          | wǒ méi qù měiguó                           | [[https://translate.google.com/#zh-cn/en/我没去美国][我没去美国]]             |                                                   |
+| Is America good fun?                           | měiguó hǎo wán                             | [[https://translate.google.com/#zh-cn/en/美国好玩][美国好玩]]               |                                                   |
+| Very good fun!                                 | tài hǎo wán le                             | [[https://translate.google.com/#zh-cn/en/太好玩了][太好玩了]]               |                                                   |
+| Very tasty!                                    | tài hào chī le                             | [[https://translate.google.com/#zh-cn/en/太好吃了][太好吃了]]               |                                                   |
+| Not tasty!                                     | tài bù hào chī le                          | [[https://translate.google.com/#zh-cn/en/太不好吃了][太不好吃了]]             |                                                   |
+| I generally go to the shop to buy stuff/things | wǒ tōngcháng qù shāngdiàn mǎi dōngxī       | [[https://translate.google.com/#zh-cn/en/我通常去商店买东西][我通常去商店买东西]]     | dōngxī - things/stuff = east/west                 |
+| What stuff are you eating                      | nǐ zài chī shénme dōngxī                   | [[https://translate.google.com/#zh-cn/en/你在吃什么东西][你在吃什么东西]]         |                                                   |
+| In my bag there are things/stuff               | wǒ de bāo li yǒu dōngxī                    | [[https://translate.google.com/#zh-cn/en/我的包里有东西][我的包里有东西]]         | Things could be books, bottles, a rat!            |
+| You have anything to eat?                      | nǐ yǒu dōngxī kěyǐ chī ma                  | [[https://translate.google.com/#zh-cn/en/你有东西可以吃吗][你有东西可以吃吗]]       |                                                   |
+| You want to eat something?                     | nǐ yào chī dōngxī ma                       | [[https://translate.google.com/#zh-cn/en/你要吃东西吗][你要吃东西吗]]           |                                                   |
+| I am always running in the gym                 | wǒ zǒng shì zài jiànshēnfáng pǎobù         | [[https://translate.google.com/#zh-cn/en/我总是在健身房跑步][我总是在健身房跑步]]     |                                                   |
+| I'm always running in the gym on weekends      | wǒ zǒng shì zhōumò zài jiànshēnfáng pǎobù  | [[https://translate.google.com/#zh-cn/en/我总是周末在健身房跑步][我总是周末在健身房跑步]] | person frequency time place verb                  |
+| In the morning, I sometimes read in the park   | wǒ yǒu shíhòu zǎoshang zài gōngyuán kànshū | [[https://translate.google.com/#zh-cn/en/我有时候早上在公园看书][我有时候早上在公园看书]] |                                                   |
+| Read book (studying)                           | dúshū                                      | [[https://translate.google.com/#zh-cn/en/读书][读书]]                   |                                                   |
+| Read book (looking)                            | kànshū                                     | [[https://translate.google.com/#zh-cn/en/看书][看书]]                   | More relaxed / reading novel                      |
+| Every year I go skiing in France               | wǒ měinián qù fàguó huáxuě                 | [[https://translate.google.com/#zh-cn/en/我每年去法国滑雪][我每年去法国滑雪]]       |                                                   |
+*** Cards                                                        :noexport:
 
-* Writing Chinese
-- You can use ni3hao3
-  - M-x set-input-method <input>
-  - For pinyin - chinese-sisheng
-  - For characters - chinese-tonepy
-  - To toggle back to no input mode wth C-\
-  - [[https://llaisdy.wordpress.com/2009/02/08/chinese-input-methods-for-emacs/][Blog on input methods]]
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
 
-- Also using cnfonts you can use
-  - cnfonts-increase-fontsize
-  - cnfonts-edit-profile
-  - cnfonts-next-profile
+***** English
+Opposite
 
+***** Pinyin
+xiāngfǎn
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/相反][相反]]
+
+***** Notes
+In contrast
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+But
+
+***** Pinyin
+diànshì
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/但是][但是]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+However
+
+***** Pinyin
+bùguò
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/不过][不过]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+I'm opposite you
+
+***** Pinyin
+wǒ he nǐ xiāngfǎn
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我和你相反][我和你相反]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Will meet
+
+***** Pinyin
+huì jiàn
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/会见][会见]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Will go
+
+***** Pinyin
+huì qù
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/会去][会去]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+I will meet friends for a drink
+
+***** Pinyin
+wǒ huì hé péngyǒu hējiǔ
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我会和朋友喝酒][我会和朋友喝酒]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Will (Can/Generally/In Future)
+
+***** Pinyin
+huì
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/会][会]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Hot and Spicy
+
+***** Pinyin
+hěn là
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/狠辣][狠辣]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Can I have it a little spicy?
+
+***** Pinyin
+yīdiǎn là kěyǐ ma
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/一点辣可以吗][一点辣可以吗]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Can I have it less spicy?
+
+***** Pinyin
+shǎo là kěyǐ ma
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/少辣可以吗][少辣可以吗]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Less spicy thanks
+
+***** Pinyin
+shǎo là xièxiè
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/少辣谢谢][少辣谢谢]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+This Saturday, are you free?
+
+***** Pinyin
+zhè zhōu liù nǐ yǒu kòng ma
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/这周六你有空吗][这周六你有空吗]]
+
+***** Notes
+kong=empty/free
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Together let's play tennis?
+
+***** Pinyin
+(wǒmen) yīqǐ dǎ wǎngqiú ba
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我们一起打网球吧][我们一起打网球吧]]
+
+***** Notes
+We together play tennis suggestion
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Let's do it / Brilliant!
+
+***** Pinyin
+tài hǎo le
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/太好了][太好了]]
+
+***** Notes
+Can sometimes be used sarcastically
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Very true / Exactly
+
+***** Pinyin
+tài duì le
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/太对了][太对了]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+What time do you want to meet?
+
+***** Pinyin
+shénme shíhòu jiànmiàn
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/什么时候见面][什么时候见面]]
+
+***** Notes
+Can be used to specify exact or very general time
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Sometimes
+
+***** Pinyin
+yǒu shíhòu
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/有时候][有时候]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Always
+
+***** Pinyin
+zǒng shì
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/总是][总是]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+I always drink with friends on Fridays
+
+***** Pinyin
+wǒ zhōu wǔ zǒng shì qù hējiǔ
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我周五总是去喝酒][我周五总是去喝酒]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Sometimes I play computer games at home
+
+***** Pinyin
+wǒ yǒu shíhòu zàijiā dǎ diànnǎo yóuxì
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我有时候在家打电脑游戏][我有时候在家打电脑游戏]]
+
+***** Notes
+Can use wán instead of dǎ
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Play
+
+***** Pinyin
+wán
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/玩][玩]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+I play football
+
+***** Pinyin
+wǒ wán zúqiú
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我玩足球][我玩足球]]
+
+***** Notes
+For now just us dǎ
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+I hang out with my friends
+
+***** Pinyin
+wǒ hé péngyǒu chū qù wán
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我和朋友出去玩][我和朋友出去玩]]
+
+***** Notes
+Go Out Play
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Go and have fun in America
+
+***** Pinyin
+nǐ qù měiguó wán
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你去美国玩][你去美国玩]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+I don't (want) to go to America
+
+***** Pinyin
+wǒ bù qù měiguó
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我不去美国][我不去美国]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+I don't go to America
+
+***** Pinyin
+wǒ méi qù měiguó
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我没去美国][我没去美国]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Is America good fun?
+
+***** Pinyin
+měiguó hǎo wán
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/美国好玩][美国好玩]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Very good fun!
+
+***** Pinyin
+tài hǎo wán le
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/太好玩了][太好玩了]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Very tasty!
+
+***** Pinyin
+tài hào chī le
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/太好吃了][太好吃了]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Not tasty!
+
+***** Pinyin
+tài bù hào chī le
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/太不好吃了][太不好吃了]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+I generally go to the shop to buy stuff/things
+
+***** Pinyin
+wǒ tōngcháng qù shāngdiàn mǎi dōngxī
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我通常去商店买东西][我通常去商店买东西]]
+
+***** Notes
+dōngxī - things/stuff = east/west
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+What stuff are you eating
+
+***** Pinyin
+nǐ zài chī shénme dōngxī
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你在吃什么东西][你在吃什么东西]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+In my bag there are things/stuff
+
+***** Pinyin
+wǒ de bāo li yǒu dōngxī
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我的包里有东西][我的包里有东西]]
+
+***** Notes
+Things could be books, bottles, a rat!
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+You have anything to eat?
+
+***** Pinyin
+nǐ yǒu dōngxī kěyǐ chī ma
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你有东西可以吃吗][你有东西可以吃吗]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+You want to eat something?
+
+***** Pinyin
+nǐ yào chī dōngxī ma
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你要吃东西吗][你要吃东西吗]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+I am always running in the gym
+
+***** Pinyin
+wǒ zǒng shì zài jiànshēnfáng pǎobù
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我总是在健身房跑步][我总是在健身房跑步]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+I'm always running in the gym on weekends
+
+***** Pinyin
+wǒ zǒng shì zhōumò zài jiànshēnfáng pǎobù
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我总是周末在健身房跑步][我总是周末在健身房跑步]]
+
+***** Notes
+person frequency time place verb
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+In the morning, I sometimes read in the park
+
+***** Pinyin
+wǒ yǒu shíhòu zǎoshang zài gōngyuán kànshū
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我有时候早上在公园看书][我有时候早上在公园看书]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Read book (studying)
+
+***** Pinyin
+dúshū
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/读书][读书]]
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Read book (looking)
+
+***** Pinyin
+kànshū
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/看书][看书]]
+
+***** Notes
+More relaxed / reading novel
+
+**** Things and Opinions                                           :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+
+***** English
+Every year I go skiing in France
+
+***** Pinyin
+wǒ měinián qù fàguó huáxuě
+
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我每年去法国滑雪][我每年去法国滑雪]]
 * Drills
 - To create a drill from a table, place the cursor on the table and M-x org-drill-table-generate
 - To drill everything use M-x org-drill
