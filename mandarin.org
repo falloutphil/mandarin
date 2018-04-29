@@ -15072,18 +15072,18 @@ liǎng cì
 :END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                           | Pinyin                                                  | Characters                      | Notes |
-|---------------------------------------------------+---------------------------------------------------------+---------------------------------+-------|
-| Before work I'm too tired to go to the gym.       | wǒ shàngbān yǐqián bù qù jiànshēnfáng, yīnwèi tài lèile | [[https://translate.google.com/#zh-cn/en/我上班前不去健身房 因为太累了][我上班以前不去健身房 因为太累了]] |       |
-| But, After work I often go to the gym.            | bùguò xiàbān yǐhòu tōngcháng, yīzhōu liǎng cì qù.       | [[https://translate.google.com/#zh-cn/en/不过下班后通常一周两次去][不过下班以后通常一周两次去]]      |       |
-| I play squash and I swim                          | wǒ dǎ bìqiú hé yóuyǒng                                  | [[https://translate.google.com/#zh-cn/en/我打壁球和游泳][我打壁球和游泳]]                  |       |
-| Instead, every Friday, I go (out) to dinner       | xiāngfǎn, wǒ měi zhōuwǔ wǎnshàng qù chī wǎnfàn          | [[https://translate.google.com/#zh-cn/en/相反 我每周五晚上去吃晚饭][相反 我每周五晚上去吃晚饭]]       |       |
-| I like to go to Italian restaurants               | wǒ xǐhuān qù yìdàlì fàndiàn                             | [[https://translate.google.com/#zh-cn/en/我喜欢去意大利饭店][我喜欢去意大利饭店]]              |       |
-| I love pizza                                      | wǒ xǐhuān chī pīsà                                      | [[https://translate.google.com/#zh-cn/en/我喜欢披萨][我喜欢吃披萨]]                    |       |
-| At the weekend, I often drive to my sisters house | wǒ zhōumò de shíhòu jīngcháng, kāichē qù mèimei de jiā  | [[https://translate.google.com/#zh-cn/en/我周末的时候经常开车去妹妹的家][我周末的时候经常开车去妹妹的家]]  |       |
-| We go to the cinema together with my nephew       | wǒmen hé wǒ de wàishēngnǚ yīqǐ, qù kàn diànyǐng         | [[https://translate.google.com/#zh-cn/en/我们和我的外甥女一起去看电影][我们和我的外甥女一起去看电影]]    |       |
-| In the evening I like to read books               | wǎnshàng wǒ xǐhuān dúshū                                | [[https://translate.google.com/#zh-cn/en/晚上我喜欢读书][晚上我喜欢读书]]                  |       |
-| Sometimes I meet friends for drinks               | wǒ yǒu shíhòu, huìjiàn péngyǒu hējiǔ                    | [[https://translate.google.com/#zh-cn/en/我有时候会见朋友喝酒][我有时候会见朋友喝酒]]            |       |
+| English                                           | Pinyin                                                  | Characters                      | Notes           |
+|---------------------------------------------------+---------------------------------------------------------+---------------------------------+-----------------|
+| Before work I'm too tired to go to the gym.       | wǒ shàngbān yǐqián bù qù jiànshēnfáng, yīnwèi tài lèile | [[https://translate.google.com/#zh-cn/en/我上班前不去健身房 因为太累了][我上班以前不去健身房 因为太累了]] |                 |
+| But, After work I often go to the gym.            | bùguò xiàbān yǐhòu tōngcháng, yīzhōu qù liǎng cì.       | [[https://translate.google.com/#zh-cn/en/不过下班后通常一周两次去][不过下班以后通常一周去两次]]      | bùguò = however |
+| I play squash and I swim                          | wǒ dǎ bìqiú hé yóuyǒng                                  | [[https://translate.google.com/#zh-cn/en/我打壁球和游泳][我打壁球和游泳]]                  |                 |
+| Instead, every Friday, I go (out) to dinner       | dànshì, wǒ měi zhōuwǔ wǎnshàng qù chī wǎnfàn            | [[https://translate.google.com/#zh-cn/en/相反 我每周五晚上去吃晚饭][但是 我每周五晚上去吃晚饭]]       |                 |
+| I like to go to Italian restaurants               | wǒ xǐhuān qù yìdàlì fàndiàn                             | [[https://translate.google.com/#zh-cn/en/我喜欢去意大利饭店][我喜欢去意大利饭店]]              |                 |
+| I love pizza                                      | wǒ xǐhuān chī pīsà                                      | [[https://translate.google.com/#zh-cn/en/我喜欢披萨][我喜欢吃披萨]]                    |                 |
+| At the weekend, I often drive to my sisters house | wǒ zhōumò de shíhòu jīngcháng, kāichē qù mèimei de jiā  | [[https://translate.google.com/#zh-cn/en/我周末的时候经常开车去妹妹的家][我周末的时候经常开车去妹妹的家]]  |                 |
+| We go to the cinema together with my nephew       | wǒmen hé wǒ de wàishēngnǚ yīqǐ, qù kàn diànyǐng         | [[https://translate.google.com/#zh-cn/en/我们和我的外甥女一起去看电影][我们和我的外甥女一起去看电影]]    |                 |
+| In the evening I like to read books               | wǎnshàng wǒ xǐhuān dúshū                                | [[https://translate.google.com/#zh-cn/en/晚上我喜欢读书][晚上我喜欢读书]]                  |                 |
+| Sometimes I meet friends for drinks               | wǒ yǒu shíhòu, he péngyǒu hējiǔ                         | [[https://translate.google.com/#zh-cn/en/我有时候会见朋友喝酒][我有时候和朋友喝酒]]              |                 |
 *** Cards                                                        :noexport:
 
 **** After work                                                    :drill:
@@ -15245,6 +15245,54 @@ wǒ yǒu shíhòu huìjiàn péngyǒu hējiǔ
 
 ***** Characters
 [[https://translate.google.com/#zh-cn/en/我有时候会见朋友喝酒][我有时候会见朋友喝酒]]
+** Stuff
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                        | Pinyin | Characters   | Notes           |
+|------------------------------------------------+--------+--------------+-----------------|
+| Opposite                                       |        |              |                 |
+| But                                            |        |              |                 |
+| However                                        |        |              |                 |
+| I'm opposite you                               |        |              |                 |
+| Will meet                                      |        |              |                 |
+| Will go                                        |        |              |                 |
+| I will meet friends for a drink                |        |              |                 |
+| Will (Can/Generally/In Future)                 |        |              |                 |
+| Hot and Spicy                                  |        |              |                 |
+| Can I have it a little spicy?                  |        | 一点辣可以吗 |                 |
+| Can I have it less spicy?                      |        | 少辣可以吗   |                 |
+| Less spicy thanks                              |        | 少辣谢谢     |                 |
+| This Saturday, are you free?                   |        |              | kong=empty/free |
+| Together we play tennis?                       |        |              |                 |
+| Let's do it / Brilliant!                       |        |              |                 |
+| Very true                                      |        |              |                 |
+| What time do you want to meet?                 |        |              |                 |
+| Sometimes                                      |        |              |                 |
+| Always                                         |        |              |                 |
+| I always drink with friends on Fridays         |        |              |                 |
+| Sometimes I play computer games at home        |        |              |                 |
+| Play                                           |        |              |                 |
+| I play football                                |        |              |                 |
+| I hang out with my friends                     |        |              |                 |
+| Go and have fun in America                     |        |              |                 |
+| I don't (want) to go to America                |        |              |                 |
+| I don't go to America                          |        |              |                 |
+| Is America good fun?                           |        |              |                 |
+| Very good fun!                                 |        |              |                 |
+| Very tasty!                                    |        |              |                 |
+| Not tasty!                                     |        |              |                 |
+| I generally go to the shop to buy stuff/things |        |              |                 |
+| What stuff are you eating                      |        |              |                 |
+| In my bag there are things/stuff               |        |              |                 |
+| You have anything to eat?                      |        |              |                 |
+| You want to eat something?                     |        |              |                 |
+| I am always running in the gym                 |        |              |                 |
+| I'm always running in the gym on weekends      |        |              |                 |
+| I sometimes read in the park in mornings       |        |              |                 |
+| Read book (studiyng)                           |        |              |                 |
+| Read book (looking)                            |        |              |                 |
+| Every year I go skiing in France               |        |              |                 |
+
 * Writing Chinese
 - You can use ni3hao3
   - M-x set-input-method <input>
