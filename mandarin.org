@@ -15972,15 +15972,15 @@ wǒ měinián qù fàguó huáxuě
 :END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                           | Pinyin                                            | Characters                      | Notes                         |
-|---------------------------------------------------+---------------------------------------------------+---------------------------------+-------------------------------|
-| Last week was my sister's birthday                | shàng zhōu shì wǒ mèimei de shēngrì               | [[https://translate.google.com/#zh-cn/en/上周是我妹妹的生日][上周是我妹妹的生日]]              |                               |
-| My family went to the theatre in the evening      | wǒ de jiārén zài wǎnshàng qùle jùyuàn             | [[https://translate.google.com/#zh-cn/en/我的家人在晚上去了剧院][我的家人在晚上去了剧院]]          |                               |
-| Unfortunately, I caught a cold, so stayed at home | bùxìng de shì wǒ gǎnmàole, suǒyǐ wǒ liú zài jiālǐ | [[https://translate.google.com/#zh-cn/en/不幸的是我感冒了 所以我留在家里][不幸的是我感冒了 所以我留在家里]] | suǒyǐ = and so / jiālǐ = home |
-| I will go to the theatre next week                | wǒ xià zhōu huì qù jùyuàn                         | [[https://translate.google.com/#zh-cn/en/我下周会去剧院][我下周会去剧院]]                  |                               |
-| I bought my sister some chocolates                | wǒ gěi mèimei mǎile yī hé qiǎokèlì                | [[https://translate.google.com/#zh-cn/en/我给妹妹买了一盒巧克力][我给妹妹买了一盒巧克力]]          |                               |
-| I tried the chocolates                            | wǒ shì shì chī mèimei de qiǎokèlì                 | [[https://translate.google.com/#zh-cn/en/我试试吃妹妹的巧克力][我试试吃妹妹的巧克力]]            |                               |
-| They were very good                               | tài hào chīle                                     | [[https://translate.google.com/#zh-cn/en/太好吃了][太好吃了]]                        |                               |
+| English                                           | Pinyin                                         | Characters                    | Notes                          |
+|---------------------------------------------------+------------------------------------------------+-------------------------------+--------------------------------|
+| Last week was my sister's birthday                | shàng zhōu shì wǒ mèimei de shēngrì            | [[https://translate.google.com/#zh-cn/en/上周是我妹妹的生日][上周是我妹妹的生日]]            |                                |
+| My family went to the theatre in the evening      | wǒ de jiārén wǎnshàng qùle jùyuàn              | [[https://translate.google.com/#zh-cn/en/我的家人晚上去了剧院][我的家人晚上去了剧院]]          |                                |
+| Unfortunately, I caught a cold, so stayed at home | bùxìng de shì wǒ gǎnmàole, suǒyǐ wǒ liú zàijiā | [[https://translate.google.com/#zh-cn/en/不幸的是我感冒了 所以我留在家][不幸的是我感冒了 所以我留在家]] | suǒyǐ = and so / jiālǐ = home? |
+| I will go to the theatre next week                | wǒ xià zhōu huì qù jùyuàn                      | [[https://translate.google.com/#zh-cn/en/我下周会去剧院][我下周会去剧院]]                |                                |
+| I bought my sister some chocolates                | wǒ gěi mèimei mǎile yī hé qiǎokèlì             | [[https://translate.google.com/#zh-cn/en/我给妹妹买了一盒巧克力][我给妹妹买了一盒巧克力]]        |                                |
+| I tried the chocolates                            | wǒ shì shì mèimei de qiǎokèlì                  | [[https://translate.google.com/#zh-cn/en/我试试妹妹的巧克力][我试试妹妹的巧克力]]            |                                |
+| They were very good                               | tài hào chīle                                  | [[https://translate.google.com/#zh-cn/en/太好吃了][太好吃了]]                      |                                |
 *** Cards                                                        :noexport:
 **** Birthday                                                      :drill:
 :PROPERTIES:
