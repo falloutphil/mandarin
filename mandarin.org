@@ -15972,96 +15972,646 @@ wǒ měinián qù fàguó huáxuě
 :END:
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                           | Pinyin                                         | Characters                    | Notes                          |
-|---------------------------------------------------+------------------------------------------------+-------------------------------+--------------------------------|
-| Last week was my sister's birthday                | shàng zhōu shì wǒ mèimei de shēngrì            | [[https://translate.google.com/#zh-cn/en/上周是我妹妹的生日][上周是我妹妹的生日]]            |                                |
-| My family went to the theatre in the evening      | wǒ de jiārén wǎnshàng qùle jùyuàn              | [[https://translate.google.com/#zh-cn/en/我的家人晚上去了剧院][我的家人晚上去了剧院]]          |                                |
-| Unfortunately, I caught a cold, so stayed at home | bùxìng de shì wǒ gǎnmàole, suǒyǐ wǒ liú zàijiā | [[https://translate.google.com/#zh-cn/en/不幸的是我感冒了 所以我留在家][不幸的是我感冒了 所以我留在家]] | suǒyǐ = and so / jiālǐ = home? |
-| I will go to the theatre next week                | wǒ xià zhōu huì qù jùyuàn                      | [[https://translate.google.com/#zh-cn/en/我下周会去剧院][我下周会去剧院]]                |                                |
-| I bought my sister some chocolates                | wǒ gěi mèimei mǎile yī hé qiǎokèlì             | [[https://translate.google.com/#zh-cn/en/我给妹妹买了一盒巧克力][我给妹妹买了一盒巧克力]]        |                                |
-| I tried the chocolates                            | wǒ shì shì mèimei de qiǎokèlì                  | [[https://translate.google.com/#zh-cn/en/我试试妹妹的巧克力][我试试妹妹的巧克力]]            |                                |
-| They were very good                               | tài hào chīle                                  | [[https://translate.google.com/#zh-cn/en/太好吃了][太好吃了]]                      |                                |
+| English                                                  | Pinyin                                  | Characters                | Notes                     |
+|----------------------------------------------------------+-----------------------------------------+---------------------------+---------------------------|
+| Last week was my sister's birthday                       | shàng zhōu shì wǒ mèimei de shēngrì     | [[https://translate.google.com/#zh-cn/en/上周是我妹妹的生日][上周是我妹妹的生日]]        |                           |
+| My family went to the theatre in the evening             | wǒ de jiārén wǎnshàng qùle jùyuàn       | [[https://translate.google.com/#zh-cn/en/我的家人晚上去了剧院][我的家人晚上去了剧院]]      |                           |
+| Unfortunately [fn:4], I caught a cold, so stayed at home | dànshì wǒ gǎnmàole, suǒyǐ wǒ liú zàijiā | [[https://translate.google.com/#zh-cn/en/但是我感冒了 所以我留在家][但是我感冒了 所以我留在家]] | suǒyǐ = and so            |
+| I will go to the theatre next week                       | wǒ xià zhōu huì qù jùyuàn               | [[https://translate.google.com/#zh-cn/en/我下周会去剧院][我下周会去剧院]]            |                           |
+| I bought my Birthdaysister some chocolates               | wǒ gěi mèimei mǎile yī hé qiǎokèlì      | [[https://translate.google.com/#zh-cn/en/我给妹妹买了一盒巧克力][我给妹妹买了一盒巧克力]]    |                           |
+| I tried the chocolates                                   | wǒ cháng le cháng mèimei de qiǎokèlì    | [[https://translate.google.com/#zh-cn/en/我尝了尝妹妹的巧克力][我尝了尝妹妹的巧克力]]      | Like wǒ shì le shì - past |
+| Translate the following word(s)                          | tài hào chīle                           | [[https://translate.google.com/#zh-cn/en/太好吃了][太好吃了]]                  |                           |
+|                                                          |                                         |                           |                           |
+
+[fn:4] Unfortunately (bùxìng de shì) is only used in Chinese for serious situations (break a leg or similar).  Using "but" (dànshì) is more usual.
+
 *** Cards                                                        :noexport:
+
 **** Birthday                                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
+
 ***** English
 Last week was my sister's birthday
+
 ***** Pinyin
 shàng zhōu shì wǒ mèimei de shēngrì
+
 ***** Characters
 [[https://translate.google.com/#zh-cn/en/上周是我妹妹的生日][上周是我妹妹的生日]]
+
 **** Birthday                                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
+
 ***** English
 My family went to the theatre in the evening
+
 ***** Pinyin
-wǒ de jiārén zài wǎnshàng qùle jùyuàn
+wǒ de jiārén wǎnshàng qùle jùyuàn
+
 ***** Characters
-[[https://translate.google.com/#zh-cn/en/我的家人在晚上去了剧院][我的家人在晚上去了剧院]]
+[[https://translate.google.com/#zh-cn/en/我的家人晚上去了剧院][我的家人晚上去了剧院]]
+
 **** Birthday                                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
+
 ***** English
-Unfortunately, I caught a cold, so stayed at home
+Unfortunately [fn:4], I caught a cold, so stayed at home
+
 ***** Pinyin
-bùxìng de shì wǒ gǎnmàole, suǒyǐ wǒ liú zài jiālǐ
+dànshì wǒ gǎnmàole, suǒyǐ wǒ liú zàijiā
+
 ***** Characters
-[[https://translate.google.com/#zh-cn/en/不幸的是我感冒了 所以我留在家里][不幸的是我感冒了 所以我留在家里]]
+[[https://translate.google.com/#zh-cn/en/但是我感冒了 所以我留在家][但是我感冒了 所以我留在家]]
+
 ***** Notes
-suǒyǐ = and so / jiālǐ = home
+suǒyǐ = and so
+
 **** Birthday                                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
+
 ***** English
 I will go to the theatre next week
+
 ***** Pinyin
 wǒ xià zhōu huì qù jùyuàn
+
 ***** Characters
 [[https://translate.google.com/#zh-cn/en/我下周会去剧院][我下周会去剧院]]
+
 **** Birthday                                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
+
 ***** English
 I bought my sister some chocolates
+
 ***** Pinyin
 wǒ gěi mèimei mǎile yī hé qiǎokèlì
+
 ***** Characters
 [[https://translate.google.com/#zh-cn/en/我给妹妹买了一盒巧克力][我给妹妹买了一盒巧克力]]
+
 **** Birthday                                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
+
 ***** English
 I tried the chocolates
+
 ***** Pinyin
-wǒ shì shì chī mèimei de qiǎokèlì
+wǒ cháng le cháng mèimei de qiǎokèlì
+
 ***** Characters
-[[https://translate.google.com/#zh-cn/en/我试试吃妹妹的巧克力][我试试吃妹妹的巧克力]]
+[[https://translate.google.com/#zh-cn/en/我尝了尝妹妹的巧克力][我尝了尝妹妹的巧克力]]
+
+***** Notes
+Like wǒ shì le shì - past
+
 **** Birthday                                                      :drill:
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
 :END:
 Translate the following word(s)
+
 ***** English
 They were very good
+
 ***** Pinyin
 tài hào chīle
+
 ***** Characters
 [[https://translate.google.com/#zh-cn/en/太好吃了][太好吃了]]
+** qù and chū - wǒ chū qù wán
 
+Remember qù is pronounced something like t'chu, but the "ch" is week, almost like French tu, or firing a laser :-)
+Conversely chū is closer to English "ch" and ends with the "U" in Uber.
+
+* Weather
+** Basic Weather and Comparisons
+:PROPERTIES:
+:DRILL_HEADING: Basic Weather and Comparisons
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word(s)
+:END:
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                           | Pinyin                                   | Characters              | Notes                                        |
+|---------------------------------------------------+------------------------------------------+-------------------------+----------------------------------------------|
+| Weather                                           | tiān qì                                  | [[https://translate.google.com/#zh-cn/en/天气][天气]]                    | Sky Air                                      |
+| Too Cold!                                         | tài lěng le                              | [[https://translate.google.com/#zh-cn/en/太冷了][太冷了]]                  | le is not past                               |
+| Sunny                                             | qíng tiān                                | [[https://translate.google.com/#zh-cn/en/晴天][晴天]]                    | LHS is Sun. Day/Sky.                         |
+| Grey                                              | yīn tiān                                 | [[https://translate.google.com/#zh-cn/en/阴天][阴天]]                    | RHS is Moon. Grey as in cloudy               |
+| Cloudy                                            | duō yūn                                  | [[https://translate.google.com/#zh-cn/en/多云][多云]]                    | Much Cloud                                   |
+| White Cloud                                       | bái yún                                  | [[https://translate.google.com/#zh-cn/en/白云][白云]]                    | Not bad weather - good cloud!                |
+| Raining                                           | xià yǔ                                   | [[https://translate.google.com/#zh-cn/en/下雨][下雨]]                    | Coming-down Rain                             |
+| Snowing                                           | xià xuě                                  | [[https://translate.google.com/#zh-cn/en/下雪][下雪]]                    | Coming-down Snow                             |
+| Get off vehicle                                   | xià chē                                  | [[https://translate.google.com/#zh-cn/en/下车][下车]]                    | Coming-down vehicle                          |
+| I want to get off at Newcastle                    | wǒ yào zài niǔkǎ xià chē                 | [[https://translate.google.com/#zh-cn/en/我要在纽卡下车][我要在纽卡下车]]          |                                              |
+| Help                                              | bāng zhù                                 | [[https://translate.google.com/#zh-cn/en/帮助][帮助]]                    |                                              |
+| Can you help me?                                  | nǐ kěyǐ bāngzhù wǒ ma                    | [[https://translate.google.com/#zh-cn/en/你可以帮助我吗][你可以帮助我吗]]          |                                              |
+| Windy                                             | guā fēng                                 | [[https://translate.google.com/#zh-cn/en/刮风][刮风]]                    | blow/woft wind [fn:5]                        |
+| I can hear the wind                               | wǒ kěyǐ tīng dào guāfēng                 | [[https://translate.google.com/#zh-cn/en/我可以听到刮风][我可以听到刮风]]          | tīngdào is hear                              |
+| Here is snowing                                   | zài xià xuě                              | [[https://translate.google.com/#zh-cn/en/在下雪][在下雪]]                  |                                              |
+| Travel                                            | lǚ yóu                                   | [[https://translate.google.com/#zh-cn/en/旅游][旅游]]                    | Travel Wandering. Tourism. Same as yóuyǒng!  |
+| Nice view / Good Look                             | hǎo kàn jí le                            | [[https://translate.google.com/#zh-cn/en/好看极了][好看极了]]                | Good Look Extremly. Can be used for anything |
+| (music) Sounds good!                              | hěn hǎo tīng                             | [[https://translate.google.com/#zh-cn/en/很好听][很好听]]                  |                                              |
+| Temperature                                       | wēn dù                                   | [[https://translate.google.com/#zh-cn/en/温度][温度]]                    | Warm Degree                                  |
+| Today is too hot                                  | jīntiān tài rè le                        | [[https://translate.google.com/#zh-cn/en/今天太热了][今天太热了]]              |                                              |
+| What is the temperature today?                    | jīntiān wēndù shì duōshǎo                | [[https://translate.google.com/#zh-cn/en/今天温度是多少][今天温度是多少]]          |                                              |
+| 20 degrees C                                      | èrshí dù                                 | [[https://translate.google.com/#zh-cn/en/二十度][二十度]]                  |                                              |
+| Below zero / Freezing                             | líng xià                                 | [[https://translate.google.com/#zh-cn/en/零下][零下]]                    | Zero Below                                   |
+| -10 degrees C                                     | fù shí dù                                | [[https://translate.google.com/#zh-cn/en/负十度][负十度]]                  | líng xià shí dù is more usual?               |
+| +10 degrees C                                     | zhèng shí dù                             | [[https://translate.google.com/#zh-cn/en/正十度][正十度]]                  | emphasising positive                         |
+| I heard last week you went travelling             | (wǒ) tīngdào shàng gè xīngqí nǐ qù lǚyóu | [[https://translate.google.com/#zh-cn/en/听到上个星期你去旅游][听到上个星期你去旅游]]    |                                              |
+| Correct I went to China for fun                   | duì, wǒ qù zhōngguó wánle                | [[https://translate.google.com/#zh-cn/en/对 我去中国玩了][对 我去中国玩了]]         |                                              |
+| Is it fun there?                                  | Translate the following word(s)          | [[https://translate.google.com/#zh-cn/en/那里好玩吗][那里好玩吗]]              | There good play?                             |
+| Extermely good fun, but the weather was very cold | hǎowán jí le, kěshì tiānqì tài lěng le   | [[https://translate.google.com/#zh-cn/en/好玩极了 可是天气太冷了][好玩极了 可是天气太冷了]] | kěshì=but                                    |
+| What was the temperature there?                   | nàlǐ de wēndù shì duōshǎo                | [[https://translate.google.com/#zh-cn/en/那里的温度是多少][那里的温度是多少]]        | Temperature of there is how much             |
+| Between 10 and 20 below zero                      | língxià shí jǐ dù                        | [[https://translate.google.com/#zh-cn/en/零下十几度][零下十几度]]              | shíjǐ means "1?"                             |
+| Compared to London it's colder                    | bǐ lúndūn lěng duō le                    | [[https://translate.google.com/#zh-cn/en/比伦敦冷多了][比伦敦冷多了]]            | duōle adds emphasis                          |
+| I have more apples than you                       | wǒ de píngguǒ bǐ nǐ de píngguǒ duō       | [[https://translate.google.com/#zh-cn/en/我的苹果比你的苹果多][我的苹果比你的苹果多]]    | My apples compared to your apples more       |
+| I am taller than you                              | wǒ bǐ nǐ gāo                             | [[https://translate.google.com/#zh-cn/en/我比你高][我比你高]]                | gāo=taller                                   |
+| Beijing is colder than London                     | běijīng bǐ lúndūn lěng                   | [[https://translate.google.com/#zh-cn/en/北京比伦敦冷][北京比伦敦冷]]            | Beijing compared to London cold              |
+| Beijing is much colder than London                | běijīng bǐ lúndūn lěng duōle             | [[https://translate.google.com/#zh-cn/en/北京比伦敦冷多了][北京比伦敦冷多了]]        | Use of duōle                                 |
+| Beijing is a little colder than London            | běijīng bǐ lúndūn lěng yīdiǎn            | [[https://translate.google.com/#zh-cn/en/北京比伦敦冷一点][北京比伦敦冷一点]]        |                                              |
+
+[fn:5] guā is more like a resistance than only blowing or wofting, so scratching is also described as guā
+*** Cards                                                        :noexport:
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Weather
+***** Pinyin
+tiān qì
+***** Characters
+[[https://translate.google.com/#zh-cn/en/天气][天气]]
+***** Notes
+Sky Air
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Too Cold!
+***** Pinyin
+tài lěng le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/太冷了][太冷了]]
+***** Notes
+le is not past
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Sunny
+***** Pinyin
+qíng tiān
+***** Characters
+[[https://translate.google.com/#zh-cn/en/晴天][晴天]]
+***** Notes
+LHS is Sun. Day/Sky.
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Grey
+***** Pinyin
+yīn tiān
+***** Characters
+[[https://translate.google.com/#zh-cn/en/阴天][阴天]]
+***** Notes
+RHS is Moon. Grey as in cloudy
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Cloudy
+***** Pinyin
+duō yūn
+***** Characters
+[[https://translate.google.com/#zh-cn/en/多云][多云]]
+***** Notes
+Much Cloud
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+White Cloud
+***** Pinyin
+bái yún
+***** Characters
+[[https://translate.google.com/#zh-cn/en/白云][白云]]
+***** Notes
+Not bad weather - good cloud!
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Raining
+***** Pinyin
+xià yǔ
+***** Characters
+[[https://translate.google.com/#zh-cn/en/下雨][下雨]]
+***** Notes
+Coming-down Rain
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Snowing
+***** Pinyin
+xià xuě
+***** Characters
+[[https://translate.google.com/#zh-cn/en/下雪][下雪]]
+***** Notes
+Coming-down Snow
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Get off vehicle
+***** Pinyin
+xià chē
+***** Characters
+[[https://translate.google.com/#zh-cn/en/下车][下车]]
+***** Notes
+Coming-down vehicle
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I want to get off at Newcastle
+***** Pinyin
+wǒ yào zài niǔkǎ xià chē
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我要在纽卡下车][我要在纽卡下车]]
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Help
+***** Pinyin
+bāng zhù
+***** Characters
+[[https://translate.google.com/#zh-cn/en/帮助][帮助]]
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Can you help me?
+***** Pinyin
+nǐ kěyǐ bāngzhù wǒ ma
+***** Characters
+[[https://translate.google.com/#zh-cn/en/你可以帮助我吗][你可以帮助我吗]]
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Windy
+***** Pinyin
+guā fēng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/刮风][刮风]]
+***** Notes
+blow/woft wind [fn:5]
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I can hear the wind
+***** Pinyin
+wǒ kěyǐ tīng dào guāfēng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我可以听到刮风][我可以听到刮风]]
+***** Notes
+tīngdào is hear
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Here is snowing
+***** Pinyin
+zài xià xuě
+***** Characters
+[[https://translate.google.com/#zh-cn/en/在下雪][在下雪]]
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Travel
+***** Pinyin
+lǚ yóu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/旅游][旅游]]
+***** Notes
+Travel Wandering. Tourism. Same as yóuyǒng!
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Nice view / Good Look
+***** Pinyin
+hǎo kàn jí le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/好看极了][好看极了]]
+***** Notes
+Good Look Extremly. Can be used for anything
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+(music) Sounds good!
+***** Pinyin
+hěn hǎo tīng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/很好听][很好听]]
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Temperature
+***** Pinyin
+wēn dù
+***** Characters
+[[https://translate.google.com/#zh-cn/en/温度][温度]]
+***** Notes
+Warm Degree
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Today is too hot
+***** Pinyin
+jīntiān tài rè le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/今天太热了][今天太热了]]
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+What is the temperature today?
+***** Pinyin
+jīntiān wēndù shì duōshǎo
+***** Characters
+[[https://translate.google.com/#zh-cn/en/今天温度是多少][今天温度是多少]]
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+20 degrees C
+***** Pinyin
+èrshí dù
+***** Characters
+[[https://translate.google.com/#zh-cn/en/二十度][二十度]]
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Below zero / Freezing
+***** Pinyin
+líng xià
+***** Characters
+[[https://translate.google.com/#zh-cn/en/零下][零下]]
+***** Notes
+Zero Below
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+-10 degrees C
+***** Pinyin
+fù shí dù
+***** Characters
+[[https://translate.google.com/#zh-cn/en/负十度][负十度]]
+***** Notes
+líng xià shí dù is more usual?
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
++10 degrees C
+***** Pinyin
+zhèng shí dù
+***** Characters
+[[https://translate.google.com/#zh-cn/en/正十度][正十度]]
+***** Notes
+emphasising positive
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I heard last week you went travelling
+***** Pinyin
+(wǒ) tīngdào shàng gè xīngqí nǐ qù lǚyóu
+***** Characters
+[[https://translate.google.com/#zh-cn/en/听到上个星期你去旅游][听到上个星期你去旅游]]
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Correct I went to China for fun
+***** Pinyin
+duì, wǒ qù zhōngguó wánle
+***** Characters
+[[https://translate.google.com/#zh-cn/en/对 我去中国玩了][对 我去中国玩了]]
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Is it fun there?
+***** Pinyin
+nàlǐ hǎowán ma
+***** Characters
+[[https://translate.google.com/#zh-cn/en/那里好玩吗][那里好玩吗]]
+***** Notes
+There good play?
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Extermely good fun, but the weather was very cold
+***** Pinyin
+hǎowán jí le, kěshì tiānqì tài lěng le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/好玩极了 可是天气太冷了][好玩极了 可是天气太冷了]]
+***** Notes
+kěshì=but
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+What was the temperature there?
+***** Pinyin
+nàlǐ de wēndù shì duōshǎo
+***** Characters
+[[https://translate.google.com/#zh-cn/en/那里的温度是多少][那里的温度是多少]]
+***** Notes
+Temperature of there is how much
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Between 10 and 20 below zero
+***** Pinyin
+língxià shí jǐ dù
+***** Characters
+[[https://translate.google.com/#zh-cn/en/零下十几度][零下十几度]]
+***** Notes
+shíjǐ means "1?"
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Compared to London it's colder
+***** Pinyin
+bǐ lúndūn lěng duō le
+***** Characters
+[[https://translate.google.com/#zh-cn/en/比伦敦冷多了][比伦敦冷多了]]
+***** Notes
+duōle adds emphasis
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I have more apples than you
+***** Pinyin
+wǒ de píngguǒ bǐ nǐ de píngguǒ duō
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我的苹果比你的苹果多][我的苹果比你的苹果多]]
+***** Notes
+My apples compared to your apples more
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+I am taller than you
+***** Pinyin
+wǒ bǐ nǐ gāo
+***** Characters
+[[https://translate.google.com/#zh-cn/en/我比你高][我比你高]]
+***** Notes
+gāo=taller
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Beijing is colder than London
+***** Pinyin
+běijīng bǐ lúndūn lěng
+***** Characters
+[[https://translate.google.com/#zh-cn/en/北京比伦敦冷][北京比伦敦冷]]
+***** Notes
+Beijing compared to London cold
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Beijing is much colder than London
+***** Pinyin
+běijīng bǐ lúndūn lěng duōle
+***** Characters
+[[https://translate.google.com/#zh-cn/en/北京比伦敦冷多了][北京比伦敦冷多了]]
+***** Notes
+Use of duōle
+**** Basic Weather and Comparisons                                 :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word(s)
+***** English
+Beijing is a little colder than London
+***** Pinyin
+běijīng bǐ lúndūn lěng yīdiǎn
+***** Characters
+[[https://translate.google.com/#zh-cn/en/北京比伦敦冷一点][北京比伦敦冷一点]]
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
