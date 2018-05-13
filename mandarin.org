@@ -16612,6 +16612,21 @@ Beijing is a little colder than London
 běijīng bǐ lúndūn lěng yīdiǎn
 ***** Characters
 [[https://translate.google.com/#zh-cn/en/北京比伦敦冷一点][北京比伦敦冷一点]]
+** Weather Last Weekend
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                        | Pinyin                                | Characters           | Notes |
+|------------------------------------------------+---------------------------------------+----------------------+-------|
+| Last weekend I went travelling to Greece       | wǒ shàng gè zhōumò wǒ qùle xīlà       | 我上个周末我去了希腊 |       |
+| On Saturday it was too hot                     | xīngqí liù le tài rèle                | 星期六了太热了       |       |
+| In the afternoon, I went to the beach and swam | wǒ xiàwǔ qùle hǎitān hé yóuyǒng       | 我下午去了海滩和游泳 |       |
+| In May, the sea is very cold!                  | zài wǔ yuè hǎi hěn lěng               | 在五月海很冷         |       |
+| But, on Sunday it was grey and raining         | dànshì xīngqí tiān yīn tiān hé xià yǔ | 但是星期天阴天和下雨 |       |
+| Compared to London it was less hot!            | bǐ lúndūn rè shǎo le                  | 比伦敦热少了         |       |
+| Normally Greece is sunnier than London         | tōngcháng xīlà bǐ lúndūn rè duō le    | 通常希腊比伦敦热多了 |       |
+| Today, I return to London                      | wǒ jīntiān huílái qù lúndūn           | 我今天回来去伦敦     |       |
+| And London is colder than Greece!              | xiànzài lúndūn bǐ xīlà lěng           | 现在伦敦比希腊冷     |       |
+
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
