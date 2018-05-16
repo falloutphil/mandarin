@@ -16703,7 +16703,7 @@ běijīng bǐ lúndūn lěng yīdiǎn
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                                        | Pinyin                                | Characters           | Notes |
 |------------------------------------------------+---------------------------------------+----------------------+-------|
-| Last weekend I went travelling to Greece       | wǒ shàng gè zhōumò wǒ qùle xīlà       | 我上个周末我去了希腊 |       |
+| Last weekend I went travelling to Greece       | wǒ shàng gè zhōumò qùle xīlà          | 我上个周末去了希腊  |       |
 | On Saturday it was too hot                     | xīngqí liù le tài rèle                | 星期六了太热了       |       |
 | In the afternoon, I went to the beach and swam | wǒ xiàwǔ qùle hǎitān hé yóuyǒng       | 我下午去了海滩和游泳 |       |
 | In May, the sea is very cold!                  | zài wǔ yuè hǎi hěn lěng               | 在五月海很冷         |       |
