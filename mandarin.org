@@ -16701,17 +16701,88 @@ běijīng bǐ lúndūn lěng yīdiǎn
 ** Weather Last Weekend
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                        | Pinyin                                | Characters           | Notes |
-|------------------------------------------------+---------------------------------------+----------------------+-------|
-| Last weekend I went travelling to Greece       | wǒ shàng gè zhōumò qùle xīlà          | 我上个周末去了希腊  |       |
-| On Saturday it was too hot                     | xīngqí liù le tài rèle                | 星期六了太热了       |       |
-| In the afternoon, I went to the beach and swam | wǒ xiàwǔ qùle hǎitān hé yóuyǒng       | 我下午去了海滩和游泳 |       |
-| In May, the sea is very cold!                  | zài wǔ yuè hǎi hěn lěng               | 在五月海很冷         |       |
-| But, on Sunday it was grey and raining         | dànshì xīngqí tiān yīn tiān hé xià yǔ | 但是星期天阴天和下雨 |       |
-| Compared to London it was less hot!            | bǐ lúndūn rè shǎo le                  | 比伦敦热少了         |       |
-| Normally Greece is sunnier than London         | tōngcháng xīlà bǐ lúndūn rè duō le    | 通常希腊比伦敦热多了 |       |
-| Today, I return to London                      | wǒ jīntiān huílái qù lúndūn           | 我今天回来去伦敦     |       |
-| And London is colder than Greece!              | xiànzài lúndūn bǐ xīlà lěng           | 现在伦敦比希腊冷     |       |
+| English                                         | Pinyin                                      | Characters                 | Notes                                          |
+|-------------------------------------------------+---------------------------------------------+----------------------------+------------------------------------------------|
+| Last weekend I went travelling to Greece        | wǒ shàng gè zhōumò qùle xīlà                | 我上个周末去了希腊         |                                                |
+| On Saturday it was too hot                      | xīngqí liù le tài rèle                      | 星期六了太热了             |                                                |
+| In the afternoon, I went to the beach and swam  | wǒ xiàwǔ qùle hǎitān ránhòu qù yóuyǒng (le) | 我下午去了海滩然后去游泳了 | and then I go swimming - ránhòu, not hé [fn:6] |
+| In May, the sea is very cold!                   | zài wǔ yuè hǎi hěn lěng                     | 在五月海很冷               |                                                |
+| But, on Sunday it was grey and raining          | dànshì xīngqí tiān yīn tiān hé xià yǔ       | 但是星期天阴天和下雨       |                                                |
+| Compared to London it was less hot (more cold)! | bǐ lúndūn lěng duō le                       | 比伦敦冷多了               | You never say rè shǎo, always lěng duō [fn:7]  |
+| Normally Greece is sunnier than London          | tōngcháng xīlà bǐ lúndūn rè duō le          | 通常希腊比伦敦热多了       |                                                |
+| Today, I return to London                       | wǒ jīntiān huílái qù lúndūn                 | 我今天回来去伦敦           |                                                |
+| And London is colder than Greece!               | xiànzài lúndūn bǐ xīlà lěng                 | 现在伦敦比希腊冷           |                                                |
+
+[fn:6] NOT wǒ xiàwǔ qùle hǎitān hé yóuyǒng - the qù assoicates only with hǎitān.  In the second qù is more of a connecting word than verb.
+[fn:7] NOT bǐ lúndūn rè shǎo le - is like saying London is hotter, and then changing your mind and saying, less so.  It doesn't make sense!
+
+** Pronounciation Points
+
+yíkè - remember kè is pronounced "ku-eh", there is no "r" sound.
+wǎnshàng - remember it's wan not won
+qián - remember it's not "ch" nor is it "t" (think laser!)
+xīlà - see-la
+lúndūn - loondun?
+
+** More Weather
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                              | Pinyin                              | Characters           | Notes                                           |
+|------------------------------------------------------+-------------------------------------+----------------------+-------------------------------------------------|
+| Chinatown                                            | zhōngguó chéng                      | 中国城               | China City                                      |
+| Cold                                                 | hěn lěng                            | 很冷                 | (Very) Cold                                     |
+| Too cold                                             | tài lěng le                         | 太冷了               |                                                 |
+| Extremely cold                                       | lěng jí le                          | 冷极了               |                                                 |
+| Today is hotter than yesterday                       | jīntiān bǐ zuótiān rè               | 今天比昨天热         | Today compared to yesteday hotter               |
+| Spring                                               | chūn tiān                           | 春天                 | Spring Day                                      |
+| Summer                                               | xià tiān                            | 夏天                 | Summer Day                                      |
+| Autumn                                               | qiū tiān                            | 秋天                 | Autumn Day                                      |
+| Winter                                               | dōng tiān                           | 冬天                 | Winter Day                                      |
+| Warm/Pleasant                                        | nuǎn huo                            | 暖和                 | rè implies it's a bit too hot                   |
+| Fast                                                 | kuài                                | 快                   |                                                 |
+| Slow                                                 | màn                                 | 慢                   |                                                 |
+| Weather Forecast                                     | tiānqì yù bào                       | 天气预报             | Weather Pre Report (bào like bàozhǐ)            |
+| Umbrella                                             | yǔ sǎn                              | 雨伞                 | Rain Umbrella                                   |
+| Sun Umbrella                                         | tàiyáng sǎn                         | 太阳伞               | Sun Umbrella                                    |
+| Will it rain today?                                  | jīntiān huì xià yǔ ma               | 今天会下雨吗         | huì is will                                     |
+| The weather forecast says today it will rain heavily | tiānqì yùbào shuō jīntiān yǒu dà yǔ | 天气预报说今天有大雨 |                                                 |
+| The newspaper says ....                              | bàozhǐ shuō ...                     | 报纸说 ...           |                                                 |
+| Is it?  I haven't brought (an) umbrella              | shì ma. Wǒ méi dài yǔsǎn            | 是吗 我没带雨伞      | dài=take/bring                                  |
+| I ate lunch / I had lunch                            | wǒ chīle wǔfàn                      | 我吃了午饭           | le for past tense                               |
+| I didn't eat lunch                                   | wǒ méi chī wǔfàn                    | 我没吃午饭           | No le when -ve past tense                       |
+| I don't eat lunch                                    | wǒ bù chī wǔfàn                     | 我不吃午饭           | You don't eat lunch as a rule                   |
+| I have two (umbrellas), give you one                 | wǒ yǒu liǎng bǎ, gěi nǐ yī bǎ       | 我有两把 给你一把    | bǎ is counter for things in hand (knife) [fn:8] |
+| Very good, thank-you                                 | tài hǎole xièxiè                    | 太好了谢谢           |                                                 |
+| Today will be windy                                  | jīntiān huì guā fēng                | 今天会刮风           |                                                 |
+| Sun                                                  | tài yáng                            | 太阳                 |                                                 |
+| Tommorrow will be sunny                              | míngtiān huì yǒu tàiyáng            | 明天会有太阳         | Tomorrow will have sun                          |
+| Tomorrow the sun will be out                         | míngtiān huì chū tàiyáng            | 明天会出太阳         | Implies the sun is not out today. chū=out       |
+
+[fn:8] Two "ba"s, the measure has a hand on it's LHS - 把, the gentle suggestion comes from the mouth on it's LHS  吧
+
+* More on Houses
+** Rooms
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                             | Pinyin                    | Characters     | Notes                                       |
+|-------------------------------------+---------------------------+----------------+---------------------------------------------|
+| Living Room                         | kè tīng                   | 客厅           | Guest Hall                                  |
+| Bedroom                             | wò shì                    | 卧室           | Lie-Down Room                               |
+| Toilet (Sanitation Room)            | wèishēng jiān             | 卫生间         | Sanitation Room                             |
+| Not clean                           | bù wèishēng               | 不卫生         | eg dropped food                             |
+| Toilet (Toilet)                     | cè suǒ                    | 厕所           | Less gentle                                 |
+| Toilet (Washroom)                   | xǐ shǒu jiān              | 洗手间         | Wash hand room (xǐ as in shower)            |
+| Kitchen                             | chú fáng                  | 厨房           | Cook Room                                   |
+| Study / Office                      | shū fáng                  | 书房           | Book Room/Library                           |
+| House                               | fáng zi                   | 房子           |                                             |
+| Room (house within house)           | fáng                      | 房             | Jiànshēnfáng - healthy body room            |
+| Large entertainment areas for hotel | dà tīng                   | 大厅           | Hall                                        |
+| Hotel Reception                     | qián tái                  | 前台           | Front Desk/Platform                         |
+| Room (middle size)                  | shì                       | 室             | House/Company/Classroom                     |
+| Room (smaller size)                 | jiān                      | 间             |                                             |
+| Hotel Bedroom                       | fáng jiān                 | 房间           | Combine house and small room = middle sized |
+| Number                              | hào                       | 号             | Like Date                                   |
+| What is my room number?             | wǒ de fángjiān shì jǐ hào | 我的房间是几号 |                                             |
 
 * Publishing
 - To publish to the web C-c C-e P p
