@@ -16784,6 +16784,26 @@ lúndūn - loondun?
 | Number                              | hào                       | 号             | Like Date                                   |
 | What is my room number?             | wǒ de fángjiān shì jǐ hào | 我的房间是几号 |                                             |
 
+** Going to China
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                  | Pinyin                                     | Characters               | Notes |
+|------------------------------------------+--------------------------------------------+--------------------------+-------|
+| Next week I go to china for holiday      | wǒ xià gè zhōu huì qù zhōngguó lǚyóu       | 我下个周会去中国旅游     |       |
+| First I fly to Urumqi                    | shǒuxiān wǒ huì fēi wǎng wūlǔmùqí jīchǎng  | 首先我会飞往乌鲁木齐机场 |       |
+| Then I take the train To Turfan          | dì èr tiān wǒ huì zuò huǒchē qù tǔlǔfān    | 第二天我会坐火车去吐鲁番 |       |
+| It's not far, about 1 hour               | bù yuǎn, yī xiǎoshí zuǒyòu                 | 不远 一小时左右          |       |
+| From Turfan I go to Dunhuang             | cóng tǔlǔfān wǒ qù dūnhuáng                | 从吐鲁番我去敦煌         |       |
+| I will see the Mo Gao caves there        | wǒ huì kàn dào mò gāo kū                   | 我会看到莫高窟           |       |
+| This month Dunhuang is very hot          | zhège yuè zài dūnhuáng tiānqì hěn rè.      | 这个月在敦煌天气很热     |       |
+| In summer it is extremely hot!           | xiàtiān rè jíle                            | 夏天热极了               |       |
+| Then I go to Zhangje National Geopark    | ránhòu wǒ qù zhāngyē guójiā dìzhí gōngyuán | 然后我去张掖国家地质公园 |       |
+| (It takes) 8 hours by train.  Long time! | zuò huǒchē bā xiǎoshí. Cháng shíjiān!      | 坐火车八小时. 长时间!    |       |
+| Then I will drive to Xiahe               | ránhòu wǒ huì kāichē qù xiàhé              | 然后我会开车去夏河       |       |
+| Xiahe has a beautiful monastery          | zài xiàhé yǒu yīzuò měilì de xiūdàoyuàn    | 在夏河有一座美丽的修道院 |       |
+| Finally I travel to Xi'an                | zuìhòu wǒ huì lǚyóu qù xī'ān               | 最后我会旅游去西安       |       |
+| When I return home I will be so tired    | dāng wǒ huí jiā, wǒ huì tài lèi le         | 当我回家我会太累了       |       |
+
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
