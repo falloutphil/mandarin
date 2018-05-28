@@ -16784,25 +16784,97 @@ lúndūn - loondun?
 | Number                              | hào                       | 号             | Like Date                                   |
 | What is my room number?             | wǒ de fángjiān shì jǐ hào | 我的房间是几号 |                                             |
 
+* Travelling to China
 ** Going to China
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                  | Pinyin                                     | Characters               | Notes |
-|------------------------------------------+--------------------------------------------+--------------------------+-------|
-| Next week I go to china for holiday      | wǒ xià gè zhōu huì qù zhōngguó lǚyóu       | 我下个周会去中国旅游     |       |
-| First I fly to Urumqi                    | shǒuxiān wǒ huì fēi wǎng wūlǔmùqí jīchǎng  | 首先我会飞往乌鲁木齐机场 |       |
-| Then I take the train To Turfan          | dì èr tiān wǒ huì zuò huǒchē qù tǔlǔfān    | 第二天我会坐火车去吐鲁番 |       |
-| It's not far, about 1 hour               | bù yuǎn, yī xiǎoshí zuǒyòu                 | 不远 一小时左右          |       |
-| From Turfan I go to Dunhuang             | cóng tǔlǔfān wǒ qù dūnhuáng                | 从吐鲁番我去敦煌         |       |
-| I will see the Mo Gao caves there        | wǒ huì kàn dào mò gāo kū                   | 我会看到莫高窟           |       |
-| This month Dunhuang is very hot          | zhège yuè zài dūnhuáng tiānqì hěn rè.      | 这个月在敦煌天气很热     |       |
-| In summer it is extremely hot!           | xiàtiān rè jíle                            | 夏天热极了               |       |
-| Then I go to Zhangje National Geopark    | ránhòu wǒ qù zhāngyē guójiā dìzhí gōngyuán | 然后我去张掖国家地质公园 |       |
-| (It takes) 8 hours by train.  Long time! | zuò huǒchē bā xiǎoshí. Cháng shíjiān!      | 坐火车八小时. 长时间!    |       |
-| Then I will drive to Xiahe               | ránhòu wǒ huì kāichē qù xiàhé              | 然后我会开车去夏河       |       |
-| Xiahe has a beautiful monastery          | zài xiàhé yǒu yīzuò měilì de xiūdàoyuàn    | 在夏河有一座美丽的修道院 |       |
-| Finally I travel to Xi'an                | zuìhòu wǒ huì lǚyóu qù xī'ān               | 最后我会旅游去西安       |       |
-| When I return home I will be so tired    | dāng wǒ huí jiā, wǒ huì tài lèi le         | 当我回家我会太累了       |       |
+| English                                  | Pinyin                                        | Characters                | Notes                                                |
+|------------------------------------------+-----------------------------------------------+---------------------------+------------------------------------------------------|
+| Next week I go to china for holiday      | wǒ xià gè zhōu huì qù zhōngguó lǚyóu          | 我下个周会去中国旅游      |                                                      |
+| First I fly to Urumqi                    | shǒuxiān wǒ huì fēi wǎng wūlǔmùqí jīchǎng     | 首先我会飞往乌鲁木齐机场  |                                                      |
+| Then I take the train To Turfan          | dì èr tiān wǒ huì zuò huǒchē qù tǔlǔfān       | 第二天我会坐火车去吐鲁番  |                                                      |
+| It's not far, about 1 hour               | bù yuǎn, yī xiǎoshí zuǒyòu                    | 不远 一小时左右           |                                                      |
+| From Turfan I go to Dunhuang             | cóng tǔlǔfān wǒ qù dūnhuáng                   | 从吐鲁番我去敦煌          |                                                      |
+| I will see the Mo Gao caves there        | wǒ huì kàn dào mò gāo kū                      | 我会看到莫高窟            |                                                      |
+| This month Dunhuang is very hot          | zhège yuè zài dūnhuáng tiānqì hěn rè.         | 这个月在敦煌天气很热      |                                                      |
+| In summer it is extremely hot!           | xiàtiān rè jíle                               | 夏天热极了                |                                                      |
+| Then I go to Zhangje National Geopark    | ránhòu wǒ qù zhāngyē guójiā dìzhí gōngyuán    | 然后我去张掖国家地质公园  | guójiā=country/house[fn:9] dìzhí=ground/situation    |
+| (It takes) 8 hours by train.  Long time! | zuò huǒchē bā xiǎoshí. Yào hěn cháng shíjiān! | 坐火车八小时. 要很长时间! | yàohěn - it needs/wants(yào) a very(hěn) (long time) |
+| Then I will drive to Xiahe               | ránhòu wǒ huì kāichē qù xiàhé                 | 然后我会开车去夏河        |                                                      |
+| Xiahe has a beautiful temple             | zài xiàhé yǒu yīzuò měilì de sìyuàn           | 在夏河有一座美丽的寺院    | Temple is more Asian, Monastery more Western [fn:10] |
+| Finally I travel to Xi'an                | zuìhòu wǒ huì lǚyóu qù xī'ān                  | 最后我会旅游去西安        |                                                      |
+| When I return home I will be very tired  | dāng wǒ huí jiā, wǒ huì hěn lèi               | 当我回家我会很累          | You cannot use tài....le in the future               |
+
+[fn:9] guójiā - means national, country + house, guójì - means international, country + border/intervene
+[fn:10] xiūdàoyuàn - means Christian monastery.  A generic term for temple is sìyuàn (same yuàn) or sìmiào (same sì)
+
+** How much of an adjective
+
+In Chinese you should always add very, a little, relatively, etc any adjective.
+They are never expressed by themselves.
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                          | Pinyin               | Characters | Notes                |
+|----------------------------------+----------------------+------------+----------------------|
+| Not                              | bù                   | 不         |                      |
+| Very                             | hěn                  | 很         |                      |
+| Relatively/Comparatively         | bǐ jiào              | 比较       |                      |
+| A little                         | yǒu yīdiǎn           | 有一点     | yǒu yīdiǎnr in north |
+| Airplane is very quick           | fēijī hěn kuài       | 飞机很快   |                      |
+| Train station is relatvely quick | huǒchē bǐjiào kuài   | 火车比较快 |                      |
+| Public bus a little quick        | gōngchē yǒudiǎn kuài | 公车有点快 |                      |
+
+** Holiday Phrases
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                            | Pinyin                                        | Characters               | Notes                                                 |
+|----------------------------------------------------+-----------------------------------------------+--------------------------+-------------------------------------------------------|
+| Tomorrow will have sun                             | míngtiān huì yǒu tàiyáng                      | 明天会有太阳             | Only colloquial, wouldn't be used on weather forecast |
+| Tomorrow is sunny                                  | míngtiān shì qíngtiān                         | 明天是晴天               | Slightly more formal, eg weather forecast             |
+| Lanzhou pulled noodles                             | Lánzhōu lāmiàn                                | 兰州拉面                 |                                                       |
+| Lanzhou chips (street food)                        | yáng yù piàn                                  | 洋芋片                   | potato peices (sliced potato in chilli)               |
+| I think                                            | wǒ xiǎng                                      | 我想                     | Don't worry about this one for now                    |
+| I feel/think                                       | wǒ juédé                                      | 我觉得                   |                                                       |
+| I think (it's) not good                            | wǒ juédé bù hǎo                               | 我觉得不好               |                                                       |
+| What (do) you think (is) tasty?                    | nǐ juédé shénme hào chī                       | 你觉得什么好吃           |                                                       |
+| I don't know, what's tasty?                        | wǒ bù zhīdào, (nǐ juédé) shénme hào chī       | 我不知道(你觉得)什么好吃 |                                                       |
+| Egg fried rice                                     | dàn chǎo fàn                                  | 蛋炒饭                   | dàn=egg chǎo=type of frying, no need to mǐfàn         |
+| Long time no see                                   | hěn jiǔ bù jiàn                               | 很久不见                 | Very long no see                                      |
+| Train ticket                                       | huǒchē piào                                   | 火车票                   |                                                       |
+| Bus ticket                                         | gōngchē piào                                  | 公车票                   |                                                       |
+| Gate/Door/Entrance ticket                          | mén piào                                      | 门票                     | Door ticket                                           |
+| 2 entrance tickets                                 | liǎng zhāng ménpiào                           | 两张门票                 | zhāng is measure for the paper                        |
+| I want (to) buy 2 train tickets                    | wǒ yāomǎi liǎng zhāng huǒchē piào             | 我要买两张火车票         |                                                       |
+| Tomorrow afternoon (I) go to Xi'an                 | míngtiān xiàwǔ qù xī'ān                       | 明天下午去西安           |                                                       |
+| To where?                                          | qù nǎ                                         | 去哪                     |                                                       |
+| Approx What time/date?                             | shénme shíhòu                                 | 社么时候                 |                                                       |
+| More exactly what time/date?                       | shénme shíjiān                                | 什么时间                 |                                                       |
+| Morning or Afternoon?                              | shàngwǔ háishì xiàwǔ                          | 上午还是下午             |                                                       |
+| Afternoon can I?                                   | xiàwǔ kěyǐ ma                                 | 下午可以吗               |                                                       |
+| My Chinese is bad                                  | wǒ de zhōngwén bù hǎo                         | 我的中文不好             |                                                       |
+| Can you (speak) a little slower?                   | màn yīdiǎn kěyǐ ma                            | 慢一点可以吗             |                                                       |
+| PLease a little slower?                            | qǐng màn yīdiǎn                               | 请慢一点                 |                                                       |
+| First Class                                        | yī děng zuò                                   | 一等座                   | first level seat                                      |
+| Second Class                                       | èr děng zuò                                   | 二等座                   |                                                       |
+| Sleeping Car                                       | wò pù                                         | 卧铺                     | lie-down bed                                          |
+| Soft Sleeper (Couchette)                           | ruǎn wò                                       | 软卧                     | soft bed.  r is like s in pleasure                    |
+| Hard Sleeper (Public bed)                          | yìng wò                                       | 硬卧                     | hard bed                                              |
+| Train station platform                             | huǒchē zhàntái                                | 火车站台                 |                                                       |
+| Platform (when context is obvious)                 | zhàntái                                       | 站台                     |                                                       |
+| Soft sleeping (car) is where?                      | ruǎnwò zài nǎlǐ                               | 软卧在哪里               |                                                       |
+| Not the hard sleeper                               | bùshì yìngwò                                  | 不是硬卧                 |                                                       |
+| To book                                            | dìng                                          | 订                       |                                                       |
+| I want (to) book seat (for) 2 (measure) people     | wǒ yào dìng zuò liǎng gè rén                  | 我要订坐两个人           |                                                       |
+| I want to book reservation                         | wǒ yào dìng fángjiāng                         | 我要订房将               |                                                       |
+| I want to book a double room                       | wǒ yào dìng shuāng rén jiān                   | 我要订双人间             | book a pair-people room                               |
+| I want one bed                                     | wǒ yào yī zhāng chuáng                        | 我要一张床               | zhāng = measure, like paper                           |
+| I want to book a taxi                              | wǒ yào dìng chūzū chē                         | 我要订出租车             |                                                       |
+| Tomorrow morning at 9 go (to) national park        | míngtiān zǎoshang jiǔ diǎn qù guójiā gōngyuán | 明天早上九点去国家公园   |                                                       |
+| I want to go here (point to map/book)              | wǒ yào qù zhèlǐ                               | 我要去这里               |                                                       |
+| 9 o'clock come here, pick us up, and back to hotel | jiǔ diǎn lái zhèlǐ, jiē wǒmen huí jiǔdiàn     | 九点来这里,接我们回酒店  | 9 o'clock come here pick us (up) back hotel           |
+| My train (is) at quarter past eight                | wǒ de huǒchē zài bā diǎn yīkè                 | 我的火车在八点一刻       |                                                       |
+| I want to book a taxi to the train station         | wǒ yào dìng chūzū chē qù huǒchē zhàn          | 我要订出租车去火车站     |                                                       |
+| From hotel to train station needs how long?        | cóng jiǔdiàn qù huǒchē zhàn yào duōjiǔ        | 从酒店去火车站要多久     | needs how long                                        |
 
 * Publishing
 - To publish to the web C-c C-e P p
