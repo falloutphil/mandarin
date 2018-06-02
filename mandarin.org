@@ -16876,6 +16876,43 @@ They are never expressed by themselves.
 | I want to book a taxi to the train station         | wǒ yào dìng chūzū chē qù huǒchē zhàn          | 我要订出租车去火车站     |                                                       |
 | From hotel to train station needs how long?        | cóng jiǔdiàn qù huǒchē zhàn yào duōjiǔ        | 从酒店去火车站要多久     | needs how long                                        |
 
+** More Holiday Phrases
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                      | Pinyin                          | Characters         | Notes                                          |
+|----------------------------------------------+---------------------------------+--------------------+------------------------------------------------|
+| Black tea                                    | hóng chá                        | 红茶               | Red tea                                        |
+| Green tea                                    | lǜ chá                          | 绿茶               |                                                |
+| You speak slowly                             | nǐ shuōhuà yǒu yīdiǎn màn       | 你说话有一点慢     | Statement of fact - yǒu yīdiǎn                 |
+| Winter is colder than autumn                 | dōngtiān bǐ qiūtiān lěng yīdiǎn | 冬天比秋天冷一点   | Comparison - no "yǒu"                          |
+| Winter is cold                               | dōngtiān yǒu yīdiǎn lěng        | 冬天有一点冷       | Statement of fact - yǒu yīdiǎn                 |
+| I want drink water                           | wǒ xiǎng hē shuǐ                | 我想喝水           | xiǎng is softer than yào                       |
+| Things to eat                                | chī de (dōngxī)                 | 吃的(东西)         | Don't say the dōngxī                           |
+| Things to drink                              | hē de (dōngxī)                  | 喝的(东西)         |                                                |
+| Please ask you have what something to drink? | qǐngwèn nǐmen yǒu shé yāo hè de | 请问你们有什么喝的 | nǐmen plural of nǐ used in restaurant, etc     |
+| What time do we arrive in Xian?              | wǒmen jǐ diǎn dào xī'ān         | 我们几点到西安     | dào can be used for arrive. Never zài for time |
+| Tree                                         | shù                             | 树                 |                                                |
+| On (top) of the tree                         | zài shù shàng                   | 在树上             |                                                |
+| Luggage                                      | xíng lǐ                         | 行李               |                                                |
+| How much (money)?                            | duōshǎo qián                    | 多少钱             |                                                |
+| Altogether 200 Yuan                          | yīgòng liǎng bǎi                | 一共两百           |                                                |
+| In total 200 Yuan                            | suǒyǒu de liǎng bǎi kuài        | 所有的两百块       | suǒyǒu de (dōngxī)                             |
+| Don't cheat me / lie to me                   | bùyào piàn wǒ                   | 不要骗我           |                                                |
+| I know, don't cheat me                       | wǒ zhīdào, bùyào piàn wǒ        | 我知道 不要骗我    |                                                |
+| I booked one double room                     | wǒ dìngle yīgè shuāng rén jiān  | 我订了一个双人间   |                                                |
+| (Room) Key                                   | (fángjiān) yàoshi               | (房间)钥匙         |                                                |
+| Bank Card                                    | yínháng kǎ                      | 银行卡             |                                                |
+| Room Card                                    | fáng kǎ                         | 房卡               |                                                |
+| On 2nd Floor                                 | zài èr lóu                      | 在二楼             | No ground floor in China                       |
+| Lift or Escalator                            | diàn tī                         | 电梯               | Electric Ladder                                |
+| My room has no power                         | wǒ de fángjiān méiyǒu diàn      | 我的房间没有电     | Always mei you, always bu shi                  |
+| Take lift up to the 10th floor               | zuò diàntī shàng shí lóu        | 坐电梯上十楼       | shàng - up to                                  |
+| What time is breakfast tomorrow?             | míngtiān zǎofàn shì jǐ diǎn     | 明天早饭是几点     |                                                |
+| Where do you eat?                            | zài nǎlǐ chī                    | 在哪里吃           |                                                |
+| Hotel meal room / Work canteen               | cān tīng                        | 餐厅               |                                                |
+| Can (you be)  a little faster?               | kěyǐ kuài yīdiǎn ma             | 可以快一点吗       |                                                |
+| Give me a moment (wait short time)           | děng yīxià                      | 等一下             |                                                |
+
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
