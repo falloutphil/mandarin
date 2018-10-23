@@ -16729,7 +16729,7 @@ Conversely chū is closer to English "ch" and ends with the "U" in Uber.
 | +10 degrees C                                     | zhèng shí dù                             | [[https://translate.google.com/#zh-CN/en/正十度][正十度]]                  | emphasising positive                         |
 | I heard last week you went travelling             | (wǒ) tīngdào shàng gè xīngqí nǐ qù lǚyóu | [[https://translate.google.com/#zh-CN/en/听到上个星期你去旅游][听到上个星期你去旅游]]    |                                              |
 | Correct I went to China for fun                   | duì, wǒ qù zhōngguó wánle                | [[https://translate.google.com/#zh-CN/en/对 我去中国玩了][对 我去中国玩了]]         |                                              |
-| Is it fun there?                                  | Translate the following word(s)          | [[https://translate.google.com/#zh-CN/en/那里好玩吗][那里好玩吗]]              | There good play?                             |
+| Is it fun there?                                  | nàlǐ hǎowán ma                                         | [[https://translate.google.com/#zh-CN/en/那里好玩吗][那里好玩吗]]              | There good play?                             |
 | Extermely good fun, but the weather was very cold | hǎowán jí le, kěshì tiānqì tài lěng le   | [[https://translate.google.com/#zh-CN/en/好玩极了 可是天气太冷了][好玩极了 可是天气太冷了]] | kěshì=but                                    |
 | What was the temperature there?                   | nàlǐ de wēndù shì duōshǎo                | [[https://translate.google.com/#zh-CN/en/那里的温度是多少][那里的温度是多少]]        | Temperature of there is how much             |
 | Between 10 and 20 below zero                      | língxià shí jǐ dù                        | [[https://translate.google.com/#zh-CN/en/零下十几度][零下十几度]]              | shíjǐ means "1?"                             |
@@ -17470,6 +17470,31 @@ They are never expressed by themselves.
 | Hotel meal room / Work canteen               | cān tīng                        | 餐厅               |                                                |
 | Can (you be)  a little faster?               | kěyǐ kuài yīdiǎn ma             | 可以快一点吗       |                                                |
 | Give me a moment (wait short time)           | děng yīxià                      | 等一下             |                                                |
+** Returning from China
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                            | Pinyin                                        | Characters                 | Notes                                                |
+|----------------------------------------------------+-----------------------------------------------+----------------------------+------------------------------------------------------|
+| Recently I went to China for fun                   | zuìjìn wǒ qùle zhōngguó wán                   | 最近我去了中国玩           |                                                      |
+| First I flew to Urumqi Airport                     | shǒuxiān wǒ fēile wǎng wūlǔmùqí jīchǎng       | 首先我飞了往乌鲁木齐机场   |                                                      |
+| The next day I took the train To Turfan            | Dì èr tiān wǒ zuòle huǒchē qù tǔlǔfān         | 第二天我坐了火车去吐鲁番   |                                                      |
+| It's not far, about 1 hour                         | bù yuǎn, yī xiǎoshí zuǒyòu                    | 不远 一小时左右            |                                                      |
+| The train is very modern and (also) extremely fast | Huǒchē shìle hěn xiàndài yě fēicháng kuài     | 火车是了很现代也非常快     |                                                      |
+| From Turfan I went to Dunhuang                     | cóng tǔlǔfān wǒ qùle dūnhuáng                 | 从吐鲁番我去了敦煌         |                                                      |
+| I saw the Mo Gao caves                             | wǒ kànle mò gāo kū                            | 我看了到莫高窟             |                                                      |
+| In the caves there are old paintings               | zài kū li yǒu duō lǎo huà                     | 在窟里有多老画             |                                                      |
+| In Dunhuang the weather was extremely hot          | zài dūnhuáng tiānqì rè jíle                   | 在敦煌天气热极了           |                                                      |
+| But it's colder than summer                        | bùguò bǐ xiàtiān lěng                         | 不过比夏天冷               |                                                      |
+| Then I went to Zhangje National Geopark            | ránhòu wǒ qùle zhāngyē guójiā dìzhí gōngyuán  | 然后我去了张掖国家地质公园 | guójiā=country/house[fn:9] dìzhí=ground/situation    |
+| (It takes) 8 hours by train.  Long time!           | zuò huǒchē bā xiǎoshí. Yào hěn cháng shíjiān! | 坐火车八小时. 要很长时间!  | yàohěn - it needs/wants(yào) a very(hěn) (long time) |
+| There are beautiful colourful mountains            | nà li yǒu měilì de wǔcǎi shān                 | 那里有美丽的五彩山         |                                                      |
+| Then I will drive to Xiahe                         | ránhòu wǒ kāichēle qù xiàhé                   | 然后我开车了去夏河         |                                                      |
+| Xiahe has a beautiful temple                       | zài xiàhé yǒu yīzuò měilì de sìyuàn           | 在夏河有一座美丽的寺院     | Temple is more Asian, Monastery more Western [fn:10] |
+| Finally I travel to Xi'an                          | zuìhòu wǒ lǚyóule qù xī'ān                    | 最后我旅游了去西安         |                                                      |
+| When I returned home I was very tired              | dāng wǒ huíle jiā wǒ hěn lèi                  | 当我回了家我很累           | You cannot use tài....le in the future               |
+
+[fn:9] guójiā - means national, country + house, guójì - means international, country + border/intervene
+[fn:10] xiūdàoyuàn - means Christian monastery.  A generic term for temple is sìyuàn (same yuàn) or sìmiào (same sì)
 
 * Publishing
 - To publish to the web C-c C-e P p
