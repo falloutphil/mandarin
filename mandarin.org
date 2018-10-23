@@ -17475,25 +17475,25 @@ They are never expressed by themselves.
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                                            | Pinyin                                        | Characters                 | Notes                                                |
 |----------------------------------------------------+-----------------------------------------------+----------------------------+------------------------------------------------------|
-| Recently I went to China for fun                   | zuìjìn wǒ qùle zhōngguó wán                   | 最近我去了中国玩           |                                                      |
-| First I flew to Urumqi Airport                     | shǒuxiān wǒ fēile wǎng wūlǔmùqí jīchǎng       | 首先我飞了往乌鲁木齐机场   |                                                      |
-| The next day I took the train To Turfan            | Dì èr tiān wǒ zuòle huǒchē qù tǔlǔfān         | 第二天我坐了火车去吐鲁番   |                                                      |
-| It's not far, about 1 hour                         | bù yuǎn, yī xiǎoshí zuǒyòu                    | 不远 一小时左右            |                                                      |
-| The train is very modern and (also) extremely fast | Huǒchē shìle hěn xiàndài yě fēicháng kuài     | 火车是了很现代也非常快     |                                                      |
-| From Turfan I went to Dunhuang                     | cóng tǔlǔfān wǒ qùle dūnhuáng                 | 从吐鲁番我去了敦煌         |                                                      |
-| I saw the Mo Gao caves                             | wǒ kànle mò gāo kū                            | 我看了到莫高窟             |                                                      |
-| In the caves there are old paintings               | zài kū li yǒu duō lǎo huà                     | 在窟里有多老画             |                                                      |
-| In Dunhuang the weather was extremely hot          | zài dūnhuáng tiānqì rè jíle                   | 在敦煌天气热极了           |                                                      |
-| But it's colder than summer                        | bùguò bǐ xiàtiān lěng                         | 不过比夏天冷               |                                                      |
-| Then I went to Zhangje National Geopark            | ránhòu wǒ qùle zhāngyē guójiā dìzhí gōngyuán  | 然后我去了张掖国家地质公园 | guójiā=country/house[fn:9] dìzhí=ground/situation    |
-| (It takes) 8 hours by train.  Long time!           | zuò huǒchē bā xiǎoshí. Yào hěn cháng shíjiān! | 坐火车八小时. 要很长时间!  | yàohěn - it needs/wants(yào) a very(hěn) (long time) |
-| There are beautiful colourful mountains            | nà li yǒu měilì de wǔcǎi shān                 | 那里有美丽的五彩山         |                                                      |
-| Then I will drive to Xiahe                         | ránhòu wǒ kāichēle qù xiàhé                   | 然后我开车了去夏河         |                                                      |
-| Xiahe has a beautiful temple                       | zài xiàhé yǒu yīzuò měilì de sìyuàn           | 在夏河有一座美丽的寺院     | Temple is more Asian, Monastery more Western [fn:10] |
-| Finally I travel to Xi'an                          | zuìhòu wǒ lǚyóule qù xī'ān                    | 最后我旅游了去西安         |                                                      |
-| When I returned home I was very tired              | dāng wǒ huíle jiā wǒ hěn lèi                  | 当我回了家我很累           | You cannot use tài....le in the future               |
+| Recently I went to China for fun                   | zuìjìn wǒ qùle zhōngguó wán                   | [[https://translate.google.com/#zh-CN/en/最近我去了中国玩][最近我去了中国玩]]           |                                                      |
+| First I flew to Urumqi Airport                     | shǒuxiān wǒ fēile wǎng wūlǔmùqí jīchǎng       | [[https://translate.google.com/#zh-CN/en/首先我飞了往乌鲁木齐机场][首先我飞了往乌鲁木齐机场]]   |                                                      |
+| The next day I took the train To Turfan            | Dì èr tiān wǒ zuòle huǒchē qù tǔlǔfān         | [[https://translate.google.com/#zh-CN/en/第二天我坐了火车去吐鲁番][第二天我坐了火车去吐鲁番]]   |                                                      |
+| It's not far, about 1 hour                         | bù yuǎn, yī xiǎoshí zuǒyòu                    | [[https://translate.google.com/#zh-CN/en/不远 一小时左右][不远 一小时左右]]            |                                                      |
+| The train is very modern and (also) extremely fast | Huǒchē shìle hěn xiàndài yě fēicháng kuài     | [[https://translate.google.com/#zh-CN/en/火车是了很现代也非常快][火车是了很现代也非常快]]     |                                                      |
+| From Turfan I went to Dunhuang                     | cóng tǔlǔfān wǒ qùle dūnhuáng                 | [[https://translate.google.com/#zh-CN/en/从吐鲁番我去了敦煌][从吐鲁番我去了敦煌]]         |                                                      |
+| I saw the Mo Gao caves                             | wǒ kànle mò gāo kū                            | [[https://translate.google.com/#zh-CN/en/我看了到莫高窟][我看了到莫高窟]]             |                                                      |
+| In the caves there are old paintings               | zài kū li yǒu duō lǎo huà                     | [[https://translate.google.com/#zh-CN/en/在窟里有多老画][在窟里有多老画]]             |                                                      |
+| In Dunhuang the weather was extremely hot          | zài dūnhuáng tiānqì rè jíle                   | [[https://translate.google.com/#zh-CN/en/在敦煌天气热极了][在敦煌天气热极了]]           |                                                      |
+| But it's colder than summer                        | bùguò bǐ xiàtiān lěng                         | [[https://translate.google.com/#zh-CN/en/不过比夏天冷][不过比夏天冷]]               |                                                      |
+| Then I went to Zhangje National Geopark            | ránhòu wǒ qùle zhāngyē guójiā dìzhí gōngyuán  | [[https://translate.google.com/#zh-CN/en/然后我去了张掖国家地质公园][然后我去了张掖国家地质公园]] | guójiā=country/house[fn:9] dìzhí=ground/situation    |
+| (It takes) 8 hours by train.  Long time!           | zuò huǒchē bā xiǎoshí. Yào hěn cháng shíjiān! | [[https://translate.google.com/#zh-CN/en/坐火车八小时. 要很长时间!][坐火车八小时. 要很长时间!]]  | yàohěn - it needs/wants(yào) a very(hěn) (long time) |
+| There are beautiful colourful mountains            | nà li yǒu měilì de wǔcǎi shān                 | [[https://translate.google.com/#zh-CN/en/那里有美丽的五彩山][那里有美丽的五彩山]]         |                                                      |
+| Then I will drive to Xiahe                         | ránhòu wǒ kāichēle qù xiàhé                   | [[https://translate.google.com/#zh-CN/en/然后我开车了去夏河][然后我开车了去夏河]]         |                                                      |
+| Xiahe has a beautiful temple                       | zài xiàhé yǒu yīzuò měilì de sìyuàn           | [[https://translate.google.com/#zh-CN/en/在夏河有一座美丽的寺院][在夏河有一座美丽的寺院]]     | Temple is more Asian, Monastery more Western [fn:10] |
+| Finally I travel to Xi'an                          | zuìhòu wǒ lǚyóule qù xī'ān                    | [[https://translate.google.com/#zh-CN/en/最后我旅游了去西安][最后我旅游了去西安]]         |                                                      |
+| When I returned home I was very tired              | dāng wǒ huíle jiā wǒ hěn lèi                  | [[https://translate.google.com/#zh-CN/en/当我回了家我很累][当我回了家我很累]]           | You cannot use tài....le in the future               |
 
-[fn:9] guójiā - means national, country + house, guójì - means international, country + border/intervene
+
 [fn:10] xiūdàoyuàn - means Christian monastery.  A generic term for temple is sìyuàn (same yuàn) or sìmiào (same sì)
 
 * Recap
@@ -17501,34 +17501,33 @@ They are never expressed by themselves.
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                                  | Pinyin                                          | Characters                 | Notes                                   |
 |------------------------------------------+-------------------------------------------------+----------------------------+-----------------------------------------|
-| Washing (yourself)                       | xǐzǎo                                           | 洗澡                       | Wash bathe                              |
-| Wash Apple                               | xǐ píngguǒ                                      | 洗苹果                     |                                         |
-| Washing Machine                          | xǐyījī                                          | 洗衣机                     | Wash clothes machine                    |
-| Cloudy / Sunny                           | yīn yáng                                        | 阴阳                       | As in yin and yang                      |
-| Partly cloudy                            | duō yún                                         | 多云                       |                                         |
-| Chef                                     | chú shī                                         | 厨师                       | Cook Master                             |
-| Kitchen                                  | chú fáng                                        | 厨房                       | Cook Room                               |
-| Skiing                                   | huá xuě                                         | 滑雪                       | Slip Snow                               |
-| Ice Skating                              | huá bīng                                        | 滑冰                       | Slip Ice                                |
-| Roller Skating                           | huá hàn bīng                                    | 滑旱冰                     | Slip dry ice                            |
-| Eye                                      | yǎn jīng                                        | 眼睛                       | Eye Eye                                 |
-| Mirror                                   | jìng zi                                         | 镜子                       | Mirror zi                               |
-| Glasses                                  | yǎn jìng                                        | 眼镜                       | Eye Mirror                              |
-| Boat or Ship                             | chuán                                           | 船                         |                                         |
-| Who are you looking for?                 | nǐ zhǎo shéi                                    | 你找谁                     | zhǎo - looking for                      |
-| What are you looking for?                | nǐ zài zhǎo shénme                              | 你在找什么                 | zài - as in -ing                        |
-| I want to find a restaurant to eat lunch | wǒ xiǎng zhǎo fàndiàn chī wǔfàn                 | 我想找饭店吃午饭           | xiǎng politer than yào                  |
-| I want to go to Dunhuang                 | wǒ xiǎng qù dūnhuáng                            | 我想去敦煌                 |                                         |
-| I want to find (and go to) Dunhuang      | wǒ xiǎng zhǎo dūnhuáng                          | 我想找敦煌                 | Implies you don't know how to get there |
-| I want to find (looking for) a policeman | wǒ yào zhǎo jǐngchá                             | 我要找警察                 | I'm looking for or will call            |
-| I heard (from someone)                   | wǒ tīng shuō                                    | 我听说                     |                                         |
-| I heard (a noise)                        | wǒ tīng dào                                     | 我听到                     |                                         |
-| I heard 3 months ago you went to China   | wǒ tīng shuō sān gè yuè yǐqián nǐ qùle zhōngguó | 我听说三个月以前你去了中国 |                                         |
-| What were you doing there?               | zài nàlǐ nǐ zài zuò shénme                      | 在那里你在做什么           | At there you doing what?                |
-| Yes, I go to China for travelling        | duì, wǒ qù zhōngguó lǚyóu                       | 对,我去中国旅游            |                                         |
+| Washing (yourself)                       | xǐzǎo                                           | [[https://translate.google.com/#zh-CN/en/洗澡][洗澡]]                       | Wash bathe                              |
+| Wash Apple                               | xǐ píngguǒ                                      | [[https://translate.google.com/#zh-CN/en/洗苹果][洗苹果]]                     |                                         |
+| Washing Machine                          | xǐyījī                                          | [[https://translate.google.com/#zh-CN/en/洗衣机][洗衣机]]                     | Wash clothes machine                    |
+| Cloudy / Sunny                           | yīn yáng                                        | [[https://translate.google.com/#zh-CN/en/阴阳][阴阳]]                       | As in yin and yang                      |
+| Partly cloudy                            | duō yún                                         | [[https://translate.google.com/#zh-CN/en/多云][多云]]                       |                                         |
+| Chef                                     | chú shī                                         | [[https://translate.google.com/#zh-CN/en/厨师][厨师]]                       | Cook Master                             |
+| Kitchen                                  | chú fáng                                        | [[https://translate.google.com/#zh-CN/en/厨房][厨房]]                       | Cook Room                               |
+| Skiing                                   | huá xuě                                         | [[https://translate.google.com/#zh-CN/en/滑雪][滑雪]]                       | Slip Snow                               |
+| Ice Skating                              | huá bīng                                        | [[https://translate.google.com/#zh-CN/en/滑冰][滑冰]]                       | Slip Ice                                |
+| Roller Skating                           | huá hàn bīng                                    | [[https://translate.google.com/#zh-CN/en/滑旱冰][滑旱冰]]                     | Slip dry ice                            |
+| Eye                                      | yǎn jīng                                        | [[https://translate.google.com/#zh-CN/en/眼睛][眼睛]]                       | Eye Eye                                 |
+| Mirror                                   | jìng zi                                         | [[https://translate.google.com/#zh-CN/en/镜子][镜子]]                       | Mirror zi                               |
+| Glasses                                  | yǎn jìng                                        | [[https://translate.google.com/#zh-CN/en/眼镜][眼镜]]                       | Eye Mirror                              |
+| Boat or Ship                             | chuán                                           | [[https://translate.google.com/#zh-CN/en/船][船]]                         |                                         |
+| Who are you looking for?                 | nǐ zhǎo shéi                                    | [[https://translate.google.com/#zh-CN/en/你找谁][你找谁]]                     | zhǎo - looking for                      |
+| What are you looking for?                | nǐ zài zhǎo shénme                              | [[https://translate.google.com/#zh-CN/en/你在找什么][你在找什么]]                 | zài - as in -ing                        |
+| I want to find a restaurant to eat lunch | wǒ xiǎng zhǎo fàndiàn chī wǔfàn                 | [[https://translate.google.com/#zh-CN/en/我想找饭店吃午饭][我想找饭店吃午饭]]           | xiǎng politer than yào                  |
+| I want to go to Dunhuang                 | wǒ xiǎng qù dūnhuáng                            | [[https://translate.google.com/#zh-CN/en/我想去敦煌][我想去敦煌]]                 |                                         |
+| I want to find (and go to) Dunhuang      | wǒ xiǎng zhǎo dūnhuáng                          | [[https://translate.google.com/#zh-CN/en/我想找敦煌][我想找敦煌]]                 | Implies you don't know how to get there |
+| I want to find (looking for) a policeman | wǒ yào zhǎo jǐngchá                             | [[https://translate.google.com/#zh-CN/en/我要找警察][我要找警察]]                 | I'm looking for or will call            |
+| I heard (from someone)                   | wǒ tīng shuō                                    | [[https://translate.google.com/#zh-CN/en/我听说][我听说]]                     |                                         |
+| I heard (a noise)                        | wǒ tīng dào                                     | [[https://translate.google.com/#zh-CN/en/我听到][我听到]]                     |                                         |
+| I heard 3 months ago you went to China   | wǒ tīng shuō sān gè yuè yǐqián nǐ qùle zhōngguó | [[https://translate.google.com/#zh-CN/en/我听说三个月以前你去了中国][我听说三个月以前你去了中国]] |                                         |
+| What were you doing there?               | zài nàlǐ nǐ zài zuò shénme                      | [[https://translate.google.com/#zh-CN/en/在那里你在做什么][在那里你在做什么]]           | At there you doing what?                |
+| Yes, I go to China for travelling        | duì, wǒ qù zhōngguó lǚyóu                       | [[https://translate.google.com/#zh-CN/en/对,我去中国旅游][对,我去中国旅游]]            |                                         |
 
-* Publishing
-- To publish to the web C-c C-e P p
+
 * Misc Org
 Footnotes can be written using fn:<name> wrapped in square brackets.
 C-c C-c or C-c C-x f - jumps from footnote to reference
