@@ -17527,7 +17527,8 @@ They are never expressed by themselves.
 | What were you doing there?               | zài nàlǐ nǐ zài zuò shénme                      | [[https://translate.google.com/#zh-CN/en/在那里你在做什么][在那里你在做什么]]           | At there you doing what?                |
 | Yes, I go to China for travelling        | duì, wǒ qù zhōngguó lǚyóu                       | [[https://translate.google.com/#zh-CN/en/对,我去中国旅游][对,我去中国旅游]]            |                                         |
 
-
+* Publishing
+- To publish to the web C-c C-e P p
 * Misc Org
 Footnotes can be written using fn:<name> wrapped in square brackets.
 C-c C-c or C-c C-x f - jumps from footnote to reference
