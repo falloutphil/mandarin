@@ -17527,6 +17527,78 @@ They are never expressed by themselves.
 | What were you doing there?               | zài nàlǐ nǐ zài zuò shénme                      | [[https://translate.google.com/#zh-CN/en/在那里你在做什么][在那里你在做什么]]           | At there you doing what?                |
 | Yes, I go to China for travelling        | duì, wǒ qù zhōngguó lǚyóu                       | [[https://translate.google.com/#zh-CN/en/对,我去中国旅游][对,我去中国旅游]]            |                                         |
 
+** Recap Part 2
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                 | Pinyin                                | Characters           | Notes                                                         |
+|-----------------------------------------+---------------------------------------+----------------------+---------------------------------------------------------------|
+| Do you have a room?                     | nǐmen yǒu fángjiān ma                 | 你们有房间吗         | nǐmen - plural when asking "a company"                        |
+| You want how many rooms?                | nín yào jǐ gè fángjiān                | 您要几个房间         | jǐ as in unknown small number                                 |
+| Passport                                | hùzhào                                | 护照                 |                                                               |
+| Your room is number 203                 | nín de fángjiān shì èr líng sān hào   | 您的房间是二零三号   |                                                               |
+| On 2nd floor (is a) restaurant          | zài èr lóu cāntīng                    | 在二楼餐厅           |                                                               |
+| Dinner (slightly more formal)           | wǎncān                                | 晚餐                 | Similar to wǎnfàn                                             |
+| Breakfast (slightly more formal)        | zǎocān                                | 早餐                 | Similar to zǎofàn                                             |
+| Escalator (and lift)                    | diàntī                                | 电梯                 | Electric stairs                                               |
+| Stairs                                  | lóutī                                 | 楼梯                 | Building stairs                                               |
+| This side                               | zhè biān                              | 这边                 |                                                               |
+| That side                               | nà biān                               | 那边                 |                                                               |
+| That person                             | nà gè rén                             | 那个人               |                                                               |
+| That woman                              | nà gè nǚrén                           | 那个女人             |                                                               |
+| My TV is broken                         | wǒ de diànshì huàile                  | 我的电视坏了         |                                                               |
+| Can you come fix it?                    | nǐmen kěyǐ lái xiū ma                 | 你们可以来修吗       | xiū - to fix                                                  |
+| Can you come take a look?               | nǐmen kěyǐ lái kàn kàn                | 你们可以来看看       |                                                               |
+| Give you some colour to see!            | gěi nǐ diǎn yàng sè kàn kàn           | 给你点样色看看       | Warning parents give to kids?                                 |
+| Umbrella                                | yǔsǎn                                 | 雨伞                 | xiàyǔ is rain                                                 |
+| Do you know a good (eating) restaurant? | nǐ zhīdào hěn hào chī de fàndiàn ma   | 你知道很好吃的饭店吗 | adjective de noun - the de makes "a good eating" an adjective |
+| At 8 o'clock is the "to Shanghai" train | zài bā diǎn shì qù shànghǎi de huǒchē | 在八点是去上海的火车 | de makes "to Shanghai" adjective                              |
+| Bed                                     | chuáng                                | 床                   | qǐchuáng - get up                                             |
+| A/One bed                               | yī zhāng chuáng                       | 一张床               |                                                               |
+| A/One peice of paper                    | yī zhāng zhǐ                          | 一张纸               |                                                               |
+| Toilet paper                            | wèishēng zhǐ                          | 卫生纸               |                                                               |
+| Kitchen roll (paper)                    | chúfáng zhǐ                           | 厨房纸               |                                                               |
+| A paper towel                           | yī zhāng zhǐjīn                       | 一张纸巾             |                                                               |
+| Cat                                     | māo                                   | 猫                   |                                                               |
+| Dog                                     | gǒu                                   | 狗                   |                                                               |
+| (The) dog has lots of hair              | gǒu yǒu hěnduō máo                    | 狗有很多毛           |                                                               |
+| Light (As in bulb/lamp not ray of)      | dēng                                  | 灯                   |                                                               |
+| Headlight (Car Light)                   | chē dēng                              | 车灯                 | Car Light                                                     |
+| Headlight / headlamp                    | tóu dēng                              | 头灯                 | Head Light                                                    |
+| Streetlight                             | lù dēng                               | 路灯                 | Road Light                                                    |
+| Desk/table lamp                         | tái dēng                              | 台灯                 | Platform Light                                                |
+| Torch                                   | shǒu diàn                             | 手电                 | Hand Electric                                                 |
+
+* On/Off, Open/Close and bǎ
+** On/Off and Open/Close
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English             | Pinyin          | Characters | Notes              |
+|---------------------+-----------------+------------+--------------------|
+| Open door           | kāi mén         | 开门       | Same kāi as kāichē |
+| Close(d) door       | guān mén        | 关门       |                    |
+| I open (the) door   | wǒ kāimén       | 我开门     |                    |
+| I look at you       | Wǒ kànzhe nǐ    | 我看着你   | Use of zhe         |
+| The door is open    | Mén kāizhe      | 门开着     | Use of zhe         |
+| Turn-on             | kāi             | 开         |                    |
+| Turn-off            | guān            | 关         |                    |
+| I turn-on the TV    | wǒ kāi diànshì  | 我开电视   |                    |
+| I turn-on the light | wǒ kāi dēng     | 我开灯     |                    |
+| I open the box      | wǒ kāi xiāng zi | 我开箱子   | Also hézi 盒子     |
+
+** bǎ structures
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                   | Pinyin                  | Characters       | Notes               |
+|-------------------------------------------+-------------------------+------------------+---------------------|
+| To clean                                  | dǎsǎo                   | 打扫             |                     |
+| I clean the room                          | wǒ dǎsǎo fángjiān       | 我打扫房间       |                     |
+| To wipe/rub                               | cā                      | 擦               |                     |
+| Question/problem                          | wèntí                   | 问题             |                     |
+| You have any questions/issues?            | nǐ yǒu wèntí ma         | 你有问题吗       |                     |
+| Please wipe the table (a little)          | qǐng bǎ zhuōzi cā yīxià | 请把桌子擦一下   |                     |
+| Do <verb> on the <noun>                   | bǎ <noun> <verb>        | 把 <noun> <verb> |                     |
+| Little (quantity)                         | yīdiǎn                  | 一点             |                     |
+| Little (time)                             | yīxià                   | 一下             |                     |
+| Further more, wash the clothes (a little) | zài bǎ yīfú xǐ yīxià    | 再把衣服洗一下   | Could use hái 还    |
+| Please give me the salt                   | qǐng bǎ yán gěi wǒ      | 请把盐给我       | Don't use nǐ gěi wǒ |
+
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
