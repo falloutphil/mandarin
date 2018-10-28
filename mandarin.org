@@ -17473,25 +17473,25 @@ They are never expressed by themselves.
 ** Returning from China
 
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                            | Pinyin                                        | Characters                 | Notes                                                |
-|----------------------------------------------------+-----------------------------------------------+----------------------------+------------------------------------------------------|
-| Recently I went to China for fun                   | zuìjìn wǒ qùle zhōngguó wán                   | [[https://translate.google.com/#zh-CN/en/最近我去了中国玩][最近我去了中国玩]]           |                                                      |
-| First I flew to Urumqi Airport                     | shǒuxiān wǒ fēile wǎng wūlǔmùqí jīchǎng       | [[https://translate.google.com/#zh-CN/en/首先我飞了往乌鲁木齐机场][首先我飞了往乌鲁木齐机场]]   |                                                      |
-| The next day I took the train To Turfan            | Dì èr tiān wǒ zuòle huǒchē qù tǔlǔfān         | [[https://translate.google.com/#zh-CN/en/第二天我坐了火车去吐鲁番][第二天我坐了火车去吐鲁番]]   |                                                      |
-| It's not far, about 1 hour                         | bù yuǎn, yī xiǎoshí zuǒyòu                    | [[https://translate.google.com/#zh-CN/en/不远 一小时左右][不远 一小时左右]]            |                                                      |
-| The train is very modern and (also) extremely fast | Huǒchē shìle hěn xiàndài yě fēicháng kuài     | [[https://translate.google.com/#zh-CN/en/火车是了很现代也非常快][火车是了很现代也非常快]]     |                                                      |
-| From Turfan I went to Dunhuang                     | cóng tǔlǔfān wǒ qùle dūnhuáng                 | [[https://translate.google.com/#zh-CN/en/从吐鲁番我去了敦煌][从吐鲁番我去了敦煌]]         |                                                      |
-| I saw the Mo Gao caves                             | wǒ kànle mò gāo kū                            | [[https://translate.google.com/#zh-CN/en/我看了到莫高窟][我看了到莫高窟]]             |                                                      |
-| In the caves there are old paintings               | zài kū li yǒu duō lǎo huà                     | [[https://translate.google.com/#zh-CN/en/在窟里有多老画][在窟里有多老画]]             |                                                      |
-| In Dunhuang the weather was extremely hot          | zài dūnhuáng tiānqì rè jíle                   | [[https://translate.google.com/#zh-CN/en/在敦煌天气热极了][在敦煌天气热极了]]           |                                                      |
-| But it's colder than summer                        | bùguò bǐ xiàtiān lěng                         | [[https://translate.google.com/#zh-CN/en/不过比夏天冷][不过比夏天冷]]               |                                                      |
-| Then I went to Zhangje National Geopark            | ránhòu wǒ qùle zhāngyē guójiā dìzhí gōngyuán  | [[https://translate.google.com/#zh-CN/en/然后我去了张掖国家地质公园][然后我去了张掖国家地质公园]] | guójiā=country/house[fn:9] dìzhí=ground/situation    |
-| (It takes) 8 hours by train.  Long time!           | zuò huǒchē bā xiǎoshí. Yào hěn cháng shíjiān! | [[https://translate.google.com/#zh-CN/en/坐火车八小时. 要很长时间!][坐火车八小时. 要很长时间!]]  | yàohěn - it needs/wants(yào) a very(hěn) (long time) |
-| There are beautiful colourful mountains            | nà li yǒu měilì de wǔcǎi shān                 | [[https://translate.google.com/#zh-CN/en/那里有美丽的五彩山][那里有美丽的五彩山]]         |                                                      |
-| Then I will drive to Xiahe                         | ránhòu wǒ kāichēle qù xiàhé                   | [[https://translate.google.com/#zh-CN/en/然后我开车了去夏河][然后我开车了去夏河]]         |                                                      |
-| Xiahe has a beautiful temple                       | zài xiàhé yǒu yīzuò měilì de sìyuàn           | [[https://translate.google.com/#zh-CN/en/在夏河有一座美丽的寺院][在夏河有一座美丽的寺院]]     | Temple is more Asian, Monastery more Western [fn:10] |
-| Finally I travel to Xi'an                          | zuìhòu wǒ lǚyóule qù xī'ān                    | [[https://translate.google.com/#zh-CN/en/最后我旅游了去西安][最后我旅游了去西安]]         |                                                      |
-| When I returned home I was very tired              | dāng wǒ huíle jiā wǒ hěn lèi                  | [[https://translate.google.com/#zh-CN/en/当我回了家我很累][当我回了家我很累]]           | You cannot use tài....le in the future               |
+| English                                            | Pinyin                                        | Characters                 | Notes                                                          |
+|----------------------------------------------------+-----------------------------------------------+----------------------------+----------------------------------------------------------------|
+| Recently I went to China for fun                   | zuìjìn wǒ qùle zhōngguó wán                   | [[https://translate.google.com/#zh-CN/en/最近我去了中国玩][最近我去了中国玩]]           |                                                                |
+| First I flew to Urumqi Airport                     | shǒuxiān wǒ fēile wǎng wūlǔmùqí jīchǎng       | [[https://translate.google.com/#zh-CN/en/首先我飞了往乌鲁木齐机场][首先我飞了往乌鲁木齐机场]]   |                                                                |
+| The next day I took the train To Turfan            | Dì èr tiān wǒ zuòle huǒchē qù tǔlǔfān         | [[https://translate.google.com/#zh-CN/en/第二天我坐了火车去吐鲁番][第二天我坐了火车去吐鲁番]]   |                                                                |
+| It's not far, about 1 hour                         | bù yuǎn, yī xiǎoshí zuǒyòu                    | [[https://translate.google.com/#zh-CN/en/不远 一小时左右][不远 一小时左右]]            |                                                                |
+| The train is very modern and (also) extremely fast | Huǒchē hěn xiàndài yě fēicháng kuài           | [[https://translate.google.com/#zh-CN/en/火车很现代也非常快][火车很现代也非常快]]         | No shì when describing, and shì never takes le in past!        |
+| From Turfan I went to Dunhuang                     | cóng tǔlǔfān wǒ qùle dūnhuáng                 | [[https://translate.google.com/#zh-CN/en/从吐鲁番我去了敦煌][从吐鲁番我去了敦煌]]         |                                                                |
+| I saw the Mo Gao caves                             | wǒ kànle mò gāo kū                            | [[https://translate.google.com/#zh-CN/en/我看了到莫高窟][我看了到莫高窟]]             |                                                                |
+| In the caves there are old paintings               | zài mōgāokū li yǒu hěn duō gǔlǎo de huà       | [[https://translate.google.com/#zh-CN/en/在莫高窟里有很多古老的画][在莫高窟里有很多古老的画]]   | always hěn etc with duō (very many), use of "de" for adjective |
+| In Dunhuang the weather was extremely hot          | zài dūnhuáng tiānqì rè jíle                   | [[https://translate.google.com/#zh-CN/en/在敦煌天气热极了][在敦煌天气热极了]]           |                                                                |
+| But it's colder than summer                        | bùguò bǐ xiàtiān lěng                         | [[https://translate.google.com/#zh-CN/en/不过比夏天冷][不过比夏天冷]]               |                                                                |
+| Then I went to Zhangje National Geopark            | ránhòu wǒ qùle zhāngyē guójiā dìzhí gōngyuán  | [[https://translate.google.com/#zh-CN/en/然后我去了张掖国家地质公园][然后我去了张掖国家地质公园]] | guójiā=country/house[fn:9] dìzhí=ground/situation              |
+| (It takes) 8 hours by train.  Long time!           | zuò huǒchē bā xiǎoshí. Yào hěn cháng shíjiān! | [[https://translate.google.com/#zh-CN/en/坐火车八小时. 要很长时间!][坐火车八小时. 要很长时间!]]  | yàohěn - it needs/wants(yào) a very(hěn) (long time)           |
+| There are beautiful colourful mountains            | nà li yǒu měilì de wǔcǎi shān                 | [[https://translate.google.com/#zh-CN/en/那里有美丽的五彩山][那里有美丽的五彩山]]         | wǔcǎi - five coloured, but really multicoloured!               |
+| Then I will drive to Xiahe                         | ránhòu wǒ kāichēle qù xiàhé                   | [[https://translate.google.com/#zh-CN/en/然后我开车了去夏河][然后我开车了去夏河]]         |                                                                |
+| Xiahe has a beautiful temple                       | zài xiàhé yǒu yīzuò měilì de sìyuàn           | [[https://translate.google.com/#zh-CN/en/在夏河有一座美丽的寺院][在夏河有一座美丽的寺院]]     | Temple is more Asian, Monastery more Western [fn:10]           |
+| Finally I went to Xi'an for a trip                 | zuìhòu wǒ qùle xī'ān lǚyóu                    | [[https://translate.google.com/#zh-CN/en/最后我去了西安旅游][最后我去了西安旅游]]         |                                                                |
+| When I returned home I was very tired              | dāng wǒ huíle jiā wǒ hěn lèi                  | [[https://translate.google.com/#zh-CN/en/当我回了家我很累][当我回了家我很累]]           | You cannot use tài....le in the future                         |
 
 
 [fn:10] xiūdàoyuàn - means Christian monastery.  A generic term for temple is sìyuàn (same yuàn) or sìmiào (same sì)
@@ -17583,21 +17583,70 @@ They are never expressed by themselves.
 | I turn-on the light | wǒ kāi dēng     | [[https://translate.google.com/#zh-CN/en/我开灯][我开灯]]     |                    |
 | I open the box      | wǒ kāi xiāng zi | [[https://translate.google.com/#zh-CN/en/我开箱子][我开箱子]]   | Also hézi 盒子     |
 
+** Use of bǎ
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                   | Pinyin                  | Characters       | Notes               |
-|-------------------------------------------+-------------------------+------------------+---------------------|
-| To clean                                  | dǎsǎo                   | [[https://translate.google.com/#zh-CN/en/打扫][打扫]]             |                     |
-| I clean the room                          | wǒ dǎsǎo fángjiān       | [[https://translate.google.com/#zh-CN/en/我打扫房间][我打扫房间]]       |                     |
-| To wipe/rub                               | cā                      | [[https://translate.google.com/#zh-CN/en/擦][擦]]               |                     |
-| Question/problem                          | wèntí                   | [[https://translate.google.com/#zh-CN/en/问题][问题]]             |                     |
-| You have any questions/issues?            | nǐ yǒu wèntí ma         | [[https://translate.google.com/#zh-CN/en/你有问题吗][你有问题吗]]       |                     |
-| Please wipe the table (a little)          | qǐng bǎ zhuōzi cā yīxià | [[https://translate.google.com/#zh-CN/en/请把桌子擦一下][请把桌子擦一下]]   |                     |
-| Do <verb> on the <noun>                   | bǎ <noun> <verb>        | [[https://translate.google.com/#zh-CN/en/把 <noun> <verb>][把 <noun> <verb>]] |                     |
-| Little (quantity)                         | yīdiǎn                  | [[https://translate.google.com/#zh-CN/en/一点][一点]]             |                     |
-| Little (time)                             | yīxià                   | [[https://translate.google.com/#zh-CN/en/一下][一下]]             |                     |
-| Further more, wash the clothes (a little) | zài bǎ yīfú xǐ yīxià    | [[https://translate.google.com/#zh-CN/en/再把衣服洗一下][再把衣服洗一下]]   | Could use hái 还    |
-| Please give me the salt                   | qǐng bǎ yán gěi wǒ      | [[https://translate.google.com/#zh-CN/en/请把盐给我][请把盐给我]]       | Don't use nǐ gěi wǒ |
+| English                                        | Pinyin                                  | Characters            | Notes                                                              |
+|------------------------------------------------+-----------------------------------------+-----------------------+--------------------------------------------------------------------|
+| To clean                                       | dǎsǎo                                   | [[https://translate.google.com/#zh-CN/en/打扫][打扫]]                  |                                                                    |
+| I clean the room                               | wǒ dǎsǎo fángjiān                       | [[https://translate.google.com/#zh-CN/en/我打扫房间][我打扫房间]]            |                                                                    |
+| To wipe/rub                                    | cā                                      | [[https://translate.google.com/#zh-CN/en/擦][擦]]                    |                                                                    |
+| Question/problem                               | wèntí                                   | [[https://translate.google.com/#zh-CN/en/问题][问题]]                  |                                                                    |
+| You have any questions/issues?                 | nǐ yǒu wèntí ma                         | [[https://translate.google.com/#zh-CN/en/你有问题吗][你有问题吗]]            |                                                                    |
+| Please wipe the table (a little)               | qǐng bǎ zhuōzi cā yīxià                 | [[https://translate.google.com/#zh-CN/en/请把桌子擦一下][请把桌子擦一下]]        |                                                                    |
+| Do <verb> on the <noun>                        | bǎ <noun> <verb>                        | [[https://translate.google.com/#zh-CN/en/把 <noun> <verb>][把 <noun> <verb>]]      |                                                                    |
+| Little (quantity)                              | yīdiǎn                                  | [[https://translate.google.com/#zh-CN/en/一点][一点]]                  |                                                                    |
+| Little (time)                                  | yīxià                                   | [[https://translate.google.com/#zh-CN/en/一下][一下]]                  |                                                                    |
+| Further more, wash the clothes (a little)      | zài bǎ yīfú xǐ yīxià                    | [[https://translate.google.com/#zh-CN/en/再把衣服洗一下][再把衣服洗一下]]        | Could use hái 还                                                   |
+| Please give me the salt                        | qǐng bǎ yán gěi wǒ                      | [[https://translate.google.com/#zh-CN/en/请把盐给我][请把盐给我]]            | Don't use nǐ gěi wǒ                                                |
+| I ate dinner (use of bǎ)                       | wǒ bǎ wǎnfàn chīle                      | [[https://translate.google.com/#zh-CN/en/我把晚饭吃了][我把晚饭吃了]]          | Emphasis on dinner - recent past action (i.e. not lunch)           |
+| Rainbow                                        | cǎihóng                                 | [[https://translate.google.com/#zh-CN/en/彩虹][彩虹]]                  | cǎi - means coloured                                               |
+| Please give me (your) passport                 | qǐng bǎ hùzhào gěi wǒ                   | [[https://translate.google.com/#zh-CN/en/请把护照给我][请把护照给我]]          | bǎ can be used in a command or on yourself in paste tense          |
+| Underwear should be washed by hand             | nèiyī yào shǒuxǐ                        | [[https://translate.google.com/#zh-CN/en/内衣要手洗][内衣要手洗]]            | Underwear needs handwash. nèi - inside/smaller sace, yī as in yīfú |
+| Don't wash together with outside clothes       | bùyào hé wàiyī yīqǐ xǐ                  | [[https://translate.google.com/#zh-CN/en/不要和外衣一起洗][不要和外衣一起洗]]      | wāiyī (fú) - coat, fleece, whatever is top layer of clothes!       |
+| Autumn Clothes (layer)                         | qiūyī                                   | [[https://translate.google.com/#zh-CN/en/秋衣][秋衣]]                  | Autumn - qiūtiān                                                   |
+| No problem (I'll do it)                        | méi wèntí                               | [[https://translate.google.com/#zh-CN/en/没问题][没问题]]                | In response to a request                                           |
+| No problem (doesn't matter)                    | méi guānxì                              | [[https://translate.google.com/#zh-CN/en/没关系][没关系]]                | In response to an apology or thanks                                |
+| Additionally / furthermore                     | lìng wài                                | [[https://translate.google.com/#zh-CN/en/另外][另外]]                  |                                                                    |
+| Still / Also                                   | zài / hái                               | [[https://translate.google.com/#zh-CN/en/再/还][再/还]]                 |                                                                    |
+| And (short and equal words)                    | hé                                      | [[https://translate.google.com/#zh-CN/en/和][和]]                    | Also can mean "with"                                               |
+| And (and also)                                 | yě                                      | [[https://translate.google.com/#zh-CN/en/也][也]]                    |                                                                    |
+| (The) apple (is) green, tasty and heavy        | píngguǒ, hěn lǜ, hěn hào chī, hěn zhòng | [[https://translate.google.com/#zh-CN/en/苹果,很绿,很好吃,很重][苹果,很绿,很好吃,很重]] | No "is", use of modifier hěn with adjective                        |
+| (The) apple is green                           | píngguǒ shì lǜsè de                     | [[https://translate.google.com/#zh-CN/en/苹果是绿色的][苹果是绿色的]]          | shì ..... de structure. de = adjective                             |
+| I'm hungry                                     | wǒ è le                                 | [[https://translate.google.com/#zh-CN/en/我饿了][我饿了]]                | Why no hěn?                                                        |
+| I'm also hungry                                | wǒ yě è le                              | [[https://translate.google.com/#zh-CN/en/我也饿了][我也饿了]]              | Use of yě                                                          |
+| Furthermore, also clean the kitchen (a little) | lìngwài bǎ chúfáng yě dǎsǎo yīxià       | [[https://translate.google.com/#zh-CN/en/另外把厨房也打扫一下][另外把厨房也打扫一下]]  | Use both lìngwài and yě!                                           |
+| I turned the light on                          | wǒ bǎ dēng kāile                        | [[https://translate.google.com/#zh-CN/en/我把灯开了][我把灯开了]]            | If it's not an order bǎ is usually it past - with "le"             |
+| Please turn on the light                       | qǐng dǎ kāi dēng                        | [[https://translate.google.com/#zh-CN/en/请打开灯][请打开灯]]              | dǎ - hand related                                                  |
+| Please turn of the light (bǎ)                  | qǐng bǎ dēng dǎkāi                      | [[https://translate.google.com/#zh-CN/en/请把灯打开][请把灯打开]]            |                                                                    |
+| He ate the apple (bǎ)                          | tā bǎ píngguǒ chīle                     | [[https://translate.google.com/#zh-CN/en/他把苹果吃了][他把苹果吃了]]          |                                                                    |
 
+** Putting stuff
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                              | Pinyin                          | Characters       | Notes                                     |
+|--------------------------------------+---------------------------------+------------------+-------------------------------------------|
+| Please give me (the) book            | qǐng bǎ shū gěi wǒ              | [[https://translate.google.com/#zh-CN/en/请把书给我][请把书给我]]       |                                           |
+| Fruit                                | shuǐguǒ                         | [[https://translate.google.com/#zh-CN/en/水果][水果]]             | Water fruit - guǒ as in apple             |
+| Vegetables                           | shūcài                          | [[https://translate.google.com/#zh-CN/en/蔬菜][蔬菜]]             |                                           |
+| Meat                                 | ròu                             | [[https://translate.google.com/#zh-CN/en/肉][肉]]               |                                           |
+| Flower                               | huā                             | [[https://translate.google.com/#zh-CN/en/花][花]]               |                                           |
+| Vase                                 | huāpíng                         | [[https://translate.google.com/#zh-CN/en/花瓶][花瓶]]             | Flower bottle                             |
+| Counter for bottle-like              | píng                            | [[https://translate.google.com/#zh-CN/en/瓶][瓶]]               |                                           |
+| A bottle of water                    | yī píng shuǐ                    | [[https://translate.google.com/#zh-CN/en/一瓶水][一瓶水]]           |                                           |
+| Put                                  | fàng                            | [[https://translate.google.com/#zh-CN/en/放][放]]               |                                           |
+| Put the mobile (at) on the table     | bǎ shǒujī fàng zài zhuōzi shàng | [[https://translate.google.com/#zh-CN/en/把手机放在桌子上][把手机放在桌子上]] |                                           |
+| A spoon                              | yīgè sháozi                     | [[https://translate.google.com/#zh-CN/en/一个勺子][一个勺子]]         | gè is more usual than bǎ                  |
+| A pair of chopsticks                 | yīshuāng kuàizi                 | [[https://translate.google.com/#zh-CN/en/一双筷子][一双筷子]]         |                                           |
+| A Bowl                               | yīgè wǎn                        | [[https://translate.google.com/#zh-CN/en/一个碗][一个碗]]           |                                           |
+| "Arrive it"                          | dào                             | [[https://translate.google.com/#zh-CN/en/到][到]]               | Arrive an object where you want to put it |
+| Put (arrive) the movile on the table | bǎ sháozi fàng dào zhuōzi       | [[https://translate.google.com/#zh-CN/en/把勺子放到桌子][把勺子放到桌子]]   |                                           |
+| These                                | Zhèxiē                          | [[https://translate.google.com/#zh-CN/en/这些][这些]]             | These ones  (This some)                   |
+| Those (over there)                   | Nàxiē                           | [[https://translate.google.com/#zh-CN/en/那些][那些]]             | Those ones (There some)                   |
+| A few                                | yīdiǎn                          | [[https://translate.google.com/#zh-CN/en/一点][一点]]             |                                           |
+| Some                                 | yīxiē                           | [[https://translate.google.com/#zh-CN/en/一些][一些]]             | Same xiē as these/those                   |
+| Lots                                 | hěnduō                          | [[https://translate.google.com/#zh-CN/en/很多][很多]]             | Use of hěn                                |
+
+* Publishing
+- To publish to the web C-c C-e P p
 * Misc Org
 Footnotes can be written using fn:<name> wrapped in square brackets.
 C-c C-c or C-c C-x f - jumps from footnote to reference
