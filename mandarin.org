@@ -17645,6 +17645,27 @@ They are never expressed by themselves.
 | Some                                 | yīxiē                           | [[https://translate.google.com/#zh-CN/en/一些][一些]]             | Same xiē as these/those                   |
 | Lots                                 | hěnduō                          | [[https://translate.google.com/#zh-CN/en/很多][很多]]             | Use of hěn                                |
 
+** Weekend phrases
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                              | Pinyin                                                    | Characters                       | Notes                         |
+|------------------------------------------------------+-----------------------------------------------------------+----------------------------------+-------------------------------|
+| Last weekend I was very busy                         | shàng zhōumò wǒ hěn máng                                  | [[https://translate.google.com/#zh-CN/en/上周末我很忙][上周末我很忙]]                     |                               |
+| On Saturday morning I drove to my parents house      | zhōu liù shàngwǔ wǒ kāichē qùle jiā de bàmā               | [[https://translate.google.com/#zh-CN/en/周六上午我开车去了家的爸妈][周六上午我开车去了家的爸妈]]       |                               |
+| It takes 1 hour by car                               | kāichē yī xiǎoshí                                         | [[https://translate.google.com/#zh-CN/en/开车一小时][开车一小时]]                       |                               |
+| We celebrate the my mother's birthday                | wǒmen qìngzhù māmā qù de shēngrì                          | [[https://translate.google.com/#zh-CN/en/我们庆祝妈妈去的生日][我们庆祝妈妈去的生日]]             |                               |
+| We ate lots of food                                  | wǒmen bǎ hěnduō shíwù chī le                              | [[https://translate.google.com/#zh-CN/en/我们把很多食物吃了][我们把很多食物吃了]]               |                               |
+| There was pasta, seafood and (also) cake             | miànshí, hǎixiān, yě dàngāo                               | [[https://translate.google.com/#zh-CN/en/面食, 海鲜, 也蛋糕][面食, 海鲜, 也蛋糕]]               |                               |
+| After lunch (I) played with my niece                 | wǔfàn yǐhòu hé wàishēngnǚ yīqǐ wán                        | [[https://translate.google.com/#zh-CN/en/午饭以后和外甥女一起玩][午饭以后和外甥女一起玩]]           |                               |
+| She is 4 years old                                   | tā sì suìle                                               | [[https://translate.google.com/#zh-CN/en/她四岁了][她四岁了]]                         |                               |
+| She likes to sing                                    | tā xǐhuān chànggē                                         | [[https://translate.google.com/#zh-CN/en/她喜欢唱歌][她喜欢唱歌]]                       |                               |
+| In the evening I had to work                         | wǒ zhōu liù wǎnshàng bìxū gōngzuò                         | [[https://translate.google.com/#zh-CN/en/我周六晚上必须工作][我周六晚上必须工作]]               |                               |
+| At Sunday noon, my wife and I went to buy a new sofa | zhōu tiān zhōngwǔ wǒ hé lǎopó qùle mǎi yī zhāng xīn shāfā | [[https://translate.google.com/#zh-CN/en/周天中午我和老婆去了买一张新沙发][周天中午我和老婆去了买一张新沙发]] | Can I use zhǒu - to look for? |
+| I like big leather sofas                             | wǒ xǐhuān hěn dà pígé de shāfā                            | [[https://translate.google.com/#zh-CN/en/我喜欢很大皮革的沙发][我喜欢很大皮革的沙发]]             |                               |
+| I found a brown one                                  | wǒ zhǎodàole zōngsè de.                                   | [[https://translate.google.com/#zh-CN/en/我找到了棕色的][我找到了棕色的]]                   |                               |
+| But it's a little expensive                          | bùguò, yīdiǎn guìle                                       | [[https://translate.google.com/#zh-CN/en/不过,一点贵了][不过,一点贵了]]                    |                               |
+| After shopping I went swimming to relax              | mǎi dōngxī yǐhòu, wǒ qùle yóuyǒng fàngsōng                | [[https://translate.google.com/#zh-CN/en/买东西以后,我去了游泳放松][买东西以后,我去了游泳放松]]        |                               |
+| In the evening I watch TV                            | wǒ wǎnshàng kànle diànshì yīxià                           | [[https://translate.google.com/#zh-CN/en/我晚上看了电视一下][我晚上看了电视一下]]               |                               |
+
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
