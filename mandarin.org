@@ -17650,7 +17650,7 @@ They are never expressed by themselves.
 | English                                              | Pinyin                                                    | Characters                       | Notes                         |
 |------------------------------------------------------+-----------------------------------------------------------+----------------------------------+-------------------------------|
 | Last weekend I was very busy                         | shàng zhōumò wǒ hěn máng                                  | [[https://translate.google.com/#zh-CN/en/上周末我很忙][上周末我很忙]]                     |                               |
-| On Saturday morning I went to my parents house       | zhōu liù shàngwǔ wǒ qùle bàmā de jiā                      | [[https://translate.google.com/#zh-CN/en/周六上午我去了爸妈的家][周六上午我去了爸妈的家]]           |                               |
+| On Saturday morning I went to my parents house       | zhōu liù shàngwǔ wǒ qùle fùmǔ de jiā                      | [[https://translate.google.com/#zh-CN/en/周六上午我去了父母的家][周六上午我去了父母的家]] |                               |
 | It takes 1 hour by car                               | kāichē yī xiǎoshí                                         | [[https://translate.google.com/#zh-CN/en/开车一小时][开车一小时]]                       |                               |
 | We celebrated my mother's birthday                   | wǒmen qìngzhù le māmā de shēngrì                          | [[https://translate.google.com/#zh-CN/en/我们庆祝了妈妈的生日][我们庆祝了妈妈的生日]]             |                               |
 | We ate lots of food                                  | wǒmen bǎ hěnduō shíwù chī le                              | [[https://translate.google.com/#zh-CN/en/我们把很多食物吃了][我们把很多食物吃了]]               |                               |
@@ -17665,6 +17665,57 @@ They are never expressed by themselves.
 | But it's a little expensive                          | bùguò, yīdiǎn guìle                                       | [[https://translate.google.com/#zh-CN/en/不过,一点贵了][不过,一点贵了]]                    |                               |
 | After shopping I went swimming to relax              | mǎi dōngxī yǐhòu, wǒ qùle yóuyǒng fàngsōng                | [[https://translate.google.com/#zh-CN/en/买东西以后,我去了游泳放松][买东西以后,我去了游泳放松]]        |                               |
 | In the evening I watch TV                            | wǒ wǎnshàng kànle diànshì yīxià                           | [[https://translate.google.com/#zh-CN/en/我晚上看了电视一下][我晚上看了电视一下]]               |                               |
+
+** More Taking and Putting
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                                    | Pinyin                                                  | Characters                     | Notes                                        |
+|------------------------------------------------------------+---------------------------------------------------------+--------------------------------+----------------------------------------------|
+| Next Tuesday he will go to the airport to pick-up his wife | xià zhōu'èr tā huì qù jīchǎng jiē tā de lǎopó           | 下周二他会去机场接他的老婆     |                                              |
+| Pick-up the phone / Answer the call                        | jiē diànhuà                                             | 接电话                         |                                              |
+| Please put the cup in the kitchen                          | qǐng nǐ bǎ bēizǐ fáng dào chúfáng                       | 请你把杯子房倒厨房             | dào - arrive it                              |
+| Bring (take here)                                          | ná lái                                                  | 拿来                           |                                              |
+| Put (take to)                                              | ná qù                                                   | 拿去                           |                                              |
+| Please take the cup to the kitchen                         | qǐng nǐ bǎ bēizi ná qù chúfáng                          | 请你把杯子拿去厨房             |                                              |
+| Please put the clothes in the wardrobe                     | qǐng nǐ bǎ yīfú fàng dào yīguì lǐ                       | 请你把衣服放到衣柜里           | Clothes cabinet inside                       |
+| Pass (bring) the salt                                      | bǎ yán ná lái                                           | 把盐拿来                       | Say to friend / not massively polite         |
+| Please give me the salt                                    | kěyǐ bǎ yán gěi wǒ ma                                   | 可以把盐给我吗                 |                                              |
+| Bookshelf                                                  | shūjià                                                  | 书架                           | It's not a guì it has no doors, jià is frame |
+| Please put the fish in the refrigirator                    | qǐng nǐ bǎ yú fàng dào bīngxiāng lǐ                     | 请你把鱼放到冰箱里             |                                              |
+| This evening my friends are coming to my house for dinner  | jīntiān wǎnshàng wǒ de péngyǒu lái wǒ de jiā chī wǎnfàn | 今天晚上我的朋友来我的家吃晚饭 |                                              |
+| Can you help (me)?                                         | nǐ néng bāngmáng ma                                     | 你能帮忙吗                     |                                              |
+| Help!                                                      | jiù mìng                                                | 救命                           | Help as in danger, means 'save life'         |
+* Where Did You Grow Up?
+** Born and Life
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                            | Pinyin                       | Characters       | Notes                                                  |
+|------------------------------------+------------------------------+------------------+--------------------------------------------------------|
+| Grow-up                            | zhǎng dà                     | 长大             | grow big                                               |
+| Born                               | chū shēng                    | 出生             | outside begin/arrive                                   |
+| To be alive / life                 | shēng mìng                   | 生命             | i.e. signs of life, not dead!                          |
+| (daily) life                       | shēng huó                    | 生活             | As in my life sucks                                    |
+| Specialized subject / discipline   | zhuān yè                     | 专业             | e.g. chemistry "Special Study"                         |
+| My specific work is computers      | wǒ de zhuānyè shì diànnǎo    | 我的专业是电脑   | might imply my major is IT?                            |
+| News                               | xīn wén                      | 新闻             | new hear (there's an ear in the middle)                |
+| TV News                            | diànshì xīnwén               | 电视新闻         |                                                        |
+| I have news                        | wǒ yǒu yīgè xīnwén           | 我有一个新闻     |                                                        |
+| Happy New Year                     | xīn nián hǎo                 | 新年好           | can use for International or Chinese                   |
+| Happy (Chinese) new Year           | guò nián hǎo                 | 过年好           | surviving (over/pass) nian (monster!) good             |
+| Journalist                         | jì zhě                       | 记者             | record/Make-Note Person                                |
+| Graduate                           | bì yè                        | 毕业             | finish study                                           |
+| Hardworking / toilsome             | xīn kǔ                       | 辛苦             | adjective, kǔ=bitter                                   |
+| I'm very hard working / busy       | wǒ hěn xīnkǔ                 | 我很辛苦         |                                                        |
+| Business travel                    | chū chāi                     | 出差             | Outside work                                           |
+| I'm on a business trip to China    | wǒ chūchāi qù zhōngguó       | 我出差去中国     |                                                        |
+| Writer                             | zuò jiā                      | 作家             | Of books or poems "Specific-work expert"               |
+| Homework / School assignment       | zuò yè                       | 作业             | Work study                                             |
+| TV Station                         | diànshì tái                  | 电视台           |                                                        |
+| BBC1                               | BBC yī tái                   | BBC 一台         | yīngguó guǎngbò gōngsī                                 |
+| Beijing Station/Channel            | běijīng tái                  | 北京台           |                                                        |
+| Travel Channel                     | lǚyóu tái                    | 旅游台           |                                                        |
+| Child                              | hái zi                       | 孩子             |                                                        |
+| Do you have children?              | nǐ yǒu háizi ma              | 你有孩子吗       |                                                        |
+| Children                           | háizi men                    | 孩子们           | men as in wǒ-men                                       |
+| (The) children (are) at (the) park | háizimen zài gōngyuán wán er | 孩子们在公园玩儿 | wán er is just like wán, pronounced waaa (like farmer) |
 
 * Publishing
 - To publish to the web C-c C-e P p
