@@ -17719,31 +17719,31 @@ They are never expressed by themselves.
 
 ** Another weekend
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                               | Pinyin                                                | Characters                   | Notes                     |
-|-------------------------------------------------------+-------------------------------------------------------+------------------------------+---------------------------|
-| I get up early on Saturday morning                    | wǒ xīngqíliù hěn zǎo qǐchuáng                         | 我星期六很早起床             |                           |
-| I eat egg and sausage for breakfast                   | wǒ bǎ jīdàn hé xiāngcháng zǎo fàn chīle               | 我把鸡蛋和香肠早饭吃了       |                           |
-| I studied Chinese mid-morning                         | shàngwǔ xuéxíle zhōngwén                              | 上午学习了中文               |                           |
-| Around midday I phoned my father                      | zhōngwǔ zuǒyòu wǒ gěile fùqīn dǎ diànhuà              | 中午左右我给了父亲打电话     |                           |
-| We talked about football                              | wǒmen bǎ zúqiú tánle.                                 | 我们把足球谈了               | [[http://www.lingolearn.com/64-free-learning-content5/277-chinese-word-for-discuss-tanlun-and-shangliang][tán - to discuss]]          |
-| In the afternoon I do some work                       | wǒ xiàwǔ zuòle gōngzuò.                               | 我下午做了工作               |                           |
-| In the early evening we go to a Moroccan restaurant   | bàngwǎn hé lǎopó qùle móluògē de cānguǎn              | 傍晚和老婆去了摩洛哥的餐馆   |                           |
-| I eat lamb and rice                                   | wǒ chīle yángròu hé mǐfàn                             | 我吃了羊肉和米饭             |                           |
-| Very tasty                                            | shíwù shì tián de                                     | 食物是甜的                   |                           |
-| After diner I went to the park with friends           | wǎncān de yǐhòu zài gōngyuán jiànle péngyǒu           | 晚餐的以后在公园见了朋友     |                           |
-| There is a firework display                           | wǒmen yīqǐ kànle yānhuā huìyǎn                        | 我们一起看了烟花汇演         |                           |
-| Then (I) take the bus back home                       | ránhòu zuòle gōngchē huí jiā                          | 然后坐了公车回家             |                           |
-| On Sunday morning i book some train tickets for china | xīngqítiān zǎoshang wǒ dìngle zhōngguó de huǒchē piào | 星期天早上我订了中国的火车票 |                           |
-| From Wuhan to Huaihua and then to Kunming             | cóng wǔhàn qù huáihuà, ránhòu qù kūnmíng              | 从武汉去怀化, 然后 去昆明    |                           |
-| I also book some hotels                               | wǒ yě dìngle jiǔdiàn                                  | 我也订了酒店                 |                           |
-| Then I shop online                                    | ránhòu wǒ wǎngshàng gòuwù                             | 然后我网上购物               |                           |
-| I bought something for my computer                    | wǒ wèi diànnǎo mǎile dōngxī                           | 我为电脑买了东西             | [[https://resources.allsetlearning.com/chinese/grammar/Expressing_"for"_with_"wei"][Use of wèi to express for]] |
-| In the afternoon I go to the gym                      | wǒ xiàwǔ qùle jiànshēnfáng                            | 我下午去了健身房             |                           |
-| I play squash and swim                                | wǒ dǎ bìqiú yě yóuyǒng                                | 我打壁球也游泳               |                           |
-| After I eat soup and a chicken sandwich for lunch     | ránhòu wǒ chī tāng hé jī de sānmíngzhì chī wǔfàn      | 然后我吃汤和鸡的三明治吃午饭 |                           |
-| When I return home I watch TV                         | wǒ huí jiā de shíhòu kànle diànshì                    | 我回家的时候看了电视         |                           |
-| I ate my dinner late                                  | wǒ chīle wǎnfàn hěn wǎn                               | 我吃了晚饭很晚               |                           |
-| I go to sleep at 11pm                                 | wǒ shíyī diǎn shuìjiào                                | 我十一点睡觉                 |                           |
+| English                                                         | Pinyin                                                | Characters                   | Notes                     |
+|-----------------------------------------------------------------+-------------------------------------------------------+------------------------------+---------------------------|
+| I get up early on Saturday morning                              | wǒ xīngqíliù hěn zǎo qǐchuáng                         | 我星期六很早起床             |                           |
+| I eat egg and sausage for breakfast                             | wǒ bǎ jīdàn hé xiāngcháng zǎo fàn chīle               | 我把鸡蛋和香肠早饭吃了       |                           |
+| I studied Chinese mid-morning                                   | shàngwǔ xuéxíle zhōngwén                              | 上午学习了中文               |                           |
+| Around midday I phoned my father                                | zhōngwǔ zuǒyòu wǒ gěile fùqīn dǎ diànhuà              | 中午左右我给了父亲打电话     |                           |
+| We talked about football                                        | wǒmen bǎ zúqiú tánle.                                 | 我们把足球谈了               | [[http://www.lingolearn.com/64-free-learning-content5/277-chinese-word-for-discuss-tanlun-and-shangliang][tán - to discuss]]          |
+| In the afternoon I do some work                                 | wǒ xiàwǔ zuòle gōngzuò.                               | 我下午做了工作               |                           |
+| In the early evening I go to a Moroccan restaurant with my wife | bàngwǎn hé lǎopó qùle móluògē de cānguǎn              | 傍晚和老婆去了摩洛哥的餐馆   |                           |
+| I eat lamb and rice                                             | wǒ chīle yángròu hé mǐfàn                             | 我吃了羊肉和米饭             |                           |
+| The food is sweet                                               | shíwù shì tián de                                     | 食物是甜的                   |                           |
+| After diner (we) meet friends in a park                         | wǎncān de yǐhòu zài gōngyuán jiànle péngyǒu           | 晚餐的以后在公园见了朋友     |                           |
+| Together we watch a firework display                            | wǒmen yīqǐ kànle yānhuā huìyǎn                        | 我们一起看了烟花汇演         |                           |
+| Then (I) take the bus back home                                 | ránhòu zuòle gōngchē huí jiā                          | 然后坐了公车回家             |                           |
+| On Sunday morning i booked some train tickets for china         | xīngqítiān zǎoshang wǒ dìngle zhōngguó de huǒchē piào | 星期天早上我订了中国的火车票 |                           |
+| From Wuhan to Huaihua and then to Kunming                       | cóng wǔhàn qù huáihuà, ránhòu qù kūnmíng              | 从武汉去怀化, 然后 去昆明    |                           |
+| I also book some hotels                                         | wǒ yě dìngle jiǔdiàn                                  | 我也订了酒店                 |                           |
+| Then I shop online                                              | ránhòu wǒ wǎngshàng gòuwù                             | 然后我网上购物               |                           |
+| I bought something for my computer                              | wǒ wèi diànnǎo mǎile dōngxī                           | 我为电脑买了东西             | [[https://resources.allsetlearning.com/chinese/grammar/Expressing_"for"_with_"wei"][Use of wèi to express for]] |
+| In the afternoon I go to the gym                                | wǒ xiàwǔ qùle jiànshēnfáng                            | 我下午去了健身房             |                           |
+| I play squash and swim                                          | wǒ dǎ bìqiú yě yóuyǒng                                | 我打壁球也游泳               |                           |
+| After I eat soup and a chicken sandwich for lunch               | ránhòu wǒ wǔfàn chīle tāng hé jī de sānmíngzhì        | 然后我午饭吃了汤和鸡的三明治 |                           |
+| When I return home I watch TV                                   | wǒ huí jiā de shíhòu kànle diànshì                    | 我回家的时候看了电视         |                           |
+| I ate my dinner late                                            | wǒ chīle wǎnfàn hěn wǎn                               | 我吃了晚饭很晚               |                           |
+| I go to sleep at 11pm                                           | wǒ shíyī diǎn shuìjiào                                | 我十一点睡觉                 |                           |
 
 * Publishing
 - To publish to the web C-c C-e P p
