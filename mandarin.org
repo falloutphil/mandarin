@@ -17687,64 +17687,117 @@ They are never expressed by themselves.
 * Where Did You Grow Up?
 ** Born and Life
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                            | Pinyin                       | Characters       | Notes                                                  |
-|------------------------------------+------------------------------+------------------+--------------------------------------------------------|
-| Grow-up                            | zhǎng dà                     | 长大             | grow big                                               |
-| Born                               | chū shēng                    | 出生             | outside begin/arrive                                   |
-| To be alive / life                 | shēng mìng                   | 生命             | i.e. signs of life, not dead!                          |
-| (daily) life                       | shēng huó                    | 生活             | As in my life sucks                                    |
-| Specialized subject / discipline   | zhuān yè                     | 专业             | e.g. chemistry "Special Study"                         |
-| My specific work is computers      | wǒ de zhuānyè shì diànnǎo    | 我的专业是电脑   | might imply my major is IT?                            |
-| News                               | xīn wén                      | 新闻             | new hear (there's an ear in the middle)                |
-| TV News                            | diànshì xīnwén               | 电视新闻         |                                                        |
-| I have news                        | wǒ yǒu yīgè xīnwén           | 我有一个新闻     |                                                        |
-| Happy New Year                     | xīn nián hǎo                 | 新年好           | can use for International or Chinese                   |
-| Happy (Chinese) new Year           | guò nián hǎo                 | 过年好           | surviving (over/pass) nian (monster!) good             |
-| Journalist                         | jì zhě                       | 记者             | record/Make-Note Person                                |
-| Graduate                           | bì yè                        | 毕业             | finish study                                           |
-| Hardworking / toilsome             | xīn kǔ                       | 辛苦             | adjective, kǔ=bitter                                   |
-| I'm very hard working / busy       | wǒ hěn xīnkǔ                 | 我很辛苦         |                                                        |
-| Business travel                    | chū chāi                     | 出差             | Outside work                                           |
-| I'm on a business trip to China    | wǒ chūchāi qù zhōngguó       | 我出差去中国     |                                                        |
-| Writer                             | zuò jiā                      | 作家             | Of books or poems "Specific-work expert"               |
-| Homework / School assignment       | zuò yè                       | 作业             | Work study                                             |
-| TV Station                         | diànshì tái                  | 电视台           |                                                        |
-| BBC1                               | BBC yī tái                   | BBC 一台         | yīngguó guǎngbò gōngsī                                 |
-| Beijing Station/Channel            | běijīng tái                  | 北京台           |                                                        |
-| Travel Channel                     | lǚyóu tái                    | 旅游台           |                                                        |
-| Child                              | hái zi                       | 孩子             |                                                        |
-| Do you have children?              | nǐ yǒu háizi ma              | 你有孩子吗       |                                                        |
-| Children                           | háizi men                    | 孩子们           | men as in wǒ-men                                       |
-| (The) children (are) at (the) park | háizimen zài gōngyuán wán er | 孩子们在公园玩儿 | wán er is just like wán, pronounced waaa (like farmer) |
+| English                            | Pinyin                               | Characters           | Notes                                                  |
+|------------------------------------+--------------------------------------+----------------------+--------------------------------------------------------|
+| Grow-up                            | zhǎng dà                             | 长大                 | grow big                                               |
+| Born                               | chū shēng                            | 出生                 | outside begin/arrive                                   |
+| To be alive / life                 | shēng mìng                           | 生命                 | i.e. signs of life, not dead!                          |
+| (daily) life                       | shēng huó                            | 生活                 | As in my life sucks                                    |
+| Specialized subject / discipline   | zhuān yè                             | 专业                 | e.g. chemistry "Special Study"                         |
+| My specific work is computers      | wǒ de zhuānyè shì diànnǎo            | 我的专业是电脑       | might imply my major is IT?                            |
+| News                               | xīn wén                              | 新闻                 | news hear (there's an ear in the middle), also smell   |
+| I smell lunch                      | wǒ wén dàole wǔfàn                   | 我闻到了午饭         |                                                        |
+| This dog smells bad                | zhège gǒu bù hǎo wén                 | 这个狗不好闻         |                                                        |
+| TV News                            | diànshì xīnwén                       | 电视新闻             |                                                        |
+| I have news                        | wǒ yǒu yīgè xīnwén                   | 我有一个新闻         |                                                        |
+| Happy New Year                     | xīn nián hǎo                         | 新年好               | can use for International or Chinese                   |
+| Happy (Chinese) new Year           | guò nián hǎo                         | 过年好               | surviving (over/pass) nian (monster!) good             |
+| Journalist                         | jì zhě                               | 记者                 | record/Make-Note Person                                |
+| Graduate                           | bì yè                                | 毕业                 | finish study                                           |
+| Hardworking / toilsome             | xīn kǔ                               | 辛苦                 | adjective, kǔ=bitter                                   |
+| I'm very hard working / busy       | wǒ hěn xīnkǔ                         | 我很辛苦             |                                                        |
+| My work is very hard               | wǒ de gōngzuò hěn xīnkǔ              | 我的工作很辛苦       |                                                        |
+| Last week I worked very hard       | shàng gè xīngqí wǒ gōngzuò hěn xīnkǔ | 上个星期我工作很辛苦 |                                                        |
+| Business travel                    | chū chāi                             | 出差                 | Outside work                                           |
+| I'm on a business trip to China    | wǒ chūchāi qù zhōngguó               | 我出差去中国         |                                                        |
+| Writer                             | zuò jiā                              | 作家                 | Of books or poems "Specific-work expert"               |
+| Homework / School assignment       | zuò yè                               | 作业                 | Work study                                             |
+| TV Station                         | diànshì tái                          | 电视台               |                                                        |
+| BBC1                               | BBC yī tái                           | BBC 一台             | yīngguó guǎngbò gōngsī                                 |
+| Beijing Station/Channel            | běijīng tái                          | 北京台               |                                                        |
+| Travel Channel                     | lǚyóu tái                            | 旅游台               |                                                        |
+| Child                              | hái zi                               | 孩子                 |                                                        |
+| Do you have children?              | nǐ yǒu háizi ma                      | 你有孩子吗           |                                                        |
+| Children                           | háizi men                            | 孩子们               | men as in wǒ-men                                       |
+| (The) children (are) at (the) park | háizimen zài gōngyuán wán er         | 孩子们在公园玩儿     | wán er is just like wán, pronounced waaa (like farmer) |
 
 ** Another weekend
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                                         | Pinyin                                                | Characters                   | Notes                     |
-|-----------------------------------------------------------------+-------------------------------------------------------+------------------------------+---------------------------|
-| I get up early on Saturday morning                              | wǒ xīngqíliù hěn zǎo qǐchuáng                         | 我星期六很早起床             |                           |
-| I eat egg and sausage for breakfast                             | wǒ bǎ jīdàn hé xiāngcháng zǎo fàn chīle               | 我把鸡蛋和香肠早饭吃了       |                           |
-| I studied Chinese mid-morning                                   | shàngwǔ xuéxíle zhōngwén                              | 上午学习了中文               |                           |
-| Around midday I phoned my father                                | zhōngwǔ zuǒyòu wǒ gěile fùqīn dǎ diànhuà              | 中午左右我给了父亲打电话     |                           |
-| We talked about football                                        | wǒmen bǎ zúqiú tánle.                                 | 我们把足球谈了               | [[http://www.lingolearn.com/64-free-learning-content5/277-chinese-word-for-discuss-tanlun-and-shangliang][tán - to discuss]]          |
-| In the afternoon I do some work                                 | wǒ xiàwǔ zuòle gōngzuò.                               | 我下午做了工作               |                           |
-| In the early evening I go to a Moroccan restaurant with my wife | bàngwǎn hé lǎopó qùle móluògē de cānguǎn              | 傍晚和老婆去了摩洛哥的餐馆   |                           |
-| I eat lamb and rice                                             | wǒ chīle yángròu hé mǐfàn                             | 我吃了羊肉和米饭             |                           |
-| The food is sweet                                               | shíwù shì tián de                                     | 食物是甜的                   |                           |
-| After diner (we) meet friends in a park                         | wǎncān de yǐhòu zài gōngyuán jiànle péngyǒu           | 晚餐的以后在公园见了朋友     |                           |
-| Together we watch a firework display                            | wǒmen yīqǐ kànle yānhuā huìyǎn                        | 我们一起看了烟花汇演         |                           |
-| Then (I) take the bus back home                                 | ránhòu zuòle gōngchē huí jiā                          | 然后坐了公车回家             |                           |
-| On Sunday morning i booked some train tickets for china         | xīngqítiān zǎoshang wǒ dìngle zhōngguó de huǒchē piào | 星期天早上我订了中国的火车票 |                           |
-| From Wuhan to Huaihua and then to Kunming                       | cóng wǔhàn qù huáihuà, ránhòu qù kūnmíng              | 从武汉去怀化, 然后 去昆明    |                           |
-| I also book some hotels                                         | wǒ yě dìngle jiǔdiàn                                  | 我也订了酒店                 |                           |
-| Then I shop online                                              | ránhòu wǒ wǎngshàng gòuwù                             | 然后我网上购物               |                           |
-| I bought something for my computer                              | wǒ wèi diànnǎo mǎile dōngxī                           | 我为电脑买了东西             | [[https://resources.allsetlearning.com/chinese/grammar/Expressing_"for"_with_"wei"][Use of wèi to express for]] |
-| In the afternoon I go to the gym                                | wǒ xiàwǔ qùle jiànshēnfáng                            | 我下午去了健身房             |                           |
-| I play squash and swim                                          | wǒ dǎ bìqiú yě yóuyǒng                                | 我打壁球也游泳               |                           |
-| After I eat soup and a chicken sandwich for lunch               | ránhòu wǒ wǔfàn chīle tāng hé jī de sānmíngzhì        | 然后我午饭吃了汤和鸡的三明治 |                           |
-| When I return home I watch TV                                   | wǒ huí jiā de shíhòu kànle diànshì                    | 我回家的时候看了电视         |                           |
-| I ate my dinner late                                            | wǒ chīle wǎnfàn hěn wǎn                               | 我吃了晚饭很晚               |                           |
-| I go to sleep at 11pm                                           | wǒ shíyī diǎn shuìjiào                                | 我十一点睡觉                 |                           |
-
+| English                                                         | Pinyin                                                | Characters                     | Notes                                          |
+|-----------------------------------------------------------------+-------------------------------------------------------+--------------------------------+------------------------------------------------|
+| I get up early on Saturday morning                              | wǒ xīngqíliù hěn zǎo qǐchuáng                         | 我星期六很早起床               |                                                |
+| I eat egg and sausage for breakfast                             | wǒ bǎ jīdàn hé xiāngcháng zǎo fàn chīle               | 我把鸡蛋和香肠早饭吃了         |                                                |
+| I studied Chinese mid-morning                                   | shàngwǔ xuéxíle zhōngwén                              | 上午学习了中文                 |                                                |
+| Around midday I phoned my father                                | zhōngwǔ zuǒyòu wǒ gěi fùqīn dǎle diànhuà              | 中午左右我给父亲打了电话       |                                                |
+| We chatted about football                                       | wǒmen liáole zúqiú                                    | 我们聊了足球                   | liáo - to casually discuss                     |
+| In the afternoon I do some work                                 | wǒ xiàwǔ zuòle gōngzuò.                               | 我下午做了工作                 |                                                |
+| In the early evening I go to a Moroccan restaurant with my wife | bàngwǎn hé lǎopó qùle móluògē de cānguǎn              | 傍晚和老婆去了摩洛哥的餐馆     |                                                |
+| I eat lamb and rice                                             | wǒ chīle yángròu hé mǐfàn                             | 我吃了羊肉和米饭               |                                                |
+| The food is sweet                                               | shíwù shì tián de                                     | 食物是甜的                     |                                                |
+| After diner (we) meet friends in a park                         | wǎncān de yǐhòu zài gōngyuán jiànle péngyǒu           | 晚餐的以后在公园见了朋友       |                                                |
+| Together we watch a firework display                            | wǒmen yīqǐ kànle yānhuā biǎoyǎn                       | 我们一起看了烟花表演           | yānhuā biǎoyǎn - smoke flower performance/show |
+| Then (I) take the bus back home                                 | ránhòu zuòle gōngchē huí jiā                          | 然后坐了公车回家               |                                                |
+| On Sunday morning i booked some train tickets for china         | xīngqítiān zǎoshang wǒ dìngle zhōngguó de huǒchē piào | 星期天早上我订了中国的火车票   |                                                |
+| From Wuhan to Huaihua and then to Kunming                       | cóng wǔhàn qù huáihuà, ránhòu qù kūnmíng              | 从武汉去怀化, 然后 去昆明      |                                                |
+| I also book some hotels                                         | wǒ yě dìngle jiǔdiàn                                  | 我也订了酒店                   |                                                |
+| Then I shop online                                              | ránhòu wǒ wǎngshàng gòuwù                             | 然后我网上购物                 |                                                |
+| I bought something for my computer                              | wǒ gěi diànnǎo mǎile dōngxī                           | 我给电脑买了东西               | gěi - you give it to your computer             |
+| In the afternoon I go to the gym                                | wǒ xiàwǔ qùle jiànshēnfáng                            | 我下午去了健身房               |                                                |
+| I play squash and swim                                          | wǒ dǎ bìqiú yě yóuyǒng                                | 我打壁球也游泳                 |                                                |
+| After I eat soup and a chicken sandwich for lunch               | ránhòu wǒ wǔfàn chīle tāng hé jīròu de sānmíngzhì     | 然后我午饭吃了汤和鸡肉的三明治 |                                                |
+| After (returning) back home I watched TV                        | huí jiā yǐhòu kànle diànshì                           | 回家以后看了电视               |                                                |
+| I ate my dinner late                                            | wǒ chīle wǎnfàn hěn wǎn                               | 我吃了晚饭很晚                 |                                                |
+| I go to sleep at 11pm                                           | wǒ shíyī diǎn shuìjiào                                | 我十一点睡觉                   |                                                |
+** Use of guò or le
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                               | Pinyin                            | Characters         | Notes                                                     |
+|---------------------------------------+-----------------------------------+--------------------+-----------------------------------------------------------|
+| Usual time                            | zhèngcháng de shíhòu              | 正常的时候         | zhèngcháng = normal                                       |
+| Performance / show                    | biǎoyǎn                           | 表演               |                                                           |
+| Actor                                 | yǎnyuán                           | 演员               |                                                           |
+| I smoke cigarettes                    | wǒ chōuyān xiāngyān               | 我抽烟香烟         | chōu - to pump / draw in yān - smoke                      |
+| Did you drink alcohol?                | nǐ hējiǔle ma                     | 你喝酒了吗         | Position of le not directly after hē                      |
+| Yes (I drank)                         | wǒ hēle                           | 我喝了             | "le" required in positive case                            |
+| No (I didn't drink)                   | wǒ méi hē                         | 我没喝             | No "le" in negative case                                  |
+| I don't (ever) drink                  | wǒ bù hē                          | 我不喝             |                                                           |
+| Have you drunk alcohol?               | nǐ hēle jiǔ ma                    | 你喝了酒吗         | hē is in past                                             |
+| Have you ever drunk alcohol?          | nǐ hējiǔguòle ma                  | 你喝酒过了吗       | Use of guò                                                |
+| Last weekend did you study Chinese?   | shàng zhōumò nǐ xué zhōngwénle ma | 上周末你学中文了吗 | "le" after Chinese not Study                              |
+| I haven't (ever) read this book       | Wǒ méi kànguò zhè běn shū         | 我没看过这本书     | No -ve "le". Use of guò - never                           |
+| I haven't (recently) read this book   | wǒ méi kàn zhè běn shū            | 我没看这本书       | eg may be you read it ages ago                            |
+| I have not been to America            | wǒ méi qùguò měiguó               | 我没去过美国       | No -ve "le". Use of guò - never                           |
+| Have you (ever) read this book?       | nǐ kànguò zhè běn shū ma          | 你看过这本书吗     |                                                           |
+| Yes, I've read it                     | duì, wǒ kànguò                    | 对, 我看过         |                                                           |
+| No, I haven't read it                 | bù, wǒ méi kànguò                 | 不, 我没看过       |                                                           |
+| I have a lot of work                  | wǒ yǒu hěnduō gōngzuò             | 我有很多工作       | gōngzuò is noun or verb                                   |
+| I'm very busy                         | wǒ hěn máng                       | 我很忙             | NO shì, need hěn                                          |
+| I am annoyed/annoying                 | wǒ hěn fán                        | 我很烦             | Context dependant                                         |
+| Work is annoying                      | gōngzuò hěn fán                   | 工作很烦           |                                                           |
+| I should complete (my) work           | wǒ déi wánchéng gōngzuò.          | 我得完成工作       | wánchéng - complete                                       |
+| Finish (but not complete)             | jiéshù                            | 结束               |                                                           |
+| I just need (a) computer and internet | wǒ zhǐyào diànnǎo hé shàngwǎng    | 我只要电脑和上网   |                                                           |
+| I (am) bored / boring                 | wǒ hěn wúliáo                     | 我很无聊           | wúliáo - nothing chat. Don't know what to do with my time |
+| You (are) boring / bored              | nǐ hǎo wúliáo                     | 你好无聊           | hǎo - very, as well as good.  Doing pointless things      |
+| This book is boring                   | zhè běn shū wúliáo                | 这本书无聊         |                                                           |
+** Describing my Job
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                                    | Pinyin                                            | Characters                   | Notes                           |
+|------------------------------------------------------------+---------------------------------------------------+------------------------------+---------------------------------|
+| My job is (a) computer consultant                          | wǒ de gōngzuò shì diànnǎo gùwèn                   | 我的工作是电脑顾问           |                                 |
+| I work at a small company                                  | wǒ zài xiǎo gōngsī gōngzuò                        | 我在小公司工作               |                                 |
+| We do financial management for banks                       | wǒmen gěi yínháng zuò cáiwù guǎnlǐ                | 我们给银行做财务管理         |                                 |
+| I usually use computers to do (my) work                    | wǒ tōngcháng yòng diànnǎo gōngzuò                 | 我通常用电脑工作             |                                 |
+| Spreadsheets                                               | diànzǐ biǎogé                                     | 电子表格                     |                                 |
+| Computer Programming                                       | diànnǎo biānchéng                                 | 电脑编程                     |                                 |
+| I often work from home                                     | wǒ jīngcháng zàijiā gōngzuò                       | 我经常在家工作               |                                 |
+| Home is quieter than the office                            | jiā bǐ bàngōngshì ānjìng                          | 家比办公室安静               |                                 |
+| When I go to the office I take the subway                  | wǒ qù bàngōngshì shàngbān de shíhòu zài zuò dìtiě | 我去办公室上班的时候在坐地铁 |                                 |
+| The subway is always busy                                  | dìtiě zǒng zhí hěn máng                           | 地铁总直很忙                 |                                 |
+| The office is on the 7th floor                             | bàngōngshì zài qī lóu                             | 办公室在七楼                 |                                 |
+| Beautiful views from the window                            | chuāng wài dì měi jǐng                            | 窗外的美景                   | window outside's beautiful view |
+| There are many delicious restaurants near the office       | bàngōngshì fùjìn yǒu hěnduō hào chī de cānguǎn.   | 办公室附近有很多好吃的餐馆   |                                 |
+| So I like to go out for lunch                              | suǒyǐ wǒ xǐhuān chūqù chī wǔfàn                   | 所以我喜欢出去吃午饭         | So I like out go eat lunch      |
+| I sometimes have meetings with colleagues in the afternoon | wǒ xiàwǔ yǒu shíhòu hé tóngshì kāihuì             | 我下午有时候和同事开会       | kāihuì like kāichē              |
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
