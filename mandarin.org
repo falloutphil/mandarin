@@ -17781,23 +17781,25 @@ They are never expressed by themselves.
 | This book is boring                   | zhè běn shū wúliáo                | 这本书无聊         |                                                           |
 ** Describing my Job
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                                    | Pinyin                                            | Characters                   | Notes                           |
-|------------------------------------------------------------+---------------------------------------------------+------------------------------+---------------------------------|
-| My job is (a) computer consultant                          | wǒ de gōngzuò shì diànnǎo gùwèn                   | 我的工作是电脑顾问           |                                 |
-| I work at a small company                                  | wǒ zài xiǎo gōngsī gōngzuò                        | 我在小公司工作               |                                 |
-| We do financial management for banks                       | wǒmen gěi yínháng zuò cáiwù guǎnlǐ                | 我们给银行做财务管理         |                                 |
-| I usually use computers to do (my) work                    | wǒ tōngcháng yòng diànnǎo gōngzuò                 | 我通常用电脑工作             |                                 |
-| Spreadsheets                                               | diànzǐ biǎogé                                     | 电子表格                     |                                 |
-| Computer Programming                                       | diànnǎo biānchéng                                 | 电脑编程                     |                                 |
-| I often work from home                                     | wǒ jīngcháng zàijiā gōngzuò                       | 我经常在家工作               |                                 |
-| Home is quieter than the office                            | jiā bǐ bàngōngshì ānjìng                          | 家比办公室安静               |                                 |
-| When I go to the office I take the subway                  | wǒ qù bàngōngshì shàngbān de shíhòu zài zuò dìtiě | 我去办公室上班的时候在坐地铁 |                                 |
-| The subway is always busy                                  | dìtiě zǒng zhí hěn máng                           | 地铁总直很忙                 |                                 |
-| The office is on the 7th floor                             | bàngōngshì zài qī lóu                             | 办公室在七楼                 |                                 |
-| Beautiful views from the window                            | chuāng wài dì měi jǐng                            | 窗外的美景                   | window outside's beautiful view |
-| There are many delicious restaurants near the office       | bàngōngshì fùjìn yǒu hěnduō hào chī de cānguǎn.   | 办公室附近有很多好吃的餐馆   |                                 |
-| So I like to go out for lunch                              | suǒyǐ wǒ xǐhuān chūqù chī wǔfàn                   | 所以我喜欢出去吃午饭         | So I like out go eat lunch      |
-| I sometimes have meetings with colleagues in the afternoon | wǒ xiàwǔ yǒu shíhòu hé tóngshì kāihuì             | 我下午有时候和同事开会       | kāihuì like kāichē              |
+| English                                                    | Pinyin                                            | Characters                   | Notes                                                 |
+|------------------------------------------------------------+---------------------------------------------------+------------------------------+-------------------------------------------------------|
+| My job is (a) computer consultant                          | wǒ de gōngzuò shì diànnǎo gùwèn                   | 我的工作是电脑顾问           | gōngzuò - working generally, rather than relaxing     |
+| I work at a small company                                  | wǒ zài xiǎo gōngsī shàngbān                       | 我在小公司上班               | shàngbān - doing work according to set schedule / job |
+| We do financial management for banks                       | wǒmen gěi yínháng zuò cáiwù guǎnlǐ                | 我们给银行做财务管理         | we give banks the financial management we do          |
+| I usually use computers to do (my) work                    | wǒ tōngcháng yòng diànnǎo gōngzuò                 | 我通常用电脑工作             |                                                       |
+| Spreadsheets                                               | diànzǐ biǎogé                                     | 电子表格                     |                                                       |
+| Computer Programming                                       | diànnǎo biānchéng                                 | 电脑编程                     |                                                       |
+| I often work from home                                     | wǒ jīngcháng zàijiā gōngzuò                       | 我经常在家工作               |                                                       |
+| Home is quieter than the office                            | jiā bǐ bàngōngshì ānjìng                          | 家比办公室安静               |                                                       |
+| When I go to the office I take the subway                  | wǒ qù bàngōngshì shàngbān de shíhòu zài zuò dìtiě | 我去办公室上班的时候在坐地铁 | zuò - to sit / take                                   |
+| The subway is always busy                                  | dìtiě zǒng shì hěn máng                           | 地铁总直很忙                 | zǒng shì = always (-ve connotation)                   |
+| The office is on the 7th floor                             | bàngōngshì zài qī lóu                             | 办公室在七楼                 |                                                       |
+| Beautiful views from the window                            | chuāng wài dì měi jǐng                            | 窗外的美景                   | window outside's beautiful view                       |
+| There are many delicious restaurants near the office       | bàngōngshì fùjìn yǒu hěnduō hào chī de cānguǎn    | 办公室附近有很多好吃的餐馆   |                                                       |
+| So I like to go out for lunch                              | suǒyǐ wǒ xǐhuān chūqù chī wǔfàn                   | 所以我喜欢出去吃午饭         | So I like out go eat lunch                            |
+| I sometimes have meetings with colleagues in the afternoon | wǒ xiàwǔ yǒu shíhòu hé tóngshì kāihuì             | 我下午有时候和同事开会       | kāihuì like kāichē                                    |
+| Now we are extremely busy                                  | xiànzài wǒmen máng jíle                           | 现在我们忙极了               | jíle - extremely                                      |
+| I often have to work late                                  | wǒ bìxū jīngcháng gōngzuò hěn wǎn                 | 我必须经常工作很晚           | bìxū - must                                           |
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
