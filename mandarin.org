@@ -17781,25 +17781,72 @@ They are never expressed by themselves.
 | This book is boring                   | zhè běn shū wúliáo                | 这本书无聊         |                                                           |
 ** Describing my Job
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                                    | Pinyin                                            | Characters                   | Notes                                                 |
-|------------------------------------------------------------+---------------------------------------------------+------------------------------+-------------------------------------------------------|
-| My job is (a) computer consultant                          | wǒ de gōngzuò shì diànnǎo gùwèn                   | 我的工作是电脑顾问           | gōngzuò - working generally, rather than relaxing     |
-| I work at a small company                                  | wǒ zài xiǎo gōngsī shàngbān                       | 我在小公司上班               | shàngbān - doing work according to set schedule / job |
-| We do financial management for banks                       | wǒmen gěi yínháng zuò cáiwù guǎnlǐ                | 我们给银行做财务管理         | we give banks the financial management we do          |
-| I usually use computers to do (my) work                    | wǒ tōngcháng yòng diànnǎo gōngzuò                 | 我通常用电脑工作             |                                                       |
-| Spreadsheets                                               | diànzǐ biǎogé                                     | 电子表格                     |                                                       |
-| Computer Programming                                       | diànnǎo biānchéng                                 | 电脑编程                     |                                                       |
-| I often work from home                                     | wǒ jīngcháng zàijiā gōngzuò                       | 我经常在家工作               |                                                       |
-| Home is quieter than the office                            | jiā bǐ bàngōngshì ānjìng                          | 家比办公室安静               |                                                       |
-| When I go to the office I take the subway                  | wǒ qù bàngōngshì shàngbān de shíhòu zài zuò dìtiě | 我去办公室上班的时候在坐地铁 | zuò - to sit / take                                   |
-| The subway is always busy                                  | dìtiě zǒng shì hěn máng                           | 地铁总直很忙                 | zǒng shì = always (-ve connotation)                   |
-| The office is on the 7th floor                             | bàngōngshì zài qī lóu                             | 办公室在七楼                 |                                                       |
-| Beautiful views from the window                            | chuāng wài dì měi jǐng                            | 窗外的美景                   | window outside's beautiful view                       |
-| There are many delicious restaurants near the office       | bàngōngshì fùjìn yǒu hěnduō hào chī de cānguǎn    | 办公室附近有很多好吃的餐馆   |                                                       |
-| So I like to go out for lunch                              | suǒyǐ wǒ xǐhuān chūqù chī wǔfàn                   | 所以我喜欢出去吃午饭         | So I like out go eat lunch                            |
-| I sometimes have meetings with colleagues in the afternoon | wǒ xiàwǔ yǒu shíhòu hé tóngshì kāihuì             | 我下午有时候和同事开会       | kāihuì like kāichē                                    |
-| Now we are extremely busy                                  | xiànzài wǒmen máng jíle                           | 现在我们忙极了               | jíle - extremely                                      |
-| I often have to work late                                  | wǒ bìxū jīngcháng gōngzuò hěn wǎn                 | 我必须经常工作很晚           | bìxū - must                                           |
+| English                                                    | Pinyin                                         | Characters                 | Notes                                                 |
+|------------------------------------------------------------+------------------------------------------------+----------------------------+-------------------------------------------------------|
+| My job is (a) computer consultant                          | wǒ de gōngzuò shì diànnǎo gùwèn                | 我的工作是电脑顾问         | gōngzuò - working generally, rather than relaxing     |
+| I work at a small company                                  | wǒ zài xiǎo gōngsī shàngbān                    | 我在小公司上班             | shàngbān - doing work according to set schedule / job |
+| We do financial management for banks                       | wǒmen gěi yínháng zuò cáiwù guǎnlǐ             | 我们给银行做财务管理       | we give banks the financial management we do          |
+| I usually use computers to do (my) work                    | wǒ tōngcháng yòng diànnǎo gōngzuò              | 我通常用电脑工作           |                                                       |
+| Spreadsheets                                               | diànzǐ biǎogé                                  | 电子表格                   |                                                       |
+| Computer Programming                                       | diànnǎo biānchéng                              | 电脑编程                   |                                                       |
+| I often work from home                                     | wǒ jīngcháng zàijiā gōngzuò                    | 我经常在家工作             |                                                       |
+| Home is quieter than the office                            | jiā bǐ bàngōngshì ānjìng                       | 家比办公室安静             |                                                       |
+| I take the subway to the office                            | wǒ zuò dìtiě qù bàngōngshì                     | 我坐地铁去办公室           | zuò - to sit / take                                   |
+| The subway is always busy                                  | dìtiě zǒng shì hěn máng                        | 地铁总直很忙               | zǒng shì = always (-ve connotation)                   |
+| The office is on the 7th floor                             | bàngōngshì zài qī lóu                          | 办公室在七楼               |                                                       |
+| Beautiful view from the window                             | chuāng wài yǒu měi jǐng                        | 窗外有美景                 | window outside has beautiful scenery                  |
+| There are many delicious restaurants near the office       | bàngōngshì fùjìn yǒu hěnduō hào chī de cānguǎn | 办公室附近有很多好吃的餐馆 |                                                       |
+| So I like to go out for lunch                              | suǒyǐ wǒ xǐhuān chūqù chī wǔfàn                | 所以我喜欢出去吃午饭       | So I like out go eat lunch                            |
+| I sometimes have meetings with colleagues in the afternoon | wǒ xiàwǔ yǒu shíhòu hé tóngshì kāihuì          | 我下午有时候和同事开会     | kāihuì like kāichē                                    |
+| Now we are extremely busy                                  | xiànzài wǒmen máng jíle                        | 现在我们忙极了             | jíle - extremely                                      |
+| I often have to work late                                  | wǒ bìxū jīngcháng gōngzuò hěn wǎn              | 我必须经常工作很晚         | bìxū - must                                           |
+** Words from Holiday Chat
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                         | Pinyin                                                      | Characters                          | Notes                                                   |
+|-------------------------------------------------+-------------------------------------------------------------+-------------------------------------+---------------------------------------------------------|
+| Beach                                           | hǎi tān                                                     | 海滩                                | Could be rocky                                          |
+| Sandy Beach                                     | shā tān                                                     | 沙滩                                |                                                         |
+| Small Island                                    | xiǎo dǎo                                                    | 小岛                                |                                                         |
+| Scuba Diving                                    | qián shuǐ                                                   | 潜水                                | diving water                                            |
+| Sky Diving                                      | tiào sǎn                                                    | 跳伞                                | jump umbrella                                           |
+| Difficult                                       | nán                                                         | 难                                  |                                                         |
+| Not Difficult                                   | bù nán                                                      | 不难                                |                                                         |
+| Danger/Dangerous                                | wéi xiǎn                                                    | 危险                                | Both noun and adjective                                 |
+| The sea is not dangerous                        | hǎi bù wéixiǎn                                              | 海不危险                            |                                                         |
+| There is no danger in the sea                   | hǎilǐ méiyǒu wéixiǎn                                        | 海里没有危险                        | Sea-inside not have danger                              |
+| Mall / Shopping Centre                          | shāng chǎng                                                 | 商场                                | Shop large flat area                                    |
+| On Black Friday many malls have 50% off clothes | zài hēiwǔ hěnduō shāngchǎng de yīfú dǎ wǔ zhé               | 在黑五很多商场的衣服打五折          | Black Friday shortened to hēiwǔ from hēisè xīngqíwǔ     |
+| To (take a) shower [specifically]               | lín yù                                                      | 淋浴                                | Drip/Drench bathe. More usual you use the general xǐzǎo |
+| Sunbathing                                      | rì guāng yù                                                 | 日光浴                              | Sun rays-of-light bathe                                 |
+| Sunbathing                                      | tàiyáng yù                                                  | 太阳浴                              | tàiyáng - sun, yù - bathe                               |
+| Light from living-room light                    | dēng guāng                                                  | 灯光                                | Same guāng as rays from sunbathing                      |
+| Moonlight                                       | yuè guāng                                                   | 月光                                | Same guāng as rays from sunbathing.  Moon rays.         |
+| Vision, view, or insight                        | yǎn guāng                                                   | 眼光                                | Eye light - the light from your eyes                    |
+| Her view is not good                            | tā de yǎnguāng bù hǎo                                       | 她的眼光不好                        | You disagree with her vision/view/opinion               |
+| Your view is good                               | nǐ de yǎnguāng hěn hǎo                                      | 你的眼光很好                        | Your eye-light is good - "totally agree" visual outlook |
+| Relax / Relaxing / Relaxation                   | fàngsōng                                                    | 放松                                |                                                         |
+| All (of them)                                   | dōu                                                         | 都                                  |                                                         |
+| Some (of them)                                  | yīxiē                                                       | 一些                                |                                                         |
+| In Miami some restaurants have Cuban food       | zài mài'āmì yīxiē cānguǎn yǒu gǔbā de shíwù                 | 在迈阿密一些餐馆有古巴的食物        |                                                         |
+| In Miami, all restaurants have big dishes       | zài mài'āmì, dōu cānguǎn yǒu dàcài                          | 在迈阿密,都餐馆有大菜               |                                                         |
+| Still (you) have more?                          | hái yǒu ma                                                  | 还有吗                              | In context here - did you have any other types of food? |
+| For example / such as                           | bǐrú                                                        | 比如                                |                                                         |
+| Spain                                           | xībānyá                                                     | 西班牙                              |                                                         |
+| Holland                                         | hélán                                                       | 荷兰                                |                                                         |
+| South (Latin) American Food                     | nánměi de shíwù                                             | 南美的食物                          |                                                         |
+| Did you drink?                                  | hējiǔ                                                       | 喝酒                                | Literally - drink alcohol?                              |
+| (The) same                                      | yīyàng                                                      | 一样                                | Yang means shape or look, so one shape.                 |
+| Different / Not (the) same                      | bù yīyàng                                                   | 不一样                              | Zěnme yàng - how does it look                           |
+| Is American beer the same as British?           | měiguó de píjiǔ hé yīngguó de yīyàng ma                     | 美国的啤酒和英国的一样吗            |                                                         |
+| I like American beer, but I prefer British      | wǒ xǐhuān měiguó de píjiǔ, dànshì wǒ gèng xǐhuān yīngguó de | 我喜欢美国的啤酒,但是我更喜欢英国的 | gèng is "more" - so "like more"                         |
+| I don't like much .....                         | wǒ gèng bù xǐhuān .....                                     | 我更不喜欢 .....                    | Lit. "I more don't like"                                |
+| I dislike / hate                                | wǒ tǎoyàn                                                   | 我讨厌                              |                                                         |
+| I dislike running but dislike swimming more     | wǒ tǎoyàn pǎobù dànshì wǒ gèng tǎoyàn yóuyǒng               | 我讨厌跑步但是我更讨厌游泳          |                                                         |
+| I don't hate swimming but I don't like it       | wǒ bù tǎoyàn yóuyǒng, dànshì wǒ bù xǐhuān                   | 我不讨厌游泳,但是我不喜欢           |                                                         |
+| (Getting) better and better                     | yuè lái yuè hǎo                                             | 越来越好                            | gooder and gooder                                       |
+| More and more (numerous)                        | yuè lái yuè duō                                             | 越来越多                            |                                                         |
+| London is getting colder                        | lúndūn yuè lái yuè lěng                                     | 伦敦越来越冷                        | London more and more cold                               |
+
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
