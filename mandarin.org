@@ -17687,39 +17687,53 @@ They are never expressed by themselves.
 * Where Did You Grow Up?
 ** Born and Life
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                            | Pinyin                               | Characters           | Notes                                                  |
-|------------------------------------+--------------------------------------+----------------------+--------------------------------------------------------|
-| Grow-up                            | zhǎng dà                             | 长大                 | grow big                                               |
-| Born                               | chū shēng                            | 出生                 | outside begin/arrive                                   |
-| To be alive / life                 | shēng mìng                           | 生命                 | i.e. signs of life, not dead!                          |
-| (daily) life                       | shēng huó                            | 生活                 | As in my life sucks                                    |
-| Specialized subject / discipline   | zhuān yè                             | 专业                 | e.g. chemistry "Special Study"                         |
-| My specific work is computers      | wǒ de zhuānyè shì diànnǎo            | 我的专业是电脑       | might imply my major is IT?                            |
-| News                               | xīn wén                              | 新闻                 | news hear (there's an ear in the middle), also smell   |
-| I smell lunch                      | wǒ wén dàole wǔfàn                   | 我闻到了午饭         |                                                        |
-| This dog smells bad                | zhège gǒu bù hǎo wén                 | 这个狗不好闻         |                                                        |
-| TV News                            | diànshì xīnwén                       | 电视新闻             |                                                        |
-| I have news                        | wǒ yǒu yīgè xīnwén                   | 我有一个新闻         |                                                        |
-| Happy New Year                     | xīn nián hǎo                         | 新年好               | can use for International or Chinese                   |
-| Happy (Chinese) new Year           | guò nián hǎo                         | 过年好               | surviving (over/pass) nian (monster!) good             |
-| Journalist                         | jì zhě                               | 记者                 | record/Make-Note Person                                |
-| Graduate                           | bì yè                                | 毕业                 | finish study                                           |
-| Hardworking / toilsome             | xīn kǔ                               | 辛苦                 | adjective, kǔ=bitter                                   |
-| I'm very hard working / busy       | wǒ hěn xīnkǔ                         | 我很辛苦             |                                                        |
-| My work is very hard               | wǒ de gōngzuò hěn xīnkǔ              | 我的工作很辛苦       |                                                        |
-| Last week I worked very hard       | shàng gè xīngqí wǒ gōngzuò hěn xīnkǔ | 上个星期我工作很辛苦 |                                                        |
-| Business travel                    | chū chāi                             | 出差                 | Outside work                                           |
-| I'm on a business trip to China    | wǒ chūchāi qù zhōngguó               | 我出差去中国         |                                                        |
-| Writer                             | zuò jiā                              | 作家                 | Of books or poems "Specific-work expert"               |
-| Homework / School assignment       | zuò yè                               | 作业                 | Work study                                             |
-| TV Station                         | diànshì tái                          | 电视台               |                                                        |
-| BBC1                               | BBC yī tái                           | BBC 一台             | yīngguó guǎngbò gōngsī                                 |
-| Beijing Station/Channel            | běijīng tái                          | 北京台               |                                                        |
-| Travel Channel                     | lǚyóu tái                            | 旅游台               |                                                        |
-| Child                              | hái zi                               | 孩子                 |                                                        |
-| Do you have children?              | nǐ yǒu háizi ma                      | 你有孩子吗           |                                                        |
-| Children                           | háizi men                            | 孩子们               | men as in wǒ-men                                       |
-| (The) children (are) at (the) park | háizimen zài gōngyuán wán er         | 孩子们在公园玩儿     | wán er is just like wán, pronounced waaa (like farmer) |
+| English                                        | Pinyin                                         | Characters                  | Notes                                                  |
+|------------------------------------------------+------------------------------------------------+-----------------------------+--------------------------------------------------------|
+| Grow-up                                        | zhǎng dà                                       | 长大                        | grow big                                               |
+| Born                                           | chū shēng                                      | 出生                        | outside begin/arrive                                   |
+| Where were you born?                           | nǐ zài nǎlǐ chūshēng                           | 你在哪里出生                |                                                        |
+| Did you grow-up in China?                      | nǐ zài zhōngguó zhǎng dà ma                    | 你在中国长大吗              |                                                        |
+| Were you also born in China?                   | nǐ yě zài zhōngguó chūshēng ma                 | 你也在中国出生吗            | Use of yě                                              |
+| Am not (I was not)                             | bùshì                                          | 不是                        |                                                        |
+| Not in/at (I was not)                          | bùzài                                          | 不在                        |                                                        |
+| No, I was born in the UK                       | bùzài, wǒ zài yīngguó chūshēng                 | 不在,我在英国出生           |                                                        |
+| When did you come to China?                    | nǐ shénme shíhòu lái zhōngguó de               | 你什么时候来中国的          | de means nothing!                                      |
+| Six years ago                                  | liù nián qián                                  | 六年前                      | Note not yīqián                                        |
+| Six years ago, I came here to go to university | liù nián yǐqián, wǒ láile zhèlǐ qù shàng dàxué | 六年以前,我来了这里去上大学 | shàng dàxué - to start/get on university               |
+| How long (time)                                | duōjiǔ                                         | 多久                        |                                                        |
+| How much/big (quantity/size)                   | duōdà                                          | 多大                        | Also how old?                                          |
+| How long from Miami to Cuba? (time)            | cóng mài'āmì qù gǔbā duōjiǔ                    | 从迈阿密去古巴多久          |                                                        |
+| It takes a long time                           | yǒu hěnjiǔ                                     | 有很久                      |                                                        |
+| A long, long, time ago ....                    | hěnjiǔ hěnjiǔ yǐqián                           | 很久很久以前                | long long ago (start of a story)                       |
+| To be alive / life                             | shēng mìng                                     | 生命                        | i.e. signs of life, not dead!                          |
+| (daily) life                                   | shēng huó                                      | 生活                        | As in my life sucks                                    |
+| Specialized subject / discipline               | zhuān yè                                       | 专业                        | e.g. chemistry "Special Study"                         |
+| My specific work is computers                  | wǒ de zhuānyè shì diànnǎo                      | 我的专业是电脑              | might imply my major is IT?                            |
+| News                                           | xīn wén                                        | 新闻                        | news hear (there's an ear in the middle), also smell   |
+| I smell lunch                                  | wǒ wén dàole wǔfàn                             | 我闻到了午饭                |                                                        |
+| This dog smells bad                            | zhège gǒu bù hǎo wén                           | 这个狗不好闻                |                                                        |
+| TV News                                        | diànshì xīnwén                                 | 电视新闻                    |                                                        |
+| I have news                                    | wǒ yǒu yīgè xīnwén                             | 我有一个新闻                |                                                        |
+| Happy New Year                                 | xīn nián hǎo                                   | 新年好                      | can use for International or Chinese                   |
+| Happy (Chinese) new Year                       | guò nián hǎo                                   | 过年好                      | surviving (over/pass) nian (monster!) good             |
+| Journalist                                     | jì zhě                                         | 记者                        | record/Make-Note Person                                |
+| Graduate                                       | bì yè                                          | 毕业                        | finish study                                           |
+| Hardworking / toilsome                         | xīn kǔ                                         | 辛苦                        | adjective, kǔ=bitter                                   |
+| I'm very hard working / busy                   | wǒ hěn xīnkǔ                                   | 我很辛苦                    |                                                        |
+| My work is very hard                           | wǒ de gōngzuò hěn xīnkǔ                        | 我的工作很辛苦              |                                                        |
+| Last week I worked very hard                   | shàng gè xīngqí wǒ gōngzuò hěn xīnkǔ           | 上个星期我工作很辛苦        |                                                        |
+| Business travel                                | chū chāi                                       | 出差                        | Outside work                                           |
+| I'm on a business trip to China                | wǒ chūchāi qù zhōngguó                         | 我出差去中国                |                                                        |
+| Writer                                         | zuò jiā                                        | 作家                        | Of books or poems "Specific-work expert"               |
+| Homework / School assignment                   | zuò yè                                         | 作业                        | Work study                                             |
+| TV Station                                     | diànshì tái                                    | 电视台                      |                                                        |
+| BBC1                                           | BBC yī tái                                     | BBC 一台                    | yīngguó guǎngbò gōngsī                                 |
+| Beijing Station/Channel                        | běijīng tái                                    | 北京台                      |                                                        |
+| Travel Channel                                 | lǚyóu tái                                      | 旅游台                      |                                                        |
+| Child                                          | hái zi                                         | 孩子                        |                                                        |
+| Do you have children?                          | nǐ yǒu háizi ma                                | 你有孩子吗                  |                                                        |
+| Children                                       | háizi men                                      | 孩子们                      | men as in wǒ-men                                       |
+| (The) children (are) at (the) park             | háizimen zài gōngyuán wán er                   | 孩子们在公园玩儿            | wán er is just like wán, pronounced waaa (like farmer) |
 
 ** Another weekend
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
