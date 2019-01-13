@@ -17860,7 +17860,6 @@ They are never expressed by themselves.
 | (Getting) better and better                     | yuè lái yuè hǎo                                             | 越来越好                            | gooder and gooder                                       |
 | More and more (numerous)                        | yuè lái yuè duō                                             | 越来越多                            |                                                         |
 | London is getting colder                        | lúndūn yuè lái yuè lěng                                     | 伦敦越来越冷                        | London more and more cold                               |
-
 ** Miami
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                                                                          | Pinyin                                                                     | Characters                                    | Notes                                                                      |
@@ -17901,6 +17900,51 @@ They are never expressed by themselves.
 | (It) includes ham, cheese, pickle and mustard                                    | bāohán huǒtuǐ, nǎilào, pàocài hé jièmò                                     | 包含火腿, 奶酪, 泡菜, 和芥末                  | bāohán=contains/it includes, nǎilào=cheese, pàocài=pickles, jièmò=mustard  |
 | Exceedingly tasty!                                                               | fēicháng hào chī                                                           | 非常好吃                                      | fēicháng=exceedingly                                                       |
 | The next day I slept the entire flight back home                                 | dì èr tiān wǒ shuìle zhěnggè hángbān huí jiā                               | 第二天我睡了整个航班回家                      | zhěng=whole, zhěnggè=entire, hángbān=flight (like fēixíng?) "hángbān hào"  |
+** Miami Vocab
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                                       | Pinyin                                                        | Characters                         | Notes                                                   |
+|---------------------------------------------------------------+---------------------------------------------------------------+------------------------------------+---------------------------------------------------------|
+| Very busy bar                                                 | Hěn máng de jiǔbā                                             | 很忙的酒吧                         |                                                         |
+| There are many people in the bar                              | Jiǔbā hěnduō rén                                              | 酒吧很多人                         | Bar many people                                         |
+| Very noisey music                                             | Hěn chǎo de yīnyuè                                            | 很吵的音乐                         | chǎo by itself means to argue, hěn chǎo means noisey    |
+| Sleep more                                                    | Shuìjiào gèng duō                                             | 睡觉更多                           |                                                         |
+| Another                                                       | Lìng yīgè                                                     | 另一个                             |                                                         |
+| I have a cat                                                  | Wǒ yǒu yī zhǐ māo                                             | 我有一只猫                         |                                                         |
+| I have another one                                            | Wǒ yǒu lìng yī zhǐ                                            | 我有另一只                         |                                                         |
+| Celebrate / Celebration                                       | Qìngzhù                                                       | 庆祝                               |                                                         |
+| We went to a bar to celebrate Christmas                       | Wǒmen qù jiǔbā qìngzhù shèngdàn                               | 我们去酒吧庆祝圣诞                 |                                                         |
+| Santa Claus                                                   | Shèngdàn lǎorén                                               | 圣诞老人                           | Holy/Saint birth old man                                |
+| (Western) New Year                                            | Xīnnián                                                       | 新年                               |                                                         |
+| (Chinese) New Year                                            | Guònián                                                       | 过年                               | Passing of Nian!                                        |
+| Spring Festival                                               | Chūnjié                                                       | 春节                               | jié means festival                                      |
+| Christmas                                                     | Shèngdànjié                                                   | 圣诞节                             | jié means festival                                      |
+| Merry Christmas                                               | Shèngdàn kuàilè                                               | 圣诞快乐                           |                                                         |
+| I am very happy today                                         | Jīntiān wǒ hěn kuàilè                                         | 今天我很快乐                       |                                                         |
+| Happy New Year (Western)                                      | Xīnnián hǎo                                                   | 新年好                             |                                                         |
+| Happy New Year (Chinese)                                      | Guònián hǎo                                                   | 过年好                             |                                                         |
+| Scenary/view                                                  | Jǐngsè                                                        | 景色                               |                                                         |
+| Very good scenary, also very good diving                      | Jǐngsè fēicháng hǎo érqiě hěn hǎo qiánshuǐ                    | 景色非常好而且很好潜水             | érqiě - also/and                                        |
+| Quiet                                                         | Ānjìng                                                        | 安静                               |                                                         |
+| Calm                                                          | Píngjìng                                                      | 平静                               |                                                         |
+| The Sea                                                       | Dàhǎi                                                         | 大海                               | Dà is typically added by Chinese                        |
+| Mountains                                                     | Gāoshān                                                       | 高山                               | Gāo is typically added by Chinese                       |
+| However, the morning (in the day) is the sea's most calm time | Bùguò, zǎoshang shì yītiān zhōng dàhǎi zuì píngjìng de shíhòu | 不过，早上是一天中大海最平静的时候 | zuì=most. However morning in one day sea most calm time |
+| (Sea) tutle                                                   | Hǎiguī                                                        | 海龟                               |                                                         |
+| Seahorse                                                      | Hǎimǎ                                                         | 海马                               |                                                         |
+| I didn't see (it)                                             | Méi kàn dào                                                   | 没看到                             |                                                         |
+| Lobster                                                       | Lóngxiā                                                       | 龙虾                               |                                                         |
+| Crayfish                                                      | Xià lóngxiā                                                   | 下龙虾                             |                                                         |
+| Big Lobster                                                   | Dà lóngxiā                                                    | 大龙虾                             |                                                         |
+| I ate a little of (my) wife's lobster                         | Wǒ chīle yīdiǎn tàitài de lóngxiā                             | 我吃了一点太太的龙虾               |                                                         |
+| I tried a little of (my) wife's lobster                       | Wǒ shìle yīdiǎn tàitài de lóngxiā                             | 我试了一点太太的龙虾               |                                                         |
+| (Beef) steak                                                  | Niúpái                                                        | 牛排                               |                                                         |
+| Lamb chops                                                    | Yáng pái                                                      | 羊排                               |                                                         |
+| Pork chops                                                    | Zhūpái                                                        | 猪排                               |                                                         |
+| Good question                                                 | Hào wèntí                                                     | 好问题                             |                                                         |
+| You can hear the sound of the waves                           | Kěyǐ tīngdào hǎilàng de shēngyīn                              | 可以听到海浪的声音                 | (You) Can hear (the) wave's sound/voice                 |
+| The music is loud                                             | Yīnyuè de shēngyīn hěn dà                                     | 音乐的声音很大                     | Music's sound very great                                |
+| Food truck                                                    | Shípǐn Kǎchē                                                  | 食品卡车                           | pǐn is 3 mouths = savour, shīpǐn=food                   |
+| (The) cat is my best friend                                   | Māo shì wǒ zuì hǎo de péngyǒu                                 | 猫是我最好的朋友                   | A is B's most X of Y. Cat is I most best of friend.     |
 
 * Publishing
 - To publish to the web C-c C-e P p
