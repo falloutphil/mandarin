@@ -17949,6 +17949,61 @@ They are never expressed by themselves.
 | Journey / trip (can be used for flight)                       | lǚtú                                                          | 旅途                               | General journey - also use for "have a nice flight"                                  |
 | Enjoy / enjoyment                                             | xiǎng shòu                                                    | 享受                               | Rather than say "My wife likes to sunbathe" you say "My with enjoys sunbathing"      |
 
+** Xmas and more food and drink
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                           | Pinyin                                | Characters                 | Notes                                              |
+|---------------------------------------------------+---------------------------------------+----------------------------+----------------------------------------------------|
+| Xmas Day                                          | shèngdàn jié                          | 圣诞节                     |                                                    |
+| Festival (full name)                              | jiérì                                 | 节日                       | Never use rì with Xmas Day tho                     |
+| Xmas Eve                                          | píng'ān yè                            | 平安夜                     | Saftey Night                                       |
+| Meal                                              | fàn                                   | 饭                         | Rice                                               |
+| Make a Meal / cooking                             | zuòfàn                                | 做饭                       | Do a meal                                          |
+| Make dinner                                       | zuò wǎnfàn                            | 做晚饭                     |                                                    |
+| Made a lot of lunch                               | zuòle hěnduō de wǔfàn                 | 做了很多的午饭             | psat tense duō better than dà                      |
+| All our family were there                         | wǒmen jiā suǒyǒu rén dōu zài nà       | 我们家所有人都在那         | Our family all people all there - 2 all structure! |
+| For example there is carrot, sausage, bacon       | bǐrú, yǒu húluóbo, xiāngcháng, péigēn | 比如, 有胡萝卜, 香肠, 培根 |                                                    |
+| Wrap / roll                                       | juǎn                                  | 卷                         | Noun, verb or adjective                            |
+| I want a Chicken Wrap                             | wǒ yào yīgè jīròu juàn                | 我要一个鸡肉卷             |                                                    |
+| Curly hair /  curls                               | juǎnfǎ                                | 卷发                       |                                                    |
+| Sausage wrapped in bacon                          | péigēn juǎn xiāngcháng                | 培根卷香肠                 | Pigs in blankets = zhū bāo tǎn                     |
+| Sounds great                                      | tīng qǐlái hěn hǎo                    | 听起来很好                 | For music or response to description               |
+| Looks good                                        | kàn qǐlái hěn hǎo                     | 看起来很好                 | qǐlái means to get-up or stand-up                  |
+| Tastes great                                      | chī qǐlái hěn hǎo                     | 吃起来很好                 |                                                    |
+| Turkey meat                                       | huǒ jīròu                             | 火鸡肉                     | Fire chicken - because of red neck                 |
+| Very full (from eating)                           | hěn bǎo                               | 很饱                       |                                                    |
+| I'm already full                                  | wǒ bǎole                              | 我饱了                     |                                                    |
+| Cake                                              | dàngāo                                | 蛋糕                       | Egg (jīdàn) + something soft and fluffy (with air) |
+| New Year cake (type of rice cake?)                | niángāo                               | 年糕                       |                                                    |
+| Doughnut                                          | tián tián quān                        | 甜甜圈                     | Sweet sweet circle                                 |
+| Chinese lesson / class                            | zhōngwén kè                           | 中文课                     |                                                    |
+| Coffee house                                      | kāfēi diàn                            | 咖啡店                     | diàn like fàndiàn                                  |
+| Xmas Cake                                         | shèngdàn dàngāo                       | 圣诞蛋糕                   |                                                    |
+| Birthday cake                                     | shēngrì dàngāo                        | 生日蛋糕                   |                                                    |
+| Xmas pudding                                      | shèngdàn bùdīng                       | 圣诞布丁                   |                                                    |
+| What's the problem/question?                      | shénme wèntí                          | 什么问题                   |                                                    |
+| Put the (mobile) phone on top of the table        | bǎ shǒujī fàng dào zhuōzi shàng       | 把手机放到桌子上           |                                                    |
+| Put the vegetables inside the turkey              | bǎ hěnduō cài fàng dào huǒ jī lǐmiàn  | 把很多菜放到火鸡里面       | stuffing=xiàn 馅                                   |
+| Tomato ketchup                                    | fānqié jiàng                          | 番茄酱                     | fānqié=another word for tomato                     |
+| Tomato sauce (more like pasta sauce than ketchup) | Xīhóngshì jiàng                       | 西红柿酱                   |                                                    |
+| Chilli / spicy sauce                              | làjiàng                               | 辣酱                       |                                                    |
+| Orange juice                                      | chéngzhī                              | 橙汁                       |                                                    |
+| Apple juice                                       | píngguǒ zhī                           | 苹果汁                     |                                                    |
+| Strawberry milkshake                              | cǎoméi nǎi xī                         | 草莓奶昔                   | They don't say "shake", xī is thick/smooth taste   |
+| Banana                                            | xiāngjiāo                             | 香蕉                       | Sweet smelling fruit                               |
+| Fruit ending                                      | ______ jiāo / ______ guǒ              | _ 蕉 / _ 果                |                                                    |
+| Cake ending                                       | ______ gāo                            | _ 糕                       |                                                    |
+| Vegetable ending                                  | ______ cài                            | _ 菜                       |                                                    |
+** Collecting Train Tickets
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                                      | Pinyin                                         | Characters                     | Notes                        |
+|--------------------------------------------------------------+------------------------------------------------+--------------------------------+------------------------------|
+| I want to collect tickets                                    | wǒ yào qǔ piào                                 | 我要取票                       | qǔ - to collect              |
+| I want to withdraw money, where is the bank?                 | wǒ yào qǔ qián, yínháng zài nǎlǐ               | 我要取钱, 银行在哪里           | qǔ - to withdraw             |
+| ATM                                                          | ATM / zìdòng qǔkuǎn jī                         | 自动取款机                     | Automatic Withdrawal Machine |
+| Where can I pick-up tickets?                                 | zài nàlǐ wǒ kěyǐ qǔ piào                       | 在那里我可以取票               |                              |
+| Where can I get a taxi?                                      | zài nàlǐ wǒ kěyǐ dǎchē                         | 在那里我可以打车               |                              |
+| Ticket office                                                | shòupiào chù                                   | 售票处                         | Sell Ticket Place            |
+| I (already) bought train ticket, where can I collect ticket? | wǒ mǎile huǒchē piào, wǒ zài nǎlǐ kěyǐ qǔ piào | 我买了火车票, 我在哪里可以取票 |                              |
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
