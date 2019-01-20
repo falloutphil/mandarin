@@ -17684,7 +17684,7 @@ They are never expressed by themselves.
 | This evening my friends are coming to my house for dinner  | jīntiān wǎnshàng wǒ de péngyǒu lái wǒ de jiā chī wǎnfàn | 今天晚上我的朋友来我的家吃晚饭 |                                              |
 | Can you help (me)?                                         | nǐ néng bāngmáng ma                                     | 你能帮忙吗                     |                                              |
 | Help!                                                      | jiù mìng                                                | 救命                           | Help as in danger, means 'save life'         |
-* Where Did You Grow Up?
+* Where Did You Grow Up and Jobs?
 ** Born and Life
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                                        | Pinyin                                         | Characters                  | Notes                                                  |
@@ -17814,6 +17814,7 @@ They are never expressed by themselves.
 | I sometimes have meetings with colleagues in the afternoon | wǒ xiàwǔ yǒu shíhòu hé tóngshì kāihuì          | 我下午有时候和同事开会     | kāihuì like kāichē                                    |
 | Now we are extremely busy                                  | xiànzài wǒmen máng jíle                        | 现在我们忙极了             | jíle - extremely                                      |
 | I often have to work late                                  | wǒ bìxū jīngcháng gōngzuò hěn wǎn              | 我必须经常工作很晚         | bìxū - must                                           |
+* Miami, Xmas and Collecting Tickets
 ** Words from Holiday Chat
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                                         | Pinyin                                                      | Characters                          | Notes                                                   |
@@ -18004,6 +18005,29 @@ They are never expressed by themselves.
 | Where can I get a taxi?                                      | zài nàlǐ wǒ kěyǐ dǎchē                         | 在那里我可以打车               |                              |
 | Ticket office                                                | shòupiào chù                                   | 售票处                         | Sell Ticket Place            |
 | I (already) bought train ticket, where can I collect ticket? | wǒ mǎile huǒchē piào, wǒ zài nǎlǐ kěyǐ qǔ piào | 我买了火车票, 我在哪里可以取票 |                              |
+** A trip to the museum
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                                    | Pinyin                                              | Characters                       | Notes                                     |
+|------------------------------------------------------------+-----------------------------------------------------+----------------------------------+-------------------------------------------|
+| Last weekend was my neice's birthday                       | shàng zhōumò shì wǒ wàishēngnǚ de shēngrì           | 上周末是我 外甥女的生日          |                                           |
+| We went ice skating                                        | wǒmen qùle huábīng                                  | 我们去了滑冰                     |                                           |
+| In winter there is an ice rink in Kensington               | dōngtiān zài kěnxīndùn yǒu huábīng chǎng            | 冬天在肯辛顿有滑冰场             |                                           |
+| It was my niece's first time ice skating                   | wàishēngnǚ dì yī cì huábīng                         | 外甥女第一次滑冰                 |                                           |
+| She learned very quickly                                   | tā xuéxíle hěn kuài.                                | 她学习了很快                     |                                           |
+| The last time I went ice skating was many years ago        | èrshí nián qián, wǒ zuìhòu yīcì qù huábīng          | 二十年前, 我最后一次去滑冰       |                                           |
+| So, now I am not very good at skating                      | suǒyǐ xiànzài wǒ bù hǎo huábīng                     | 所以现在我不好滑冰               |                                           |
+| Fortunately I didn't fall over                             | hái hǎo wǒ méiyǒu shuāi dǎo                         | 还好我没有摔倒                   |                                           |
+| After ice skating we ate a lot of lunch                    | huábīng yǐhòu wǒmen chī hěnduō wǔfàn                | 滑冰以后我们吃很多午饭           |                                           |
+| We ate pizza and spaghetti with spicy tomato sauce         | chīle pīsà hé yìdàlì miàntiáo hé là xīhóngshì jiàng | 吃了披萨和意大利面条和辣西红柿酱 |                                           |
+| Near the ice rink there are many interesting museums       | huábīng chǎng de pángbiān yǒu hěnduō yǒuqù bówùguǎn | 滑冰场的旁边有很多有趣博物馆     |                                           |
+| In the afternoon we went to the Natural History Museum     | xiàwǔ qùle zìrán lìshǐ bówùguǎn                     | 下午去了自然历史博物馆           |                                           |
+| The museum building/architecture is very old and beautiful | bówùguǎn de jiànzhú hěn lǎo hé měijǐng              | 博物馆的建筑很老和美景           |                                           |
+| Inside, it was very busy                                   | lǐmiàn hěn máng                                     | 里面很忙                         |                                           |
+| There was a new dinosaur exhibition                        | yǒu hěn xīn kǒnglóng zhǎn                           | 有很新恐龙展                     |                                           |
+| It includes large skeletons and models                     | bāohán hěnduō dà gǔjià hé móxíng                    | 包含很多大骨架和模型             | gǔjià - bone frame                        |
+| My niece was a little frightened                           | wàishēngnǚ yīdiǎn shòudàole jīngxià                 | 外甥女一点受到了惊吓             | Accept arrival / Receive (le) shock scare |
+| Then we took the subway back home                          | ránhòu zuòle dìtiě huílái                           | 然后坐了地铁回来                 |                                           |
+
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
