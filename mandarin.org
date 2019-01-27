@@ -18105,21 +18105,21 @@ They are never expressed by themselves.
 | I also tried a few delicious cocktails                             | wǒ yě shìguò jǐ bēi měiwèi de jīwěijiǔ                   | 我也试过几杯美味的鸡尾酒             |                                                                              |
 | Then we took the bus home                                          | ránhòu zuòle gōngchē huí jiā                             | 然后坐了公车回家                     |                                                                              |
 | It's not far, about twenty minutes                                 | bù yuǎn, èrshí zuǒyòu fēnzhōng                           | 不远, 二十左右分钟                   |                                                                              |
-** Trip to Corby
+** Trip to the In-Laws
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                      | Pinyin | Characters | Notes |
-|----------------------------------------------+--------+------------+-------|
-| On Saturday we took a train to Corby         |        |            |       |
-| Corby is in the centre of England            |        |            |       |
-| Saturday was my nephew's birthday            |        |            |       |
-| They are twins                               |        |            |       |
-| They had two large cakes to eat              |        |            |       |
-| We then played party games                   |        |            |       |
-| We returned to London in the evening         |        |            |       |
-| On the way home we went for Pizza            |        |            |       |
-| we walked from the station to the restaurant |        |            |       |
-| It rained very heavily                       |        |            |       |
-| My coat was soaked                           |        |            |       |
+| English                                          | Pinyin                                                   | Characters                     | Notes                                                      |
+|--------------------------------------------------+----------------------------------------------------------+--------------------------------+------------------------------------------------------------|
+| On Saturday we took a train to my in-law's house | wǒmen xīngqíwǔ zuòle huǒchē qù yuè fùmǔ de jiā           | 我们星期五坐了火车去岳父母的家 |                                                            |
+| They live in the countryside, in central England | tāmen zhù zài xiāngxià, zài yīngguó zhōngbù              | 他们住在乡下, 在英国中部       |                                                            |
+| Saturday was my twin nephew's birthday           | xīngqíliù qìngzhùle dàyí zi de shuāngbāotāi shēngrì      | 星期六庆祝了大姨子的双胞胎生日 | Sister-in-law's twins??!                                   |
+| (My) mother-in-law made two chocolate cakes      | yuèmǔ zuòle liǎng gè qiǎokèlì dàngāo                     | 岳母做了两个巧克力蛋糕         |                                                            |
+| In the shape of a castle                         | zài chéngbǎo de xíngzhuàng                               | 在城堡的形状                   | chéngbǎo=castle, xíngzhuàng=shape/form/apperance           |
+| We then played party games                       | Ránhòu wǒmen wánle ertóng pàiduì yóuxì                   | 然后我们玩了兒童派對遊戲       |                                                            |
+| We came back to London in the early evening      | bàngwǎn qùle lúndūn huílái                               | 傍晚去了伦敦回来               |                                                            |
+| It rained heavily on the way home                | zài huí jiā de lùshàng dà xiàyǔ                          | 在回家的路上大下雨             | Returning back home's on the road big rain                 |
+| So we stopped to eat pizza                       | suǒyǐ wǒmen tíng xiàlái chīle pīsà                       | 所以我们停下来吃了披萨         | tíng=stop xiàlái=get down                                  |
+| My coat is soaking wet                           | wǒ de wàitào shītòu le.                                  | 我的外套湿透了                 | shītòu=drenched                                            |
+| When it stops raining we walk home very quickly  | dāng tā tíngzhǐ xià yǔ wǒmen zǒulù fēicháng kuài huí jiā | 当它停止下雨我们走路非常快回家 | When it stops-stops raining we walk very quickly back home |
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
