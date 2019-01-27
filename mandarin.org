@@ -18087,6 +18087,39 @@ They are never expressed by themselves.
 | Split the bill 50/50                                          | wǒmen AA                                                 | 我们AA                         | Not very common in China                                                                 |
 | Let's go Dutch?                                               | wǒmen AA ba                                              | 我们AA吧                       |                                                                                          |
 | Jasmine tea                                                   | mòlìhuā chá                                              | 茉莉花茶                       |                                                                                          |
+** Going Bowling
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                                            | Pinyin                                                   | Characters                           | Notes                                                                        |
+|--------------------------------------------------------------------+----------------------------------------------------------+--------------------------------------+------------------------------------------------------------------------------|
+| Shepherd                                                           | mùyáng rén                                               | 牧羊人                               |                                                                              |
+| I went out for fun with friends last night                         | wǒ zuó wǎn hé péngyǒu qù chū wán                         | 我昨晚和朋友去出玩                   |                                                                              |
+| We went ten-pin bowling                                            | wǒmen qùle shí zhēn bǎolíngqiú                           | 我们去了十针保龄球                   |                                                                              |
+| There is a new bowling alley in the Shepherds Bush shopping centre | hěn xīn bǎolíngqiú guǎn zài Shepherds Bush shāngchǎng lǐ | 很新保龄球馆在 Shepherds Bush 商场里 |                                                                              |
+| The bowling alley has a futuristic design                          | wèilái pài de shèjì                                      | 未来派的设计                         | wèilái=future/futuristic                                                     |
+| Just last year it opened                                           | jiù zài qùnián tā kāiyèle                                | 就在去年它开业了                     | jiùzài=just?                                                                 |
+| Also inside there is an American restaurant and Cocktail bar       | Yěyǒu měiguó fàndiàn hé jīwěijiǔ bā lǐmiàn               | 也有美国饭店和鸡尾酒吧里面           | jīwěijiǔ is literally chicken tail liquor                                    |
+| I was in a team with my wife                                       | wǒ de lǎopó hé wǒ shì yīgè bǎolíngqiú duì                | 我的老婆和我是一个保龄球队           | duì=sports team?                                                             |
+| Both of us are terrible at bowling                                 | měi chǎng bǐsài wǒmen liǎ dōu dǎ dé (bǎolíngqiú) bù hǎo. | 每场比赛我们俩都打得不好             | wǒmen liǎ dōu=we both/both of us. bǐsài=game/tournament. Is chǎng a measure? |
+| But we have a fun/good time                                        | dànshì wǒmen wán dé hěn kāixīn                           | 但是我们玩得很开心                   | kāixīn=great time/feel happy                                                 |
+| We ate cheeseburgers and fries                                     | bǎolíngqiú yǐhòu wǒmen chīle zhīshì hànbǎo hé shǔ tiáo   | 保龄球以后我们吃了芝士汉堡和薯条     |                                                                              |
+| I also tried a few delicious cocktails                             | wǒ yě shìguò jǐ bēi měiwèi de jīwěijiǔ                   | 我也试过几杯美味的鸡尾酒             |                                                                              |
+| Then we took the bus home                                          | ránhòu zuòle gōngchē huí jiā                             | 然后坐了公车回家                     |                                                                              |
+| It's not far, about twenty minutes                                 | bù yuǎn, èrshí zuǒyòu fēnzhōng                           | 不远, 二十左右分钟                   |                                                                              |
+** Trip to Corby
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                      | Pinyin | Characters | Notes |
+|----------------------------------------------+--------+------------+-------|
+| On Saturday we took a train to Corby         |        |            |       |
+| Corby is in the centre of England            |        |            |       |
+| Saturday was my nephew's birthday            |        |            |       |
+| They are twins                               |        |            |       |
+| They had two large cakes to eat              |        |            |       |
+| We then played party games                   |        |            |       |
+| We returned to London in the evening         |        |            |       |
+| On the way home we went for Pizza            |        |            |       |
+| we walked from the station to the restaurant |        |            |       |
+| It rained very heavily                       |        |            |       |
+| My coat was soaked                           |        |            |       |
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
