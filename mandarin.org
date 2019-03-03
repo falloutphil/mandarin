@@ -18120,6 +18120,34 @@ They are never expressed by themselves.
 | So we stopped to eat pizza                       | suǒyǐ wǒmen tíng xiàlái chīle pīsà                       | 所以我们停下来吃了披萨         | tíng=stop xiàlái=get down                                  |
 | My coat is soaking wet                           | wǒ de wàitào shītòu le.                                  | 我的外套湿透了                 | shītòu=drenched                                            |
 | When it stops raining we walk home very quickly  | dāng tā tíngzhǐ xià yǔ wǒmen zǒulù fēicháng kuài huí jiā | 当它停止下雨我们走路非常快回家 | When it stops-stops raining we walk very quickly back home |
+** Brands in China
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                     | Pinyin                   | Characters      | Notes                    |
+|-----------------------------+--------------------------+-----------------+--------------------------|
+| Coke                        | kěkǒukělè                | 可口可乐        |                          |
+| Pepsi                       | bǎishìkělè               | 百事可乐        |                          |
+| Sprite                      | xuěbì                    | 雪碧            |                          |
+| 7-Up                        | qīxǐ                     | 七喜            |                          |
+| Fanta                       | fēn dá                   | 芬达            |                          |
+| Evian                       | yī yún                   | 依云            |                          |
+| Tsingdao                    | qīngdǎo píjiǔ            | 青岛啤酒        |                          |
+| Budweiser                   | bǎi wēi                  | 百威            |                          |
+| Carlsberg                   | jiāshìbó                 | 嘉士伯          |                          |
+| Marlboro                    | wànbǎolù                 | 万宝路          |                          |
+| McDonalds                   | màidāngláo / jīn gǒngmén | 麦当劳 / 金拱门 | Rebranded 金拱门 in 2017 |
+| Big Mac                     | jù wú bà                 | 巨无霸          |                          |
+| Big Mac Meal                | jùwúbà bāo               | 巨无霸包        |                          |
+| Double Cheeseburger         | shuāng céng jí shì       | 双层吉士        |                          |
+| Burger King                 | hànbǎowáng               | 汉堡王          |                          |
+| Whopper                     | huáng bǎo                | 皇堡            |                          |
+| Whopper with bacon & cheese | péigēn zhīshì huáng bǎo  | 培根芝士皇堡    |                          |
+| KFC                         | kěndéjī                  | 肯德基          |                          |
+| Zinger Burger               | xiāng là jītuǐ bǎo       | 香辣鸡腿堡      |                          |
+| Apple                       | píngguǒ                  | 苹果            |                          |
+| Hilton                      | xī'ěrdùn                 | 希尔顿          |                          |
+| Sheraton                    | xǐláidēng                | 喜来登          |                          |
+| Oakwood                     | ào kè wǔdé               | 奥克伍德        |                          |
+| Hyatt                       | kǎi yuè                  | 凯悦            |                          |
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
