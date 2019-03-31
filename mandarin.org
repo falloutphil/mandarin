@@ -18196,7 +18196,90 @@ They are never expressed by themselves.
 | Guangzhou's food is different to Fenghuang's                                               | guǎngzhōu de shíwù hé fènghuáng de bù yīyàng                                                   | 广州的食物和凤凰的不一样                                 |                                                                                                   |
 | I like the Dim Sum, but I prefer spicy dishes                                              | wǒ xǐhuān diǎnxīn, dànshì wǒ gèng xǐhuān là cài!                                               | 我喜欢点心,但是我更喜欢辣菜!                             |                                                                                                   |
 | I fly home from Guangzhou                                                                  | wǒ cóng guǎngzhōu fēi huí jiā                                                                  | 我从广州飞回家                                           |                                                                                                   |
-
+** Holiday Vocab
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                            | Pinyin              | Characters   | Notes                   |
+|------------------------------------+---------------------+--------------+-------------------------|
+| Along                              | yánzhe              | 沿着         |                         |
+| I'm looking at/watching you        | wǒ zài kàn nǐ       | 我在看你     |                         |
+| I'm look at/watch you              | wǒ kànzhe nǐ        | 我看着你     | Same use of zhe         |
+| E-Book                             | diànzǐ shū          | 电子书       | Electronic book         |
+| High Speed                         | gāo sùdù            | 高速度       |                         |
+| High Speed Train                   | gāo tiě             | 高铁         |                         |
+| Very crowded                       | hěn jǐ              | 很挤         |                         |
+| Both sides                         | liǎng biān          | 两边         | 2 sides                 |
+| On both sides of the river         | zài hé de liǎngbiān | 在河的两边   |                         |
+| Local person / Native              | běndì rén           | 本地人       |                         |
+| Local football team                | běndì zúqiú duì     | 本地足球队   | duì=team                |
+| Local food / cuisine               | běndì cài           | 本地菜       |                         |
+| Stone                              | shítou              | 石头         | Stone hat               |
+| Made of stone                      | shí zhì             | 石质         |                         |
+| Wood                               | mù cái              | 木材         | Wood material           |
+| Made of wood (wooden)              | mù zhí              | 木质         |                         |
+| Souvenir                           | jìniàn pǐn          | 纪念品       | Remember item           |
+| It looks / Looks like              | kàn qǐlái           | 看起来       |                         |
+| It sounds / Sound like             | tīng qǐlái          | 听起来       |                         |
+| It looks very old                  | Kàn qǐlái hěn gǔlǎo | 看起来很古老 |                         |
+| It sounds great / very good        | tīng qǐlái hěn hǎo  | 听起来很好   |                         |
+| It tastes very good                | chī qǐlái hěn hǎo   | 吃起来很好   |                         |
+| Arrive/Reach                       | dàodá               | 到达         |                         |
+| To (as in arrive/get to)           | dào                 | 到           | Means same as dàodá     |
+| To achieve/reach (attain)          | dádào               | 达到         | Not used for travelling |
+| We take a cab                      | wǒmen dǎchē         | 我们打车     |                         |
+| We hitch a lift                    | wǒmen dābiàn chē    | 我们搭便车   |                         |
+| Good/excellent/fine                | jiā                 | 佳           | hǎo is fine to use!     |
+| Condition/situation (of something) | kuàng               | 况           |                         |
+| Road Condition                     | lùkuàng             | 路况         |                         |
+** New Year Simplified
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                                                | Pinyin                                                    | Characters                       | Notes                                                                   |
+|------------------------------------------------------------------------+-----------------------------------------------------------+----------------------------------+-------------------------------------------------------------------------|
+| Last month I went to China again                                       | wǒ shàng gè yuè zàicì qùle zhōngguó                       | 我上个月再次去了中国             |                                                                         |
+| I flew from London to Wuhan                                            | cóng lúndūn fēi dào wǔhàn                                 | 从伦敦飞到武汉                   | dào = go to/arrive/reach/get to                                         |
+| I only stayed for one night                                            | wǒ zhǐ zhùle yī wǎn                                       | 我只住了一晚                     | zhǐ = only/just/merely                                                  |
+| The next day I collect my tickets from the train station               | dì èr tiān zài huǒchēzhàn qǔle piào                       | 第二天在火车站取了票             |                                                                         |
+| And then took a high speed train to Huaihua                            | ránhòu zuòle gāotiě qù huáihuà                            | 然后坐了高铁去怀化               | gāo sùdù tiělù = high speed rail-road, shortens to gāotiě               |
+| It takes about 2 and a half hours                                      | yào liǎng gè bàn xiǎoshí                                  | 要两个半小时                     |                                                                         |
+| There's many people on the train, because tomorrow is Chinese New Year | huǒchē hěnduō rén, yīnwéi dì èr tiān shì guònián          | 火车很多人,因为第二天是过年      | máng means busy (the train never stops all day), jǐ means crowded       |
+| I take a taxi from Huaihua to Fenghuang                                | wǒ dǎchē cóng huáihuà qù fènghuáng                        | 我打车从怀化去凤凰               |                                                                         |
+| I stay in Fenghuang for New Year                                       | zài fènghuáng zhùle guònián                               | 在凤凰住了过年                   |                                                                         |
+| Fenghuang is very pretty                                               | fènghuáng hěn piàoliang                                   | 凤凰很漂亮                       |                                                                         |
+| In the city centre there is a river                                    | zài shì zhōngxīn yǒu hé                                   | 在市中心有河                     |                                                                         |
+| On both sides of the river are wooden houses                           | zài hé de liǎngbiān yǒu mùfáng                            | 在河的两边有木房                 |                                                                         |
+| Also there are many souvenir shops and Hunanese restaurants            | yěyǒu jìniànpǐn shāngdiàn hé húnán cài fàndiàn            | 也有纪念品商店和湖南菜饭店       | jì/niàn/pǐn=period/memory/item                                          |
+| I tried a lot of food                                                  | wǒ shìle hěnduō shíwù                                     | 我试了很多食物                   |                                                                         |
+| The local dishes are a little spicy                                    | běndì cài yǒu yīdiǎn là                                   | 本地菜有一点辣                   |                                                                         |
+| At night there are many lights on all the buildings                    | wǎnshàng zài suǒyǒu de jiànzhú shàng hěnduō dēng          | 晚上在所有的建筑上很多灯         |                                                                         |
+| Many people are walking along the river                                | Hěnduō rén yánzhe hé zài zǒu                              | 很多人沿着河在走                 |                                                                         |
+| At midnight (I) saw spectacular fireworks and heard music              | bànyè kàn dàole zhuàngguān de yānhuā hé tīng dàole yīnyuè | 半夜看到了壮观的烟花和听到了音乐 | zhuàngguān = magnificent look (spectacular)                             |
+| The next evening I took the train to Kunming                           | dì èr tiān wǎnjiān zuòle huǒchē qù kūnmíng                | 第二天晚间坐了火车去昆明         |                                                                         |
+| The train is very late                                                 | huǒchē hěn wǎnle                                          | 火车很晚了                       |                                                                         |
+| When I arrive there were no taxis                                      | Wǒ dàodá de shíhòu, méiyǒu chūzūchē                       | 我到达的时候没有出租车           |                                                                         |
+| So I hitched a lift to the hotel                                       | suǒyǐ wǒ de dābiànchē qù jiǔdiàn                          | 所以我的搭便车去酒店             |                                                                         |
+| Kunming is warmer than Fenghuang                                       | kūnmíng bǐ fènghuáng yīdiǎn nuǎnhuo                       | 昆明比凤凰一点暖和               |                                                                         |
+| I like walking in the city park                                        | wǒ xǐhuān zài shì gōngyuán zài zǒu                        | 我喜欢在市公园在走               | zǒu lái zǒu qù=walk around                                              |
+| But I have a bit of flu, so I have to rest at the hotel                | bùguò wǒ yǒu yīdiǎn fāshāo, suǒyǐ zài jiǔdiàn xiūxí       | 不过我有一点发烧, 所以在酒店休息 |                                                                         |
+| After resting I flew to Xishuangbanna                                  | zài xiūxí yǐhòu fēi dàole qù xīshuāngbǎnnà                | 在休息以后飞到了去西双版纳       |                                                                         |
+| It's too hot there                                                     | zài nàlǐ tái rèle                                         | 在那里台热了                     |                                                                         |
+| The hotel is next to the Lancang/Mekong River                          | jiǔdiàn zài láncāng hé pángbiān                           | 酒店在澜沧河旁边                 |                                                                         |
+| I am very happy to have an open-air swimming pool and sun loungers!    | wǒ hěn gāoxìng yǒu lùtiān yóuyǒngchí hé rìguāng tǎngyǐ    | 我很高兴有露天游泳池和日光躺椅   | gǎnjī=grateful, lùtiān=open air, rìguāng tǎngyǐ=sunlight lie-down chair |
+| Also there are some botanical gardens                                  | zài jiǔdiàn pángbiān yěyǒu zhíwùyuán                      | 在酒店旁边也有植物园             | zhíwùyuán=plant stuff park, yǒuqù=interesting, cūnzhuāng=village        |
+| China's largest                                                        | zhōngguó zuìdà de                                         | 中国最大的                       |                                                                         |
+| Then we fly to Luang Prabang in Laos                                   | ránhòu fēi dàole qù lǎowō láng bó lā bāng                 | 然后飞到了去老挝琅勃拉邦         |                                                                         |
+| Luang Prabang is the ancient capital                                   | láng bó lā bāng shì gǔdū                                  | 琅勃拉邦是古都                   | gǔlǎo shǒudū = ancient capital -> gǔdū                                  |
+| There are many beautiful temples                                       | yǒu hěnduō měilì sìyuàn                                   | 有很多美丽寺院                   |                                                                         |
+| Lao food is very tasty and cheap                                       | lǎowō de shíwù fēicháng hào chī hé piányí                 | 老挝的食物非常好吃和便宜         |                                                                         |
+| After 2 days I travel south                                            | liǎng tiānhòu xiàng nán lǚyóu                             | 两天后向南旅游                   |                                                                         |
+| I saw beautiful mountain scenary                                       | wǒ kàn dàole měilì de shān jǐng                           | 我看到了美丽的山景               |                                                                         |
+| But the road condition is not good                                     | dànshì lùkuàng bù hǎo                                     | 但是路况不好                     | kuàng=conditions/situation jiā=good/excellent/fine                      |
+| 3 days later, I arrive in Vientiane                                    | sān tiānhòu, wǒ dàodále wànxiàng.                         | 三天后,我到达了万象              |                                                                         |
+| Vientiane also has many temples                                        | zài wànxiàng yěyǒu hěnduō sìyuàn                          | 在万象也有很多寺院               |                                                                         |
+| However it is much more busy that Luang Prabang                        | bùguò, bǐ láng bó lā bāng máng duōle                      | 不过,比琅勃拉邦忙多了            |                                                                         |
+| Finally I fly to Guangzhou                                             | zuìhòu wǒ fēi dàole guǎngzhōu                             | 最后我飞到了广州                 |                                                                         |
+| Guangzhou is a very big and modern city                                | guǎngzhōu hěn dà xiàndài shì                              | 广州很大和现代市                 |                                                                         |
+| Guangzhou's food is different to Fenghuang's                           | guǎngzhōu de shíwù hé fènghuáng de bù yīyàng              | 广州的食物和凤凰的不一样         |                                                                         |
+| I like the Dim Sum, but I prefer spicy dishes                          | wǒ xǐhuān diǎnxīn, dànshì wǒ gèng xǐhuān là cài!          | 我喜欢点心,但是我更喜欢辣菜!     |                                                                         |
+| I fly home from Guangzhou                                              | wǒ cóng guǎngzhōu fēi huí jiā                             | 我从广州飞回家                   |                                                                         |
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
