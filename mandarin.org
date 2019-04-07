@@ -18281,7 +18281,7 @@ They are never expressed by themselves.
 | I like the Dim Sum, but I prefer spicy dishes                          | wǒ xǐhuān diǎnxīn, dànshì wǒ gèng xǐhuān là cài!          | 我喜欢点心,但是我更喜欢辣菜!     |                                                                         |
 | I fly home from Guangzhou                                              | wǒ cóng guǎngzhōu fēi huí jiā                             | 我从广州飞回家                   |                                                                         |
 * Visit From Nephews
-**
+** Grammar and vocab talking shopping centre
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                                        | Pinyin                              | Characters           | Notes                                                                    |
 |------------------------------------------------+-------------------------------------+----------------------+--------------------------------------------------------------------------|
@@ -18348,7 +18348,7 @@ They are never expressed by themselves.
 
 [fn:11] ONLY when a noun is described by an adjective and the adjective is the last word in the sentence you must qualify it with hěn, yīdiǎn, etc.
 
-**
+** Weekend visit from my nephews
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English | Pinyin | Characters | Notes |
 |---------+--------+------------+-------|
