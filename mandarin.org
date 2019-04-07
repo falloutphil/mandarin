@@ -18280,6 +18280,79 @@ They are never expressed by themselves.
 | Guangzhou's food is different to Fenghuang's                           | guǎngzhōu de shíwù hé fènghuáng de bù yīyàng              | 广州的食物和凤凰的不一样         |                                                                         |
 | I like the Dim Sum, but I prefer spicy dishes                          | wǒ xǐhuān diǎnxīn, dànshì wǒ gèng xǐhuān là cài!          | 我喜欢点心,但是我更喜欢辣菜!     |                                                                         |
 | I fly home from Guangzhou                                              | wǒ cóng guǎngzhōu fēi huí jiā                             | 我从广州飞回家                   |                                                                         |
+* Visit From Nephews
+**
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                        | Pinyin                              | Characters           | Notes                                                                    |
+|------------------------------------------------+-------------------------------------+----------------------+--------------------------------------------------------------------------|
+| Go out for fun                                 | chūqù wán                           | 出去玩               |                                                                          |
+| I went out with my friends yesterday           | zuótiān hé péngyǒu chūqù wán        | 昨天和朋友出去玩     |                                                                          |
+| I went out for fun                             | wǒ chūqù wán                        | 我出去玩             |                                                                          |
+| Hangover                                       | sù zuì                              | 宿醉                 | Check this                                                               |
+| I didn't sleep                                 | wǒ méi shuìjiào                     | 我没睡觉             |                                                                          |
+| I slept 4 hours                                | wǒ shuìle sì xiǎoshí.               | 我睡了四小时         |                                                                          |
+| I will sleep very early (today)                | wǒ huì shuì hěn zǎo                 | 我会睡很早           |                                                                          |
+| I have a new job                               | wǒ yǒu xīn de gōngzuò               | 我有新的工作         |                                                                          |
+| Promotion                                      | shēng zhí                           | 升职                 | Lift career                                                              |
+| Project (work)                                 | xiàngmù                             | 项目                 |                                                                          |
+| Now I have a new project                       | xiànzài wǒ yǒu xīn de xiàngmù       | 现在我有新的项目     |                                                                          |
+| That cat is (very) fat                         | nàgè māo hěn pàng                   | 那个猫很胖           | [fn:11] When an adjective appears at the end it must be qualified eg hěn |
+| That is a fat cat                              | nà shì yīgè pàng māo                | 那是一个胖猫         | When an adjective appears in the middle there is no need                 |
+| To understand / find out                       | liǎojǐe                             | 了解                 | Largely interchangeable with míngbái but not exactly the same            |
+| To understand / realise                        | míngbái                             | 明白                 |                                                                          |
+| I don't understand Chinese                     | wǒ bù míngbái zhōngwén              | 我不明白中文         |                                                                          |
+| I (heard it but) don't understand              | wǒ méi tīng dǒng                    | 我没听懂             |                                                                          |
+| I (read it but) don't understand               | wǒ méi kàn dǒng                     | 我没看懂             |                                                                          |
+| I don't don't understand / get it              | wǒ méi dǒng                         | 我没懂               |                                                                          |
+| Mini golf                                      | mínǐ gāo'ěrfū                       | 迷你高尔夫           |                                                                          |
+| Outer / external                               | wài                                 | 外                   |                                                                          |
+| Foreigner                                      | wàiguó rén                          | 外国人               | External country person                                                  |
+| Outside                                        | wàimiàn                             | 外面                 | Literally out side                                                       |
+| Mini-golf is usually outside                   | mínǐ gāo'ěrfū tōngcháng zài wàimiàn | 迷你高尔夫通常在外面 |                                                                          |
+| Bedroom                                        | wòshì                               | 卧室                 | lying-down room                                                          |
+| Indoors                                        | shìnèi                              | 室内                 | Same shì as wòshì                                                        |
+| This is indoor mini-golf                       | zhè shì shìnèi mínǐ gāo'ěrfū        | 这是室内迷你高尔夫   |                                                                          |
+| Strange (peculiar)                             | qíguài                              | 奇怪                 |                                                                          |
+| I'm not able to drive                          | wǒ bù huì kāichē                    | 我不会开车           | It's more - I don't (currently) know how to drive                        |
+| Can you? (are you allowed)                     | néng bù néng                        | 能不能               |                                                                          |
+| I want to drive car, may (can) I?              | wǒ xiǎng kāichē xíng ma             | 我想开车行吗         | xíng similar to néng, but must always got at the end of sentence!        |
+| I want to drive car, may (can) I?              | wǒ xiǎng kāichē xíng bùxíng         | 我想开车行不行       |                                                                          |
+| I want to drive car, may (can) I?              | wǒ xiǎng kāichē néng bùnéng         | 我想开车能不能       |                                                                          |
+| I don't play well (not able play)              | wǒ bù huì wán                       | 我不会玩             | Not saying you are literally unable to play, just that you aren't good   |
+| A lot of fun, but (I) played badly             | hěn hǎowán dànshì bù huì wán        | 很好玩但是不会玩     | wán means fun and play                                                   |
+| Score                                          | fēnshù                              | 分数                 | Also fraction                                                            |
+| Extremely high score                           | fēicháng gāo fēnshù                 | 非常高分数           |                                                                          |
+| You took which number bus                      | nǐ zuò jǐlù gōngchē                 | 你坐几路公车         | jǐlù (what number road) - actually means what bus number/route!          |
+| I think (it) is (bus number) 607               | wǒ juédé shì liù líng qī lù         | 我觉得是六零七路     |                                                                          |
+| (bus number) 607 is comparatively fast         | liù líng qī lù bǐjiào kuài          | 六零七路比较快       | bǐjiào - relatively / comparatively                                      |
+| Tomorrow (I) will finish reading book (around) | míngtiān huì kànshū wán (, zuǒyòu)  | 明天会看书完 (左右)  | wán - complete/finish                                                    |
+| I may be finish reading the book tomorrow      | míngtiān huì kànshū wán, dàgài      | 明天会看书完, 大概   | dàgài - maybe                                                            |
+| I will finish work                             | wǒ huì zuò wán                      | 我会做完             | 我会作完 - check zuò - work vs do?                                       |
+| I will work                                    | wǒ huì zuò gōngzuò                  | 我会作工作           | check zuò                                                                |
+| Finish doing the work                          | zuò wán gōngzuò                     | 做完工作             | verb finish noun                                                         |
+| Finish reading the book                        | kàn wán shū                         | 看完书               | verb finish noun                                                         |
+| Finish eating the meal                         | chī wán fàn                         | 吃完饭               | verb finish noun                                                         |
+| You said that you are reading a booking        | nǐ shuō nǐ zài kànshū               | 你说你在看书         |                                                                          |
+| Early evening / dusk                           | bàngwǎn                             | 傍晚                 |                                                                          |
+| On Sunday I want to finish reading the book    | xīngqírì wǒ xiǎng kàn wán shū       | 星期日我想看完书     |                                                                          |
+| I don't read fast                              | wǒ kàn de bù kuài                   | 我看的不快           |                                                                          |
+| I read relatively slowly                       | wǒ kàn dé bǐjiào màn                | 我看得比较慢         | màn - slowly                                                             |
+| I started reading (it) in January              | wǒ yī yuè kāishǐ kànshū             | 我一月开始看书       | kāishǐ - start/begin (also turn on)                                      |
+| I started reading this book in January         | wǒ yī yuè kāishǐ kàn zhè běn shū    | 我一月开始看这本书   | běn is counter for book                                                  |
+| My book is a little complicated                | wǒ de shū yǒu yīdiǎn fùzá           | 我的书有一点复杂     | fùzá - complicated. Add yǒu to yīdiǎn when adjective is next             |
+| I ate a little                                 | wǒ chīle yīdiǎn                     | 我吃了一点           | No yǒu here because no adjective afterwards                              |
+| Burger (NOT just beef burger)                  | hànbǎo                              | 汉堡                 | It does mean hamburger but in Chinese it's not beef specific             |
+| Beefburger                                     | niúròu hànbǎo                       | 牛肉汉堡             |                                                                          |
+| Chicken burger                                 | jīròu hànbǎo                        | 鸡肉汉堡             |                                                                          |
+| French fries                                   | shǔ tiáo                            | 薯条                 |                                                                          |
+
+[fn:11] ONLY when a noun is described by an adjective and the adjective is the last word in the sentence you must qualify it with hěn, yīdiǎn, etc.
+
+**
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English | Pinyin | Characters | Notes |
+|---------+--------+------------+-------|
+|         |        |            |       |
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
@@ -18288,3 +18361,5 @@ C-c C-c or C-c C-x f - jumps from footnote to reference
 
 * The End
 #+LATEX: \end{CJK}
+
+* Footnotes
