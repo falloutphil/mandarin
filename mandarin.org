@@ -18350,9 +18350,51 @@ They are never expressed by themselves.
 
 ** Weekend visit from my nephews
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English | Pinyin | Characters | Notes |
-|---------+--------+------------+-------|
-|         |        |            |       |
+| English                                                               | Pinyin                                                               | Characters                                       | Notes                   |
+|-----------------------------------------------------------------------+----------------------------------------------------------------------+--------------------------------------------------+-------------------------|
+| Last weekend my nephews stayed at my house                            | shàng zhōumò wǒ de wàishēng zài wǒjiā zhùle                          | 上周末我的外甥在我家住了                         |                         |
+| They arrived on Saturday morning                                      | tāmen dàodále zhōu liù shàngwǔ                                       | 他们到达了周六上午                               |                         |
+| They live in Oakham                                                   | tāmen zài oakham zhù                                                 | 他们在Oakham住                                   |                         |
+| Oakham is near Leicester                                              | oakham zài leicester pángbiān                                        | Oakham在Leicester旁边                            |                         |
+| It takes 2 hours to drive                                             | kāichē yào liǎng xiǎoshí                                             | 开车要两小时                                     |                         |
+| I have 3 nephews in total                                             | wǒ yǒu sān gè wàishēng                                               | 我有三个外甥                                     |                         |
+| Sam is 5 years old                                                    | sam wǔ suì                                                           | Sam五岁                                          |                         |
+| Thomas and George are both 3 years old                                | george hé thomas sān suì                                             | George和Thomas三岁                               |                         |
+| At 12:30 we ate lunch in my kitchen                                   | zhōngwǔ shí'èr diǎn bàn wǒmen zài chúfáng chīle wǔfàn                | 中午十二点半我们在厨房吃了午饭                   |                         |
+| We ate paste with tomato sauce                                        | wǒmen chīle miànshí hé xīhóngshì jiàng                               | 我们吃了面食和西红柿酱                           |                         |
+| In the afternoon their parents went to see a rugby game at Twickenham | xiàwǔ tāmen de fùmǔ zài twickenham qù kàn dàole yīgè gǎnlǎnqiú bǐsài | 下午他们的父母在Twickenham去看到了一个橄榄球比赛 |                         |
+| My wife and I take the children to Osterly park                       | wǒ hé lǎopó dài háizi qù osterley gōngyuán                           | 我和老婆带孩子去Osterley公园                     |                         |
+| We take the bus from my neighbourhood to the tube station             | wǒmen zuòle gōngchē cóng jiā fùjìn qù dìtiě zhàn                     | 我们坐了公车从家附近去地铁站                     |                         |
+| The bus number is E3                                                  | E sān lù                                                             | E三路                                            |                         |
+| Then we take the tube to Osterly station                              | Ránhòu zuòle dìtiě qù osterley zhàn                                  | 然后坐了地铁去Osterley站                         |                         |
+| It takes about 30 minutes                                             | yào bàn xiǎoshí                                                      | 要半小时                                         |                         |
+| Osterley park is large                                                | osterley gōngyuán hěn dà                                             | Osterley公园很大                                 |                         |
+| We walk to the centre.                                                | wǒmen zǒu qù gōngyuán de zhōngxīn                                    | 我们走去公园的中心                               |                         |
+| At the centre is an old country house                                 | nàlǐ yīgè gǔlǎo de fángzi                                            | 那里一个古老的房子                               |                         |
+| There is also a cafe and a souvenir shop                              | yěyǒu yīgè xiǎo de cānguǎn hé jìniànpǐn shāngdiàn                    | 也有一个小的餐馆和纪念品商店                     |                         |
+| The weather is a little cold, so I ate some hot soup                  | tiānqì yǒu yīdiǎn lěng suǒyǐ wǒ chīle rè de tāng                     | 天气有一点冷所以我吃了热的汤                     |                         |
+| At 3pm there is a game for children                                   | xiàwǔ sān diǎn yǒu háizimen de yóuxì                                 | 下午三点有孩子们的游戏                           |                         |
+| The children must find eggs in the park                               | zài gōngyuán háizimen bìxū zhǎo jīdàn                                | 在公园孩子们必须找鸡蛋                           |                         |
+| The eggs are hidden                                                   | jīdàn shì yǐncáng de                                                 | 鸡蛋是隐藏的                                     |                         |
+| When the game is finished the children ate chocolate eggs             | yóuxì wán de shíhòu háizimen chīle qiǎokèlì dàn                      | 游戏完的时候孩子们吃了巧克力蛋                   |                         |
+| Early evening we return home                                          | bàngwǎn wǒmen láile huí jiā                                          | 傍晚我们来了回家                                 |                         |
+| At 7pm we order Indian takeaway                                       | wǒmen wǎnshàng qī diǎn dìngle yìndù cài de wàimài                    | 我们晚上七点订了印度菜的外卖                     |                         |
+| I ate some spicy lamb chops and then chicken with rice                | wǒ chīle là yáng pái ránhòu jīròu hé mǐfàn                           | 我吃了辣羊排然后鸡肉和米饭                       |                         |
+| On Sunday morning I must work                                         | wǒ zhōu rì zǎoshang bìxū zuòle gōngzuò                               | 我周日早上必须做了工作                           |                         |
+| But in the afternoon we go to Kew Gardens                             | bùguò xiàwǔ wǒmen qùle Kew Gardens                                   | 不过下午我们去了Kew Gardens                      |                         |
+| We take the train                                                     | wǒmen zuòle huǒchē                                                   | 我们坐了火车                                     |                         |
+| The train station is nearer than the tube station                     | huǒchē zhàn bǐ dìtiě zhàn duō jìnle                                  | 火车站比地铁站多近了                             |                         |
+| 10 minutes walk from my house                                         | cóng jiā zǒulù shí fēnzhōng                                          | 从家走路十分钟                                   |                         |
+| Kew Gardens is a botanical gardens                                    | kew gardens shì zhíwùyuán                                            | Kew Gardens是植物园                              |                         |
+| It is near Richmond                                                   | Zài richmond pángbiān                                                | 在Richmond旁边                                   |                         |
+| Then, at 4pm we took the children to a hamburger restaurant           | ránhòu wǒmen sì diǎn dài háizi qùle hànbǎo cāntīng                   | 然后我们四点带孩子去了汉堡餐厅                   |                         |
+| All 3 of them like hamburgers                                         | tāmen sān gè xǐhuān hànbǎo                                           | 他们三个喜欢汉堡                                 |                         |
+| I prefer the Indian food                                              | wǒ gèng xǐhuān yìndù shíwù                                           | 我更喜欢印度食物                                 |                         |
+| At 6pm they drive back to Oakham                                      | tāmen wǎnshàng liù diǎn kāichē huíqù Oakham                          | 他们晚上六点开车回去Oakham                       |                         |
+| The house is very messy so I clean the living room a bit              | wǒjiā hěn luàn, suǒyǐ dǎsǎo kètīng yīxià                             | 我家很乱,所以打扫客厅一下                        |                         |
+| At night I read to relax                                              | ránhòu wǒ jiǔ diǎn kànshū fàngsōng                                   | 然后我九点看书放松                               |                         |
+| I started reading this book in January                                | wǒ yī yuè kāishǐ kàn zhè běn shū                                     | 我一月开始看这本书                               | běn is counter for book |
+| I still haven't finished reading it                                   | wǒ hái méi kàn wán de                                                | 我还没看完的                                     |                         |
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
