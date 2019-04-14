@@ -17600,7 +17600,7 @@ They are never expressed by themselves.
 | Please give me the salt                        | qǐng bǎ yán gěi wǒ                      | [[https://translate.google.com/#zh-CN/en/请把盐给我][请把盐给我]]            | Don't use nǐ gěi wǒ                                                |
 | I ate dinner (use of bǎ)                       | wǒ bǎ wǎnfàn chīle                      | [[https://translate.google.com/#zh-CN/en/我把晚饭吃了][我把晚饭吃了]]          | Emphasis on dinner - recent past action (i.e. not lunch)           |
 | Rainbow                                        | cǎihóng                                 | [[https://translate.google.com/#zh-CN/en/彩虹][彩虹]]                  | cǎi - means coloured                                               |
-| Please give me (your) passport                 | qǐng bǎ hùzhào gěi wǒ                   | [[https://translate.google.com/#zh-CN/en/请把护照给我][请把护照给我]]          | bǎ can be used in a command or on yourself in paste tense          |
+| Please give me (your) passport                 | qǐng bǎ hùzhào gěi wǒ                   | [[https://translate.google.com/#zh-CN/en/请把护照给我][请把护照给我]]          | bǎ can be used in a command or on yourself in past tense           |
 | Underwear should be washed by hand             | nèiyī yào shǒuxǐ                        | [[https://translate.google.com/#zh-CN/en/内衣要手洗][内衣要手洗]]            | Underwear needs handwash. nèi - inside/smaller sace, yī as in yīfú |
 | Don't wash together with outside clothes       | bùyào hé wàiyī yīqǐ xǐ                  | [[https://translate.google.com/#zh-CN/en/不要和外衣一起洗][不要和外衣一起洗]]      | wāiyī (fú) - coat, fleece, whatever is top layer of clothes!       |
 | Autumn Clothes (layer)                         | qiūyī                                   | [[https://translate.google.com/#zh-CN/en/秋衣][秋衣]]                  | Autumn - qiūtiān                                                   |
@@ -17638,7 +17638,7 @@ They are never expressed by themselves.
 | A pair of chopsticks                 | yīshuāng kuàizi                 | [[https://translate.google.com/#zh-CN/en/一双筷子][一双筷子]]         |                                           |
 | A Bowl                               | yīgè wǎn                        | [[https://translate.google.com/#zh-CN/en/一个碗][一个碗]]           |                                           |
 | "Arrive it"                          | dào                             | [[https://translate.google.com/#zh-CN/en/到][到]]               | Arrive an object where you want to put it |
-| Put (arrive) the movile on the table | bǎ sháozi fàng dào zhuōzi       | [[https://translate.google.com/#zh-CN/en/把勺子放到桌子][把勺子放到桌子]]   |                                           |
+| Put (arrive) the spoon on the table  | bǎ sháozi fàng dào zhuōzi       | [[https://translate.google.com/#zh-CN/en/把勺子放到桌子][把勺子放到桌子]]   |                                           |
 | These                                | Zhèxiē                          | [[https://translate.google.com/#zh-CN/en/这些][这些]]             | These ones  (This some)                   |
 | Those (over there)                   | Nàxiē                           | [[https://translate.google.com/#zh-CN/en/那些][那些]]             | Those ones (There some)                   |
 | A few                                | yīdiǎn                          | [[https://translate.google.com/#zh-CN/en/一点][一点]]             |                                           |
@@ -18122,33 +18122,34 @@ They are never expressed by themselves.
 | When it stops raining we walk home very quickly  | dāng tā tíngzhǐ xià yǔ wǒmen zǒulù fēicháng kuài huí jiā | 当它停止下雨我们走路非常快回家 | When it stops-stops raining we walk very quickly back home |
 ** Brands in China
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                     | Pinyin                   | Characters      | Notes                    |
-|-----------------------------+--------------------------+-----------------+--------------------------|
-| Coke                        | kěkǒukělè                | 可口可乐        |                          |
-| Pepsi                       | bǎishìkělè               | 百事可乐        |                          |
-| Sprite                      | xuěbì                    | 雪碧            |                          |
-| 7-Up                        | qīxǐ                     | 七喜            |                          |
-| Fanta                       | fēn dá                   | 芬达            |                          |
-| Evian                       | yī yún                   | 依云            |                          |
-| Tsingdao                    | qīngdǎo píjiǔ            | 青岛啤酒        |                          |
-| Budweiser                   | bǎi wēi                  | 百威            |                          |
-| Carlsberg                   | jiāshìbó                 | 嘉士伯          |                          |
-| Marlboro                    | wànbǎolù                 | 万宝路          |                          |
-| McDonalds                   | màidāngláo / jīn gǒngmén | 麦当劳 / 金拱门 | Rebranded 金拱门 in 2017 |
-| Big Mac                     | jù wú bà                 | 巨无霸          |                          |
-| Big Mac Meal                | jùwúbà bāo               | 巨无霸包        |                          |
-| Double Cheeseburger         | shuāng céng jí shì       | 双层吉士        |                          |
-| Burger King                 | hànbǎowáng               | 汉堡王          |                          |
-| Whopper                     | huáng bǎo                | 皇堡            |                          |
-| Whopper with bacon & cheese | péigēn zhīshì huáng bǎo  | 培根芝士皇堡    |                          |
-| KFC                         | kěndéjī                  | 肯德基          |                          |
-| Zinger Burger               | xiāng là jītuǐ bǎo       | 香辣鸡腿堡      |                          |
-| Apple                       | píngguǒ                  | 苹果            |                          |
-| Hilton                      | xī'ěrdùn                 | 希尔顿          |                          |
-| Sheraton                    | xǐláidēng                | 喜来登          |                          |
-| Oakwood                     | ào kè wǔdé               | 奥克伍德        |                          |
-| Hyatt                       | kǎi yuè                  | 凯悦            |                          |
-|                             |                          |                 |                          |
+| English                     | Pinyin                   | Characters      | Notes                                               |
+|-----------------------------+--------------------------+-----------------+-----------------------------------------------------|
+| Coke                        | kěkǒukělè                | 可口可乐        |                                                     |
+| Pepsi                       | bǎishìkělè               | 百事可乐        |                                                     |
+| Sprite                      | xuěbì                    | 雪碧            |                                                     |
+| 7-Up                        | qīxǐ                     | 七喜            |                                                     |
+| Fanta                       | fēn dá                   | 芬达            |                                                     |
+| Evian                       | yī yún                   | 依云            |                                                     |
+| Tsingdao                    | qīngdǎo píjiǔ            | 青岛啤酒        |                                                     |
+| Budweiser                   | bǎi wēi                  | 百威            |                                                     |
+| Carlsberg                   | jiāshìbó                 | 嘉士伯          |                                                     |
+| Marlboro                    | wànbǎolù                 | 万宝路          |                                                     |
+| McDonalds                   | màidāngláo / jīn gǒngmén | 麦当劳 / 金拱门 | Rebranded 金拱门 in 2017                            |
+| Big Mac                     | jù wú bà                 | 巨无霸          |                                                     |
+| Big Mac Meal                | jùwúbà bāo               | 巨无霸包        |                                                     |
+| Big Mac Set Meal            | jùwúbà tàocān            | 巨无霸套餐      | tào as in counter for suit (set), cān as in cāntīng |
+| Double Cheeseburger         | shuāng céng jí shì       | 双层吉士        |                                                     |
+| Burger King                 | hànbǎowáng               | 汉堡王          |                                                     |
+| Whopper                     | huáng bǎo                | 皇堡            |                                                     |
+| Whopper with bacon & cheese | péigēn zhīshì huáng bǎo  | 培根芝士皇堡    |                                                     |
+| KFC                         | kěndéjī                  | 肯德基          |                                                     |
+| Zinger Burger               | xiāng là jītuǐ bǎo       | 香辣鸡腿堡      |                                                     |
+| Apple                       | píngguǒ                  | 苹果            |                                                     |
+| Hilton                      | xī'ěrdùn                 | 希尔顿          |                                                     |
+| Sheraton                    | xǐláidēng                | 喜来登          |                                                     |
+| Oakwood                     | ào kè wǔdé               | 奥克伍德        |                                                     |
+| Hyatt                       | kǎi yuè                  | 凯悦            |                                                     |
+|                             |                          |                 |                                                     |
 * Chinese New Year Trip
 ** New Year's Trip
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
@@ -18350,51 +18351,67 @@ They are never expressed by themselves.
 
 ** Weekend visit from my nephews
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                                               | Pinyin                                                               | Characters                                       | Notes                   |
-|-----------------------------------------------------------------------+----------------------------------------------------------------------+--------------------------------------------------+-------------------------|
-| Last weekend my nephews stayed at my house                            | shàng zhōumò wǒ de wàishēng zài wǒjiā zhùle                          | 上周末我的外甥在我家住了                         |                         |
-| They arrived on Saturday morning                                      | tāmen zhōu liù shàngwǔ dàodále                                       | 他们周六上午到达了                               |                         |
-| They live in Oakham                                                   | tāmen zài oakham zhù                                                 | 他们在Oakham住                                   |                         |
-| Oakham is near Leicester                                              | oakham zài leicester pángbiān                                        | Oakham在Leicester旁边                            |                         |
-| It takes 2 hours to drive                                             | kāichē yào liǎng gè xiǎoshí                                          | 开车要两个小时                                     |                         |
-| I have 3 nephews                                                      | wǒ yǒu sān gè wàishēng                                               | 我有三个外甥                                     |                         |
-| Sam is 5 years old                                                    | sam wǔ suì                                                           | Sam五岁                                          |                         |
-| Thomas and George are both 3 years old                                | george hé thomas sān suì                                             | George和Thomas三岁                               |                         |
-| At 12:30 we ate lunch in my kitchen                                   | zhōngwǔ shí'èr diǎn bàn wǒmen zài chúfáng chīle wǔfàn                | 中午十二点半我们在厨房吃了午饭                   |                         |
-| We ate pasta with tomato sauce                                        | wǒmen chīle miànshí hé xīhóngshì jiàng                               | 我们吃了面食和西红柿酱                           |                         |
-| In the afternoon their parents went to see a rugby game at Twickenham | xiàwǔ tāmen de fùmǔ zài twickenham qù kàn dàole yīgè gǎnlǎnqiú bǐsài | 下午他们的父母在Twickenham去看到了一个橄榄球比赛 |                         |
-| My wife and I take the children to Osterley park                      | wǒ hé lǎopó dài háizi qù osterley gōngyuán                           | 我和老婆带孩子去Osterley公园                     |                         |
-| We take the bus from my neighbourhood to the tube station             | wǒmen zuòle gōngchē cóng jiā fùjìn qù dìtiě zhàn                     | 我们坐了公车从家附近去地铁站                     |                         |
-| The bus number is E3                                                  | E sān lù                                                             | E三路                                            |                         |
-| Then we take the tube to Osterley station                             | Ránhòu zuòle dìtiě qù osterley zhàn                                  | 然后坐了地铁去Osterley站                         |                         |
-| It takes about 30 minutes                                             | yào bàn gè xiǎoshí                                                   | 要半个小时                                         |                         |
-| Osterley park is large                                                | osterley gōngyuán hěn dà                                             | Osterley公园很大                                 |                         |
-| We walk to the centre.                                                | wǒmen zǒu qù gōngyuán de zhōngxīn                                    | 我们走去公园的中心                               |                         |
-| At there is an old country house                                      | zài nàlǐ yīgè gǔlǎo de fángzi                                        | 在那里一个古老的房子                               |                         |
-| Also has a cafe and a souvenir shop                                   | yěyǒu yīgè xiǎo de cānguǎn hé jìniànpǐn shāngdiàn                    | 也有一个小的餐馆和纪念品商店                     |                         |
-| The weather is a little cold, so I ate some hot soup                  | tiānqì yǒu yīdiǎn lěng suǒyǐ wǒ chīle rè de tāng                     | 天气有一点冷所以我吃了热的汤                     |                         |
-| At 3pm there is a game for children                                   | xiàwǔ sān diǎn yǒu háizimen de yóuxì                                 | 下午三点有孩子们的游戏                           |                         |
-| The children must find eggs in the park                               | zài gōngyuán háizimen bìxū zhǎo jīdàn                                | 在公园孩子们必须找鸡蛋                           |                         |
-| The eggs are hidden                                                   | jīdàn shì yǐncáng de                                                 | 鸡蛋是隐藏的                                     |                         |
-| When the game is finished the children ate chocolate eggs             | yóuxì wán de shíhòu háizimen chīle qiǎokèlì dàn                      | 游戏完的时候孩子们吃了巧克力蛋                   |                         |
-| Early evening we return home                                          | bàngwǎn wǒmen láile huí jiā                                          | 傍晚我们来了回家                                 |                         |
-| At 7pm we order Indian takeaway                                       | wǒmen wǎnshàng qī diǎn dìngle yìndù cài de wàimài                    | 我们晚上七点订了印度菜的外卖                     |                         |
-| I ate some spicy lamb chops and then chicken with rice                | wǒ chīle là yáng pái ránhòu jīròu hé mǐfàn                           | 我吃了辣羊排然后鸡肉和米饭                       |                         |
-| On Sunday morning I must work                                         | wǒ zhōu rì zǎoshang bìxū zuòle gōngzuò                               | 我周日早上必须做了工作                           |                         |
-| But in the afternoon we go to Kew Gardens                             | bùguò xiàwǔ wǒmen qùle Kew Gardens                                   | 不过下午我们去了Kew Gardens                      |                         |
-| We take the train                                                     | wǒmen zuòle huǒchē                                                   | 我们坐了火车                                     |                         |
-| The train station is nearer than the tube station                     | huǒchē zhàn bǐ dìtiě zhàn duō jìnle                                  | 火车站比地铁站多近了                             |                         |
-| 10 minutes walk from my house                                         | cóng jiā zǒulù shí fēnzhōng                                          | 从家走路十分钟                                   |                         |
-| Kew Gardens is a botanical gardens                                    | kew gardens shì zhíwùyuán                                            | Kew Gardens是植物园                              |                         |
-| It is near Richmond                                                   | Zài richmond pángbiān                                                | 在Richmond旁边                                   |                         |
-| Then, at 4pm we took the children to a hamburger restaurant           | ránhòu wǒmen sì diǎn dài háizi qùle hànbǎo cāntīng                   | 然后我们四点带孩子去了汉堡餐厅                   |                         |
-| All 3 of them like hamburgers                                         | tāmen sān gè xǐhuān hànbǎo                                           | 他们三个喜欢汉堡                                 |                         |
-| I prefer the Indian food                                              | wǒ gèng xǐhuān yìndù shíwù                                           | 我更喜欢印度食物                                 |                         |
-| At 6pm they drive back to Oakham                                      | tāmen wǎnshàng liù diǎn kāichē huíqù Oakham                          | 他们晚上六点开车回去Oakham                       |                         |
-| The house is very messy so I clean the living room a bit              | wǒjiā hěn luàn, suǒyǐ dǎsǎo kètīng yīxià                             | 我家很乱,所以打扫客厅一下                        |                         |
-| At night I read to relax                                              | ránhòu wǒ jiǔ diǎn kànshū fàngsōng                                   | 然后我九点看书放松                               |                         |
-| I started reading this book in January                                | wǒ yī yuè kāishǐ kàn zhè běn shū                                     | 我一月开始看这本书                               | běn is counter for book |
-| I still haven't finished reading it                                   | wǒ hái méi kàn wán de                                                | 我还没看完的                                     |                         |
+| English                                                               | Pinyin                                                           | Characters                                     | Notes                                                   |
+|-----------------------------------------------------------------------+------------------------------------------------------------------+------------------------------------------------+---------------------------------------------------------|
+| Last weekend my nephews stayed at my house                            | shàng zhōumò wǒ de wàishēng zài wǒjiā zhùle                      | 上周末我的外甥在我家住了                       |                                                         |
+| They arrived on Saturday morning                                      | tāmen zhōu liù shàngwǔ dàole wǒjiā                               | 他们周六上午到了我家                           |                                                         |
+| They live in Oakham                                                   | tāmen zhù zài oakham                                             | 他们住在Oakham                                 |                                                         |
+| Oakham is near Leicester                                              | oakham zài leicester pángbiān                                    | Oakham在Leicester旁边                          |                                                         |
+| It takes 2 hours to drive                                             | kāichē yào liǎng gè xiǎoshí                                      | 开车要两个小时                                 |                                                         |
+| I have 3 nephews                                                      | wǒ yǒu sān gè wàishēng                                           | 我有三个外甥                                   |                                                         |
+| Sam is 5 years old                                                    | sam wǔ suì                                                       | Sam五岁                                        |                                                         |
+| Thomas and George are both 3 years old                                | george hé thomas sān suì                                         | George和Thomas三岁                             |                                                         |
+| At 12:30 we ate lunch in my kitchen                                   | zhōngwǔ shí'èr diǎn bàn wǒmen zài chúfáng chīle wǔfàn            | 中午十二点半我们在厨房吃了午饭                 |                                                         |
+| We ate pasta with tomato sauce                                        | wǒmen chīle miànshí hé xīhóngshì jiàng                           | 我们吃了面食和西红柿酱                         |                                                         |
+| In the afternoon their parents went to see a rugby game at Twickenham | xiàwǔ tāmen de fùmǔ zài twickenham qù kànle yīgè gǎnlǎnqiú bǐsài | 下午他们的父母在Twickenham去看了一个橄榄球比赛 |                                                         |
+| My wife and I take the children to Osterley park                      | wǒ hé lǎopó dài háizi yīqǐ qù osterley gōngyuán                  | 我和老婆带孩子一起去Osterley公园               |                                                         |
+| We take the bus from my neighbourhood to the tube station             | wǒmen zuòle gōngchē cóng jiā fùjìn qù dìtiě zhàn                 | 我们坐了公车从家附近去地铁站                   |                                                         |
+| The bus number is E3                                                  | E sān lù                                                         | E三路                                          |                                                         |
+| Then we take the tube to Osterley station                             | Ránhòu zuòle dìtiě qù osterley zhàn                              | 然后坐了地铁去Osterley站                       |                                                         |
+| It takes about 30 minutes                                             | yào bàn gè xiǎoshí                                               | 要半个小时                                     |                                                         |
+| Osterley park is large                                                | osterley gōngyuán hěn dà                                         | Osterley公园很大                               |                                                         |
+| We walk to the centre.                                                | wǒmen zǒu qù gōngyuán de zhōngxīn                                | 我们走去公园的中心                             |                                                         |
+| At there is an old country house                                      | zài nàlǐ yīgè gǔlǎo de fángzi                                    | 在那里一个古老的房子                           |                                                         |
+| Also has a cafe and a souvenir shop                                   | yěyǒu yīgè xiǎo de cānguǎn hé jìniànpǐn shāngdiàn                | 也有一个小的餐馆和纪念品商店                   |                                                         |
+| The weather is a little cold, so I ate some hot soup                  | tiānqì yǒu yīdiǎn lěng suǒyǐ wǒ chīle rè de tāng                 | 天气有一点冷所以我吃了热的汤                   |                                                         |
+| At 3pm there is a game for children                                   | xiàwǔ sān diǎn yǒu háizimen de yóuxì                             | 下午三点有孩子们的游戏                         |                                                         |
+| The child's game is "must find eggs"                                  | háizimen de yóuxì shì bìxū zhǎo jīdàn                            | 孩子们的游戏是必须找鸡蛋                       |                                                         |
+| The eggs are hidden                                                   | jīdàn shì yǐncáng de                                             | 鸡蛋是隐藏的                                   |                                                         |
+| They found four or five eggs                                          | tāmen zhǎole sì huòzhě wǔ gè jīdàn                               | 他们找了四或者五个鸡蛋                         | The hòuzhě is not necessary here                        |
+| When the game is finished the children ate chocolate eggs             | wán yóuxì de shíhòu háizimen chīle suǒyǒu qiǎokèlì dàn           | 完游戏的时候孩子们吃了咖喱巧克力蛋             |                                                         |
+| The children ate all the chocolate eggs when the game was over        | Wán yóuxì de shíhòu háizimen bǎ suǒyǒu qiǎokèlì dàn chīle        | 完游戏的时候孩子们把所有巧克力蛋吃了           | Do verb to/on noun - bǎ noun verb / emphasis on the egg |
+| Every child has chocolate eggs                                        | měi gè háizi yǒu qiǎokèlì dàn                                    | 每个孩子有巧克力蛋                             |                                                         |
+| Early evening we return home                                          | bàngwǎn wǒmen huí jiā                                            | 傍晚我们回家                                   |                                                         |
+| At 7pm we order Indian takeaway                                       | wǒmen wǎnshàng qī diǎn dìngle yìndù cài de wàimài                | 我们晚上七点订了印度菜的外卖                   |                                                         |
+| I called and ordered Indian takeaway                                  | wǒ dǎ diànhuà dìngle yìndù cài wàimài                            | 我打电话订了印度菜外卖                         |                                                         |
+| Your order                                                            | nǐ de dìngdān                                                    | 你的订单                                       |                                                         |
+| I ate some spicy lamb chops and then chicken with rice                | wǒ chīle là yángròu ránhòu gālí jīròu hé mǐfàn                   | 我吃了辣羊肉然后咖喱鸡肉和米饭                 |                                                         |
+| On Sunday morning I must work                                         | wǒ zhōu rì zǎoshang bìxū zuò gōngzuò                             | 我周日早上必须做工作                           |                                                         |
+| But in the afternoon we go to Kew Gardens                             | bùguò xiàwǔ wǒmen qùle Kew Gardens                               | 不过下午我们去了Kew Gardens                    |                                                         |
+| We take the train                                                     | wǒmen zuòle huǒchē                                               | 我们坐了火车                                   |                                                         |
+| The train station is nearer than the tube station                     | huǒchē zhàn bǐ dìtiě zhàn duō jìnle                              | 火车站比地铁站多近了                           |                                                         |
+| 10 minutes walk from my house                                         | cóng jiā zǒulù shí fēnzhōng                                      | 从家走路十分钟                                 |                                                         |
+| Kew Gardens is a botanical gardens                                    | kew gardens shì zhíwùyuán                                        | Kew Gardens是植物园                            |                                                         |
+| It is near Richmond                                                   | Zài richmond pángbiān                                            | 在Richmond旁边                                 |                                                         |
+| Then, at 4pm we took the children to a hamburger restaurant           | ránhòu wǒmen sì diǎn dài háizi qùle hànbǎo cāntīng               | 然后我们四点带孩子去了汉堡餐厅                 |                                                         |
+| All 3 of them like hamburgers                                         | tāmen sān gè xǐhuān hànbǎo                                       | 他们三个喜欢汉堡                               |                                                         |
+| I prefer the Indian food                                              | wǒ gèng xǐhuān yìndù shíwù                                       | 我更喜欢印度食物                               |                                                         |
+| At 6pm they drive back to Oakham                                      | tāmen wǎnshàng liù diǎn kāichē huíqù Oakham                      | 他们晚上六点开车回去Oakham                     |                                                         |
+| The house is very messy so I clean the living room a bit              | wǒjiā hěn luàn, suǒyǐ dǎsǎo kètīng yīxià                         | 我家很乱,所以打扫客厅一下                      |                                                         |
+| At night I read to relax                                              | ránhòu wǒ jiǔ diǎn kànshū fàngsōng                               | 然后我九点看书放松                             |                                                         |
+| I started reading this book in January                                | wǒ yī yuè kāishǐ kàn zhè běn shū                                 | 我一月开始看这本书                             | běn is counter for book                                 |
+| I still haven't finished reading it                                   | wǒ hái méi kàn wán de                                            | 我还没看完的                                   |                                                         |
+** Random Vocab
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                    | Pinyin                  | Characters   | Notes                            |
+|----------------------------+-------------------------+--------------+----------------------------------|
+| Ice Cream                  | bīngjīlíng              | 冰激凌       | Same bīng as ice skate - huábīng |
+| Rabbit                     | tùzǐ                    | 兔子         |                                  |
+| Painting on the egg        | zài jīdàn shàng huà huà | 在鸡蛋上画画 |                                  |
+| It's the same in America   | měiguó yīyàng           | 美国一样     |                                  |
+| For Example                | bǐrú                    | 比如         | Such as                          |
+| Only                       | zhǐshì                  | 只是         | just / merely                    |
+| The biggest (oldest) child | zuìdà de háizi          | 最大的孩子   | zuì = most                       |
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
