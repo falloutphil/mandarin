@@ -18414,39 +18414,40 @@ They are never expressed by themselves.
 * Trip to Malaysia
 ** Trip
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                                                   | Pinyin                                         | Characters                   | Notes |
-|---------------------------------------------------------------------------+------------------------------------------------+------------------------------+-------|
-| Last month I went to Malaysia for fun                                     | wǒ shàng gè yuè qùle mǎláixīyà wán             | 我上个月去了马来西亚玩       |       |
-| I first flew to Singapore                                                 | wǒ xiān fēi dàole xīnjiāpō                     | 我先飞到了新加坡             |       |
-| I spent 2 days in Singapore                                               | wǒ liǎng tiān zài xīnjiāpō zhùle               | 我两天在新加坡住了           |       |
-| The weather there was extremely humid                                     | tiānqì fēicháng yánrè cháoshī                  | 天气非常炎热潮湿             |       |
-| The early morning is less hot than the afternoon                          | zǎochén bǐ xiàwǔ tiānqì rè shǎole              | 早晨比下午天气热少了         |       |
-| So every day I get up early                                               | suǒyǐ měitiān wǒ zǎoqǐ                         | 所以每天我早起               |       |
-| Singapore is very modern and clean                                        | xīnjiāpō shì yīgè xiàndài hé gānjìng de guójiā | 新加坡是一个现代和干净的国家 |       |
-| There are many skyscrapers near the marina                                | zài gǎngkǒu pángbiān yǒu hěnduō mótiān dàlóu   | 在港口旁边有很多摩天大楼     |       |
-| Many banks have offices                                                   | mótiān dàlóu shì yínháng bàngōngshì            | 摩天大楼是银行办公室         |       |
-| Many Chinese people live in Singapore                                     |                                                |                              |       |
-| So in Singapore there is a large Chinatown                                |                                                |                              |       |
-| At the restaurants there is very good Chinese food                        |                                                |                              |       |
-| The food is not expensive                                                 |                                                |                              |       |
-| Also there is good local and Indian food                                  |                                                |                              |       |
-| I tried some South Indian Curry                                           |                                                |                              |       |
-| It was very spicy!                                                        |                                                |                              |       |
-| After eating, In Chinatown, there are many bars                           |                                                |                              |       |
-| But, beer is more expensive in Singapore than London                      |                                                |                              |       |
-| After Singapore we went to an island on the east side of Malaysia         |                                                |                              |       |
-| It had beautiful beaches                                                  |                                                |                              |       |
-| I relaxed for 3 days and read book                                        |                                                |                              |       |
-| Also I did some walking and diving                                        |                                                |                              |       |
-| Next day I flew to Borneo                                                 |                                                |                              |       |
-| Borneo has a lot of Jungle                                                |                                                |                              |       |
-| I visited 2 national parks                                                |                                                |                              |       |
-| Excellent wildlife watching                                               |                                                |                              |       |
-| I saw monkeys, snakes, pigs, tropical birds                               |                                                |                              |       |
-| Walking is hard because of the heat                                       |                                                |                              |       |
-| Finally I return to Singapore for 1 night                                 |                                                |                              |       |
-| In Raffles Hotel, I try a famous cocktail "Singapore Sling" - very tasty! |                                                |                              |       |
-| The next day I fly to London                                              |                                                |                              |       |
+| English                                                               | Pinyin                                                           | Characters                               | Notes                                                     |
+|-----------------------------------------------------------------------+------------------------------------------------------------------+------------------------------------------+-----------------------------------------------------------|
+| Last month I went to Malaysia for fun                                 | wǒ shàng gè yuè qùle mǎláixīyà wán                               | 我上个月去了马来西亚玩                   |                                                           |
+| I first flew to Singapore                                             | wǒ xiān fēi dàole xīnjiāpō                                       | 我先飞到了新加坡                         |                                                           |
+| I spent 2 days in Singapore                                           | wǒ liǎng tiān zài xīnjiāpō zhùle                                 | 我两天在新加坡住了                       |                                                           |
+| The weather there was extremely humid                                 | tiānqì fēicháng yánrè cháoshī                                    | 天气非常炎热潮湿                         |                                                           |
+| The early morning is less hot than the afternoon                      | zǎochén bǐ xiàwǔ tiānqì rè shǎole                                | 早晨比下午天气热少了                     |                                                           |
+| So every day I get up early                                           | suǒyǐ měitiān wǒ zǎoqǐ                                           | 所以每天我早起                           |                                                           |
+| Singapore is very modern and clean                                    | xīnjiāpō shì yīgè xiàndài hé gānjìng de guójiā                   | 新加坡是一个现代和干净的国家             |                                                           |
+| There are many skyscrapers near the marina                            | zài gǎngkǒu pángbiān yǒu hěnduō mótiān dàlóu                     | 在港口旁边有很多摩天大楼                 |                                                           |
+| Many banks have offices                                               | mótiān dàlóu shì yínháng bàngōngshì                              | 摩天大楼是银行办公室                     |                                                           |
+| Many Chinese people live in Singapore                                 | hěnduō zhōngguó rén zài xīnjiāpō zhù                             | 很多中国人在新加坡住                     |                                                           |
+| So in Singapore there is a large Chinatown                            | suǒyǐ zài xīnjiāpō yǒu hěn dà tángrénjiē                         | 所以在新加坡有很大唐人街                 |                                                           |
+| There are many restaurants in Chinatown                               | zài tángrénjiē yǒu hěnduō fàndiàn                                | 在唐人街有很多饭店                       |                                                           |
+| The food is not expensive and very tasty                              | shíwù shì bù guì hé fēicháng hào chī                             | 食物是不贵和非常好吃                     |                                                           |
+| Nearby restaurants also cook Indian food and Malaysian food           | fùjìn de fàndiàn yě zuò fàn yìndù shíwù yě mǎláixīyà shíwù       | 附近的饭店也做饭印度食物也马来西亚食物   |                                                           |
+| I tried to eat a little South Indian Curry, but it was too hot!       | wǒ shì chī yīdiǎnle nán yìndù gālí, bùguò tài làle!              | 我试吃一点了南印度咖喱, 不过太辣了!      |                                                           |
+| After eating, In Chinatown, there are many bars                       | wǎnfàn yǐhòu zài tángrénjiē qù háohuá pūzhāng de jiǔbā hējiǔ     | 晚饭以后在唐人街去豪華鋪張的酒吧喝酒     |                                                           |
+| Compared to London beer it's more expensive                           | bǐ lúndūn píjiǔ guì duōle                                        | 比伦敦啤酒贵多了                         |                                                           |
+| After Singapore I went to a small island on the east side of Malaysia | wǒ xīngjiā pō yǐhòu zài mǎláixīyà de dōngbian qùle yīgè xiǎo dǎo | 我星加坡以后在马来西亚的东边去了一个小岛 |                                                           |
+| I sunbathe and relax on the island's beach                            | wǒ zài dǎo de shātān shàng rìguāngyù hé fàngsōng                 | 我在岛的沙滩上日光浴和放松               |                                                           |
+| I additionally like to walk on the island and dive in the sea         | wǒ lìngwài xǐhuān zài dǎo shàng zǒulù hé zài hǎilǐ qiánshuǐ      | 我另外喜欢在岛上走路和在海里潜水         |                                                           |
+| After 3 days I flew to Borneo                                         | sān tiānhòu fēi dàole qù póluó zhōu                              | 三天后飞到了去婆罗洲                     |                                                           |
+| Borneo is a large jungle island                                       | Póluó zhōu shì yīgè dà de cónglín dǎoyǔ                          | 婆罗洲是一个大的丛林岛屿                 |                                                           |
+| I visited 2 national parks                                            | wǒ fǎngwèn liǎng gè guójiā gōngyuán                              | 我访问两个国家公园                       | fǎngwèn - visit                                           |
+| I look at the wild animals                                            | wǒ kànzhe yěshēng dòngwù                                         | 我看着野生动物                           | kànzhe - look at / watch, yěshēng - wild, dòngwù - animal |
+| I saw monkeys and snakes and pigs and beatiful colourful birds        | wǒ kàndào le hóuzi hé shé hé zhū hé měilì de wǔcǎi niǎo          | 我看到了猴子和蛇和猪和美丽的五彩鸟       | kàndào - to look and then see / catch sight of            |
+| Because of the hot weather walking is hard work                       | yīnwèi rè tiānqì zǒulù shì hěn xīnkǔ                             | 因为热天气走路是很辛苦                   | xīnkǔ - hard work / toil, yóuyú - due to                  |
+| Finally I came back to Singapore for 1 night                          | zuìhòu wǒ huíláile qù xīngjiāpō yī wǎn                           | 最后我回来了去星加坡一晚                 |                                                           |
+| In Raffles Hotel, I drank cocktails                                   | zài láifúshì jiǔdiàn wǒ hēle jīwěijiǔ                            | 在莱佛士酒店我喝了鸡尾酒                 | láifúshì - Raffles                                        |
+| The most famous cocktail is the Singapore Sling                       | zuì wénmíng de jīwěijiǔ shì xīnjiāpō sīlìng                      | 最闻名的鸡尾酒是新加坡司令               | wénmíng - Famous/well-known                               |
+| The next day I fly to London                                          | dì èr tiān wǒ fēi huíle lúndūn                                   | 第二天我飞回了伦敦                       |                                                           |
+
+https://www.echineselearning.com/blog/answer-to-the-exercise-on-the-difference-between-kan-and-kandao
 
 * Publishing
 - To publish to the web C-c C-e P p
