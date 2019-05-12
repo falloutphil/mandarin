@@ -18356,7 +18356,7 @@ They are never expressed by themselves.
 | They arrived on Saturday morning                                      | tāmen zhōu liù shàngwǔ dàodále                                       | 他们周六上午到达了                               |                         |
 | They live in Oakham                                                   | tāmen zài oakham zhù                                                 | 他们在Oakham住                                   |                         |
 | Oakham is near Leicester                                              | oakham zài leicester pángbiān                                        | Oakham在Leicester旁边                            |                         |
-| It takes 2 hours to drive                                             | kāichē yào liǎng gè xiǎoshí                                          | 开车要两个小时                                     |                         |
+| It takes 2 hours to drive                                             | kāichē yào liǎng gè xiǎoshí                                          | 开车要两个小时                                   |                         |
 | I have 3 nephews                                                      | wǒ yǒu sān gè wàishēng                                               | 我有三个外甥                                     |                         |
 | Sam is 5 years old                                                    | sam wǔ suì                                                           | Sam五岁                                          |                         |
 | Thomas and George are both 3 years old                                | george hé thomas sān suì                                             | George和Thomas三岁                               |                         |
@@ -18367,10 +18367,10 @@ They are never expressed by themselves.
 | We take the bus from my neighbourhood to the tube station             | wǒmen zuòle gōngchē cóng jiā fùjìn qù dìtiě zhàn                     | 我们坐了公车从家附近去地铁站                     |                         |
 | The bus number is E3                                                  | E sān lù                                                             | E三路                                            |                         |
 | Then we take the tube to Osterley station                             | Ránhòu zuòle dìtiě qù osterley zhàn                                  | 然后坐了地铁去Osterley站                         |                         |
-| It takes about 30 minutes                                             | yào bàn gè xiǎoshí                                                   | 要半个小时                                         |                         |
+| It takes about 30 minutes                                             | yào bàn gè xiǎoshí                                                   | 要半个小时                                       |                         |
 | Osterley park is large                                                | osterley gōngyuán hěn dà                                             | Osterley公园很大                                 |                         |
 | We walk to the centre.                                                | wǒmen zǒu qù gōngyuán de zhōngxīn                                    | 我们走去公园的中心                               |                         |
-| At there is an old country house                                      | zài nàlǐ yīgè gǔlǎo de fángzi                                        | 在那里一个古老的房子                               |                         |
+| At there is an old country house                                      | zài nàlǐ yīgè gǔlǎo de fángzi                                        | 在那里一个古老的房子                             |                         |
 | Also has a cafe and a souvenir shop                                   | yěyǒu yīgè xiǎo de cānguǎn hé jìniànpǐn shāngdiàn                    | 也有一个小的餐馆和纪念品商店                     |                         |
 | The weather is a little cold, so I ate some hot soup                  | tiānqì yǒu yīdiǎn lěng suǒyǐ wǒ chīle rè de tāng                     | 天气有一点冷所以我吃了热的汤                     |                         |
 | At 3pm there is a game for children                                   | xiàwǔ sān diǎn yǒu háizimen de yóuxì                                 | 下午三点有孩子们的游戏                           |                         |
@@ -18395,6 +18395,44 @@ They are never expressed by themselves.
 | At night I read to relax                                              | ránhòu wǒ jiǔ diǎn kànshū fàngsōng                                   | 然后我九点看书放松                               |                         |
 | I started reading this book in January                                | wǒ yī yuè kāishǐ kàn zhè běn shū                                     | 我一月开始看这本书                               | běn is counter for book |
 | I still haven't finished reading it                                   | wǒ hái méi kàn wán de                                                | 我还没看完的                                     |                         |
+|                                                                       |                                                                      |                                                  |                         |
+
+* Trip to Malaysia
+** Trip
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                                                   | Pinyin                                         | Characters                   | Notes |
+|---------------------------------------------------------------------------+------------------------------------------------+------------------------------+-------|
+| Last month I went to Malaysia for fun                                     | wǒ shàng gè yuè qùle mǎláixīyà wán             | 我上个月去了马来西亚玩       |       |
+| I first flew to Singapore                                                 | wǒ xiān fēi dàole xīnjiāpō                     | 我先飞到了新加坡             |       |
+| I spent 2 days in Singapore                                               | wǒ liǎng tiān zài xīnjiāpō zhùle               | 我两天在新加坡住了           |       |
+| The weather there was extremely humid                                     | tiānqì fēicháng yánrè cháoshī                  | 天气非常炎热潮湿             |       |
+| The early morning is less hot than the afternoon                          | zǎochén bǐ xiàwǔ tiānqì rè shǎole              | 早晨比下午天气热少了         |       |
+| So every day I get up early                                               | suǒyǐ měitiān wǒ zǎoqǐ                         | 所以每天我早起               |       |
+| Singapore is very modern and clean                                        | xīnjiāpō shì yīgè xiàndài hé gānjìng de guójiā | 新加坡是一个现代和干净的国家 |       |
+| There are many skyscrapers near the marina                                | zài gǎngkǒu pángbiān yǒu hěnduō mótiān dàlóu   | 在港口旁边有很多摩天大楼     |       |
+| Many banks have offices                                                   | mótiān dàlóu shì yínháng bàngōngshì            | 摩天大楼是银行办公室         |       |
+| Many Chinese people live in Singapore                                     |                                                |                              |       |
+| So in Singapore there is a large Chinatown                                |                                                |                              |       |
+| At the restaurants there is very good Chinese food                        |                                                |                              |       |
+| The food is not expensive                                                 |                                                |                              |       |
+| Also there is good local and Indian food                                  |                                                |                              |       |
+| I tried some South Indian Curry                                           |                                                |                              |       |
+| It was very spicy!                                                        |                                                |                              |       |
+| After eating, In Chinatown, there are many bars                           |                                                |                              |       |
+| But, beer is more expensive in Singapore than London                      |                                                |                              |       |
+| After Singapore we went to an island on the east side of Malaysia         |                                                |                              |       |
+| It had beautiful beaches                                                  |                                                |                              |       |
+| I relaxed for 3 days and read book                                        |                                                |                              |       |
+| Also I did some walking and diving                                        |                                                |                              |       |
+| Next day I flew to Borneo                                                 |                                                |                              |       |
+| Borneo has a lot of Jungle                                                |                                                |                              |       |
+| I visited 2 national parks                                                |                                                |                              |       |
+| Excellent wildlife watching                                               |                                                |                              |       |
+| I saw monkeys, snakes, pigs, tropical birds                               |                                                |                              |       |
+| Walking is hard because of the heat                                       |                                                |                              |       |
+| Finally I return to Singapore for 1 night                                 |                                                |                              |       |
+| In Raffles Hotel, I try a famous cocktail "Singapore Sling" - very tasty! |                                                |                              |       |
+| The next day I fly to London                                              |                                                |                              |       |
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
