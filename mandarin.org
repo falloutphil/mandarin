@@ -18449,6 +18449,43 @@ They are never expressed by themselves.
 
 https://www.echineselearning.com/blog/answer-to-the-exercise-on-the-difference-between-kan-and-kandao
 
+* A boring weekend
+** Text
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                                                 | Pinyin                                                        | Characters                               | Notes                                                                    |
+|-------------------------------------------------------------------------+---------------------------------------------------------------+------------------------------------------+--------------------------------------------------------------------------|
+| On Friday after work I buy my wife diner                                | wǒ xīngqíwǔ xiàbān yǐhòu gěi lǎopó mǎile wǎnfàn               | 我星期五下班以后给老婆买了晚饭           | wǒ gěi <thing/person> <verb> <item> = I <verb> <item> for <thing/person> |
+| We go to a Chinese restaurant in Shepherd's Bush called Muyang          | Wǒmen zài Shepherds Bush qùle yījiā zhōng cānguǎn jiào mùyáng | 我们在Shepherds Bush去了一家中餐馆叫牧羊 | jiā is measure for stores/shops/restaurants/companies/families           |
+| "Muyang" said in English is "Shepherd"                                  | "Mùyáng", yòng yīngwén shuō, "Shepherd"                       | "牧羊", 用英文说, "Shepherd"             |                                                                          |
+| My wife ate kung pao chicken                                            | lǎopó bǎ gōng bǎo jī dīng chīle                               | 老婆把宫保鸡丁吃了                       |                                                                          |
+| I ate farmhouse fried meat                                              | wǒ chīle nóngjiā xiǎochǎo ròu                                 | 我吃了農家小炒肉                         | nóngjiā - farmhouse xiǎochǎo - little fry                                |
+| Chinese restaurants in the UK are usually different from those in China | yīngguó de zhōng cānguǎn hé zhōngguó de tōngcháng bù yīyàng   | 英国的中餐馆和中国的通常不一样           | <a's> <thing> hé <b's> often not same                                    |
+| But Muyang restarant is an exception - the food is excellent!           |                                                               |                                          |                                                                          |
+| On Saturday I get up early morning                                      |                                                               |                                          |                                                                          |
+| Because my internet is broken!                                          |                                                               |                                          |                                                                          |
+| I try turning on and turning off                                        |                                                               |                                          |                                                                          |
+| But it's still broken                                                   |                                                               |                                          |                                                                          |
+| I phone the internet company                                            |                                                               |                                          |                                                                          |
+| After 1 hour it's fixed                                                 |                                                               |                                          |                                                                          |
+| For lunch I ate a BBQ pork sandwich                                     |                                                               |                                          |                                                                          |
+| In the afternoon I loose my credit card                                 |                                                               |                                          |                                                                          |
+| But my wife finds it in the cupboard undereath some books               |                                                               |                                          |                                                                          |
+| I forgot that I put it in the cupboard!                                 |                                                               |                                          |                                                                          |
+| In the evening my family comes to my house                              |                                                               |                                          |                                                                          |
+| We give our nephews souvenirs from Malaysia                             |                                                               |                                          |                                                                          |
+| We watch the Eurovision Song Content on TV                              |                                                               |                                          |                                                                          |
+| It's not a good sound!                                                  |                                                               |                                          |                                                                          |
+| Holland win                                                             |                                                               |                                          |                                                                          |
+| There song is less bad                                                  |                                                               |                                          |                                                                          |
+| We order Indian food to eat                                             |                                                               |                                          |                                                                          |
+| I think the chicken curry is the most tasty dish                        |                                                               |                                          |                                                                          |
+| I worry there is curry on my new sofa                                   |                                                               |                                          |                                                                          |
+| On Sunday my family go to Legoland                                      |                                                               |                                          |                                                                          |
+| But I stayed at home to work                                            |                                                               |                                          |                                                                          |
+| I've never been to Legoland                                             |                                                               |                                          |                                                                          |
+
+https://digchinese.com/measure-words
+
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
