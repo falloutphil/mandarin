@@ -18449,6 +18449,58 @@ They are never expressed by themselves.
 
 https://www.echineselearning.com/blog/answer-to-the-exercise-on-the-difference-between-kan-and-kandao
 
+** Trip Vocab
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                                                                | Pinyin                                        | Characters               | Notes                                                       |
+|----------------------------------------------------------------------------------------+-----------------------------------------------+--------------------------+-------------------------------------------------------------|
+| Sunbathing                                                                             | shài tàiyáng                                  | 晒太阳                   |                                                             |
+| Dry clothes                                                                            | shài yīfú                                     | 晒衣服                   |                                                             |
+| Dry book                                                                               | shài shū                                      | 晒书                     |                                                             |
+| I enjoy the sun                                                                        | wǒ zài shài tàiyáng                           | 我在晒太阳               | Like sunbathing                                             |
+| The cat enjoys the sunbathe                                                            | yī zhǐ māo zài shài tàiyáng                   | 一只猫在晒太阳           |                                                             |
+| Yesterday midday I enjoy sun (whilst) eating lunch                                     | zuótiān zhōngwǔ wǒ zài shài tàiyáng chī wǔfàn | 昨天中午我在晒太阳吃午饭 | I ate lunch in the sun                                      |
+| Today I'm in the office all day                                                        | wǒ jīntiān yīzhí zài bàngōngshì               | 我今天一直在办公室       | I today always at the office                                |
+| (I) haven't come out                                                                   | méiyǒu chūlái                                 | 没有出来                 |                                                             |
+| Go up                                                                                  | shàngqù                                       | 上去                     |                                                             |
+| Come up                                                                                | shànglái                                      | 上来                     |                                                             |
+| Go down                                                                                | xiàqù                                         | 下去                     |                                                             |
+| Come down                                                                              | xiàlái                                        | 下来                     |                                                             |
+| You come up to me (if I'm upstairs)                                                    | nǐ shànglái                                   | 你上来                   | You never go to me!                                         |
+| I go down to you (if I'm upstairs)                                                     | wǒ xiàqù                                      | 我下去                   |                                                             |
+| I come up to you (if I'm downstairs)                                                   | wǒ shàngqù                                    | 我上去                   |                                                             |
+| You come down to me (if I'm downstairs)                                                | nǐ xiàlái                                     | 你下来                   |                                                             |
+| You go outside (both in same room)                                                     | nǐ chūqù                                      | 你出去                   |                                                             |
+| You come outside (only said by someone outside)                                        | nǐ chūlái                                     | 你出来                   |                                                             |
+| I back qo (home)                                                                       |                                               |                          |                                                             |
+| You back come (home) (said by person in house)                                         |                                               |                          |                                                             |
+| I fly back to London                                                                   |                                               |                          |                                                             |
+| I fly to London                                                                        |                                               |                          |                                                             |
+| I fly to London (the flying has finished)                                              |                                               |                          |                                                             |
+| I return to China                                                                      |                                               |                          |                                                             |
+| I return home                                                                          |                                               |                          |                                                             |
+| Morning compared to afternoon is hotter                                                |                                               |                          | Don't use shuo with this structure                          |
+| Time                                                                                   |                                               |                          |                                                             |
+| Time difference (jetlag)                                                               |                                               |                          |                                                             |
+| Part                                                                                   |                                               |                          |                                                             |
+| The big part / the larger part / most                                                  |                                               |                          |                                                             |
+| Most sky scrappers are bank offices                                                    |                                               |                          |                                                             |
+| Most people like dogs                                                                  |                                               |                          |                                                             |
+| To have good luck (when not expected)                                                  |                                               |                          |                                                             |
+| This part is broken                                                                    |                                               |                          |                                                             |
+| Chinatown                                                                              |                                               |                          |                                                             |
+| The neighbourhood's restaurants also cook Indian dishes and also cook Malaysian dishes |                                               |                          |                                                             |
+| If                                                                                     |                                               |                          |                                                             |
+| Glitzy                                                                                 |                                               |                          |                                                             |
+| Very important visit                                                                   |                                               |                          | Just use qù                                                 |
+| Wild                                                                                   |                                               |                          |                                                             |
+| Hot region (topics)                                                                    |                                               |                          |                                                             |
+| Equatorial                                                                             |                                               |                          |                                                             |
+| I see a snake                                                                          |                                               |                          |                                                             |
+| Cobra                                                                                  |                                               |                          |                                                             |
+| Poison                                                                                 |                                               |                          |                                                             |
+| Poisoness (has poison)                                                                 |                                               |                          | Also used to mean attractive/charismatic or books/films etc |
+| Poisoness snake                                                                        |                                               |                          |                                                             |
+|                                                                                        |                                               |                          |                                                             |
 * A boring weekend
 ** Chinese and Eurovision
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
