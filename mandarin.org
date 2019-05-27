@@ -18450,7 +18450,7 @@ They are never expressed by themselves.
 https://www.echineselearning.com/blog/answer-to-the-exercise-on-the-difference-between-kan-and-kandao
 
 * A boring weekend
-** Text
+** Chinese and Eurovision
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                                                                 | Pinyin                                                                  | Characters                               | Notes                                                                         |
 |-------------------------------------------------------------------------+-------------------------------------------------------------------------+------------------------------------------+-------------------------------------------------------------------------------|
@@ -18488,6 +18488,43 @@ https://www.echineselearning.com/blog/answer-to-the-exercise-on-the-difference-b
 
 https://digchinese.com/measure-words
 
+** Wedding and Sunday Lunch
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                                                | Pinyin                                                                          | Characters                                     | Notes                                              |
+|------------------------------------------------------------------------+---------------------------------------------------------------------------------+------------------------------------------------+----------------------------------------------------|
+| Friday evening I go to a wedding                                       | wǒ zhōu wǔ wǎnshàng qùle yīgè hūnlǐ                                             | 我周五晚上去了一个婚礼                         | hūnlǐ - wedding ceremony                           |
+| The couple are friends of my wife                                      | fūqī shì wǒ de lǎopó péngyǒu                                                    | 夫妻是我的老婆朋友                             |                                                    |
+| Together they go to a running club                                     | tāmen yīqǐ qù yīgè pǎobù jùlèbù                                                 | 他们一起去一个跑步俱乐部                       | jùlèbù - club (all happy unit)                     |
+| The wedding was at Fulham Palace                                       | hūnlǐ zài fùlèmǔ gōngtíng                                                       | 婚礼在富勒姆宫廷                               | gōngtíng - palace/royal court                      |
+| On the north side of the river next to Putney Bridge                   | zài hé de běimiàn, pǔtèní qiáo pángbiān                                         | 在河的北面, 普特尼桥旁边                       |                                                    |
+| The palace is in beautiful gardens                                     | gōngtíng zài měilì huāyuán de zhōngjiān                                         | 宫廷在美丽花园的中间                           | zhōngjiān - in the middle                          |
+| The evening weather is warm so the guests are talking outside          | wǎnshàng tiānqì shì nuǎnhuo, suǒyǐ kèrén zài wàimiàn zài shuō                   | 晚上天气是暖和, 所以客人在外面在说             |                                                    |
+| There is lots of beer and wine to drink                                | yǒu hěnduō píjiǔ hé pútáojiǔ hējiǔ                                              | 有很多啤酒和葡萄酒喝酒                         |                                                    |
+| Aliso there is a band playing music                                    | yěyǒu yīgè yuèduì yǎnzòu yīnyuè                                                 | 也有一个乐队演奏音乐                           | yuèduì - band / yǎnzòu - to play/playing           |
+| They sound very good                                                   | tāmen hěn hǎotīng                                                               | 他们很好听                                     |                                                    |
+| Some guests are dancing together                                       | yīxiē kèrén yīqǐ zài tiàowǔ                                                     | 一些客人一起在跳舞                             | tiàowǔ - to dance                                  |
+| The party finishes very late and I take a taxi back home with my wife  | pàiduì hěn wǎn jiéshù, suǒyǐ hé lǎopó dǎchē huí jiā                             | 派对很晚结束, 所以和老婆打车回家               | pàiduì - party / jiéshù - end/finish               |
+| The next day we get-up late!                                           | dì èr tiān wǒmen qǐ wǎnle                                                       | 第二天我们起晚了                               |                                                    |
+| I have a bad head, so I can't swim                                     | wǒ tóu nánshòu suǒyǐ bùnéng yóuyǒngle                                           | 我头难受所以不能游泳了                         |                                                    |
+| Instead of swimming I cooked a big breakfast                           | dàitì yóuyǒng wǒ zuò fànle dà de zǎofàn                                         | 代替游泳我做饭了大的早饭                       | dàitì - instead/instead of                         |
+| I ate sausage, bacon and scrambled egg                                 | wǒ bǎ xiāngcháng, péigēn hé chǎo jīdàn chīle                                    | 我把香肠, 培根和炒鸡蛋吃了                     | chǎo is scambled not fried (jiān jīdàn)            |
+| In the afternoon I relax on the sofa and watch an old James Bond movie | wǒ xiàwǔ zài shāfā shàng fàngsōngle hé kànle yīgè lǎo zhānmǔsī bāng dé diànyǐng | 我下午在沙发上放松了和看了一个老詹姆斯邦德电影 |                                                    |
+| I'm too tired to go out on Saturday                                    | zhōu liù wǎnshàng wǒ tài lèile, bùnéng wàichū wánle                             | 周六晚上我太累了, 不能外出玩了                 |                                                    |
+| So I watch another movie and go to bed                                 | suǒyǐ wǒ kànle lìng yī bù diànyǐng ránhòu shuìjiàole                            | 所以我看了另一部电影然后睡觉了                 | lìng - another / bù - measure for movies           |
+| On Sunday late morning my parents drive to my house                    | zhōu tiān shàngwǔ wǒ de fùmǔ kāichē qù wǒjiā                                    | 周天上午我的父母开车去我家                     |                                                    |
+| We walked to a pub in my neighbourhood to eat lunch                    | wǒmen zài wǒjiā fùjìn zǒulù qù jiǔguǎn chī wǔfàn                                | 我们在我家附近走路去酒馆吃午饭                 |                                                    |
+| I have roast beef and potatoes with gravy                              | bǎ kǎo niúròu hé tǔdòu hé ròuzhī jiàng chīle                                    | 我们把烤牛肉和土豆和肉汁酱吃了                 |                                                    |
+| We talked about my father's upcoming birthday                          | wǒmen bǎ wǒ de fùqīn jíjiāng dàolái de shēngrì liáole                           | 我们把我的父亲即将到来的生日聊了               |                                                    |
+| I don't know if I should buy him a summer shirt                        | wǒ bù zhīdào rúguǒ wǒ yīnggāi gěi tā mǎi yī jiàn xiàtiān chènshān               | 我不知道如果我应该给他买一件夏天衬衫           | rúguǒ - if                                         |
+| My mother thinks it's a good present                                   | wǒ de mǔqīn juédé yī jiàn chènshān shì fēicháng hǎo lǐwù                        | 我的母亲觉得一件衬衫是非常好礼物               |                                                    |
+| On Sunday evening I order Japanese food takeaway                       | zhōu tiān wǎnshàng wǒ dìngle rìběn wàimài                                       | 周天晚上我订了日本外卖                         |                                                    |
+| But the driver is too late, my dish does not come to my house          | dànshì fàndiàn de sījī tài wǎnle, wǒ de cài bù láile wǒjiā                      | 但是饭店的司机太晚了, 我的菜不来了我家         | bù láiguo - does that make sense for "never came"? |
+| I'm still very hungry so before going to sleep, I make a sandwich      | wǒ hái hěn è, suǒyǐ shuìjiào yǐqián wǒ zuòle yīgè sānmíngzhì                    | 我还很饿, 所以睡觉以前我做了一个三明治         |                                                    |
+| Monday is a public holiday in England                                  | zài yīngguó xīngqí yī shì gōnggòng jiàqī                                        | 在英国星期一是公共假期                         | gōnggòng jiàqī - public holiday                    |
+| So I go shopping with my wife for things                               | wǒ hé lǎopó qùle shāngchǎng mǎi dōngxī                                          | 我和老婆去了商场买东西                         |                                                    |
+| She buys some books                                                    | tā mǎile liǎng běn shū                                                          | 她买了两本书                                   |                                                    |
+| In the afternoon I play with my computer and listen to music           | xiàwǔ wǒ dǎle diànnǎo hé tīngle yīnyuè                                          | 下午我打了电脑和听了音乐                       |                                                    |
+| In the evening I study Chinese                                         | wǒ wǎnshàng xì xuéle zhōngwén                                                   | 我晚上系学了中文                               |                                                    |
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
