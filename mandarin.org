@@ -18451,56 +18451,63 @@ https://www.echineselearning.com/blog/answer-to-the-exercise-on-the-difference-b
 
 ** Trip Vocab
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                                                                | Pinyin                                        | Characters               | Notes                                                       |
-|----------------------------------------------------------------------------------------+-----------------------------------------------+--------------------------+-------------------------------------------------------------|
-| Sunbathing                                                                             | shài tàiyáng                                  | 晒太阳                   |                                                             |
-| Dry clothes                                                                            | shài yīfú                                     | 晒衣服                   |                                                             |
-| Dry book                                                                               | shài shū                                      | 晒书                     |                                                             |
-| I enjoy the sun                                                                        | wǒ zài shài tàiyáng                           | 我在晒太阳               | Like sunbathing                                             |
-| The cat enjoys the sunbathe                                                            | yī zhǐ māo zài shài tàiyáng                   | 一只猫在晒太阳           |                                                             |
-| Yesterday midday I enjoy sun (whilst) eating lunch                                     | zuótiān zhōngwǔ wǒ zài shài tàiyáng chī wǔfàn | 昨天中午我在晒太阳吃午饭 | I ate lunch in the sun                                      |
-| Today I'm in the office all day                                                        | wǒ jīntiān yīzhí zài bàngōngshì               | 我今天一直在办公室       | I today always at the office                                |
-| (I) haven't come out                                                                   | méiyǒu chūlái                                 | 没有出来                 |                                                             |
-| Go up                                                                                  | shàngqù                                       | 上去                     |                                                             |
-| Come up                                                                                | shànglái                                      | 上来                     |                                                             |
-| Go down                                                                                | xiàqù                                         | 下去                     |                                                             |
-| Come down                                                                              | xiàlái                                        | 下来                     |                                                             |
-| You come up to me (if I'm upstairs)                                                    | nǐ shànglái                                   | 你上来                   | You never go to me!                                         |
-| I go down to you (if I'm upstairs)                                                     | wǒ xiàqù                                      | 我下去                   |                                                             |
-| I come up to you (if I'm downstairs)                                                   | wǒ shàngqù                                    | 我上去                   |                                                             |
-| You come down to me (if I'm downstairs)                                                | nǐ xiàlái                                     | 你下来                   |                                                             |
-| You go outside (both in same room)                                                     | nǐ chūqù                                      | 你出去                   |                                                             |
-| You come outside (only said by someone outside)                                        | nǐ chūlái                                     | 你出来                   |                                                             |
-| I back qo (home)                                                                       |                                               |                          |                                                             |
-| You back come (home) (said by person in house)                                         |                                               |                          |                                                             |
-| I fly back to London                                                                   |                                               |                          |                                                             |
-| I fly to London                                                                        |                                               |                          |                                                             |
-| I fly to London (the flying has finished)                                              |                                               |                          |                                                             |
-| I return to China                                                                      |                                               |                          |                                                             |
-| I return home                                                                          |                                               |                          |                                                             |
-| Morning compared to afternoon is hotter                                                |                                               |                          | Don't use shuo with this structure                          |
-| Time                                                                                   |                                               |                          |                                                             |
-| Time difference (jetlag)                                                               |                                               |                          |                                                             |
-| Part                                                                                   |                                               |                          |                                                             |
-| The big part / the larger part / most                                                  |                                               |                          |                                                             |
-| Most sky scrappers are bank offices                                                    |                                               |                          |                                                             |
-| Most people like dogs                                                                  |                                               |                          |                                                             |
-| To have good luck (when not expected)                                                  |                                               |                          |                                                             |
-| This part is broken                                                                    |                                               |                          |                                                             |
-| Chinatown                                                                              |                                               |                          |                                                             |
-| The neighbourhood's restaurants also cook Indian dishes and also cook Malaysian dishes |                                               |                          |                                                             |
-| If                                                                                     |                                               |                          |                                                             |
-| Glitzy                                                                                 |                                               |                          |                                                             |
-| Very important visit                                                                   |                                               |                          | Just use qù                                                 |
-| Wild                                                                                   |                                               |                          |                                                             |
-| Hot region (topics)                                                                    |                                               |                          |                                                             |
-| Equatorial                                                                             |                                               |                          |                                                             |
-| I see a snake                                                                          |                                               |                          |                                                             |
-| Cobra                                                                                  |                                               |                          |                                                             |
-| Poison                                                                                 |                                               |                          |                                                             |
-| Poisoness (has poison)                                                                 |                                               |                          | Also used to mean attractive/charismatic or books/films etc |
-| Poisoness snake                                                                        |                                               |                          |                                                             |
-|                                                                                        |                                               |                          |                                                             |
+| English                                                                                | Pinyin                                                 | Characters                         | Notes                                                          |
+|----------------------------------------------------------------------------------------+--------------------------------------------------------+------------------------------------+----------------------------------------------------------------|
+| Sunbathing                                                                             | shài tàiyáng                                           | 晒太阳                             |                                                                |
+| Dry clothes                                                                            | shài yīfú                                              | 晒衣服                             |                                                                |
+| Dry book                                                                               | shài shū                                               | 晒书                               |                                                                |
+| I enjoy the sun                                                                        | wǒ zài shài tàiyáng                                    | 我在晒太阳                         | Like sunbathing                                                |
+| The cat enjoys the sunbathe                                                            | yī zhǐ māo zài shài tàiyáng                            | 一只猫在晒太阳                     |                                                                |
+| Yesterday midday I enjoy sun (whilst) eating lunch                                     | zuótiān zhōngwǔ wǒ zài shài tàiyáng chī wǔfàn          | 昨天中午我在晒太阳吃午饭           | I ate lunch in the sun                                         |
+| Today I'm in the office all day                                                        | wǒ jīntiān yīzhí zài bàngōngshì                        | 我今天一直在办公室                 | I today always at the office                                   |
+| (I) haven't come out                                                                   | méiyǒu chūlái                                          | 没有出来                           |                                                                |
+| Go up                                                                                  | shàngqù                                                | 上去                               |                                                                |
+| Come up                                                                                | shànglái                                               | 上来                               |                                                                |
+| Go down                                                                                | xiàqù                                                  | 下去                               |                                                                |
+| Come down                                                                              | xiàlái                                                 | 下来                               |                                                                |
+| You come up to me (if I'm upstairs)                                                    | nǐ shànglái                                            | 你上来                             | You never go to me!                                            |
+| I go down to you (if I'm upstairs)                                                     | wǒ xiàqù                                               | 我下去                             |                                                                |
+| I come up to you (if I'm downstairs)                                                   | wǒ shàngqù                                             | 我上去                             |                                                                |
+| You come down to me (if I'm downstairs)                                                | nǐ xiàlái                                              | 你下来                             |                                                                |
+| You go outside (both in same room)                                                     | nǐ chūqù                                               | 你出去                             |                                                                |
+| You come outside (only said by someone outside)                                        | nǐ chūlái                                              | 你出来                             |                                                                |
+| I back qo (home)                                                                       | wǒ huíqù                                               | 我回去                             | huí means back and to return                                   |
+| You back come (home) (said by person in house)                                         | nǐ huílái                                              | 你回来                             |                                                                |
+| I fly back to London                                                                   | wǒ fēi huí lúndūn                                      | 我飞回伦敦                         |                                                                |
+| I fly to London                                                                        | wǒ fēi qù lúndūn                                       | 我飞去伦敦                         |                                                                |
+| I fly to London (the flying has finished)                                              | wǒ fēi dào lúndūn                                      | 我飞到伦敦                         |                                                                |
+| I return to China                                                                      | wǒ huí zhōngguó                                        | 我回中国                           |                                                                |
+| I return home                                                                          | wǒ huíguó                                              | 我回国                             |                                                                |
+| Too awful/horrible                                                                     | tài zāole                                              | 太遭了                             | zāo - bad/horrible                                             |
+| Morning compared to afternoon is hotter                                                | zǎochén bǐ xiàwǔ rè duōle                              | 早晨比下午热多了                   | Never use shǎo with this structure, only duō                   |
+| Time                                                                                   | shíjiān                                                | 时间                               |                                                                |
+| Jetlag                                                                                 | shíchā                                                 | 时差                               | lit. time difference                                           |
+| Part                                                                                   | bùfèn                                                  | 部分                               | also means "section"                                           |
+| The big part / the larger part / most                                                  | dà bùfèn                                               | 大部分                             |                                                                |
+| Most sky scrappers are bank offices                                                    | dà bùfèn mótiān dàlóu shì yínháng de bàngōngshì        | 大部分摩天大楼是银行的办公室       |                                                                |
+| Most people like dogs                                                                  | dà bùfèn rén xǐhuān gǒu                                | 大部分人喜欢狗                     |                                                                |
+| To have good luck (when not expected)                                                  | zǒulù gǒu shǐ yùn                                      | 走路狗屎运                         | To walk dog shit luck!                                         |
+| This part is broken                                                                    | zhège bùfèn huàile                                     | 这个部分坏了                       |                                                                |
+| A small part is broken                                                                 | xiǎo bùfèn huàile                                      | 小部分坏了                         |                                                                |
+| Chinatown                                                                              | zhōngguó chéng                                         | 中国城                             | lit. China Town. equivalent to tángrénjiē (Tang people street) |
+| The neighbourhood's restaurants also cook Indian dishes and also cook Malaysian dishes | fùjìn de fàndiàn yě zuò yìndù cài yě zuò mǎláixīyà cài | 附近的饭店也做印度菜也做马来西亚菜 | note zuò after every yě (unlike English)                       |
+| If                                                                                     | rúguǒ                                                  | 如果                               | In case                                                        |
+| Glitzy / luxury                                                                        | háohuá                                                 | 豪华                               |                                                                |
+| Important visit                                                                        | fǎngwèn                                                | 访问                               | Just use qù                                                    |
+| Wild boar                                                                              | yězhū                                                  | 野猪                               | lit. wild pig                                                  |
+| Tropical bird                                                                          | rèdài de niǎo                                          | 热带的鸟                           | lit. hot region bird                                           |
+| Tropical fruit                                                                         | rèdài de shuǐguǒ                                       | 热带的水果                         |                                                                |
+| Singapore is a tropical country                                                        | xīnjiāpō shì rèdài guójiā                              | 星加坡是热带国家                   |                                                                |
+| Temperate zone around the Earth (outside the tropics - no real translation)            | wēndài                                                 | 温带                               | Same wēn as wēndù, but here means lit. warm region             |
+| Glasses                                                                                | yǎnjìng                                                | 眼镜                               | lit eye lens (or mirror)                                       |
+| Mirror                                                                                 | jìngzi                                                 | 镜子                               |                                                                |
+| Tarsier (little primate with big eyes!)                                                | yǎnjìng hóu                                            | 眼镜猴                             | lit. glasses monkey                                            |
+| I see a snake                                                                          | wǒ kàn dào yī tiáo shé                                 | 我看到一条蛇                       | tiáo like spaghetti measure word                               |
+| Cobra                                                                                  | yǎnjìngshé                                             | 眼镜蛇                             | lit. glasses snake                                             |
+| Poison                                                                                 | dú                                                     | 毒                                 |                                                                |
+| Poisoness (has poison)                                                                 | yǒudú                                                  | 有毒                               | Also used to mean attractive/charismatic or books/films etc    |
+| Viper (lit. poisoness snake)                                                           | dúshé                                                  | 毒蛇                               |                                                                |
+| This glass of water is poisoness                                                       | zhè bēi shuǐ yǒudú                                     | 这杯水有毒                         |                                                                |
 * A boring weekend
 ** Chinese and Eurovision
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
@@ -18577,6 +18584,54 @@ https://digchinese.com/measure-words
 | She buys some books                                                    | tā mǎile liǎng běn shū                                                          | 她买了两本书                                   |                                                    |
 | In the afternoon I play with my computer and listen to music           | xiàwǔ wǒ dǎle diànnǎo hé tīngle yīnyuè                                          | 下午我打了电脑和听了音乐                       |                                                    |
 | In the evening I study Chinese                                         | wǒ wǎnshàng xì xuéle zhōngwén                                                   | 我晚上系学了中文                               |                                                    |
+* Internet Vocab
+** Weibo
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                  | Pinyin                                   | Characters             | Notes                      |
+|------------------------------------------+------------------------------------------+------------------------+----------------------------|
+| Weibo                                    | Wēi bó                                   | 微博                   | Micro blog                 |
+| Login                                    | dēnglù                                   | 登录                   |                            |
+| Registered                               | zhùcè                                    | 注册                   |                            |
+| Account login                            | zhànghào dēnglù                          | 帐号登录               |                            |
+| Secure login                             | Ānquán dēnglù                            | 安全登录               |                            |
+| Home                                     | shǒuyè                                   | 首页                   |                            |
+| Video                                    | shìpín                                   | 视频                   |                            |
+| Find                                     | fāxiàn                                   | 发现                   |                            |
+| Game                                     | yóuxì                                    | 游戏                   |                            |
+| Publish                                  | fābù                                     | 发布                   |                            |
+| Public                                   | gōngkāi                                  | 公开                   |                            |
+| Friends circle                           | hǎoyǒu quān                              | 好友圈                 |                            |
+| Only visible to yourself                 | jǐn zìjǐ kějiàn                          | 仅自己可见             |                            |
+| Group visible                            | qún kějiàn                               | 群可见                 |                            |
+| Anything new to tell everyone?           | yǒu shé me xīnxiān shì xiǎng gàosù dàjiā | 有什么新鲜事想告诉大家 |                            |
+| Popular (on) weibo                       | rèmén wēi bó                             | 热门微博               | Appears next to hot topics |
+| Emoticon                                 | biǎoqíng                                 | 表情                   | lit. Expression            |
+| Image                                    | túpiàn                                   | 图片                   |                            |
+| Topic                                    | huàtí                                    | 话题                   | Hash tag                   |
+| Headline article                         | tóutiáo wénzhāng                         | 头条文章               |                            |
+| Live broadcast                           | zhíbò                                    | 直播                   |                            |
+| Comments                                 | diǎnpíng                                 | 点评                   |                            |
+| Timed                                    | dìngshí fā                               | 定时发                 |                            |
+| Music                                    | yīnyuè                                   | 音乐                   |                            |
+| Blogging public welfare                  | wēi gōngyì                               | 微公益                 |                            |
+| Fresh things                             | xīnxiān shì                              | 新鲜事                 | New                        |
+| Super words                              | chāo huà                                 | 超话                   |                            |
+| Ask a question                           | tíwèn                                    | 提问                   |                            |
+| All                                      | quánbù                                   | 全部                   |                            |
+| Original                                 | yuánchuàng                               | 原创                   |                            |
+| Article                                  | wénzhāng                                 | 文章                   |                            |
+| New (on) Weibo                           | xīn wēi bó                               | 新微博                 |                            |
+| My favourites/collection                 | wǒ de shōucáng                           | 我的收藏               |                            |
+| My likes                                 | wǒ de zàn                                | 我的赞                 | lit. My praise/applaud     |
+| Follow? (Pay close attention to)         | tèbié guānzhù                            | 特别关注               | lit. Special attention     |
+| Group Weibo                              | qún wēi bó                               | 群微博                 |                            |
+| Quietly follow? (Pay quiet attention to) | qiāoqiāo guānzhù                         | 悄悄关注               |                            |
+| 1 word has been entered                  | yǐ shūrù 1 zì                            | 已输入1字              |                            |
+| Spread  / Popularise                     | tuīguǎng                                 | 推广                   | lit. promotion             |
+| Forward                                  | zhuǎnfā                                  | 转发                   |                            |
+| Comment                                  | pínglùn                                  | 评论                   |                            |
+| Like                                     | zàn                                      | 赞                     | lit. awesome               |
+| 7 minutes ago from Weibo                 | 7 Fēnzhōng qián láizì wēi bó             | 7分钟前 来自 微博      |                            |
 * Publishing
 - To publish to the web C-c C-e P p
 * Misc Org
