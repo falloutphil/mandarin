@@ -18547,6 +18547,56 @@ https://www.echineselearning.com/blog/answer-to-the-exercise-on-the-difference-b
 
 https://digchinese.com/measure-words
 
+** Vocab
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                             | Pinyin                                        | Characters                   | Notes                                                               |
+|-----------------------------------------------------+-----------------------------------------------+------------------------------+---------------------------------------------------------------------|
+| Today (was) very long                               | jīntiān hěn zhǎng                             | 今天很长                     |                                                                     |
+| Because (it's) very busy                            | yīnwéi fēicháng máng                          | 因为非常忙                   |                                                                     |
+| This evening I go to sleep relatively early         | wǒ wǎnshàng shuìjiào bǐjiào zǎo               | 我晚上睡觉比较早             |                                                                     |
+| Yesterday I went to sleep a little late             | wǒ zuótiān shuìjiào yǒu yīdiǎn wǎn            | 我昨天睡觉有一点晚           |                                                                     |
+| This evening I will go to sleep a little earlier    | wǒ wǎnshàng huì shuìjiào zǎo yīdiǎn           | 我晚上会睡觉早一点           | Use of huì                                                          |
+| This restaurant serves dim sim                      | zhège fàndiàn chī diǎnxīn                     | 这个饭店吃点心               | chī here means serves not eat                                       |
+| I can't get online                                  | wǒ bùnéng shàngwǎng                           | 我不能上网                   | shàngwǎng is a verb                                                 |
+| I don't have internet                               | wǒ méiyǒu wǎng                                | 我没有网                     | wǎng is a noun                                                      |
+| My house doesn't have internet                      | Wǒjiā méiyǒu WiFi                             | 我家没有WiFi                 | WiFi can be used as well as wǎng                                    |
+| (It's) still broken                                 | Háishì huàile                                 | 还是坏了                     |                                                                     |
+| Internet company (ISP)                              | wǎngluò gōngsī                                | 网络公司                     | wǎngluò - the internet                                              |
+| I call the internet company                         | wǒ gěi wǎngluò gōngsī dǎle diànhuà            | 我给网络公司打了电话         | gěi here is a support word, not verb                                |
+| Repair the internet                                 | bǎ wǎngluò xiūhǎole                           | 把网络修好了                 |                                                                     |
+| Slept with ____                                     | bǎ ____ shuìle                                | 把 ____ 睡了                 | Important to get xiū and shuì right!                                |
+| After the internet is repaired, I can go online     | wǎngluò xiūhǎole yǐhòu, wǒ kěyǐ shàngwǎngle   | 网络修好了以后, 我可以上网了 | kěyǐ or néng can be used, the le is not past, situation has changed |
+| I can go online again                               | wǒ yòu kěyǐ shàngwǎngle                       | 我又可以上网了               | yòu - again                                                         |
+| I forgot I put it in the cupboard                   | wǒ wàngle bǎ guìzi lǐ fàngle                  | 我忘了把柜子里放了           |                                                                     |
+| I put the credit card in the cupboard (bǎ)          | wǒ bǎ xìnyòngkǎ fàng dàole guìzi lǐ           | 我把信用卡放到了柜子里       | fàngdàole or fàngzàile                                              |
+| I put the credit card in the cupboard               | wǒ fàng xìnyòngkǎ dào guìzi lǐ                | 我放信用卡到柜子里           | The bǎ sentence above is better Chinese                             |
+| I forgot that I put the credit card in the cupbaord | wǒ wàngle wǒ bǎ xìnyòngkǎ fàng dàole guìzi lǐ | 我忘了我把信用卡放到了柜子里 |                                                                     |
+| He is reliable/trustworthy/reputable                | tā yǒu xìnyòng                                | 他有信用                     | lit. he has credit                                                  |
+| My realtives came to my house                       | wǒ de qīnqī láile wǒjiā                       | 我的亲戚来了我家             | qīnqī - relatives                                                   |
+| No one dropped curry on the sofa                    | méiyǒu rén bǎ gālí diào zài shāfā shàng       | 没有人把咖喱掉在沙发上       | méiyǒu rén - nobody, diào  - to drop / dào or zài                   |
+| Clean                                               | gānjìng                                       | 干净                         |                                                                     |
+| Dirty                                               | zàng                                          | 脏                           |                                                                     |
+| Wipe/rub                                            | cā                                            | 擦                           |                                                                     |
+| Wipe TV                                             | cā diànshì                                    | 擦电视                       |                                                                     |
+| Make the TV clean                                   | nòng diànshì gānjìng                          | 弄电视干净                   |                                                                     |
+| Make <noun> <adjective>                             | nòng <noun> <adjective>                       | 弄 <noun> <adjective>        |                                                                     |
+| Clean the table                                     | bǎ zhuōzǐ nòng gānjìng                        | 把桌子弄干净                 | table make clean                                                    |
+| Nobody dirtied the sofa                             | méiyǒu rén bǎ shāfā nòng zāng                 | 没有人把沙发弄脏             |                                                                     |
+| I am talking with you                               | wǒ hé nǐ shuōhuà                              | 我和你说话                   | talk the talk like sleep a sleep                                    |
+| Swear word / bad language                           | zānghuà                                       | 脏话                         | lit. dirty talk (not same meaning as English!)                      |
+| Swearing / To swear                                 | shuō zāng huà                                 | 说脏话                       | lit. talk dirty talk                                                |
+| Most of the songs do not sound good                 | dà bùfèn gēqǔ bù hǎotīng                      | 大部分歌曲不好听             |                                                                     |
+| (The) Dutch song won                                | hélán gēqǔ yíngle                             | 荷兰歌曲赢了                 |                                                                     |
+| I stay at home to work                              | wǒ liú zàijiā gōngzuò                         | 我留在家工作                 |                                                                     |
+| I have not been (there)                             | wǒ méi qùguò                                  | 我没去过                     | I have not gone                                                     |
+| It should be two people                             | yīnggāi shì liǎng gè rén                      | 应该是两个人                 |                                                                     |
+| Should be ______                                    | yīnggāi shì _____                             | 应该是 _____                 |                                                                     |
+| I don't have a squash partner                       | wǒ méiyǒu bìqiú dādàng                        | 我没有壁球搭档               | dādàng - sports partner or team member                              |
+| I play alone                                        | wǒ yīgè rén wán                               | 我一个人玩                   |                                                                     |
+| I play by myself                                    | wǒ zìjǐ wán                                   | 我自己玩                     |                                                                     |
+| (He) himself                                        | tā zìjǐ                                       | 他自己                       |                                                                     |
+| She returned from Legoland at six o'clock           | tā liù diǎn cóng lègāo lèyuán huílái          | 她六点从乐高乐园回来         |                                                                     |
+| They waited for two hours                           | tāmen děngle liǎng xiǎoshí                    | 他们等了两小时               |                                                                     |
 ** Wedding and Sunday Lunch
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                                                                | Pinyin                                                                          | Characters                                     | Notes                                              |
