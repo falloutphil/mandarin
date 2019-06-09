@@ -18634,6 +18634,30 @@ https://digchinese.com/measure-words
 | She buys some books                                                    | tā mǎile liǎng běn shū                                                           | 她买了两本书                                   |                                                    |
 | In the afternoon I play with my computer and listen to music           | xiàwǔ wǒ dǎle diànnǎo hé tīngle yīnyuè                                           | 下午我打了电脑和听了音乐                       |                                                    |
 | In the evening I study Chinese                                         | wǒ wǎnshàng xì xuéle zhōngwén                                                    | 我晚上系学了中文                               |                                                    |
+** Guernsey
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                                      | Pinyin                                                        | Characters                             | Notes |
+|--------------------------------------------------------------+---------------------------------------------------------------+----------------------------------------+-------|
+| Last weekend I went on a mini break with my wife             | wǒ shàng zhōumò hé lǎopó dùguòle yīgè duǎn jiǎ.               | 我上周末和老婆度过了一个短假           |       |
+| On Friday evening we flew to Guernsey                        | wǒmen xīngqíwǔ fēi dàole gēnxīdǎo                             | 我们星期五飞到了根西岛                 |       |
+| Guernsey is a small island off the northern coast of France  | gēnxīdǎo shì xiǎo dǎo zài fàguó běibù hǎi'àn                  | 根西岛是小岛在法国北部海岸             |       |
+| We stay in a hotel in the island capital                     | zài shǒudū zài jiǔdiàn zhùle                                  | 在首都在酒店住了                       |       |
+| Our room has a large balcony with beautiful views            | wǒmen de fángjiān yǒu dà de yángtái yǒu měijǐng               | 我们的房间有大的阳台有美景             |       |
+| But on Friday night it is raining                            | dànshì zhōu wǔ wǎnshàng xià yǔle                              | 但是周五晚上下雨了                     |       |
+| We eat steak for dinner                                      | wǒmen chūqùle chī niúpái                                      | 我们出去了吃牛排                       |       |
+| Then we go to a bar and chat to the islanders                | ránhòu qùle jiǔbā hé dǎo rén liáole                           | 然后去了酒吧和岛人聊了                 |       |
+| On Saturday morning my wife gets up early and went running   | wǒ de lǎopó xīngqíliù zǎoqǐ ránhòu tā qùle pǎobù              | 我的老婆星期六早起然后她去了跑步       |       |
+| I eat a big breakfast instead                                | yīnwéi bù qùle pǎobù, wǒ chīle hěnduō zao fàn hé fàngsōngle   | 因为不去了跑步, 我吃了很多早饭和放松了 |       |
+| At noon we take a boat to Herm Island                        | wǒmen zhōngwǔ zuòle chuán qù Herm dǎo                         | 我们中午坐了船去Herm岛                 |       |
+| Herm Island is very small                                    | Herm dǎo shì tài xiǎole                                       | Herm岛是太小了                         |       |
+| Only 60 people live on Herm island                           | zài Herm dǎo zhǐyǒu liùshí gèrén zàizhù                       | 在Herm岛只有六十个人在住               |       |
+| There are no roads or vehicles                               | méiyǒu dàolù huòzhě chē                                       | 没有道路或者车                         |       |
+| But it has very beautiful beaches                            | bùguò yǒu hěnduō měilì de shātān                              | 不过有很多美丽的沙滩                   |       |
+| We walk around the island and then eat lunch at a restaurant | wǒmen zài dǎo shàng zǒulù ránhòu zài yīgè jiǔguǎn chīle wǔfàn | 我们在岛上走路然后在一个酒馆吃了午饭   |       |
+| I ate very fresh fish and chips                              | wǒ chīle hěn xiān yú hé shǔtiáo                               | 我吃了很鲜鱼和薯条                     |       |
+| In the evening we watched the sunset                         | wǒmen bàngwǎn kànzhe xīyáng                                   | 我们傍晚看着夕阳                       |       |
+| And had drinks on the beach                                  | ránhòu zài shātān shàng hējiǔ                                 | 然后在沙滩上喝酒                       |       |
+| On Sunday we flew back to London                             | xīngqítiān shàngwǔ fēile huí lúndūn                           | 星期天上午飞了回伦敦                   |       |
 * Internet Vocab
 ** Weibo
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
