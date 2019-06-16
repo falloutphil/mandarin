@@ -18658,6 +18658,41 @@ https://digchinese.com/measure-words
 | In the evening we watched the sunset                         | wǒmen bàngwǎn kànzhe xīyáng                                   | 我们傍晚看着夕阳                       |       |
 | And had drinks on the beach                                  | ránhòu zài shātān shàng hējiǔ                                 | 然后在沙滩上喝酒                       |       |
 | On Sunday we flew back to London                             | xīngqítiān shàngwǔ fēile huí lúndūn                           | 星期天上午飞了回伦敦                   |       |
+** Weekend Busy with Work
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                                           | Pinyin                                                                 | Characters                                 | Notes                                |
+|-------------------------------------------------------------------+------------------------------------------------------------------------+--------------------------------------------+--------------------------------------|
+| Last weekend I didn't go out                                      | shàng zhōumò wǒ méi chūqùle                                            | 上周末我没出去了                           |                                      |
+| I hoped to go to my wife's father's house                         | wǒ xīwàng qù lǎopó de fù qìng jiā                                      | 我希望去老婆的父亲家                       | xīwàng - hope                        |
+| But I am very busy with work                                      | dànshì wǒ hěn máng yú gōngzuò                                          | 但是我很忙于工作                           | yú gōngzuò - at work                 |
+| So I must stay at home and work                                   | suǒyǐ wǒ liú zàijiā gōngzuò                                            | 所以我留在家工作                           |                                      |
+| I leave work very late on Frday                                   | wǒ lǐbài wǔ líkāi gōngsī hěn wǎn                                       | 我礼拜五离开公司很晚                       |                                      |
+| On the way home I ordered a pizza takeaway                        | wǒ zài huíjiā de lùshàng dìngle pīsà wàimài                            | 我在回家的路上订了披萨外卖                 | huíjiā de lùshàng - return home road |
+| At home, I watch TV for a while, but I fall asleep on the sofa!   | wǒ zàijiā kànle yīduàn shíjiān de diànshì, bùguò shāfā shàng shuìzhele | 我在家看了一段时间的电视, 不过沙发上睡着了 | shuìzhe - to fall asleep             |
+| On Saturday I get up early                                        | wǒ lǐbài liù zǎoqǐ                                                     | 我礼拜六早起                               |                                      |
+| I start work at 8am                                               | wǒ bā diǎn zǎoshang shàngbān                                           | 我八点早上上班                             |                                      |
+| At noon, I rested a bit                                           | wǒ zhōngwǔ xiūxíle yīxià                                               | 我中午休息了一下                           |                                      |
+| I called my mother                                                | wǒ dǎle diànhuà wǒ de mǔqīn                                            | 我打了电话我的母亲                         |                                      |
+| She says I should go out and have fun for a bit!                  | tā shuō wǒ yīnggāi chūqù wán yīxià                                     | 她说我应该出去玩一下                       |                                      |
+| I have a salmon salad for lunch                                   | wǒ chīle sānwènyú shālā wǔcān                                          | 我吃了三文鱼沙拉午餐                       |                                      |
+| Much healthier than pizza!                                        | bǐ pīsà jiànkāng duōle                                                 | 比披萨健康多了                             |                                      |
+| Then I still have more work                                       | ránhòu wǒ hái yǒu gèng duō gōngzuò                                     | 然后我还有更多工作                         |                                      |
+| At 8pm I order my favourite Chinese dish                          | wǒ wǎnshàng bā diǎn dìngle wǒ de zuì xǐhuān de zhōng cài               | 我晚上八点订了我的最喜欢的中菜             |                                      |
+| I love to eat Farmhouse fried meat and prawn dumplings            | wǒ ài chī nóngjiā xiǎochǎo ròu hé dà xiā jiǎozi                        | 我爱吃农家小炒肉和大虾饺子                 |                                      |
+| But when the dish arrives at my house, the takeaway bag is broken | dànshì wǒ cài dàole wǒjiā de shíhòu, wàimài bāo huàile                 | 但是我菜到了我家的时候, 外卖包坏了         |                                      |
+| The dish sauce has leaked                                         | cài jiàng yǐjīng xièlòule                                              | 菜酱已经泄漏了                             |                                      |
+| So I sent it back and ordered another dish                        | suǒyǐ wǒ jìle huíqù ránhòu dìngle lìng yīgè cài                        | 所以我寄了回去然后订了另一个菜             |                                      |
+| But I prefer the original one                                     | bùguò wǒ gèng xǐhuān yuánbǎn de                                        | 不过我更喜欢原版的                         | yuánbǎn - original                   |
+| In the evening I watch a programme about travel                   | wǒ wǎnshàng kànle yīgè diànshì lǚyóu jiémù                             | 我晚上看了一个电视旅游节目                 |                                      |
+| The show is about Ethiopia                                        | zhège jiémù shì guānyú āisāi'ébǐyǎ de                                  | 这个节目是关于埃塞俄比亚的                 | guānyú - on/about/regarding          |
+| I want to travel there                                            | wǒ zài nàlǐ xiǎng qù lǚyóu                                             | 我在那里想去旅游                           | xiǎng - would like / want / think    |
+| On Sunday morning I get up early again                            | wǒ lǐbài tiān yòu zǎoqǐ                                                | 我礼拜天又早起                             | yòu - also / again                   |
+| I eat breakfast cereal                                            | wǒ chīle zǎocān màipiàn                                                | 我吃了早餐麦片                             |                                      |
+| Then I study Chinese                                              | wǒ shàngwǔ xuéxíle zhōngwén                                            | 我上午学习了中文                           |                                      |
+| In the afternoon I plan my next holiday                           | xiàwǔ wǒ jìhuà yīgè jiàqī                                              | 下午我计划一个假期                         |                                      |
+| On my wife's birthday we will go to Uzbekistan                    | zài lǎopó shēngrì de shíhòu wǒmen huì qù wūzībiékèsītǎn wán            | 在老婆生日的时候我们会去乌兹别克斯坦玩     |                                      |
+| In the evening I go to the gym                                    | wǒ bàngwǎn qùle jiànshēnfáng                                           | 我傍晚去了健身房                           |                                      |
+| I play squash and swim                                            | wǒ dǎle bìqiú ránhòu yóuyǒng                                           | 我打了壁球然后游泳                         |                                      |
 * Internet Vocab
 ** Weibo
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
