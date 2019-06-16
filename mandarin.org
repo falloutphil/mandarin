@@ -18713,6 +18713,47 @@ https://digchinese.com/measure-words
 | In the evening we watched the sunset                         | wǒmen bàngwǎn kànzhe xīyáng                                   | 我们傍晚看着夕阳                       |       |
 | And had drinks on the beach                                  | ránhòu zài shātān shàng hējiǔ                                 | 然后在沙滩上喝酒                       |       |
 | On Sunday we flew back to London                             | xīngqítiān shàngwǔ fēile huí lúndūn                           | 星期天上午飞了回伦敦                   |       |
+** Guernsey vocab
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                                   | Pinyin                                                      | Characters                           | Notes                              |
+|-----------------------------------------------------------+-------------------------------------------------------------+--------------------------------------+------------------------------------|
+| Bad cat!                                                  | huài māo                                                    | 坏猫                                 |                                    |
+| Last weekend I had a mini-break with my wife              | wǒ shàng zhōumò hé lǎopó yǒu yīgè duǎn jiàqī                | 我上周末和老婆有一个短假期           | Use yǒu not qù                     |
+| My stomach hurts a bit                                    | wǒ de dùzi yǒudiǎn téng                                     | 我的肚子有点疼                       |                                    |
+| Because I didn't go to work on Tuesday                    | yīnwèi zhōu'èr wǒ méi shàngbān                              | 因为周二我没上班                     |                                    |
+| I leave work                                              | wǒ líkāi gōngsī                                             | 我离开公司                           | lit. I leave the company           |
+| Local people                                              | dāngdì rén                                                  | 当地人                               |                                    |
+| Beer festival                                             | píjiǔ jié                                                   | 啤酒节                               |                                    |
+| Went running                                              | qù pǎole bù                                                 | 去跑了步                             | Separate pǎo and bù                |
+| Black pudding                                             | hēi bùdīng                                                  | 黑布丁                               |                                    |
+| Toast                                                     | kǎo miànbāo                                                 | 烤面包                               | Roast bread!                       |
+| 60 people live on the island                              | liùshí rén zhù zài dǎo shàng                                | 六十人住在岛上                       |                                    |
+| No roads or vehicles                                      | méiyǒu lù hé chē                                            | 没有路和车                           | Chinese use "and" not "or"         |
+| Sea water                                                 | hǎishuǐ                                                     | 海水                                 |                                    |
+| I think the sea will be warmer in August                  | wǒ juédé bā yuè hǎishuǐ huì bǐjiào nuǎnhuo                  | 我觉得八月海水会比较暖和             |                                    |
+| He's crazy                                                | tā fēngle                                                   | 他疯了                               |                                    |
+| May be                                                    | kěnéng                                                      | 可能                                 | Possible                           |
+| At most 15 degrees                                        | zuìduō shíwǔ dù                                             | 最多十五度                           | zuìduō - at most / up to           |
+| I put my hand in the sea                                  | wǒ bǎ shǒu fàng zài hǎilǐ                                   | 我把手放在海里                       |                                    |
+| Very fresh fish and chips                                 | hěn xīnxiān yú hé shǔ tiáo                                  | 很新鲜鱼和薯条                       |                                    |
+| Seafood                                                   | hǎixiān                                                     | 海鲜                                 | lit. Sea fresh                     |
+| Shrimp                                                    | xiǎo xiā                                                    | 小虾                                 |                                    |
+| Prawn                                                     | dà xiā                                                      | 大虾                                 |                                    |
+| Lobster                                                   | lóng xiā                                                    | 龙虾                                 | lit. Dragon shrimp                 |
+| To study / learn                                          | xuéxí                                                       | 学习                                 |                                    |
+| To rest                                                   | xiūxí                                                       | 休息                                 |                                    |
+| I want to know how to say Lobster                         | wǒ xiǎng zhīdào zé me shuō Lobster                          | 我想知道则么说 Lobster               |                                    |
+| Language                                                  | yǔyán                                                       | 语言                                 | lit. "way you say" "way you write" |
+| Guernsey language and French are very similar             | Gēnxīdǎo de yǔyán hé fǎwén hěn xiāngsì                      | 根西岛的语言和法文很相似             | xiāngsì - similar                  |
+| 50 years ago, I think many people speak Guernsey language | wǔshí nián qián, wǒ juédé hěnduō rén shuō gēnxīdǎo de yǔyán | 五十年前, 我觉得很多人说根西岛的语言 |                                    |
+| Young people (16-30)                                      | niánqīng rén                                                | 年轻人                               |                                    |
+| Old people / Elderly (>50)                                | lǎonián rén                                                 | 老年人                               |                                    |
+| I rested on the sofa for 1 day                            | wǒ zài shāfā shàng xiūxíle yītiān                           | 我在沙发上休息了一天                 |                                    |
+| This coming weekend                                       | zhège zhōumò                                                | 这个周末                             |                                    |
+| The following weekend                                     | xià gè zhōumò                                               | 下个周末                             |                                    |
+| Smelly feet / Athlete's foot                              | xiānggǎng jiǎo                                              | 香港脚                               | lit. Hong Kong feet!               |
+| Not possible / impossible                                 | bù kěnéng                                                   | 不可能                               | lit. not may be                    |
+| In Derby, if you want Hunanese food, not possible         | zài débǐ rúguǒ wǒ yào húnán cài, bù kěnéng                  | 在德比如果我要湖南菜不可能           |                                    |
 ** Weekend Busy with Work
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                                                           | Pinyin                                                                 | Characters                                 | Notes                                |
