@@ -11723,15 +11723,15 @@ wǒ bànyè shí èr diǎn yī kè shuìjiào
 | I watch television at 9pm                    | wǒ jiǔ diǎn kàn diànshì                                   | [[https://translate.google.com/#zh-CN/en/我九点看电视][我九点看电视]]                       |       |
 | I go to sleep at 11pm                        | wǒ shí yī diǎn shuìjiào                                   | [[https://translate.google.com/#zh-CN/en/我十一点睡觉][我十一点睡觉]]                       |       |
 
-我七点半洗澡。
-我每天八点坐地铁。
-我十点喝杯茶。
-我十二点吃午饭。 我吃沙拉还是三明治。
-我六点离开工作。
-我七点打壁球。
-我八点半吃晚饭。
-我九点看电视。
-我十一点睡觉。
+我七点半洗澡.
+我每天八点坐地铁.
+我十点喝杯茶.
+我十二点吃午饭. 我吃沙拉还是三明治.
+我六点离开工作.
+我七点打壁球.
+我八点半吃晚饭.
+我九点看电视.
+我十一点睡觉.
 *** Cards                                                        :noexport:
 **** Work Routine                                                  :drill:
 SCHEDULED: <2018-10-16 Tue>
@@ -11819,7 +11819,7 @@ I have salad or a sandwich for lunch at 12am
 ***** Pinyin
 Wǒ shí'èr diǎn chī wǔfàn. Wǒ chī shālā háishì sānmíngzhì.
 ***** Characters
-我十二点吃午饭。 我吃沙拉还是三明治。
+我十二点吃午饭. 我吃沙拉还是三明治.
 **** Work Routine                                                  :drill:
 SCHEDULED: <2018-10-19 Fri>
 :PROPERTIES:
@@ -18816,6 +18816,56 @@ https://digchinese.com/measure-words
 | I ate to many sausages and burgers                                                  | wǒ chīle tài duōle xiāngcháng hé hànbǎo                                                    | 我吃了太多了香肠和汉堡                               |                                                   |
 | In the evening I still don't want to eat dinner!                                    | wǒ wǎnshàng hái bùyào chī wǎnfàn                                                           | 我晚上还不要吃晚饭                                   |                                                   |
 | I watch football game on TV                                                         | shuìjiào yǐqián wǒ zài diànshì shàng kàn zúqiú bǐsài                                       | 睡觉以前我在电视上看足球比赛                         |                                                   |
+
+* Daily Routines
+
+我早晨七点起床.
+我穿一条牛仔裤和一件白色的衬衫.
+我早饭喝红茶和吃烤面包.
+我八点去上班.
+我坐地铁.
+我吃了鸡肉沙拉午饭.
+我离开公司有点早.
+下班以后还是晴天.
+所以我沿河走路然后穿过公园.
+在Notting Hill坐公车去我家
+比地铁放松多了.
+我吃了披萨晚饭.
+我十一点睡觉.
+
+Wǒ zǎochén qī diǎn qǐchuáng.
+Wǒ chuān yītiáo niúzǎikù hé yī jiàn báisè de chènshān.
+Wǒ zǎofàn hē hóngchá hé chī kǎo miànbāo.
+Wǒ bā diǎn qù shàngbān.
+Wǒ zuò dìtiě.
+Wǒ chīle jīròu shālā wǔfàn.
+Wǒ líkāi gōngsī yǒudiǎn zǎo.
+Xiàbān yǐhòu hái shì qíngtiān.
+Suǒyǐ wǒ yán hé zǒulù ránhòu chuānguò gōngyuán.
+Zài Notting Hill zuò gōngchē qù wǒjiā.
+Bǐ dìtiě fàngsōng duōle.
+Wǒ chīle pīsà wǎnfàn.
+Wǒ shíyī diǎn shuìjiào.
+
+我早上八点起床.
+我洗澡然后吃麦片早饭.
+今天我在家里工作.
+所以我在穿一件T恤和一条运动服底部.
+我的上午比较安静, 不过下午我必须给公司打电话会议.
+傍晚我为老婆做饭.
+我们吃海鲜意面.
+然后我们看一部电影.
+我十点一刻睡觉.
+
+Wǒ zǎoshang bā diǎn qǐchuáng.
+Wǒ xǐzǎo ránhòu chī màipiàn zǎofàn.
+Jīntiān wǒ zài jiālǐ gōngzuò.
+Suǒyǐ wǒ zài chuān yī jiàn T xù hé yītiáo yùndòng fú dǐbù.
+Wǒ de shàngwǔ bǐjiào ānjìng, bùguò xiàwǔ wǒ bìxū gěi gōngsī dǎ diànhuà huìyì.
+Bàngwǎn wǒ wèi lǎopó zuò fàn.
+Wǒmen chī hǎixiān yì miàn.
+Ránhòu wǒmen kàn yī bù diànyǐng.
+Wǒ shí diǎn yī kè shuìjiào.
 
 * Internet Vocab
 ** Weibo
