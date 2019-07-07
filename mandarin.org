@@ -18900,6 +18900,40 @@ Wǒmen chī hǎixiān yì miàn.
 Ránhòu wǒmen kàn yī bù diànyǐng.
 Wǒ shí diǎn yī kè shuìjiào.
 
+我七点起床
+我比较早去上班
+我的办公室在Cannon Street
+在河旁边
+我的办公桌在七楼
+我在最喜欢汉堡饭店吃午饭
+从我的办公室去饭店距离近
+我走上山
+我往左拐
+过了火车站，就到了
+饭店在右手边
+汉堡非常好吃
+不过一点贵了
+傍晚我回家
+我晚饭做鸡肉意面
+晚上我看书
+
+Wǒ qī diǎn qǐchuáng
+wǒ bǐjiào zǎo qù shàngbān
+wǒ de bàngōngshì zài Cannon Street
+zài hé pángbiān
+wǒ de bàngōng zhuō zài qī lóu
+wǒ zài zuì xǐhuān hànbǎo fàndiàn chī wǔfàn
+cóng wǒ de bàngōngshì qù fàndiàn jùlí jìn
+wǒ zǒu shàngshān
+wǒ wǎng zuǒ guǎi
+guò le huǒchē zhàn, jiù dàole
+fàndiàn zài yòushǒu biān
+hànbǎo fēicháng hào chī
+bùguò yīdiǎn guìle
+bàngwǎn wǒ huí jiā
+wǒ wǎnfàn zuò jīròu yì miàn
+wǎnshàng wǒ kànshū
+
 * Internet Vocab
 ** Weibo
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
