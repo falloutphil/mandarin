@@ -18934,6 +18934,36 @@ bàngwǎn wǒ huí jiā
 wǒ wǎnfàn zuò jīròu yì miàn
 wǎnshàng wǒ kànshū
 
+我八点半起床
+我洗澡然后穿衣服
+我穿一件绿色的衬衫和一条牛仔裤。
+我早饭吃炒鸡蛋和一壶红茶
+我去办公室晚
+因为我的地铁推迟
+所以早上在我家上班
+中午的地铁比早上的快, 所以我去办公室
+办公室的空调坏了
+我希望我今天一直在家
+我傍晚去健身房
+游泳池水一点冷,不过很清爽!
+我晚餐吃牛排和薯条
+
+
+wǒ bā diǎn bàn qǐchuáng
+wǒ xǐzǎo ránhòu chuān yīfú
+wǒ chuān yī jiàn lǜsè de chènshān hé yītiáo niúzǎikù
+wǒ zǎo fàn chī chǎo jīdàn hé yī hú hóngchá
+wǒ qù bàngōngshì wǎn
+yīnwèi wǒ dì dìtiě tuīchí
+suǒyǐ zǎoshang zài wǒjiā shàngbān
+zhōngwǔ dì dìtiě bǐ zǎoshang de kuài, suǒyǐ wǒ qù bàngōngshì
+bàngōngshì de kòngtiáo huàile
+wǒ xīwàng wǒ jīntiān yīzhí zàijiā
+wǒ bàngwǎn qù jiànshēnfáng
+yóuyǒngchí shuǐ yīdiǎn lěng, bùguò hěn qīngshuǎng!
+wǒ wǎncān chī niúpái hé shǔ tiáo
+
+
 * Internet Vocab
 ** Weibo
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
