@@ -18789,6 +18789,56 @@ https://digchinese.com/measure-words
 | On my wife's birthday we will go to Uzbekistan                    | zài lǎopó shēngrì de shíhòu wǒmen huì qù wūzībiékèsītǎn wán            | 在老婆生日的时候我们会去乌兹别克斯坦玩     |                                      |
 | In the evening I go to the gym                                    | wǒ bàngwǎn qùle jiànshēnfáng                                           | 我傍晚去了健身房                           |                                      |
 | I play squash and swim                                            | wǒ dǎle bìqiú ránhòu yóuyǒng                                           | 我打了壁球然后游泳                         |                                      |
+** Vocab
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                           | Pinyin                              | Characters                | Notes                                   |
+|---------------------------------------------------+-------------------------------------+---------------------------+-----------------------------------------|
+| The subway is very busy                           | dìtiě hěnduō rén                    | 地铁很多人                | lit. subway may people                  |
+| (I) take a taxi from the subway station back home | cóng dìtiě zhàn dǎchē huí jiā       | 从地铁站打车回家          |                                         |
+| I didn't go out                                   | wǒ méi chūqù                        | 我没出去                  | No "le" in negative past tense          |
+| I am busy with work                               | wǒ mángyú gōngzuò                   | 我忙于工作                | You don't need the "yú" in spoken form  |
+| Wait a while                                      | děng yīhuǐ                          | 等一会                    | Fairly short time                       |
+| Wait just a minute                                | děng yīxià                          | 等一下                    | Very short time                         |
+| I watched TV for a while                          | wǒ kànle yīhuǐ diànshì              | 我看了一会电视            | yīhuǐ is pronounced yihuwrrr            |
+| Fell asleep                                       | shuìzhele                           | 睡着了                    | Pronounced shuìzháo                     |
+| On fire                                           | zhehuǒ                              | 着火                      | Pronounced zháohuǒ - lit start fire     |
+| After taking a break                              | xiūxíle yǐhòu                       | 休息了以后                | Pronounced yǐhurrr                      |
+| I called my mother                                | wǒ gěi mǔqīn dǎle diànhuà           | 我给母亲打了电话          | lit. I gave my mother a phone call      |
+| She thinks I work too much                        | tā juédé wǒ gōngzuò tài duōle       | 她觉得我工作太多了        |                                         |
+| I still have more work                            | wǒ hái yǒu gèng duō gōngzuò         | 我还有更多工作            |                                         |
+| Leaked                                            | xièlòule                            | 泄漏了                    | For eg gas leak or infomation leak      |
+| The sauce has been spilled                        | Jiàng zhī yǐjīng sǎle               | 酱汁已经洒了              | sǎle - spilled                          |
+| I send back for refund                            | wǒ tuìle huíqù                      | 我退了回去                | tuì - refund / retreat, huíqù - go back |
+| I want to return this item of clothing            | wǒ yào tuì zhè jiàn yīfú            | 我要退这件衣服            |                                         |
+| Tax refund                                        | tuìshuì                             | 退税                      |                                         |
+| I sent the dish back                              | wǒ bǎ cài tuìle huíqù               | 我把菜退了回去            |                                         |
+| The original                                      | yuánbǎn                             | 原版                      | as in character, movie or book          |
+| But, I prefer Muyang                              | bùguò wǒ gèng xǐhuān mùyáng         | 不过我更喜欢牧羊          |                                         |
+| The second restaurant                             | dì èr gè fàndiàn                    | 第二个饭店                |                                         |
+| Fish and chips                                    | yú hé shǔtiáo                       | 鱼和薯条                  |                                         |
+| The (TV) show is about China                      | zhège jiémù guānyú zhōngguó         | 这个节目关于中国          |                                         |
+| I am at ____                                      | wǒ zài _____                        | 我在 ____                 |                                         |
+| I want to travel there                            | wǒ xiǎng qù nàlǐ lǚyóu              | 我想去那里旅游            |                                         |
+| Study Chinese                                     | xuéxíle zhōngwén                    | 学习了中文                |                                         |
+| I planned a holiday                               | wǒ jìhuàle yīgè jiàqī               | 我计划了一个假期          |                                         |
+| (I) also mought a blue jumper                     | yě mǎile yī jiàn lán sè de máoyī    | 也买了一件蓝色的毛衣      |                                         |
+| (I) like my sweater                               | hěn xiàng wǒ de máoyī               | 很像我的毛衣              |                                         |
+| I gave him a birthday card                        | wǒ gěi tā shēngrì kǎ                | 我给他生日卡              |                                         |
+| I gave him a birthday card (for free)             | wǒ sòng gěi tā shēngrì kǎ           | 我送给他生日卡            | gěi not needed. sòng - "give for free"  |
+| I will give you a jumper                          | wǒ sòng nǐ máoyī                    | 我送你毛衣                | sòng - give/send                        |
+| I will accompany you to the airport               | wǒ sòng nǐ qù jīchǎng               | 我送你去机场              | sòng - accompany                        |
+| I drive (and accompany) you to the airport        | wǒ kāichē sòng nǐ qù jīchǎng        | 我开车送你去机场          |                                         |
+| I accompany the child to school                   | wǒ sòng háizi qù xuéxiào            | 我送孩子去学校            |                                         |
+| I post a letter                                   | wǒ jì xìn                           | 我寄信                    |                                         |
+| I deliver a letter                                | wǒ sòng xìn                         | 我送信                    |                                         |
+| The driver delivers the takeaway                  | zhège sījī sòng wàimài              | 这个司机送外卖            |                                         |
+| I have to be in Chiswick before 8 o'clock         | Wǒ bìxū bā diǎn yǐqián dào Chiswick | 我必须八点以前到 Chiswick |                                         |
+| Sleeping all the time                             | yīzhí shuìjiào                      | 一直睡觉                  |                                         |
+| Did you take medicine?                            | nǐ chī yàole ma                     | 你吃药了吗                | yào - pill / medicine                   |
+| I can buy you medicine                            | wǒ kěyǐ mǎi yào ài gěi nǐ           | 我可以买药爱给你          |                                         |
+| Pharmacy                                          | yào diàn                            | 药店                      |                                         |
+| A snake                                           | yī tiáo shé                         | 一条蛇                    |                                         |
+| Red Cross                                         | hóng shízì                          | 红十字                    |                                         |
 ** Ascot
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                                                                             | Pinyin                                                                                     | Characters                                           | Notes                                             |
