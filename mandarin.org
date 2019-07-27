@@ -18868,6 +18868,71 @@ https://digchinese.com/measure-words
 | In the evening I still don't want to eat dinner!                                    | wǒ wǎnshàng hái bùyào chī wǎnfàn                                                           | 我晚上还不要吃晚饭                                   |                                                   |
 | I watch football game on TV                                                         | shuìjiào yǐqián wǒ zài diànshì shàng kàn zúqiú bǐsài                                       | 睡觉以前我在电视上看足球比赛                         |                                                   |
 
+** Vocab
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                               | Pinyin                                          | Characters                     | Notes                                                       |
+|-------------------------------------------------------+-------------------------------------------------+--------------------------------+-------------------------------------------------------------|
+| I ate chicken salad for lunch                         | wǒ wǔfàn chīle jīròu shālā                      | 我午饭吃了鸡肉沙拉             |                                                             |
+| I walked along the river                              | wǒ yánzhe hé zǒu lòu                            | 我沿着河走露                   |                                                             |
+| I walked along the river                              | wǒ yánzhe hé sànbù                              | 我沿着河散步                   | sànbù - relaxing walk                                       |
+| After work it's still daylight                        | xiàbān yǐhòu hái shì báitiān                    | 下班以后还是白天               |                                                             |
+| After work it's still sunny                           | xiàbān yǐhòu hái shì qíngtiān                   | 下班以后还是晴天               |                                                             |
+| I am wearing a t-shirt                                | wǒ chuānzhuó yī jiàn ti xù                      | 我穿着一件体恤                 |                                                             |
+| I wear a top hat                                      | wǒ dài yī dǐng dà lǐmào                         | 我戴一顶大礼帽                 | dài - to wear (things not necessary - watch, neckless, hat) |
+| Champagne                                             | xiāngbīn                                        | 香槟                           |                                                             |
+| Start at 2                                            | kāishǐ yú liǎng diǎn                            | 开始於兩点                     | yù not necessary when spoken                                |
+| Every day the races start a 2 in the afternoon        | měitiān de bǐsài xiàwǔ liǎng diǎn bàn kāishǐ    | 每天的比赛下午两点半开始       |                                                             |
+| I bet a little money                                  | wǒ dǔle yīdiǎn qián                             | 我赌了一点钱                   |                                                             |
+| I bet on horses                                       | wǒ dǔ mǎ                                        | 我赌马                         |                                                             |
+| I bet on football                                     | wǒ dǔ qiú                                       | 我赌球                         |                                                             |
+| Dancing                                               | tiào wǔ                                         | 跳舞                           |                                                             |
+| Flowers and garden plants                             | huāhuā cǎocǎo                                   | 花花草草                       |                                                             |
+| I have a lot of flowers and plants                    | wǒ yǒu hěnduō huāhuā cǎocǎo                     | 我有很多花花草草               |                                                             |
+| I sunbathe                                            | wǒ shài tàiyáng                                 | 我晒太阳                       |                                                             |
+| I don't want to eat dinner                            | wǒ bùxiǎng chī wán fàn                          | 我不想吃完饭                   |                                                             |
+| I am full                                             | wǒ bǎole                                        | 我饱了                         |                                                             |
+| I am full to the point of bursting                    | wǒ hěn chēng                                    | 我很撑                         |                                                             |
+| Women's football tournament                           | nǚzǐ zúqiú bǐsài                                | 女子足球比赛                   |                                                             |
+| Man's football tournament                             | nánzǐ zúqiú bǐsài                               | 男子足球比赛                   |                                                             |
+| Women's toilet                                        | nǚ cèsuǒ                                        | 女厕所                         |                                                             |
+| Man's toilet                                          | nán cèsuǒ                                       | 男厕所                         |                                                             |
+| English team and Dutch team compete                   | yīngguó duì hé hélán duì bǐsài                  | 英国队和荷兰队比赛             |                                                             |
+| The English team is good at playing football          | yīngguó duì tī zúqiú hěn hǎo                    | 英国队踢足球很好               | Can shorten - yīngguó duì tī de hěn hǎo                     |
+| Kick well (play well)                                 | tī dé hǎo                                       | 踢得好                         | Verb "de" adjective                                         |
+| Run fast                                              | pǎo dé kuài                                     | 跑得快                         |                                                             |
+| Eat a lot                                             | chī dé duō                                      | 吃得多                         |                                                             |
+| Did you win?                                          | yíngle ma                                       | 赢了吗                         |                                                             |
+| I don't know the score                                | wǒ bù zhīdào fēnshù                             | 我不知道分数                   |                                                             |
+| Result / outcome                                      | jiéguǒ                                          | 结果                           |                                                             |
+| Didn't win                                            | méi yíng                                        | 没赢                           |                                                             |
+| Final                                                 | juésài                                          | 决赛                           |                                                             |
+| Semi-Final                                            | bàn juésài                                      | 半决赛                         |                                                             |
+| Recent / recently                                     | zuì jìn                                         | 最近                           | The most recent                                             |
+| The best                                              | zuì hǎo                                         | 最好                           | The most good                                               |
+| The restaurant is very close to my home               | zhège fàndiàn hé wǒjiā hěn jìn                  | 这个饭店和我家很近             |                                                             |
+| Recently, how are things?                             | zuìjìn zěnme yàng                               | 最近怎么样                     |                                                             |
+| How are you?                                          | nǐ chīle ma                                     | 你吃了吗                       | Lit. have you eaten?                                        |
+| You good? (If you've been ill)                        | nǐ hǎo ma                                       | 你好吗                         |                                                             |
+| Morning!                                              | zǎo                                             | 早                             | informal                                                    |
+| Hi                                                    | hǎo                                             | 好                             | informal                                                    |
+| Good evening                                          | wǎnshàng hǎo                                    | 晚上好                         |                                                             |
+| Good afternoon                                        | xiàwǔ hǎo                                       | 下午好                         |                                                             |
+| Good night                                            | wǎn'ān                                          | 晚安                           |                                                             |
+| Drums / Drum kit                                      | jiàzi gǔ                                        | 架子鼓                         | Support drum                                                |
+| (one) big drum                                        | dà gǔ                                           | 大鼓                           |                                                             |
+| I play drums                                          | wǒ dǎ jiàzi gǔ                                  | 我打架子鼓                     |                                                             |
+| I think the hands are easy but the foot are difficult | wǒ juédé shǒu hěn róngyì bùguò jiǎo hěn nán     | 我觉得手很容易不过脚很难       |                                                             |
+| You will get used to it                               | nǐ huì xíguàn                                   | 你会习惯                       |                                                             |
+| I already have five hours of lessons                  | Wǒ yǐjīng shàngkè wǔ gè xiǎoshí                 | 我已经上课五个小时             | yǐjīng - already, shàngkè - class                           |
+| I think I am getting better and better                | wǒ juédé wǒ yuè lái yuè hǎo                     | 我觉得我越来越好               |                                                             |
+| Better and better                                     | yuè lái yuè hǎo                                 | 越来越好                       |                                                             |
+| More and more                                         | yuè lái yuè duō                                 | 越来越多                       |                                                             |
+| Faster and faster                                     | yuè lái yuè kuài                                | 越来越快                       |                                                             |
+| Because I need to learn in English                    | yīnwèi wǒ yào yòng yīngyǔ xuéxí                 | 因为我要用英语学习             | yīngyǔ - English                                            |
+| He is very patient                                    | tā hěn yǒu nàixīn                               | 他很有耐心                     |                                                             |
+| She is caring                                         | tā yǒu àixīn                                    | 她有爱心                       | lit She loves everything                                    |
+| My teacher said English is not your first language    | wǒ de lǎoshī shuō yīngyǔ bùshì nǐ de dìyī yǔyán | 我的老师说英语不是你的第一语言 | dìyī - number one / first                                   |
+| He said he can understand                             | tā shuō kěyǐ lǐjiě                              | 他说可以理解                   |                                                             |
 ** Babysitting
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                                                            | Pinyin                                                          | Characters                             | Notes                                          |
