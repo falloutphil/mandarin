@@ -18939,12 +18939,12 @@ https://digchinese.com/measure-words
 |--------------------------------------------------------------------+-----------------------------------------------------------------+----------------------------------------+------------------------------------------------|
 | Last Friday it was very hot                                        | shàng xīngqíwǔ tái rèle                                         | 上星期五台热了                         |                                                |
 | After work I ate dinner with my wife in the garden                 | xiàbān yǐhòu wǒ zài huāyuán hé lǎopó chīle wǎnfàn               | 下班以后我在花园和老婆吃了晚饭         |                                                |
-| Then we drank wine                                                 | ránhòu hēle yīdiǎn pútáojiǔ                                     | 然后喝了一点葡萄酒                     |                                                |
-| It was still warm late at night                                    | bànyè hái bǐjiào nuǎnhuo                                        | 半夜还比较暖和                         |                                                |
+| Then we drank some wine                                            | ránhòu hēle diǎn pútáojiǔ                                       | 然后喝了点葡萄酒                       |                                                |
+| It was still warm late at night                                    | bànyè háishì bǐjiào nuǎnhuo                                     | 半夜还是比较暖和                       |                                                |
 | On Saturday we have lunch with friends in Ealing                   | xīngqíliù wǒmen zài Ealing hé péngyǒu chīle wǔfàn               | 星期六我们在Ealing和朋友吃了午饭       |                                                |
 | We take the bus                                                    | wǒ zuòle gōngchē                                                | 我坐了公车                             |                                                |
 | There is a lot of traffic so we are little late                    | yīnwèi yǒu hěnduō jiāotōng wǒmen chídàole                       | 因为有很多交通我们迟到了               |                                                |
-| They have a new baby girl                                          | tāmen yǒu yīgè xīn de nǚ yīng                                   | 他们有一个新的女婴                     |                                                |
+| Our friends have a new baby girl                                   | wǒmen de péngyǒu yǒu yīgè xīn de nǚ yīng                        | 我们的朋友有一个新的女婴               |                                                |
 | She napped throughout lunch                                        | tā zhěnggè wǔcān shuì wǔjiào                                    | 她整个午餐睡午觉                       |                                                |
 | We ate kebabs and salad                                            | wǒmen chīle kǎoròu chuàn hé shālā                               | 我们吃了烤肉串和沙拉                   | kǎoròu chuàn - kebab                           |
 | In the early evening my niece came to my house                     | bàngwǎn wǒ de zhínǚ láile wǒjiā                                 | 傍晚我的侄女来了我家                   |                                                |
@@ -18955,13 +18955,13 @@ https://digchinese.com/measure-words
 | My niece runs very quickly                                         | wǒ de zhínǚ pǎobù hěn kuài                                      | 我的侄女跑步很快                       |                                                |
 | My wife usually runs on Sunday morning                             | wǒ de lǎopó zhōu tiān tōngcháng pǎobù                           | 我的老婆周天通常跑步                   |                                                |
 | At the time they ran it rained                                     | pǎobù de shíhòu xià yǔ                                          | 跑步的时候下雨                         |                                                |
-| I cooked them breakfast when they returned                         | tāmen huílái de shíhòu wǒ wèi tāmen zuò zǎofàn                  | 他们回来的时候我为他们做早饭           |                                                |
+| After they return I make them breakfast                            | tāmen huílái yǐhòu wǒ wèi tāmen zuòle zǎofàn                    | 他们回来以后我为他们做了早饭           |                                                |
 | After breakfast it had stopped raining                             | zǎofàn yǐhòu tā tíngzhǐle xià yǔ                                | 早饭以后它停止了下雨                   | tíngzhǐ - stop                                 |
 | So we went to the park together                                    | suǒyǐ wǒmen yīqǐ qùle gōngyuán                                  | 所以我们一起去了公园                   |                                                |
 | My family leaves at 11am                                           | wǒ jiātíng shàngwǔ shíyī diǎn líkāi                             | 我家庭上午十一点离开                   |                                                |
 | I make the lounge clean                                            | wǒ bǎ kètīng nòng gānjìng                                       | 我把客厅弄干净                         |                                                |
 | Because my niece took a lot of toys out the cupboard               | yīnwèi wǒ de zhínǚ bǎ hěnduō wánjù ná chū guìzi                 | 因为我的侄女把很多玩具拿出柜子         | wánjù - toy(s), ná - take                      |
-| So I put the toys in the cupboard                                  | suǒyǐ wǒ bǎ wánjù lǐ fàng guìzi                                 | 所以我把玩具里放柜子                   |                                                |
+| So I put the toys in the cupboard                                  | suǒyǐ wǒ bǎ wánjù fàng guìzi lǐ                                 | 所以我把玩具放柜子里                   |                                                |
 | In the afternoon I studied Chinese                                 | xiàwǔ wǒ xuéle xí zhōngwén                                      | 下午我学了习中文                       |                                                |
 | In the evening I ate Lasagne                                       | wǒ wǎnshàng chīle qiān céngmiàn                                 | 我晚上吃了千层面                       | qiān céngmiàn - lasgna (thousand layer noodle) |
 | Then I watched a movie                                             | ránhòu wǒ kànle yī bù diànyǐng                                  | 然后我看了一部电影                     |                                                |
@@ -19077,7 +19077,6 @@ wǒ xīwàng wǒ jīntiān yīzhí zàijiā
 wǒ bàngwǎn qù jiànshēnfáng
 yóuyǒngchí shuǐ yīdiǎn lěng, bùguò hěn qīngshuǎng!
 wǒ wǎncān chī niúpái hé shǔtiáo
-
 
 * Internet Vocab
 ** Weibo
