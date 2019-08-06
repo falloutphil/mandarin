@@ -18967,24 +18967,29 @@ https://digchinese.com/measure-words
 | Then I watched a movie                                             | ránhòu wǒ kànle yī bù diànyǐng                                  | 然后我看了一部电影                     |                                                |
 ** Having a BBQ
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
-| English                                                | Pinyin                                                     | Characters                       | Notes |
-|--------------------------------------------------------+------------------------------------------------------------+----------------------------------+-------|
-| On Friday evening I got to the pub with colleagues     | lǐbài wǔ bàngwǎn hé tóngshì hējiǔ                          | 礼拜五傍晚和同事喝酒             |       |
-| Then I took the subway home                            | ránhòu wǒ zuòle dìtiě qù wǒjiā                             | 然后我坐了地铁去我家             |       |
-| I ordered Chinese takeaway                             | wǒ dìngle zhōngguó cài wàimài                              | 我订了中国菜外卖                 |       |
-| On Saturday I threw a party                            | lǐbài liù wǒ jǔbàn pàiduì                                  | 礼拜六我举办派对                 |       |
-| Many friends came to my house                          | hěnduō péngyǒu láile wǒjiā                                 | 很多朋友来了我家                 |       |
-| We cooked chicken, sausages and hamburgers on the BBQ  | wǒmen zài shāokǎo shàng zhǔ xiāngcháng, jīròu hé hànbǎobāo | 我们在烧烤上煮香肠, 鸡肉和汉堡包 |       |
-| And drank beer                                         | wǒmen hēle píjiǔ                                           | 我们喝了啤酒                     |       |
-| We chatted and listened to music                       | wǒmen liáole hé tīngle yīnyuè                              | 我们聊了和听了音乐               |       |
-| I went to bed at midnight                              | wǒ bànyè shí'èr diǎn shuìle jué                            | 我半夜十二点睡了觉               |       |
-| On Sunday I got up late                                | wǒ lǐbài tiān qǐchuáng hěn wǎn                             | 我礼拜天起床很晚                 |       |
-| I studied Chinese                                      | wǒ xuéle xí zhōngwén                                       | 我学了习中文                     |       |
-| I then watch a movie                                   | ránhòu wǒ kànle yī bù diànyǐng                             | 然后我看了一部电影               |       |
-| In the afternoon my parents wanted to come to my house | xiàwǔ wǒ de bàmā yào lái wǒjiā                             | 下午我的爸妈要来我家             |       |
-| but there was very bad traffic                         | bùguò yǒule hěnduō jiāotōng                                | 不过有了很多交通                 |       |
-| So we postponed until next weekend                     | suǒyǐ wǒmen tuīchí dào xià zhōu                            | 所以我们推迟到下周               |       |
-| In the evening I eat pasta                             | wǒ wǎnshàng chīle yì miàn                                  | 我晚上吃了意面                   |       |
+| English                                                | Pinyin                                                     | Characters                       | Notes                                |
+|--------------------------------------------------------+------------------------------------------------------------+----------------------------------+--------------------------------------|
+| On Friday evening I got to the pub with colleagues     | lǐbài wǔ bàngwǎn hé tóngshì hējiǔ                          | 礼拜五傍晚和同事喝酒             | tóngshì - colleague                  |
+| Then I took the subway home                            | ránhòu wǒ zuòle dìtiě qù wǒjiā                             | 然后我坐了地铁去我家             |                                      |
+| On the way home, I ordered Chinese takeaway            | zài huí jiā de lùshàng wǒ dìngle zhōngguó cài wàimài       | 在回家的路上我订了中国菜外卖     |                                      |
+| I ordered farmhouse pork                               | wǒ dìngle nóngjiā xiǎochǎo ròu                             | 我订了农家小炒肉                 |                                      |
+| I should try a different dish next week                | xià zhōu wǒ yīnggāi shì shì yīgè bùtóng de cài             | 下周我应该试试一个不同的菜       | bùtóng - different                   |
+| On Saturday I threw a party                            | lǐbài liù wǒ jǔbàn pàiduì                                  | 礼拜六我举办派对                 |                                      |
+| Many friends came to my house                          | hěnduō péngyǒu láile wǒjiā                                 | 很多朋友来了我家                 |                                      |
+| We cooked chicken, sausages and hamburgers on the BBQ  | wǒmen zài shāokǎo shàng zhǔ xiāngcháng, jīròu hé hànbǎobāo | 我们在烧烤上煮香肠, 鸡肉和汉堡包 |                                      |
+| And drank beer                                         | wǒmen hēle píjiǔ                                           | 我们喝了啤酒                     |                                      |
+| We chatted together and listened to music              | wǒmen yīqǐ liáole hé tīngle yīnyuè                         | 我们一起聊了和听了音乐           |                                      |
+| I went to bed at midnight                              | wǒ bànyè shí'èr diǎn shuìle jué                            | 我半夜十二点睡了觉               |                                      |
+| On Sunday I got up late                                | wǒ lǐbài tiān qǐchuáng hěn wǎn                             | 我礼拜天起床很晚                 |                                      |
+| I studied Chinese                                      | wǒ xuéle xí zhōngwén                                       | 我学了习中文                     |                                      |
+| I then watch a movie                                   | ránhòu wǒ kànle yī bù diànyǐng                             | 然后我看了一部电影               |                                      |
+| In the afternoon my parents wanted to come to my house | xiàwǔ wǒ de bàmā yào lái wǒjiā                             | 下午我的爸妈要来我家             |                                      |
+| but there was very bad traffic                         | bùguò yǒule hěnduō jiāotōng                                | 不过有了很多交通                 |                                      |
+| So we postponed until next weekend                     | suǒyǐ wǒmen tuīchí dào xià zhōu                            | 所以我们推迟到下周               |                                      |
+| In the evening I eat pasta                             | wǒ wǎnshàng chīle yì miàn                                  | 我晚上吃了意面                   |                                      |
+| I also ate the leftover BBQ food                       | wǒ yě chīle shèng shāokǎo cài                              | 我也吃了剩烧烤菜                 | shèng - leftover / remnant / surplus |
+| Then I am very tired, so I went to bed early           | ránhòu wǒ fēicháng lèi, suǒyǐ wǒ zǎodiǎn shuìjiàole        | 然后我非常累, 所以我早点睡觉了   |                                      |
+
 * Daily Routines
 
 我早晨七点起床.
