@@ -18965,6 +18965,54 @@ https://digchinese.com/measure-words
 | In the afternoon I studied Chinese                                 | xiàwǔ wǒ xuéle xí zhōngwén                                      | 下午我学了习中文                       |                                                |
 | In the evening I ate Lasagne                                       | wǒ wǎnshàng chīle qiān céngmiàn                                 | 我晚上吃了千层面                       | qiān céngmiàn - lasgna (thousand layer noodle) |
 | Then I watched a movie                                             | ránhòu wǒ kànle yī bù diànyǐng                                  | 然后我看了一部电影                     |                                                |
+** Vocab
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
+| English                                          | Pinyin                                             | Characters                 | Notes                                                                     |
+|--------------------------------------------------+----------------------------------------------------+----------------------------+---------------------------------------------------------------------------|
+| Seafood                                          | hǎixiān                                            | 海鲜                       |                                                                           |
+| Shell(fish)                                      | bèiké                                              | 贝壳                       |                                                                           |
+| Sweating                                         | chū hàn                                            | 出汗                       | out sweating                                                              |
+| Holy Person / Saint                              | shèngrén                                           | 圣人                       |                                                                           |
+| Church                                           | jiàotáng                                           | 教堂                       | religion place                                                            |
+| A Holy Place                                     | yīgè shèngdì                                       | 一个圣地                   |                                                                           |
+| St. David                                        | shèng David                                        | 圣David                    |                                                                           |
+| I like drinking a lot                            | wǒ hào hējiǔ                                       | 我好喝酒                   |                                                                           |
+| Hobbie                                           | aihào                                              | 爱好                       |                                                                           |
+| Eating lots of shellfish                         | chīle hěnduō bèiké                                 | 吃了很多贝壳               |                                                                           |
+| My wife wants to encourage her to run            | wǒ de lǎopó xiǎng gǔlì tā pǎobù                    | 我的老婆想鼓励她跑步       | encourage - gǔlì                                                          |
+| 1 KM                                             | 1 gōnglǐ                                           | 1公里                      |                                                                           |
+| 1 KM (local)                                     | 2 lǐ                                               | 2里                        |                                                                           |
+| Squid / Octopus                                  | yóuyú                                              | 鱿鱼                       |                                                                           |
+| Colder                                           | gèng lěng                                          | 更冷                       |                                                                           |
+| See you on Saturday                              | zhōu liù jiàn                                      | 周六见                     |                                                                           |
+| She has many running friends                     | tā yǒu hěnduō pǎobù de péngyǒu                     | 她有很多跑步的朋友         |                                                                           |
+| I think English people like BBQ sausage the most | wǒ juédé yīngguó rén zuì xǐhuān shāokǎo xiāngcháng | 我觉得英国人最喜欢烧烤香肠 |                                                                           |
+| Barcelona is more popular                        | Barcelona gēng shòu huānyíng                       | Barcelona更受欢迎          | huānyíng - popular, lit. welcoming                                        |
+| I am/feel welcomed by other people               | wǒ shòu huānyíng                                   | 我受欢迎                   | Also - I am popular?                                                      |
+| You're welcome (not a response to thank-you!)    | nǐ shòu huānyíng                                   | 你受欢迎                   | Also - you're popular / you're made to feel welcome                       |
+| He's very popular                                | tā hěn shòu huānyíng                               | 他很受欢迎                 |                                                                           |
+| Many                                             | duō                                                | 多                         |                                                                           |
+| Few                                              | shǎo                                               | 少                         |                                                                           |
+| More                                             | gèng duō                                           | 更多                       |                                                                           |
+| Less                                             | gèng shǎo                                          | 更少                       |                                                                           |
+| I woke up                                        | wǒ xǐngle                                          | 我醒了                     |                                                                           |
+| She relaxes on the beach and reads lots of books | zài shātān xiūxí tā kàn hěnduō shū                 | 在沙滩休息她看很多书       | xiūxí - resting, but sounds better than fàngsōng here                     |
+| Three or Four O'Clock                            | sān diǎn huòzhě sì diǎn                            | 三点或者四点               |                                                                           |
+| Or - when the choice is bounded and defined      | háishì                                             | 还是                       | eg. Is your child a boy or a girl?                                        |
+| Or - when there are unlimited possibilities      | huòzhě                                             | 或者                       | eg. 3 or 4 o'clock                                                        |
+| I have to go back to the hotel with my wife      | wǒ bìxū huíqù jiǔdiàn hé lǎopó                     | 我必须回去酒店和老婆       | hé lǎopó can go at the end - it still makes sense                         |
+| Sleep again                                      | yòu shuìjiào                                       | 又睡觉                     |                                                                           |
+| I met my friends in London at the University     | wǒ zài lúndūn rènshì wǒ de péngyǒu zài dàxué       | 我在伦敦认识我的朋友在大学 | rènshì - met for the first time - or "I know them from"                   |
+| To know/learn or to meet for the first time      | rènshì                                             | 认识                       | nǐ rènshì ma - when learning a character (have you seen/learnt it before) |
+| I still meet my friends at the bar               | wǒ háishì zài jiǔbā jiàn wǒ de péngyǒu             | 我还是在酒吧见我的朋友     |                                                                           |
+| Drink/Meat                                       | jiǔròu                                             | 酒肉                       | Going out eating and drinking                                             |
+| Drinking buddies                                 | jiǔròu péngyǒu                                     | 酒肉朋友                   | Drink Meat Friends                                                        |
+| Relative(s)                                      | qīnqī                                              | 亲戚                       |                                                                           |
+| Tea tase (Matcha)                                | Mǒchá                                              | 抹茶                       |                                                                           |
+| Matcha Melaleuca (1000 layer cake)               | Mǒchá qiān céng                                    | 抹茶千层                   |                                                                           |
+| Matcha Ice Cream                                 | Mǒchá bīngjīlíng                                   | 抹茶冰激凌                 |                                                                           |
+| I agree                                          | wǒ tóngyì                                          | 我同意                     |                                                                           |
+| I disagree                                       | wǒ bù tóngyì                                       | 我不同意                   |                                                                           |
 ** Having a BBQ
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXX
 | English                                                | Pinyin                                                     | Characters                       | Notes                                |
