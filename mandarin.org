@@ -19076,7 +19076,7 @@ wǎnshàng wǒ kànshū
 
 我八点半起床
 我洗澡然后穿衣服
-我穿一件绿色的衬衫和一条牛仔裤。
+我穿一件绿色的衬衫和一条牛仔裤
 我早饭吃炒鸡蛋和喝一壶红茶
 我去办公室晚
 因为我的地铁推迟
@@ -19102,6 +19102,55 @@ wǒ xīwàng wǒ jīntiān yīzhí zàijiā
 wǒ bàngwǎn qù jiànshēnfáng
 yóuyǒngchí shuǐ yīdiǎn lěng, bùguò hěn qīngshuǎng!
 wǒ wǎncān chī niúpái hé shǔtiáo
+
+
+今天我八点起床
+我吃了很多早饭
+我上午读了一本数学书
+这本书有助于我的工作
+我和老婆去本地的三明治店吃午饭
+他们做很好吃意大利的烤三明治
+下午我学习中文
+然后我去健身房
+我打壁球和游泳
+晚上我读了更多书
+晚餐我吃墨西哥食物
+晚上十一点睡觉
+
+jīntiān wǒ bā diǎn qǐchuáng
+wǒ chīle hěnduō zaofàn
+wǒ shàngwǔ dúle yī-běn shùxué shū
+zhè-běn shū yǒu zhù yú wǒ de gōngzuò
+wǒ hé lǎopó qù běndì de sānmíngzhì diàn chī wǔfàn
+tāmen zuò hěn hào chī yìdàlì de kǎo sānmíngzhì
+xiàwǔ wǒ xuéxí zhōngwén
+ránhòu wǒ qù jiànshēnfáng
+wǒ dǎ bìqiú hé yóuyǒng
+wǎnshàng wǒ dúle gèng duō shū
+wǎncān wǒ chī mòxīgē shíwù
+wǎnshàng shíyī diǎn shuìjiào
+
+今天早上我直奔商场
+我会见朋友吃早饭, 不过我迟到了
+早饭以后我买衣服
+很多衣服今天打折
+我买两条牛仔裤, 两件T恤, 和一件毛衣
+也许我花了太多钱, 不过所有的衣服非常便宜
+购物后我们想打迷你高尔夫, 不过它太忙了
+所以我们去游乐场旁边商场
+我晚上没出去
+我和老婆在电视上看喜剧表演
+
+jīntiān zǎoshang wǒ zhí bēn shāngchǎng
+wǒ huìjiàn péngyǒu chī zǎofàn, bùguò wǒ chídàole
+zǎofàn yǐhòu wǒ mǎi yīfú
+hěnduō yīfú jīntiān dǎzhé
+wǒ mǎi liǎng tiáo niúzǎikù, liǎng jiàn T xù, hé yī jiàn máoyī
+yěxǔ wǒ huāle tài duō qián, bùguò suǒyǒu de yīfú fēicháng piányí
+gòuwù hòu wǒmen xiǎng dǎ mínǐ gāo'ěrfū, bùguò tā tài mángle
+suǒyǐ wǒmen qù yóulè chǎng pángbiān shāngchǎng
+wǒ wǎnshàng méi chūqù
+wǒ hé lǎopó zài diànshì shàng kàn xǐjù biǎoyǎn
 
 * Internet Vocab
 ** Weibo
